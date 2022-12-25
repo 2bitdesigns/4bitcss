@@ -22,7 +22,7 @@
   --name: OceanicMaterial
 }
 
-.colorSchemeName::before { content: 'OceanicMaterial'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'OceanicMaterial'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
