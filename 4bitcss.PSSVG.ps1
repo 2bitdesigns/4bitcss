@@ -38,9 +38,9 @@ $assetFile =
 =<svg> -ViewBox 640, 640 @(
     foreach ($n in 16..1) {
         =<svg.rect> -X (
-            320 - ((16 - $n +1 ) * 20)
+            ((16 - ($n +1) ) * 20)
         ) -Y (
-            320 - ((16 - $n +1 ) * 20)            
+            ((16 - ($n +1) ) * 20)            
         ) -Class "ansi$($n - 1)-fill" -Width ($n * 20) -Height ($n * 20)
     }    
 ) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg)
