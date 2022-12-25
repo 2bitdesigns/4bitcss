@@ -21,6 +21,9 @@
   --black: #373a41;
   --name: BlulocoLight
 }
+
+.colorSchemeName::before { content: 'BlulocoLight'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
