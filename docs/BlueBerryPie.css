@@ -22,7 +22,7 @@
   --name: BlueBerryPie
 }
 
-.colorSchemeName::before { content: 'BlueBerryPie'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'BlueBerryPie'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
