@@ -22,7 +22,7 @@
   --name: Mirage
 }
 
-.colorSchemeName::before { content: 'Mirage'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Mirage'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
