@@ -22,7 +22,7 @@
   --name: midnight-in-mojave
 }
 
-.colorSchemeName::before { content: 'midnight-in-mojave'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'midnight-in-mojave'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
