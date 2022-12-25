@@ -21,6 +21,9 @@
   --black: #03073c;
   --name: FishTank
 }
+
+.colorSchemeName::before { content: 'FishTank'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
