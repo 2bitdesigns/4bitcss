@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Ocean
 }
+
+.colorSchemeName::before { content: 'Ocean'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
