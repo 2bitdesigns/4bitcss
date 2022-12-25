@@ -22,7 +22,7 @@
   --name: Kolorit
 }
 
-.colorSchemeName::before { content: 'Kolorit'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Kolorit'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
