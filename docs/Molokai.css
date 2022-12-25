@@ -22,7 +22,7 @@
   --name: Molokai
 }
 
-.colorSchemeName::before { content: 'Molokai'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Molokai'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
