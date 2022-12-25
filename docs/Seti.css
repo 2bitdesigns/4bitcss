@@ -22,7 +22,7 @@
   --name: Seti
 }
 
-.colorSchemeName::before { content: 'Seti'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Seti'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
