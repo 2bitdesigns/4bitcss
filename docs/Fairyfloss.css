@@ -22,7 +22,7 @@
   --name: Fairyfloss
 }
 
-.colorSchemeName::before { content: 'Fairyfloss'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Fairyfloss'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
