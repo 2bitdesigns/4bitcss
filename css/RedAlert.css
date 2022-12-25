@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Red Alert
 }
+
+.colorSchemeName::before { content: 'Red Alert'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
