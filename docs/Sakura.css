@@ -22,7 +22,7 @@
   --name: Sakura
 }
 
-.colorSchemeName::before { content: 'Sakura'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Sakura'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
