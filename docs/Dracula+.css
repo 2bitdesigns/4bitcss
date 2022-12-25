@@ -22,7 +22,7 @@
   --name: Dracula+
 }
 
-.colorSchemeName::before { content: 'Dracula+'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Dracula+'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
