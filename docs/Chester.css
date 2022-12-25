@@ -21,6 +21,9 @@
   --black: #080200;
   --name: Chester
 }
+
+.colorSchemeName::before { content: 'Chester'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
