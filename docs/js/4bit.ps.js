@@ -3,7 +3,6 @@ function themeList() {
 "'$(
   @($pwd |
     Split-Path |
-    Join-Path -ChildPath css |
     Get-ChildItem -Filter *.css |    
     % { $_.Name -replace '\.css$' }
   ) -join "','"
