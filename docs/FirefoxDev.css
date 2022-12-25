@@ -21,6 +21,9 @@
   --black: #002831;
   --name: FirefoxDev
 }
+
+.colorSchemeName::before { content: 'FirefoxDev'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
