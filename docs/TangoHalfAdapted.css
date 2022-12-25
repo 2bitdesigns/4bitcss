@@ -22,7 +22,7 @@
   --name: Tango Half Adapted
 }
 
-.colorSchemeName::before { content: 'Tango Half Adapted'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Tango Half Adapted'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
