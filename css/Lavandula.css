@@ -21,6 +21,9 @@
   --black: #230046;
   --name: Lavandula
 }
+
+.colorSchemeName::before { content: 'Lavandula'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
