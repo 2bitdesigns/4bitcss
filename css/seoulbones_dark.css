@@ -21,6 +21,9 @@
   --black: #4b4b4b;
   --name: seoulbones_dark
 }
+
+.colorSchemeName::before { content: 'seoulbones_dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
