@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'darkmatrix'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'darkmatrix.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
