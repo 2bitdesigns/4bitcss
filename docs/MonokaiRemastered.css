@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Remastered'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'MonokaiRemastered.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
