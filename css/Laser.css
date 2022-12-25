@@ -21,6 +21,9 @@
   --black: #626262;
   --name: Laser
 }
+
+.colorSchemeName::before { content: 'Laser'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
