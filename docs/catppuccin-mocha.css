@@ -21,6 +21,9 @@
   --black: #45475a;
   --name: catppuccin-mocha
 }
+
+.colorSchemeName::before { content: 'catppuccin-mocha'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
