@@ -21,6 +21,9 @@
   --black: #bccccd;
   --name: LiquidCarbonTransparentInverse
 }
+
+.colorSchemeName::before { content: 'LiquidCarbonTransparentInverse'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
