@@ -21,6 +21,9 @@
   --black: #002831;
   --name: Solarized Dark Higher Contrast
 }
+
+.colorSchemeName::before { content: 'Solarized Dark Higher Contrast'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
