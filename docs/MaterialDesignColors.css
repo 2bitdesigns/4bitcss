@@ -21,6 +21,9 @@
   --black: #435b67;
   --name: MaterialDesignColors
 }
+
+.colorSchemeName::before { content: 'MaterialDesignColors'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
