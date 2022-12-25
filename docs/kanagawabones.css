@@ -22,7 +22,7 @@
   --name: kanagawabones
 }
 
-.colorSchemeName::before { content: 'kanagawabones'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'kanagawabones'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
