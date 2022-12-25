@@ -22,7 +22,7 @@
   --name: Wombat
 }
 
-.colorSchemeName::before { content: 'Wombat'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Wombat'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
