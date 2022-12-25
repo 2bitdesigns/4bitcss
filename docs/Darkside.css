@@ -22,7 +22,7 @@
   --name: Darkside
 }
 
-.colorSchemeName::before { content: 'Darkside'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Darkside'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
