@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Highway
 }
+
+.colorSchemeName::before { content: 'Highway'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
