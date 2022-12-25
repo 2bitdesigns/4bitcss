@@ -21,6 +21,9 @@
   --black: #073642;
   --name: Builtin Solarized Light
 }
+
+.colorSchemeName::before { content: 'Builtin Solarized Light'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
