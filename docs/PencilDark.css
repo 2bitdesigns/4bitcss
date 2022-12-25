@@ -22,7 +22,7 @@
   --name: PencilDark
 }
 
-.colorSchemeName::before { content: 'PencilDark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'PencilDark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
