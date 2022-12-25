@@ -21,6 +21,9 @@
   --black: #7f7f7f;
   --name: Subliminal
 }
+
+.colorSchemeName::before { content: 'Subliminal'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
