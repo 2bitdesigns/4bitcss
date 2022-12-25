@@ -21,6 +21,9 @@
   --black: #000000;
   --name: CLRS
 }
+
+.colorSchemeName::before { content: 'CLRS'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
