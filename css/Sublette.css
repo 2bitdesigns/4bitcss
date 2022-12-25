@@ -21,6 +21,9 @@
   --black: #253045;
   --name: Sublette
 }
+
+.colorSchemeName::before { content: 'Sublette'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
