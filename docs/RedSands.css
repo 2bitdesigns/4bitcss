@@ -22,7 +22,7 @@
   --name: Red Sands
 }
 
-.colorSchemeName::before { content: 'Red Sands'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Red Sands'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
