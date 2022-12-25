@@ -22,7 +22,7 @@
   --name: tokyonight
 }
 
-.colorSchemeName::before { content: 'tokyonight'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'tokyonight'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
