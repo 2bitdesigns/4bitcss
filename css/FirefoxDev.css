@@ -22,7 +22,7 @@
   --name: FirefoxDev
 }
 
-.colorSchemeName::before { content: 'FirefoxDev'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'FirefoxDev'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
