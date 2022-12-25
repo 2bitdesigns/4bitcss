@@ -22,7 +22,7 @@
   --name: Grey-green
 }
 
-.colorSchemeName::before { content: 'Grey-green'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Grey-green'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
