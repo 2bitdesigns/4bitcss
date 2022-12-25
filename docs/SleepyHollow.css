@@ -21,6 +21,9 @@
   --black: #572100;
   --name: SleepyHollow
 }
+
+.colorSchemeName::before { content: 'SleepyHollow'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
