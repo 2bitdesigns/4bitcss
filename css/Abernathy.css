@@ -22,7 +22,7 @@
   --name: Abernathy
 }
 
-.colorSchemeName::before { content: 'Abernathy'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Abernathy'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
