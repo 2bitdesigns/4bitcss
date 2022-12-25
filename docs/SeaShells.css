@@ -22,7 +22,7 @@
   --name: SeaShells
 }
 
-.colorSchemeName::before { content: 'SeaShells'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'SeaShells'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
