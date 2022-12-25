@@ -22,7 +22,7 @@
   --name: MonaLisa
 }
 
-.colorSchemeName::before { content: 'MonaLisa'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'MonaLisa'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
