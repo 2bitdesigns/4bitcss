@@ -22,7 +22,7 @@
   --name: purplepeter
 }
 
-.colorSchemeName::before { content: 'purplepeter'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'purplepeter'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
