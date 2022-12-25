@@ -21,6 +21,9 @@
   --black: #080808;
   --name: Cyberdyne
 }
+
+.colorSchemeName::before { content: 'Cyberdyne'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
