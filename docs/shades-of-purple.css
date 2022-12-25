@@ -22,7 +22,7 @@
   --name: shades-of-purple
 }
 
-.colorSchemeName::before { content: 'shades-of-purple'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'shades-of-purple'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
