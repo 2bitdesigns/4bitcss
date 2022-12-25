@@ -22,7 +22,7 @@
   --name: Tinacious Design (Light)
 }
 
-.colorSchemeName::before { content: 'Tinacious Design (Light)'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Tinacious Design (Light)'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
