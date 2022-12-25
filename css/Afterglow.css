@@ -22,7 +22,7 @@
   --name: Afterglow
 }
 
-.colorSchemeName::before { content: 'Afterglow'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Afterglow'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
