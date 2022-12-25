@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Afterglow'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Afterglow.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
