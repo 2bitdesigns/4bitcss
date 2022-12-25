@@ -21,6 +21,9 @@
   --black: #282a36;
   --name: lovelace
 }
+
+.colorSchemeName::before { content: 'lovelace'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
