@@ -22,7 +22,7 @@
   --name: rebecca
 }
 
-.colorSchemeName::before { content: 'rebecca'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'rebecca'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
