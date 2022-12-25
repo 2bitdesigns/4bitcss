@@ -22,7 +22,7 @@
   --name: SpaceGray Eighties
 }
 
-.colorSchemeName::before { content: 'SpaceGray Eighties'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'SpaceGray Eighties'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
