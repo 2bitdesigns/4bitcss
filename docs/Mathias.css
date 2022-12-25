@@ -22,7 +22,7 @@
   --name: Mathias
 }
 
-.colorSchemeName::before { content: 'Mathias'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Mathias'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
