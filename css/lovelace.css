@@ -22,7 +22,7 @@
   --name: lovelace
 }
 
-.colorSchemeName::before { content: 'lovelace'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'lovelace'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
