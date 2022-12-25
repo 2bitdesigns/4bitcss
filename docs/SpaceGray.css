@@ -22,7 +22,7 @@
   --name: SpaceGray
 }
 
-.colorSchemeName::before { content: 'SpaceGray'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'SpaceGray'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
