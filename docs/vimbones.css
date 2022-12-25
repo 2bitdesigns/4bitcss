@@ -22,7 +22,7 @@
   --name: vimbones
 }
 
-.colorSchemeName::before { content: 'vimbones'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'vimbones'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
