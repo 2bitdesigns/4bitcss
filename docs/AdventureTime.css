@@ -21,6 +21,9 @@
   --black: #050404;
   --name: AdventureTime
 }
+
+.colorSchemeName::before { content: 'AdventureTime'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
