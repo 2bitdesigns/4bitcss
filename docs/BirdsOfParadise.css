@@ -21,6 +21,9 @@
   --black: #573d26;
   --name: BirdsOfParadise
 }
+
+.colorSchemeName::before { content: 'BirdsOfParadise'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
