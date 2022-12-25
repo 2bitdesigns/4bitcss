@@ -2,12 +2,19 @@
 
 |ANSI Code  |CSS Classes             | Sample | 
 |-|-|-|
-|ANSI 0     | .Black \| .black \| .ANSI0     | <span class='background ANSI0'>*</span> | 
-|ANSI 1     | .Red   <br/> .red   <br/> .ANSI1     | <span class='background ANSI1'>*</span> | 
-|ANSI 2     | .Green <br/> .green <br/> .ANSI2     | <span class='background ANSI2'>*</span> | 
-|ANSI 3     | .Yellow <br/> .yellow <br/> .ANSI3     | <span class='background ANSI3'>*</span> | 
-|ANSI 4     | .Blue <br/> .blue <br/> .ANSI4     | <span class='background ANSI4'>*</span> | 
-|ANSI 5     | .Purple <br/> .purple <br/> .Magneta <br/> .Magenta <br/> .ANSI5     | <span class='background ANSI5'>*</span> |
-|ANSI 6     | .Cyan <br/> .cyan <br/> .ANSI6     | <span class='background ANSI6'>*</span> |
-|ANSI 7     | .White <br/> .white <br/> .ANSI7     | <span class='background ANSI7'>*</span> |
-|ANSI 8     | .brightBlack<br/> .bright-black <br/> .ANSI8     | <span class='background ANSI8'>*</span> |
+|0     | Black (background) | <span class='background ANSI0'>*</span> | 
+|1     | Red    | <span class='ANSI1'>*</span> | 
+|2     | Green  | <span class='ANSI2'>*</span> | 
+|3     | Yellow | <span class='ANSI3'>*</span> | 
+|4     | Blue   | <span class='ANSI4'>*</span> | 
+|5     | Purple / Magneta | <span class='ANSI5'>*</span> |
+|6     | Cyan   | <span class='ANSI6'>*</span> |
+|7     | White | <span class='ANSI7'>*</span> |
+|8     | BrightBlack     | <span class='ANSI8'>*</span> |
+|9     | BrightRed     | <span class='ANSI9'>*</span> |
+|10    | BrightGreen     | <span class='ANSI10'>*</span> |
+|11    | BrightYellow     | <span class='ANSI11'>*</span> |
+|12    | BrightBlue     | <span class='ANSI12'>*</span> |
+|13    | BrightPurple / BrightMagenta     | <span class='ANSI13'>*</span> |
+|14    | BrightCyan     | <span class='ANSI14'>*</span> |
+|15    | BrightWhite     | <span class='ANSI15'>*</span> |
