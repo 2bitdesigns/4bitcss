@@ -21,6 +21,9 @@
   --black: #0e101a;
   --name: duckbones
 }
+
+.colorSchemeName::before { content: 'duckbones'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
