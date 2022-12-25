@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine-moon'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'rose-pine-moon.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
