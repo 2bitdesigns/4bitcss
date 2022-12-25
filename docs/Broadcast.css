@@ -22,7 +22,7 @@
   --name: Broadcast
 }
 
-.colorSchemeName::before { content: 'Broadcast'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Broadcast'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
