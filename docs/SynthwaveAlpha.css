@@ -22,7 +22,7 @@
   --name: SynthwaveAlpha
 }
 
-.colorSchemeName::before { content: 'SynthwaveAlpha'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'SynthwaveAlpha'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
