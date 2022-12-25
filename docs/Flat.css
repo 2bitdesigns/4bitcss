@@ -22,7 +22,7 @@
   --name: Flat
 }
 
-.colorSchemeName::before { content: 'Flat'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Flat'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
