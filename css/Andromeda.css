@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Andromeda
 }
+
+.colorSchemeName::before { content: 'Andromeda'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
