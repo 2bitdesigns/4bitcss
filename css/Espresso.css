@@ -22,7 +22,7 @@
   --name: Espresso
 }
 
-.colorSchemeName::before { content: 'Espresso'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Espresso'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
