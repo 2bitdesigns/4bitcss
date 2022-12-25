@@ -21,6 +21,9 @@
   --black: #adadad;
   --name: idea
 }
+
+.colorSchemeName::before { content: 'idea'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
