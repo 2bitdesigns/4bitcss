@@ -21,6 +21,9 @@
   --black: #232323;
   --name: Argonaut
 }
+
+.colorSchemeName::before { content: 'Argonaut'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
