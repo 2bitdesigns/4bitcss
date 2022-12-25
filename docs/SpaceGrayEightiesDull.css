@@ -21,6 +21,9 @@
   --black: #15171c;
   --name: SpaceGray Eighties Dull
 }
+
+.colorSchemeName::before { content: 'SpaceGray Eighties Dull'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
