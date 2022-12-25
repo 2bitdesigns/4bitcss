@@ -21,6 +21,9 @@
   --black: #23252b;
   --name: Neutron
 }
+
+.colorSchemeName::before { content: 'Neutron'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
