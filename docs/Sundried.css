@@ -22,7 +22,7 @@
   --name: Sundried
 }
 
-.colorSchemeName::before { content: 'Sundried'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Sundried'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
