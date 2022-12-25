@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Snazzy
 }
+
+.colorSchemeName::before { content: 'Snazzy'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
