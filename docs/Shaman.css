@@ -22,7 +22,7 @@
   --name: Shaman
 }
 
-.colorSchemeName::before { content: 'Shaman'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Shaman'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
