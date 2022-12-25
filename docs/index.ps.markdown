@@ -2,6 +2,15 @@
     <span class='ColorSchemeName' />
 </h2>
 
+<div class='centeredText'>
+~~~PipeScript{
+Get-Content .\4bitpreview.svg |
+    Select-Object -Skip 1
+}
+~~~
+</div>
+
+
 ~~~PipeScript{
 $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
     'BrightBlack', 'BrightRed', 'BrightGreen', 'BrightYellow', 'BrightBlue', 'BrightPurple', 'BrightCyan', 'BrightWhite'
@@ -17,11 +26,3 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 
 }
 ~~~
-
-<div class='centeredText'>
-~~~PipeScript{
-Get-Content .\4bitpreview.svg |
-    Select-Object -Skip 1
-}
-~~~
-</div>

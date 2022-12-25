@@ -94,7 +94,7 @@ Get-Content -Path $path -Raw
 ) + "</a>"
       }-->
     </div>
-    <div class="centered halfOrWholeWidth flexible centered centeredFlex">      
+    <div class="centered halfOrWholeWidth flexible centered centeredFlex" style="margin-top:-5%">      
       <!--{
 "<svg viewbox='0 0 200 200' width='33%' height='33%' class='centered'><a href='/'>" + $(
 $path = Split-Path $pwd |
@@ -107,7 +107,7 @@ Get-Content -Path $path -Raw
     {% if page.title %}
     <h1 class="centered halfOrWholeWidth flexible centered centeredFlex">{{ page.title }}</h1>
     {% endif %}
-    <div class="flexible centered centeredFlex halfOrWholeWidth">
+    <div class="flexible centered centeredFlex halfOrWholeWidth" style="margin-top:-5%">
       <div class="flexRow">
         {{ content }}
       </div>
