@@ -22,7 +22,7 @@
   --name: GruvboxDarkHard
 }
 
-.colorSchemeName::before { content: 'GruvboxDarkHard'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'GruvboxDarkHard'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
