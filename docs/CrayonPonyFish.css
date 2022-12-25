@@ -21,6 +21,9 @@
   --black: #2b1b1d;
   --name: CrayonPonyFish
 }
+
+.colorSchemeName::before { content: 'CrayonPonyFish'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
