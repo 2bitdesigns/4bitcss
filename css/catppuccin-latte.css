@@ -21,6 +21,9 @@
   --black: #5c5f77;
   --name: catppuccin-latte
 }
+
+.colorSchemeName::before { content: 'catppuccin-latte'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
