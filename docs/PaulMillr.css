@@ -22,7 +22,7 @@
   --name: PaulMillr
 }
 
-.colorSchemeName::before { content: 'PaulMillr'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'PaulMillr'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
