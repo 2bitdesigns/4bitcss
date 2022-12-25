@@ -22,7 +22,7 @@
   --name: N0tch2k
 }
 
-.colorSchemeName::before { content: 'N0tch2k'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'N0tch2k'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
