@@ -22,7 +22,7 @@
   --name: Peppermint
 }
 
-.colorSchemeName::before { content: 'Peppermint'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Peppermint'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
