@@ -21,6 +21,9 @@
   --black: #546e7a;
   --name: MaterialOcean
 }
+
+.colorSchemeName::before { content: 'MaterialOcean'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
