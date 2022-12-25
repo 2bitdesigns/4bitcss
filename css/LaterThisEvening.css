@@ -22,7 +22,7 @@
   --name: Later This Evening
 }
 
-.colorSchemeName::before { content: 'Later This Evening'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Later This Evening'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
