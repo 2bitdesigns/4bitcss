@@ -21,6 +21,9 @@
   --black: #7d8b8f;
   --name: Chalk
 }
+
+.colorSchemeName::before { content: 'Chalk'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
