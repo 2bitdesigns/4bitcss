@@ -21,6 +21,9 @@
   --black: #575757;
   --name: Hurtado
 }
+
+.colorSchemeName::before { content: 'Hurtado'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
