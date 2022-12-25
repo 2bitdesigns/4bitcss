@@ -22,7 +22,7 @@
   --name: Smyck
 }
 
-.colorSchemeName::before { content: 'Smyck'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Smyck'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
