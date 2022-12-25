@@ -21,6 +21,9 @@
   --black: #1d1d1d;
   --name: Fahrenheit
 }
+
+.colorSchemeName::before { content: 'Fahrenheit'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
