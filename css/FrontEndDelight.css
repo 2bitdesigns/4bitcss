@@ -21,6 +21,9 @@
   --black: #242526;
   --name: FrontEndDelight
 }
+
+.colorSchemeName::before { content: 'FrontEndDelight'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
