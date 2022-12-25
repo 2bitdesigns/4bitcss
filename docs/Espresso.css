@@ -21,6 +21,9 @@
   --black: #353535;
   --name: Espresso
 }
+
+.colorSchemeName::before { content: 'Espresso'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
