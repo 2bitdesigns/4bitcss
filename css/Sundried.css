@@ -21,6 +21,9 @@
   --black: #302b2a;
   --name: Sundried
 }
+
+.colorSchemeName::before { content: 'Sundried'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
