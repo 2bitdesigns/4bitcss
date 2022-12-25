@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ToyChest'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'ToyChest.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
