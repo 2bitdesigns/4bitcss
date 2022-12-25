@@ -21,6 +21,9 @@
   --black: #3b3750;
   --name: jubi
 }
+
+.colorSchemeName::before { content: 'jubi'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
