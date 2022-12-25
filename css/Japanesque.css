@@ -21,6 +21,9 @@
   --black: #343935;
   --name: Japanesque
 }
+
+.colorSchemeName::before { content: 'Japanesque'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
