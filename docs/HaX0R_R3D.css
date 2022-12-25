@@ -22,7 +22,7 @@
   --name: HaX0R_R3D
 }
 
-.colorSchemeName::before { content: 'HaX0R_R3D'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_R3D'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
