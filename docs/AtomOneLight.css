@@ -22,7 +22,7 @@
   --name: AtomOneLight
 }
 
-.colorSchemeName::before { content: 'AtomOneLight'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'AtomOneLight'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
