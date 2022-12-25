@@ -21,6 +21,9 @@
   --black: #000000;
   --name: OceanicMaterial
 }
+
+.colorSchemeName::before { content: 'OceanicMaterial'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
