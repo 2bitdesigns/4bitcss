@@ -21,6 +21,9 @@
   --black: #282c34;
   --name: OneHalfDark
 }
+
+.colorSchemeName::before { content: 'OneHalfDark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
