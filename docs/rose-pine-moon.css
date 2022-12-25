@@ -21,6 +21,9 @@
   --black: #393552;
   --name: rose-pine-moon
 }
+
+.colorSchemeName::before { content: 'rose-pine-moon'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
