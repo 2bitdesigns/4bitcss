@@ -22,7 +22,7 @@
   --name: LiquidCarbonTransparent
 }
 
-.colorSchemeName::before { content: 'LiquidCarbonTransparent'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'LiquidCarbonTransparent'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
