@@ -21,6 +21,9 @@
   --black: #292f33;
   --name: Fideloper
 }
+
+.colorSchemeName::before { content: 'Fideloper'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
