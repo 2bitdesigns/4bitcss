@@ -22,7 +22,7 @@
   --name: Bright Lights
 }
 
-.colorSchemeName::before { content: 'Bright Lights'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Bright Lights'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
