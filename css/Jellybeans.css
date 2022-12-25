@@ -22,7 +22,7 @@
   --name: Jellybeans
 }
 
-.colorSchemeName::before { content: 'Jellybeans'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Jellybeans'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
