@@ -22,7 +22,7 @@
   --name: Subliminal
 }
 
-.colorSchemeName::before { content: 'Subliminal'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Subliminal'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
