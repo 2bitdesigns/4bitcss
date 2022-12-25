@@ -22,7 +22,7 @@
   --name: Slate
 }
 
-.colorSchemeName::before { content: 'Slate'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Slate'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
