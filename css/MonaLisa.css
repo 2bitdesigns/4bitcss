@@ -21,6 +21,9 @@
   --black: #351b0e;
   --name: MonaLisa
 }
+
+.colorSchemeName::before { content: 'MonaLisa'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
