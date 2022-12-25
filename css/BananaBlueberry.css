@@ -21,6 +21,9 @@
   --black: #17141f;
   --name: Banana Blueberry
 }
+
+.colorSchemeName::before { content: 'Banana Blueberry'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
