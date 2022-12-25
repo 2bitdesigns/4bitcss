@@ -22,7 +22,7 @@
   --name: coffee_theme
 }
 
-.colorSchemeName::before { content: 'coffee_theme'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'coffee_theme'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
