@@ -22,7 +22,7 @@
   --name: Spring
 }
 
-.colorSchemeName::before { content: 'Spring'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Spring'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
