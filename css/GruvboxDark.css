@@ -21,6 +21,9 @@
   --black: #282828;
   --name: GruvboxDark
 }
+
+.colorSchemeName::before { content: 'GruvboxDark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
