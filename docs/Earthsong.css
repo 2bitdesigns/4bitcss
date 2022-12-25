@@ -22,7 +22,7 @@
   --name: Earthsong
 }
 
-.colorSchemeName::before { content: 'Earthsong'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Earthsong'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
