@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Elementary'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Elementary.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
