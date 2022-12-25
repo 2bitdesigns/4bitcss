@@ -22,7 +22,7 @@
   --name: Pro Light
 }
 
-.colorSchemeName::before { content: 'Pro Light'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Pro Light'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
