@@ -21,6 +21,9 @@
   --black: #2a2a2a;
   --name: PaulMillr
 }
+
+.colorSchemeName::before { content: 'PaulMillr'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
