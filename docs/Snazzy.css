@@ -22,7 +22,7 @@
   --name: Snazzy
 }
 
-.colorSchemeName::before { content: 'Snazzy'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Snazzy'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
