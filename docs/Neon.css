@@ -22,7 +22,7 @@
   --name: Neon
 }
 
-.colorSchemeName::before { content: 'Neon'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Neon'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
