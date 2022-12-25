@@ -21,6 +21,9 @@
   --black: #090300;
   --name: C64
 }
+
+.colorSchemeName::before { content: 'C64'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
