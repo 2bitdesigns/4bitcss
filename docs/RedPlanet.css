@@ -21,6 +21,9 @@
   --black: #202020;
   --name: Red Planet
 }
+
+.colorSchemeName::before { content: 'Red Planet'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
