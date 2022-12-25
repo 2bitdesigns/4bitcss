@@ -22,7 +22,7 @@
   --name: Argonaut
 }
 
-.colorSchemeName::before { content: 'Argonaut'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Argonaut'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
