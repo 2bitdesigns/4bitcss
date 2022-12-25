@@ -21,6 +21,9 @@
   --black: #3d352a;
   --name: Arthur
 }
+
+.colorSchemeName::before { content: 'Arthur'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
