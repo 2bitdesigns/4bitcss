@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Tomorrow Night Blue
 }
+
+.colorSchemeName::before { content: 'Tomorrow Night Blue'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
