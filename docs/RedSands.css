@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Red Sands
 }
+
+.colorSchemeName::before { content: 'Red Sands'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
