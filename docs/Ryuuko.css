@@ -22,7 +22,7 @@
   --name: Ryuuko
 }
 
-.colorSchemeName::before { content: 'Ryuuko'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Ryuuko'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
