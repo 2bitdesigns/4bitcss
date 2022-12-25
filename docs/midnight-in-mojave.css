@@ -21,6 +21,9 @@
   --black: #1e1e1e;
   --name: midnight-in-mojave
 }
+
+.colorSchemeName::before { content: 'midnight-in-mojave'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
