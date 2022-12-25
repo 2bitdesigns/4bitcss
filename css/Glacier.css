@@ -22,7 +22,7 @@
   --name: Glacier
 }
 
-.colorSchemeName::before { content: 'Glacier'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Glacier'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
