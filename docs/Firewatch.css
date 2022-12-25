@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Firewatch'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Firewatch.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
