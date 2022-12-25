@@ -21,6 +21,9 @@
   --black: #4d4d4d;
   --name: Nocturnal Winter
 }
+
+.colorSchemeName::before { content: 'Nocturnal Winter'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
