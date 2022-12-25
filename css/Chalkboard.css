@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Chalkboard
 }
+
+.colorSchemeName::before { content: 'Chalkboard'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
