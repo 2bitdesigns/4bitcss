@@ -21,6 +21,9 @@
   --black: #181818;
   --name: Ciapre
 }
+
+.colorSchemeName::before { content: 'Ciapre'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
