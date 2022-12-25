@@ -21,6 +21,9 @@
   --black: #112616;
   --name: AlienBlood
 }
+
+.colorSchemeName::before { content: 'AlienBlood'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
