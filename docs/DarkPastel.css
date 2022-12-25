@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Dark Pastel
 }
+
+.colorSchemeName::before { content: 'Dark Pastel'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
