@@ -22,7 +22,7 @@
   --name: Spacedust
 }
 
-.colorSchemeName::before { content: 'Spacedust'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Spacedust'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
