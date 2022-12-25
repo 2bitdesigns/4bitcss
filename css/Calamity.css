@@ -21,6 +21,9 @@
   --black: #2f2833;
   --name: Calamity
 }
+
+.colorSchemeName::before { content: 'Calamity'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
