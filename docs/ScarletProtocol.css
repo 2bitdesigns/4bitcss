@@ -22,7 +22,7 @@
   --name: Scarlet Protocol
 }
 
-.colorSchemeName::before { content: 'Scarlet Protocol'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Scarlet Protocol'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
