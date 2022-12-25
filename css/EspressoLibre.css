@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Espresso Libre
 }
+
+.colorSchemeName::before { content: 'Espresso Libre'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
