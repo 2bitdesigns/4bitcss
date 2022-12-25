@@ -22,7 +22,7 @@
   --name: Laser
 }
 
-.colorSchemeName::before { content: 'Laser'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Laser'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
