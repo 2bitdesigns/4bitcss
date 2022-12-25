@@ -33,6 +33,13 @@ $assetFile =
     =<svg.text> -FontSize 14 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
 
+
+=<svg> -ViewBox 640, 640 @(
+    foreach ($n in 1..16) {
+        =<svg.rect> -Cx 320 -Cy 320 -Class "ansi0-fill" -Width ($n * 20) -Height ($n * 20)
+    }    
+) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg)
+
 $assetFile
 $assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
 
