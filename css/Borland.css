@@ -21,6 +21,9 @@
   --black: #4f4f4f;
   --name: Borland
 }
+
+.colorSchemeName::before { content: 'Borland'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
