@@ -22,7 +22,7 @@
   --name: Aurora
 }
 
-.colorSchemeName::before { content: 'Aurora'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Aurora'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
