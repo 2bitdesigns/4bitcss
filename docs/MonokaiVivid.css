@@ -21,6 +21,9 @@
   --black: #121212;
   --name: Monokai Vivid
 }
+
+.colorSchemeName::before { content: 'Monokai Vivid'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
