@@ -22,7 +22,7 @@
   --name: Desert
 }
 
-.colorSchemeName::before { content: 'Desert'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Desert'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
