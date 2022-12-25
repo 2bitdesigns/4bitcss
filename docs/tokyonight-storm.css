@@ -21,6 +21,9 @@
   --black: #1d202f;
   --name: tokyonight-storm
 }
+
+.colorSchemeName::before { content: 'tokyonight-storm'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
