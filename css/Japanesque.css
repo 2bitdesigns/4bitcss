@@ -22,7 +22,7 @@
   --name: Japanesque
 }
 
-.colorSchemeName::before { content: 'Japanesque'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Japanesque'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
