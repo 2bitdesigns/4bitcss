@@ -21,6 +21,9 @@
   --black: #040404;
   --name: Adventure
 }
+
+.colorSchemeName::before { content: 'Adventure'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
