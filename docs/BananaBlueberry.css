@@ -22,7 +22,7 @@
   --name: Banana Blueberry
 }
 
-.colorSchemeName::before { content: 'Banana Blueberry'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Banana Blueberry'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
