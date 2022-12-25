@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Calamity'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Calamity.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
