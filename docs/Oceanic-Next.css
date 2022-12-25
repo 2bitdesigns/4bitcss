@@ -21,6 +21,9 @@
   --black: #121c21;
   --name: Oceanic-Next
 }
+
+.colorSchemeName::before { content: 'Oceanic-Next'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
