@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'synthwave'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'synthwave.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
