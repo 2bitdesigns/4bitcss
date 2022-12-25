@@ -15,6 +15,8 @@ Import-Module .\4bitcss.psd1 -Global
 
 foreach ($jsonFile in $jsonFiles) {
     $jsonObject = [IO.File]::ReadAllText($jsonFile.FullName) | ConvertFrom-Json
+
+    if (-not $jsonObject.Name) { continue }
     $jsonObject | Export-4BitCSS
     $jsonObject | Export-4BitCSS -OutputPath (Join-Path $pwd docs)    
 }
