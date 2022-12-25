@@ -21,6 +21,9 @@
   --black: #0f191c;
   --name: matrix
 }
+
+.colorSchemeName::before { content: 'matrix'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
