@@ -21,6 +21,9 @@
   --black: #2f2e2d;
   --name: Pnevma
 }
+
+.colorSchemeName::before { content: 'Pnevma'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
