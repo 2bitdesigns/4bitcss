@@ -21,6 +21,9 @@
   --black: #4f4f4f;
   --name: Builtin Pastel Dark
 }
+
+.colorSchemeName::before { content: 'Builtin Pastel Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
