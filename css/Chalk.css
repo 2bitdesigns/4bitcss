@@ -22,7 +22,7 @@
   --name: Chalk
 }
 
-.colorSchemeName::before { content: 'Chalk'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Chalk'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
