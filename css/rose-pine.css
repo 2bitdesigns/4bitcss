@@ -21,6 +21,9 @@
   --black: #26233a;
   --name: rose-pine
 }
+
+.colorSchemeName::before { content: 'rose-pine'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
