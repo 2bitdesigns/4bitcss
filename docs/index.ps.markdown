@@ -1,5 +1,5 @@
 <h2 style='text-align:center'>
-    <span class='ColorSchemeName' />
+    <span class='ColorSchemeName'>.css</span>
 </h2>
 
 <div class='centeredText'>
