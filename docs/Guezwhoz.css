@@ -22,7 +22,7 @@
   --name: Guezwhoz
 }
 
-.colorSchemeName::before { content: 'Guezwhoz'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Guezwhoz'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
