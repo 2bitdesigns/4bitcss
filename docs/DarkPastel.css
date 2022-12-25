@@ -22,7 +22,7 @@
   --name: Dark Pastel
 }
 
-.colorSchemeName::before { content: 'Dark Pastel'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Dark Pastel'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
