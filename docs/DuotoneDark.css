@@ -22,7 +22,7 @@
   --name: Duotone Dark
 }
 
-.colorSchemeName::before { content: 'Duotone Dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Duotone Dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
