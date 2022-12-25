@@ -21,6 +21,9 @@
   --black: #0f191f;
   --name: neobones_dark
 }
+
+.colorSchemeName::before { content: 'neobones_dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
