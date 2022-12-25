@@ -22,7 +22,7 @@
   --name: Alabaster
 }
 
-.colorSchemeName::before { content: 'Alabaster'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Alabaster'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
