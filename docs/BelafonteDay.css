@@ -22,7 +22,7 @@
   --name: Belafonte Day
 }
 
-.colorSchemeName::before { content: 'Belafonte Day'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Belafonte Day'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
