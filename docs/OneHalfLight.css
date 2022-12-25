@@ -21,6 +21,9 @@
   --black: #383a42;
   --name: OneHalfLight
 }
+
+.colorSchemeName::before { content: 'OneHalfLight'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
