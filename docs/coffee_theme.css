@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'coffee_theme'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'coffee_theme.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
