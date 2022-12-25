@@ -21,6 +21,9 @@
   --black: #000000;
   --name: ayu_light
 }
+
+.colorSchemeName::before { content: 'ayu_light'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
