@@ -21,6 +21,9 @@
   --black: #222d3f;
   --name: Flat
 }
+
+.colorSchemeName::before { content: 'Flat'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
