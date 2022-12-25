@@ -22,7 +22,7 @@
   --name: Monokai Soda
 }
 
-.colorSchemeName::before { content: 'Monokai Soda'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Soda'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
