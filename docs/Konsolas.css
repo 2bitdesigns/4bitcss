@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Konsolas
 }
+
+.colorSchemeName::before { content: 'Konsolas'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
