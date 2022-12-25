@@ -21,6 +21,9 @@
   --black: #2e2e2e;
   --name: Lab Fox
 }
+
+.colorSchemeName::before { content: 'Lab Fox'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
