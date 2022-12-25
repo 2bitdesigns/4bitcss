@@ -11,7 +11,7 @@
             ProjectURI = 'https://github.com/2bitdesigns'
             LicenseURI = 'https://github.com/2bitdesigns/4bitcss/blob/main/LICENSE'
             ReleaseNotes = @'
-## 0.1 
+## 0.1: 
 
 * Initial Release of 4bitcss
 * 295 Glorious 16 Color Schemes!
