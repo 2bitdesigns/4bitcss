@@ -22,7 +22,7 @@
   --name: The Hulk
 }
 
-.colorSchemeName::before { content: 'The Hulk'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'The Hulk'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
