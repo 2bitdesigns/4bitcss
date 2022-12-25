@@ -22,7 +22,7 @@
   --name: IC_Green_PPL
 }
 
-.colorSchemeName::before { content: 'IC_Green_PPL'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'IC_Green_PPL'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
