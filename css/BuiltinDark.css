@@ -22,7 +22,7 @@
   --name: Builtin Dark
 }
 
-.colorSchemeName::before { content: 'Builtin Dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
