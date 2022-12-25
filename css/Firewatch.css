@@ -21,6 +21,9 @@
   --black: #585f6d;
   --name: Firewatch
 }
+
+.colorSchemeName::before { content: 'Firewatch'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
