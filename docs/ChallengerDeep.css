@@ -21,6 +21,9 @@
   --black: #141228;
   --name: ChallengerDeep
 }
+
+.colorSchemeName::before { content: 'ChallengerDeep'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
