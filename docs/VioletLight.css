@@ -21,6 +21,9 @@
   --black: #56595c;
   --name: Violet Light
 }
+
+.colorSchemeName::before { content: 'Violet Light'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
