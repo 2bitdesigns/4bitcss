@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Raycast_Dark
 }
+
+.colorSchemeName::before { content: 'Raycast_Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
