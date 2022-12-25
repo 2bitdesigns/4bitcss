@@ -22,7 +22,7 @@
   --name: Material
 }
 
-.colorSchemeName::before { content: 'Material'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Material'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
