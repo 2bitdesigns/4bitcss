@@ -21,6 +21,9 @@
   --black: #1d2021;
   --name: Popping and Locking
 }
+
+.colorSchemeName::before { content: 'Popping and Locking'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
