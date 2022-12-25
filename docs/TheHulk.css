@@ -21,6 +21,9 @@
   --black: #1b1d1e;
   --name: The Hulk
 }
+
+.colorSchemeName::before { content: 'The Hulk'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
