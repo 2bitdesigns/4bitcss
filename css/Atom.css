@@ -22,7 +22,7 @@
   --name: Atom
 }
 
-.colorSchemeName::before { content: 'Atom'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Atom'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
