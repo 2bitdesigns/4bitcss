@@ -21,6 +21,9 @@
   --black: #141414;
   --name: Twilight
 }
+
+.colorSchemeName::before { content: 'Twilight'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
