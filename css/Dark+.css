@@ -22,7 +22,7 @@
   --name: Dark+
 }
 
-.colorSchemeName::before { content: 'Dark+'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Dark+'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
