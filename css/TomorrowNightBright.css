@@ -22,7 +22,7 @@
   --name: Tomorrow Night Bright
 }
 
-.colorSchemeName::before { content: 'Tomorrow Night Bright'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Bright'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
