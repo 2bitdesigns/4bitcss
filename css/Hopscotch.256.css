@@ -21,6 +21,9 @@
   --black: #322931;
   --name: Hopscotch.256
 }
+
+.colorSchemeName::before { content: 'Hopscotch.256'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
