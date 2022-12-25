@@ -22,7 +22,7 @@
   --name: iceberg-light
 }
 
-.colorSchemeName::before { content: 'iceberg-light'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'iceberg-light'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
