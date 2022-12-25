@@ -21,6 +21,9 @@
   --black: #f0f0ca;
   --name: vimbones
 }
+
+.colorSchemeName::before { content: 'vimbones'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
