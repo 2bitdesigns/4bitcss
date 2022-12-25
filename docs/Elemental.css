@@ -21,6 +21,9 @@
   --black: #3c3c30;
   --name: Elemental
 }
+
+.colorSchemeName::before { content: 'Elemental'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
