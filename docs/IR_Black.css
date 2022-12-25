@@ -22,7 +22,7 @@
   --name: IR_Black
 }
 
-.colorSchemeName::before { content: 'IR_Black'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'IR_Black'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
