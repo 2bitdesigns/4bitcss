@@ -21,6 +21,9 @@
   --black: #15161e;
   --name: tokyonight
 }
+
+.colorSchemeName::before { content: 'tokyonight'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
