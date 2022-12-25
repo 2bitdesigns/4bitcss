@@ -22,7 +22,7 @@
   --name: Piatto Light
 }
 
-.colorSchemeName::before { content: 'Piatto Light'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Piatto Light'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
