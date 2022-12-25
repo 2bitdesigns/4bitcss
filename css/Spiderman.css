@@ -21,6 +21,9 @@
   --black: #1b1d1e;
   --name: Spiderman
 }
+
+.colorSchemeName::before { content: 'Spiderman'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
