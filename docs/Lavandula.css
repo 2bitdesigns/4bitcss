@@ -22,7 +22,7 @@
   --name: Lavandula
 }
 
-.colorSchemeName::before { content: 'Lavandula'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Lavandula'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
