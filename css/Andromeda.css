@@ -22,7 +22,7 @@
   --name: Andromeda
 }
 
-.colorSchemeName::before { content: 'Andromeda'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Andromeda'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
