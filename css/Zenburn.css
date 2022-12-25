@@ -22,7 +22,7 @@
   --name: Zenburn
 }
 
-.colorSchemeName::before { content: 'Zenburn'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Zenburn'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
