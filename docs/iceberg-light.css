@@ -21,6 +21,9 @@
   --black: #dcdfe7;
   --name: iceberg-light
 }
+
+.colorSchemeName::before { content: 'iceberg-light'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
