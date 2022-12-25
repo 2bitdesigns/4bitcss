@@ -22,7 +22,7 @@
   --name: Gruvbox Light
 }
 
-.colorSchemeName::before { content: 'Gruvbox Light'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Gruvbox Light'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
