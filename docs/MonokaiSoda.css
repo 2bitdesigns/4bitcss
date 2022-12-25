@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Soda'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'MonokaiSoda.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
