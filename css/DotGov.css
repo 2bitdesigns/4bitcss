@@ -22,7 +22,7 @@
   --name: DotGov
 }
 
-.colorSchemeName::before { content: 'DotGov'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'DotGov'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
