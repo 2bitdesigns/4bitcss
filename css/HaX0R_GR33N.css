@@ -22,7 +22,7 @@
   --name: HaX0R_GR33N
 }
 
-.colorSchemeName::before { content: 'HaX0R_GR33N'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_GR33N'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
