@@ -21,6 +21,9 @@
   --black: #1e2132;
   --name: iceberg-dark
 }
+
+.colorSchemeName::before { content: 'iceberg-dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
