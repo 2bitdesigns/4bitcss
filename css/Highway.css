@@ -22,7 +22,7 @@
   --name: Highway
 }
 
-.colorSchemeName::before { content: 'Highway'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Highway'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
