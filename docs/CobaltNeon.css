@@ -22,7 +22,7 @@
   --name: Cobalt Neon
 }
 
-.colorSchemeName::before { content: 'Cobalt Neon'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt Neon'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
