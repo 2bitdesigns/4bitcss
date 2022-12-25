@@ -21,6 +21,9 @@
   --black: #6e5346;
   --name: Spacedust
 }
+
+.colorSchemeName::before { content: 'Spacedust'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
