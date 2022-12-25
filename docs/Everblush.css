@@ -22,7 +22,7 @@
   --name: Everblush
 }
 
-.colorSchemeName::before { content: 'Everblush'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Everblush'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
