@@ -21,6 +21,9 @@
   --black: #050505;
   --name: Square
 }
+
+.colorSchemeName::before { content: 'Square'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
