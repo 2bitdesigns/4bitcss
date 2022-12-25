@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_BLUE'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'HaX0R_BLUE.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
