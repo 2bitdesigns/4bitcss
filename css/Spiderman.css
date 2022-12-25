@@ -22,7 +22,7 @@
   --name: Spiderman
 }
 
-.colorSchemeName::before { content: 'Spiderman'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Spiderman'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
