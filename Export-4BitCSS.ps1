@@ -238,6 +238,9 @@ function Export-4BitCSS
     "--$($prop.Name): $($prop.Value)"
     }) -join (';' + [Environment]::NewLine + '  '))
 }
+
+.colorSchemeName::before { content: '$($name)'; }
+
 "@
 
 # Foreground and background colors

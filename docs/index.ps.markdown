@@ -1,3 +1,6 @@
+<div class='centeredText'>
+    <span class='ColorSchemeName' />
+</div>
 
 ~~~PipeScript{
 $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
