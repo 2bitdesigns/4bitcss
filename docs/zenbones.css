@@ -22,7 +22,7 @@
   --name: zenbones
 }
 
-.colorSchemeName::before { content: 'zenbones'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'zenbones'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
