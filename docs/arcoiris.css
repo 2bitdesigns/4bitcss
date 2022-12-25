@@ -22,7 +22,7 @@
   --name: arcoiris
 }
 
-.colorSchemeName::before { content: 'arcoiris'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'arcoiris'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
