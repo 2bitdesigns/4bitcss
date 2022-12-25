@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Dark+
 }
+
+.colorSchemeName::before { content: 'Dark+'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
