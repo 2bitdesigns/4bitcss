@@ -22,7 +22,7 @@
   --name: Framer
 }
 
-.colorSchemeName::before { content: 'Framer'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Framer'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
