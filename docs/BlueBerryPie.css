@@ -21,6 +21,9 @@
   --black: #0a4c62;
   --name: BlueBerryPie
 }
+
+.colorSchemeName::before { content: 'BlueBerryPie'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
