@@ -21,6 +21,9 @@
   --black: #1f1f1f;
   --name: Brogrammer
 }
+
+.colorSchemeName::before { content: 'Brogrammer'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
