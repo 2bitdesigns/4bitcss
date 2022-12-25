@@ -21,6 +21,9 @@
   --black: #f0edec;
   --name: zenbones
 }
+
+.colorSchemeName::before { content: 'zenbones'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
