@@ -22,7 +22,7 @@
   --name: BlulocoDark
 }
 
-.colorSchemeName::before { content: 'BlulocoDark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'BlulocoDark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
