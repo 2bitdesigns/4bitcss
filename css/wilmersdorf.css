@@ -22,7 +22,7 @@
   --name: wilmersdorf
 }
 
-.colorSchemeName::before { content: 'wilmersdorf'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'wilmersdorf'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
