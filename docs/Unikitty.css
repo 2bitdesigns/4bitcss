@@ -22,7 +22,7 @@
   --name: Unikitty
 }
 
-.colorSchemeName::before { content: 'Unikitty'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Unikitty'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
