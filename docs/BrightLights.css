@@ -21,6 +21,9 @@
   --black: #191919;
   --name: Bright Lights
 }
+
+.colorSchemeName::before { content: 'Bright Lights'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
