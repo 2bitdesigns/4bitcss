@@ -21,6 +21,9 @@
   --black: #2c3f58;
   --name: ToyChest
 }
+
+.colorSchemeName::before { content: 'ToyChest'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
