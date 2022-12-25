@@ -22,7 +22,7 @@
   --name: Teerb
 }
 
-.colorSchemeName::before { content: 'Teerb'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Teerb'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
