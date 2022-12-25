@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Hipster Green
 }
+
+.colorSchemeName::before { content: 'Hipster Green'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
