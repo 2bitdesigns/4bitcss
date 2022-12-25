@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Urple
 }
+
+.colorSchemeName::before { content: 'Urple'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
