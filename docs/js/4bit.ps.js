@@ -17,7 +17,7 @@ function feelingLucky() {
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    fourBitCssLink.href = "/css/" + themes[randomNumber] + ".css";
+    fourBitCssLink.href = "/" + themes[randomNumber] + ".css";
 
     for (arg in arguments) {
         if (arguments[arg].value) {
@@ -35,7 +35,7 @@ function switchTheme(themeName) {
     if (! foundTheme) {
         throw ("Theme '" + themeName + "' does not exist");
     }
-    fourBitCssLink.href = "/css/" + foundTheme + ".css";
+    fourBitCssLink.href = "/" + foundTheme + ".css";
     fourBitCssLink.themeName = foundTheme;
 }
 
