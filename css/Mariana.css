@@ -22,7 +22,7 @@
   --name: Mariana
 }
 
-.colorSchemeName::before { content: 'Mariana'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Mariana'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
