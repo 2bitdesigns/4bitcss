@@ -22,7 +22,7 @@
   --name: zenburned
 }
 
-.colorSchemeName::before { content: 'zenburned'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'zenburned'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
