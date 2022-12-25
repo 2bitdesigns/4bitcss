@@ -21,6 +21,9 @@
   --black: #f2e9e1;
   --name: rose-pine-dawn
 }
+
+.colorSchemeName::before { content: 'rose-pine-dawn'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
