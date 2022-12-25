@@ -30,13 +30,17 @@ $assetFile =
     =<svg.ellipse> -StrokeWidth 1.25 -Fill transparent -Cx 50% -Cy 50% -Stroke '#4488ff' -Ry 75 -Rx 50 -Class foreground-stroke
     =<svg.text> -FontSize 28 -Content 4bit -X 50% -Y 50% @fontSettings -Class foreground-fill -Fill '#4488ff'
     =<svg.text> -FontSize 28 -Content '⋅⋅⋅⋅'  -X 50% -Y 53% @fontSettings -Class foreground-fill -Fill '#4488ff'
-    =<svg.text> -FontSize 14 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
+    =<svg.text> -FontSize 28 -Content 'css' -X 50% -Y 60% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
 
 
 =<svg> -ViewBox 640, 640 @(
     foreach ($n in 1..16) {
-        =<svg.rect> -Cx 320 -Cy 320 -Class "ansi0-fill" -Width ($n * 20) -Height ($n * 20)
+        =<svg.rect> -X (
+            320 - ((16 - $n +1 ) * 20)
+        ) -Y (
+            320 - ((16 - $n +1 ) * 20)            
+        ) -Class "ansi0-fill" -Width ($n * 20) -Height ($n * 20)
     }    
 ) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg)
 
