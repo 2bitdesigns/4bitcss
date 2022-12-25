@@ -22,7 +22,7 @@
   --name: Cobalt2
 }
 
-.colorSchemeName::before { content: 'Cobalt2'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt2'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
