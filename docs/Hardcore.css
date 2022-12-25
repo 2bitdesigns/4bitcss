@@ -22,7 +22,7 @@
   --name: Hardcore
 }
 
-.colorSchemeName::before { content: 'Hardcore'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Hardcore'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
