@@ -22,7 +22,7 @@
   --name: duckbones
 }
 
-.colorSchemeName::before { content: 'duckbones'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'duckbones'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
