@@ -21,6 +21,9 @@
   --black: #2c1d16;
   --name: Jackie Brown
 }
+
+.colorSchemeName::before { content: 'Jackie Brown'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
