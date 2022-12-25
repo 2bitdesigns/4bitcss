@@ -21,6 +21,9 @@
   --black: #141414;
   --name: Framer
 }
+
+.colorSchemeName::before { content: 'Framer'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
