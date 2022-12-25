@@ -21,6 +21,9 @@
   --black: #1b1d1e;
   --name: Batman
 }
+
+.colorSchemeName::before { content: 'Batman'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
