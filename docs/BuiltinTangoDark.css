@@ -22,7 +22,7 @@
   --name: Builtin Tango Dark
 }
 
-.colorSchemeName::before { content: 'Builtin Tango Dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Tango Dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
