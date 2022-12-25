@@ -22,7 +22,7 @@
   --name: DjangoSmooth
 }
 
-.colorSchemeName::before { content: 'DjangoSmooth'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'DjangoSmooth'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
