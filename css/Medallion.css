@@ -22,7 +22,7 @@
   --name: Medallion
 }
 
-.colorSchemeName::before { content: 'Medallion'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Medallion'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
