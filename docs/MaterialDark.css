@@ -22,7 +22,7 @@
   --name: MaterialDark
 }
 
-.colorSchemeName::before { content: 'MaterialDark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'MaterialDark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
