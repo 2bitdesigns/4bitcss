@@ -22,7 +22,7 @@
   --name: CGA
 }
 
-.colorSchemeName::before { content: 'CGA'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'CGA'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
