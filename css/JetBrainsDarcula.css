@@ -22,7 +22,7 @@
   --name: JetBrains Darcula
 }
 
-.colorSchemeName::before { content: 'JetBrains Darcula'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'JetBrains Darcula'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
