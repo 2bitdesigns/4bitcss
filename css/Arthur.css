@@ -22,7 +22,7 @@
   --name: Arthur
 }
 
-.colorSchemeName::before { content: 'Arthur'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Arthur'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
