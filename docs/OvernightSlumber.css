@@ -21,6 +21,9 @@
   --black: #0a1222;
   --name: Overnight Slumber
 }
+
+.colorSchemeName::before { content: 'Overnight Slumber'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
