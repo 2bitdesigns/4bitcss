@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Broadcast
 }
+
+.colorSchemeName::before { content: 'Broadcast'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
