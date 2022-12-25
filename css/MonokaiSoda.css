@@ -21,6 +21,9 @@
   --black: #1a1a1a;
   --name: Monokai Soda
 }
+
+.colorSchemeName::before { content: 'Monokai Soda'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
