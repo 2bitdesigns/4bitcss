@@ -21,6 +21,9 @@
   --black: #56595c;
   --name: Violet Dark
 }
+
+.colorSchemeName::before { content: 'Violet Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
