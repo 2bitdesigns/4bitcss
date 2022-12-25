@@ -15,8 +15,10 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 }
 ~~~
 
+<div class='centeredText'>
 ~~~PipeScript{
 Get-Content .\4bitpreview.svg |
     Select-Object -Skip 1
 }
 ~~~
+</div>

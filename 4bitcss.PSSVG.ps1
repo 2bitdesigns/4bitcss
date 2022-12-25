@@ -41,9 +41,13 @@ $assetFile =
             ((16 - ($n +1) ) * 20)
         ) -Y (
             ((16 - ($n +1) ) * 20)            
-        ) -Class "ansi$($n - 1)-fill" -Width ($n * 20) -Height ($n * 20)
+        ) -Class "ansi$($n - 1)-fill" -Width (
+            640 - ((16 - ($n +1) ) * 20)
+        ) -Height (
+            640 - ((16 - ($n +1) ) * 20)
+        )
     }    
-) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg)
+) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg) -Width 100%
 
 $assetFile
 $assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
