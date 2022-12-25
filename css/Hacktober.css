@@ -22,7 +22,7 @@
   --name: Hacktober
 }
 
-.colorSchemeName::before { content: 'Hacktober'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Hacktober'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
