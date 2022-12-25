@@ -22,7 +22,7 @@
   --name: Operator Mono Dark
 }
 
-.colorSchemeName::before { content: 'Operator Mono Dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Operator Mono Dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
