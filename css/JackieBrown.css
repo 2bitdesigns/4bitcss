@@ -22,7 +22,7 @@
   --name: Jackie Brown
 }
 
-.colorSchemeName::before { content: 'Jackie Brown'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Jackie Brown'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
