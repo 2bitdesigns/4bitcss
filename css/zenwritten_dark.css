@@ -22,7 +22,7 @@
   --name: zenwritten_dark
 }
 
-.colorSchemeName::before { content: 'zenwritten_dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'zenwritten_dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
