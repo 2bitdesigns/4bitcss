@@ -21,6 +21,9 @@
   --black: #212121;
   --name: MaterialDark
 }
+
+.colorSchemeName::before { content: 'MaterialDark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
