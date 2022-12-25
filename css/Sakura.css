@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Sakura
 }
+
+.colorSchemeName::before { content: 'Sakura'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
