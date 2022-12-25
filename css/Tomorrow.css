@@ -22,7 +22,7 @@
   --name: Tomorrow
 }
 
-.colorSchemeName::before { content: 'Tomorrow'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
