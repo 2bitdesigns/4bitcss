@@ -22,7 +22,7 @@
   --name: UnderTheSea
 }
 
-.colorSchemeName::before { content: 'UnderTheSea'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'UnderTheSea'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
