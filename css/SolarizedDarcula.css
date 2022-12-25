@@ -22,7 +22,7 @@
   --name: Solarized Darcula
 }
 
-.colorSchemeName::before { content: 'Solarized Darcula'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Darcula'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
