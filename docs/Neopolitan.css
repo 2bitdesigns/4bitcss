@@ -22,7 +22,7 @@
   --name: Neopolitan
 }
 
-.colorSchemeName::before { content: 'Neopolitan'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Neopolitan'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
