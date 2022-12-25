@@ -22,7 +22,7 @@
   --name: Raycast_Dark
 }
 
-.colorSchemeName::before { content: 'Raycast_Dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Raycast_Dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
