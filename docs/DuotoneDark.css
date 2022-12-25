@@ -21,6 +21,9 @@
   --black: #1f1d27;
   --name: Duotone Dark
 }
+
+.colorSchemeName::before { content: 'Duotone Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
