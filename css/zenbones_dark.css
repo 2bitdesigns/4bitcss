@@ -22,7 +22,7 @@
   --name: zenbones_dark
 }
 
-.colorSchemeName::before { content: 'zenbones_dark'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'zenbones_dark'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
