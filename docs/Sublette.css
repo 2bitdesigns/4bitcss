@@ -22,7 +22,7 @@
   --name: Sublette
 }
 
-.colorSchemeName::before { content: 'Sublette'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Sublette'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
