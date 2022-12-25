@@ -22,7 +22,7 @@
   --name: Breeze
 }
 
-.colorSchemeName::before { content: 'Breeze'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Breeze'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
