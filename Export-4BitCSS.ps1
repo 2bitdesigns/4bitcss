@@ -185,7 +185,7 @@ function Export-4BitCSS
 
         $jsonObject = [PSCustomObject]$jsonObject
 
-        $cssFile    = (Join-Path $PSScriptRoot "$($name -replace '\s').css")
+        $cssFile    = (Join-Path $OutputPath "$($name -replace '\s').css")
         $className  = $Name -replace '\s' -replace '^\d', '_$0'
         $cssContent = 
     @"
