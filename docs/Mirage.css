@@ -21,6 +21,9 @@
   --black: #011627;
   --name: Mirage
 }
+
+.colorSchemeName::before { content: 'Mirage'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
