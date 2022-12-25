@@ -21,6 +21,9 @@
   --black: #0a0520;
   --name: purplepeter
 }
+
+.colorSchemeName::before { content: 'purplepeter'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
