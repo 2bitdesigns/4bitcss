@@ -22,7 +22,7 @@
   --name: Symfonic
 }
 
-.colorSchemeName::before { content: 'Symfonic'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Symfonic'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
