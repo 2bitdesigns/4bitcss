@@ -22,7 +22,7 @@
   --name: Lab Fox
 }
 
-.colorSchemeName::before { content: 'Lab Fox'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Lab Fox'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
