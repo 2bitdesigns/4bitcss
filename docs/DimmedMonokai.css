@@ -21,6 +21,9 @@
   --black: #3a3d43;
   --name: DimmedMonokai
 }
+
+.colorSchemeName::before { content: 'DimmedMonokai'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
