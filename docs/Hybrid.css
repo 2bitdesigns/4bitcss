@@ -21,6 +21,9 @@
   --black: #2a2e33;
   --name: Hybrid
 }
+
+.colorSchemeName::before { content: 'Hybrid'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
