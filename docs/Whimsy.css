@@ -22,7 +22,7 @@
   --name: Whimsy
 }
 
-.colorSchemeName::before { content: 'Whimsy'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Whimsy'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
