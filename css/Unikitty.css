@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Unikitty'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Unikitty.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
