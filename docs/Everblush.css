@@ -21,6 +21,9 @@
   --black: #232a2d;
   --name: Everblush
 }
+
+.colorSchemeName::before { content: 'Everblush'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
