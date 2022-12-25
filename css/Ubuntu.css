@@ -22,7 +22,7 @@
   --name: Ubuntu
 }
 
-.colorSchemeName::before { content: 'Ubuntu'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Ubuntu'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
