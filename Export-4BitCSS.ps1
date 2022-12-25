@@ -240,6 +240,7 @@ function Export-4BitCSS
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: '$($name)'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: '$($name -replace '\s').css'; }
 
 "@
 
