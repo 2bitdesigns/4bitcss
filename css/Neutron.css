@@ -22,7 +22,7 @@
   --name: Neutron
 }
 
-.colorSchemeName::before { content: 'Neutron'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Neutron'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
