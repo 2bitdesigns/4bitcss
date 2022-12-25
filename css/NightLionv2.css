@@ -21,6 +21,9 @@
   --black: #4c4c4c;
   --name: NightLion v2
 }
+
+.colorSchemeName::before { content: 'NightLion v2'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
