@@ -21,6 +21,9 @@
   --black: #002831;
   --name: Solarized Dark - Patched
 }
+
+.colorSchemeName::before { content: 'Solarized Dark - Patched'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
