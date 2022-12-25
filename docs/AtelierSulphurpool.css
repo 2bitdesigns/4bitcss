@@ -22,7 +22,7 @@
   --name: AtelierSulphurpool
 }
 
-.colorSchemeName::before { content: 'AtelierSulphurpool'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'AtelierSulphurpool'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
