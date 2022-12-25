@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Burns'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'TomorrowNightBurns.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
