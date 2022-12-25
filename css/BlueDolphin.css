@@ -21,6 +21,9 @@
   --black: #292d3e;
   --name: BlueDolphin
 }
+
+.colorSchemeName::before { content: 'BlueDolphin'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
