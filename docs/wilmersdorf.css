@@ -21,6 +21,9 @@
   --black: #34373e;
   --name: wilmersdorf
 }
+
+.colorSchemeName::before { content: 'wilmersdorf'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
