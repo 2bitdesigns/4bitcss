@@ -21,6 +21,9 @@
   --black: #151515;
   --name: Afterglow
 }
+
+.colorSchemeName::before { content: 'Afterglow'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
