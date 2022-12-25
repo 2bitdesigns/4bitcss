@@ -21,6 +21,9 @@
   --black: #353535;
   --name: Peppermint
 }
+
+.colorSchemeName::before { content: 'Peppermint'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
