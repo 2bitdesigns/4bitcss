@@ -22,7 +22,7 @@
   --name: matrix
 }
 
-.colorSchemeName::before { content: 'matrix'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'matrix'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
