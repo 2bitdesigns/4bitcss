@@ -22,7 +22,7 @@
   --name: nord
 }
 
-.colorSchemeName::before { content: 'nord'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'nord'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
