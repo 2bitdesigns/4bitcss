@@ -22,7 +22,7 @@
   --name: Relaxed
 }
 
-.colorSchemeName::before { content: 'Relaxed'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Relaxed'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
