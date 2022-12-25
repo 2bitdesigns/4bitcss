@@ -21,6 +21,9 @@
   --black: #414141;
   --name: Piatto Light
 }
+
+.colorSchemeName::before { content: 'Piatto Light'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
