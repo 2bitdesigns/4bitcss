@@ -21,6 +21,9 @@
   --black: #000000;
   --name: IC_Orange_PPL
 }
+
+.colorSchemeName::before { content: 'IC_Orange_PPL'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
