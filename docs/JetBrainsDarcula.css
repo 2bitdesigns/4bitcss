@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'JetBrains Darcula'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'JetBrainsDarcula.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
