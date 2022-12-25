@@ -21,6 +21,9 @@
   --black: #3b4252;
   --name: nord
 }
+
+.colorSchemeName::before { content: 'nord'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
