@@ -21,6 +21,9 @@
   --black: #202746;
   --name: Hivacruz
 }
+
+.colorSchemeName::before { content: 'Hivacruz'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
