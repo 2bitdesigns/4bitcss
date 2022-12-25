@@ -22,7 +22,7 @@
   --name: Purple Rain
 }
 
-.colorSchemeName::before { content: 'Purple Rain'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Purple Rain'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
