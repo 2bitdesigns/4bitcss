@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Belafonte Night'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'BelafonteNight.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
