@@ -22,7 +22,7 @@
   --name: BlueDolphin
 }
 
-.colorSchemeName::before { content: 'BlueDolphin'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'BlueDolphin'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
