@@ -22,7 +22,7 @@
   --name: AlienBlood
 }
 
-.colorSchemeName::before { content: 'AlienBlood'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'AlienBlood'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
