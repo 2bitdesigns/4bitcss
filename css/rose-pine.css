@@ -22,7 +22,7 @@
   --name: rose-pine
 }
 
-.colorSchemeName::before { content: 'rose-pine'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
