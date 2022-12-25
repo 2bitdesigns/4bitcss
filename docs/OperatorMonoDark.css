@@ -21,6 +21,9 @@
   --black: #5a5a5a;
   --name: Operator Mono Dark
 }
+
+.colorSchemeName::before { content: 'Operator Mono Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
