@@ -22,7 +22,7 @@
   --name: darkmatrix
 }
 
-.colorSchemeName::before { content: 'darkmatrix'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'darkmatrix'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
