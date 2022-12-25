@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hopscotch'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Hopscotch.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
