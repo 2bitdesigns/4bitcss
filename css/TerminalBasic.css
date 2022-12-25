@@ -22,7 +22,7 @@
   --name: Terminal Basic
 }
 
-.colorSchemeName::before { content: 'Terminal Basic'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Terminal Basic'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
