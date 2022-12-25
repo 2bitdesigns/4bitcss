@@ -21,6 +21,9 @@
   --black: #091013;
   --name: darkmatrix
 }
+
+.colorSchemeName::before { content: 'darkmatrix'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
