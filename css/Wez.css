@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Wez
 }
+
+.colorSchemeName::before { content: 'Wez'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
