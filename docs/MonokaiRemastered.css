@@ -22,7 +22,7 @@
   --name: Monokai Remastered
 }
 
-.colorSchemeName::before { content: 'Monokai Remastered'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Remastered'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
