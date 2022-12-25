@@ -22,7 +22,7 @@
   --name: Seafoam Pastel
 }
 
-.colorSchemeName::before { content: 'Seafoam Pastel'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Seafoam Pastel'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
