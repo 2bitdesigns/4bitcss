@@ -21,6 +21,9 @@
   --black: #252525;
   --name: Tomorrow Night Burns
 }
+
+.colorSchemeName::before { content: 'Tomorrow Night Burns'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
