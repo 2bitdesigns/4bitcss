@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DoomOne'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'DoomOne.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
