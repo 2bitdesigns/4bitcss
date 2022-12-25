@@ -16,6 +16,7 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 ~~~
 
 ~~~PipeScript{
-Get-Content .\4bitpreview.svg -Raw
+Get-Content .\4bitpreview.svg |
+    Select-Object -Skip 1
 }
 ~~~
