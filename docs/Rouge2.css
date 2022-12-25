@@ -21,6 +21,9 @@
   --black: #5d5d6b;
   --name: Rouge 2
 }
+
+.colorSchemeName::before { content: 'Rouge 2'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
