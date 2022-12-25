@@ -22,7 +22,7 @@
   --name: AdventureTime
 }
 
-.colorSchemeName::before { content: 'AdventureTime'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'AdventureTime'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
