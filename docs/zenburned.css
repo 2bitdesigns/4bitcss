@@ -21,6 +21,9 @@
   --black: #404040;
   --name: zenburned
 }
+
+.colorSchemeName::before { content: 'zenburned'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
