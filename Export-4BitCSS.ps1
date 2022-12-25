@@ -239,7 +239,7 @@ function Export-4BitCSS
     }) -join (';' + [Environment]::NewLine + '  '))
 }
 
-.colorSchemeName::before { content: '$($name)'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: '$($name)'; }
 
 "@
 
