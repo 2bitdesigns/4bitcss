@@ -22,7 +22,7 @@
   --name: SoftServer
 }
 
-.colorSchemeName::before { content: 'SoftServer'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'SoftServer'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
