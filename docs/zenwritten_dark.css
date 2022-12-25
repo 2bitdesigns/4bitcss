@@ -21,6 +21,9 @@
   --black: #191919;
   --name: zenwritten_dark
 }
+
+.colorSchemeName::before { content: 'zenwritten_dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
