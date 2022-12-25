@@ -21,6 +21,9 @@
   --black: #1d1d26;
   --name: Tinacious Design (Dark)
 }
+
+.colorSchemeName::before { content: 'Tinacious Design (Dark)'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
