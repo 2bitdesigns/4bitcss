@@ -22,7 +22,7 @@
   --name: Vaughn
 }
 
-.colorSchemeName::before { content: 'Vaughn'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Vaughn'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
