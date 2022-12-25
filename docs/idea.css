@@ -22,7 +22,7 @@
   --name: idea
 }
 
-.colorSchemeName::before { content: 'idea'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'idea'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
