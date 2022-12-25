@@ -22,7 +22,7 @@
   --name: ToyChest
 }
 
-.colorSchemeName::before { content: 'ToyChest'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'ToyChest'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
