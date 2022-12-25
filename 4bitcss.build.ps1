@@ -18,6 +18,6 @@ foreach ($jsonFile in $jsonFiles) {
 
     if (-not $jsonObject.Name) { continue }
     if ($jsonObject.Name -match '^\{') { continue }
-    $jsonObject | Export-4BitCSS
-    $jsonObject | Export-4BitCSS -OutputPath (Join-Path $pwd docs)    
+    $jsonObject | Export-4BitCSS -OutputPath (Join-Path $PSScriptRoot css)
+    $jsonObject | Export-4BitCSS -OutputPath (Join-Path $PSScriptRoot docs)
 }
