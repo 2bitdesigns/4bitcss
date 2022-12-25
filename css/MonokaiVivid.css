@@ -22,7 +22,7 @@
   --name: Monokai Vivid
 }
 
-.colorSchemeName::before { content: 'Monokai Vivid'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Vivid'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
