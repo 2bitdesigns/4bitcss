@@ -22,7 +22,7 @@
   --name: CLRS
 }
 
-.colorSchemeName::before { content: 'CLRS'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'CLRS'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
