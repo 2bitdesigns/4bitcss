@@ -22,7 +22,7 @@
   --name: Urple
 }
 
-.colorSchemeName::before { content: 'Urple'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Urple'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
