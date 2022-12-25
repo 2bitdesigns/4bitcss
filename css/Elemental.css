@@ -22,7 +22,7 @@
   --name: Elemental
 }
 
-.colorSchemeName::before { content: 'Elemental'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Elemental'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
