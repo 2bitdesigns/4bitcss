@@ -22,7 +22,7 @@
   --name: DjangoRebornAgain
 }
 
-.colorSchemeName::before { content: 'DjangoRebornAgain'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'DjangoRebornAgain'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
