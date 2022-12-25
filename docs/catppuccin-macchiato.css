@@ -22,7 +22,7 @@
   --name: catppuccin-macchiato
 }
 
-.colorSchemeName::before { content: 'catppuccin-macchiato'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-macchiato'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
