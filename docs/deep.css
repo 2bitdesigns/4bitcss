@@ -22,7 +22,7 @@
   --name: deep
 }
 
-.colorSchemeName::before { content: 'deep'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'deep'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
