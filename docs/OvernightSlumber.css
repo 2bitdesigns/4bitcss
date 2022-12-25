@@ -22,7 +22,7 @@
   --name: Overnight Slumber
 }
 
-.colorSchemeName::before { content: 'Overnight Slumber'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Overnight Slumber'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
