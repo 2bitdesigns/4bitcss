@@ -21,6 +21,9 @@
   --black: #08002e;
   --name: Floraverse
 }
+
+.colorSchemeName::before { content: 'Floraverse'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
