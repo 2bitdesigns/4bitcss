@@ -21,6 +21,9 @@
   --black: #2f1e2e;
   --name: Paraiso Dark
 }
+
+.colorSchemeName::before { content: 'Paraiso Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
