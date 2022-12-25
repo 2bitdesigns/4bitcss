@@ -21,6 +21,9 @@
   --black: #2c3941;
   --name: Ryuuko
 }
+
+.colorSchemeName::before { content: 'Ryuuko'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
