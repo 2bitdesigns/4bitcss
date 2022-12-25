@@ -21,6 +21,9 @@
   --black: #000000;
   --name: Man Page
 }
+
+.colorSchemeName::before { content: 'Man Page'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
