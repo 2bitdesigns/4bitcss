@@ -17,6 +17,7 @@ foreach ($jsonFile in $jsonFiles) {
     $jsonObject = [IO.File]::ReadAllText($jsonFile.FullName) | ConvertFrom-Json
 
     if (-not $jsonObject.Name) { continue }
+    if ($jsonObject.Name -match '^\{') { continue }
     $jsonObject | Export-4BitCSS
     $jsonObject | Export-4BitCSS -OutputPath (Join-Path $pwd docs)    
 }
