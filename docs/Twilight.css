@@ -22,7 +22,7 @@
   --name: Twilight
 }
 
-.colorSchemeName::before { content: 'Twilight'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Twilight'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
