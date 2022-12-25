@@ -1,6 +1,6 @@
-<div class='centeredText'>
+<h2 style='text-align:center'>
     <span class='ColorSchemeName' />
-</div>
+</h2>
 
 
 |ANSI Code|Color       |Sample                       |
