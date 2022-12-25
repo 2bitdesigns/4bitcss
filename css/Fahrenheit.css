@@ -22,7 +22,7 @@
   --name: Fahrenheit
 }
 
-.colorSchemeName::before { content: 'Fahrenheit'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Fahrenheit'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
