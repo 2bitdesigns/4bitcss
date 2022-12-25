@@ -21,6 +21,9 @@
   --black: #eeeeee;
   --name: zenwritten_light
 }
+
+.colorSchemeName::before { content: 'zenwritten_light'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
