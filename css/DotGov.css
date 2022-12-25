@@ -21,6 +21,9 @@
   --black: #191919;
   --name: DotGov
 }
+
+.colorSchemeName::before { content: 'DotGov'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
