@@ -23,6 +23,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'tokyonight'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'tokyonight.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
