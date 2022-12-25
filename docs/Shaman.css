@@ -21,6 +21,9 @@
   --black: #012026;
   --name: Shaman
 }
+
+.colorSchemeName::before { content: 'Shaman'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
