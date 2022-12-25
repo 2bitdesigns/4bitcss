@@ -22,7 +22,7 @@
   --name: WildCherry
 }
 
-.colorSchemeName::before { content: 'WildCherry'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'WildCherry'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
