@@ -21,23 +21,5 @@
 
 
 
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 640 640" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-  <rect x="-20" y="-20" class="ansi15-fill" width="320" height="320" />
-  <rect x="0" y="0" class="ansi14-fill" width="300" height="300" />
-  <rect x="20" y="20" class="ansi13-fill" width="280" height="280" />
-  <rect x="40" y="40" class="ansi12-fill" width="260" height="260" />
-  <rect x="60" y="60" class="ansi11-fill" width="240" height="240" />
-  <rect x="80" y="80" class="ansi10-fill" width="220" height="220" />
-  <rect x="100" y="100" class="ansi9-fill" width="200" height="200" />
-  <rect x="120" y="120" class="ansi8-fill" width="180" height="180" />
-  <rect x="140" y="140" class="ansi7-fill" width="160" height="160" />
-  <rect x="160" y="160" class="ansi6-fill" width="140" height="140" />
-  <rect x="180" y="180" class="ansi5-fill" width="120" height="120" />
-  <rect x="200" y="200" class="ansi4-fill" width="100" height="100" />
-  <rect x="220" y="220" class="ansi3-fill" width="80" height="80" />
-  <rect x="240" y="240" class="ansi2-fill" width="60" height="60" />
-  <rect x="260" y="260" class="ansi1-fill" width="40" height="40" />
-  <rect x="280" y="280" class="ansi0-fill" width="20" height="20" />
-</svg>
+<svg viewBox="0 0 640 640" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">   <rect x="-20" y="-20" class="ansi15-fill" width="320" height="320" />   <rect x="0" y="0" class="ansi14-fill" width="300" height="300" />   <rect x="20" y="20" class="ansi13-fill" width="280" height="280" />   <rect x="40" y="40" class="ansi12-fill" width="260" height="260" />   <rect x="60" y="60" class="ansi11-fill" width="240" height="240" />   <rect x="80" y="80" class="ansi10-fill" width="220" height="220" />   <rect x="100" y="100" class="ansi9-fill" width="200" height="200" />   <rect x="120" y="120" class="ansi8-fill" width="180" height="180" />   <rect x="140" y="140" class="ansi7-fill" width="160" height="160" />   <rect x="160" y="160" class="ansi6-fill" width="140" height="140" />   <rect x="180" y="180" class="ansi5-fill" width="120" height="120" />   <rect x="200" y="200" class="ansi4-fill" width="100" height="100" />   <rect x="220" y="220" class="ansi3-fill" width="80" height="80" />   <rect x="240" y="240" class="ansi2-fill" width="60" height="60" />   <rect x="260" y="260" class="ansi1-fill" width="40" height="40" />   <rect x="280" y="280" class="ansi0-fill" width="20" height="20" /> </svg>
 
