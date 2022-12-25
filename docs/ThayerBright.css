@@ -22,7 +22,7 @@
   --name: Thayer Bright
 }
 
-.colorSchemeName::before { content: 'Thayer Bright'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Thayer Bright'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
