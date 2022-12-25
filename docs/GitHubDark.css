@@ -21,6 +21,9 @@
   --black: #000000;
   --name: GitHub Dark
 }
+
+.colorSchemeName::before { content: 'GitHub Dark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
