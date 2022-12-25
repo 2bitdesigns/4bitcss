@@ -22,7 +22,7 @@
   --name: Retro
 }
 
-.colorSchemeName::before { content: 'Retro'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Retro'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
