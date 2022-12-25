@@ -21,6 +21,9 @@
   --black: #fefefe;
   --name: synthwave-everything
 }
+
+.colorSchemeName::before { content: 'synthwave-everything'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
