@@ -22,7 +22,7 @@
   --name: Konsolas
 }
 
-.colorSchemeName::before { content: 'Konsolas'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Konsolas'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
