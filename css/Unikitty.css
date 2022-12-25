@@ -21,6 +21,9 @@
   --black: #0c0c0c;
   --name: Unikitty
 }
+
+.colorSchemeName::before { content: 'Unikitty'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
