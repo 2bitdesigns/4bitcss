@@ -22,7 +22,7 @@
   --name: Ciapre
 }
 
-.colorSchemeName::before { content: 'Ciapre'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Ciapre'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
