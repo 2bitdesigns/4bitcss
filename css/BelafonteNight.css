@@ -21,6 +21,9 @@
   --black: #20111b;
   --name: Belafonte Night
 }
+
+.colorSchemeName::before { content: 'Belafonte Night'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
