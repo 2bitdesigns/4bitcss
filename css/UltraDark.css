@@ -21,6 +21,9 @@
   --black: #000000;
   --name: UltraDark
 }
+
+.colorSchemeName::before { content: 'UltraDark'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
