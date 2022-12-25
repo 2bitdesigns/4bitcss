@@ -22,7 +22,7 @@
   --name: Calamity
 }
 
-.colorSchemeName::before { content: 'Calamity'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'Calamity'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
