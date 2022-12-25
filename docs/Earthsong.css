@@ -21,6 +21,9 @@
   --black: #121418;
   --name: Earthsong
 }
+
+.colorSchemeName::before { content: 'Earthsong'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
