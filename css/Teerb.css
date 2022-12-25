@@ -21,6 +21,9 @@
   --black: #1c1c1c;
   --name: Teerb
 }
+
+.colorSchemeName::before { content: 'Teerb'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
