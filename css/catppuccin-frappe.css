@@ -21,6 +21,9 @@
   --black: #51576d;
   --name: catppuccin-frappe
 }
+
+.colorSchemeName::before { content: 'catppuccin-frappe'; }
+
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
 
