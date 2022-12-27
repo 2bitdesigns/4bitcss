@@ -7,18 +7,17 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analyticsID}}"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{site.analyticsID}}');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{site.analyticsID}}');
     </script>
     {% endif %}
     <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
     <script type="text/javascript" src="/js/4bit.js"></script>
-    <title>{{site.title}  {% if page.title %}  - {{page.title}}  {% end if %}</title>
+    <title>{{site.title}}  {% if page.title %}  - {{page.title}}  {% end if %}</title>
     <style>
       .monospace {
         font-family: 'Courier New', Courier, monospace;
@@ -110,9 +109,9 @@
     <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Abel')</style>
   </defs>
   <ellipse stroke-width="1.25" fill="transparent" cx="50%" cy="50%" stroke="#4488ff" ry="75" rx="50" class="foreground-stroke" />
-  <text font-size="28" x="50%" y="47.5%" class="foreground-fill" fill="#4488ff" text-anchor="middle" style="font-family: 'Abel';" alignment-baseline="middle">4bit</text>
-  <text font-size="28" x="50%" y="52%" class="foreground-fill" fill="#4488ff" text-anchor="middle" style="font-family: 'Abel';" alignment-baseline="middle">⋅⋅⋅⋅</text>
-  <text font-size="24" x="50%" y="57.5%" class="foreground-fill" fill="#4488ff" text-anchor="middle" style="font-family: 'Abel';" alignment-baseline="middle">css</text>
+  <text font-size="28" x="50%" y="47.5%" class="foreground-fill" fill="#4488ff" alignment-baseline="middle" text-anchor="middle" style="font-family: 'Abel';">4bit</text>
+  <text font-size="28" x="50%" y="52%" class="foreground-fill" fill="#4488ff" alignment-baseline="middle" text-anchor="middle" style="font-family: 'Abel';">⋅⋅⋅⋅</text>
+  <text font-size="24" x="50%" y="57.5%" class="foreground-fill" fill="#4488ff" alignment-baseline="middle" text-anchor="middle" style="font-family: 'Abel';">css</text>
 </svg></a></svg></div>
 
     {% if page.title %}
