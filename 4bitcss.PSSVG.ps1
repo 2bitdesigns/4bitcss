@@ -47,7 +47,7 @@ $assetFile =
             640 - ((16 - $n - 1 ) * 40)
         )
     }    
-) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg) -Width 100%
+) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg) -Width 640 
 
 $assetFile
 $assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
