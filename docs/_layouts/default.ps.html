@@ -7,18 +7,17 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analyticsID}}"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{site.analyticsID}}');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{site.analyticsID}}');
     </script>
     {% endif %}
     <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
     <script type="text/javascript" src="/js/4bit.js"></script>
-    <title>{{site.title}  {% if page.title %}  - {{page.title}}  {% end if %}</title>
+    <title>{{site.title}}  {% if page.title %}  - {{page.title}}  {% end if %}</title>
     <style>
       .monospace {
         font-family: 'Courier New', Courier, monospace;
