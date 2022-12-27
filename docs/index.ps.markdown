@@ -10,8 +10,6 @@ Get-Content .\4bitpreview.svg |
 ~~~
 </div>
 
-<div class='centered centeredText'>
-
 ~~~PipeScript{
 $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
     'BrightBlack', 'BrightRed', 'BrightGreen', 'BrightYellow', 'BrightBlue', 'BrightPurple', 'BrightCyan', 'BrightWhite'
@@ -27,4 +25,3 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 
 }
 ~~~
-</div>
