@@ -2,6 +2,17 @@
 ---
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
+  {% if site.analyticsID %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analyticsID}}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{site.analyticsID}}');
+  </script>
+  {% endif %}
 <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
 <meta name="viewport" content="width=device-width" />
 <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
