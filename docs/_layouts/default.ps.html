@@ -17,6 +17,12 @@
 <meta name="viewport" content="width=device-width" />
 <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
 <script type="text/javascript" src="/js/4bit.js"></script>
+<title>
+  {{site.title}
+  {% if page.title %}
+  - {{page.title}}
+  {% end if %}
+</title>
 <style>
   .monospace {
     font-family: 'Courier New', Courier, monospace;

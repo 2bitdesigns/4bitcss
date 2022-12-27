@@ -1,3 +1,7 @@
+---
+title: Using 4bitcss
+---
+
 Using any of these colors schemes is easy!
 
 Just add a link tag:
