@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1f2024;
-  --cursorColor: #7ebebd;
-  --foreground: #c6c6c6;
-  --background: #282b33;
-  --brightWhite: #d3d3d3;
-  --brightCyan: #69abc5;
-  --brightPurple: #efccfd;
-  --brightBlue: #b2cff0;
-  --brightYellow: #d1dfff;
-  --brightGreen: #8fd7d6;
-  --brightRed: #fa7193;
-  --brightBlack: #434750;
-  --white: #ababab;
-  --cyan: #5b94ab;
-  --purple: #e1c1ee;
-  --blue: #a6c1e0;
-  --yellow: #cccccc;
-  --green: #7ebebd;
-  --red: #e06383;
-  --black: #34373e;
-  --name: wilmersdorf
+    --selectionBackground: '#1f2024';
+  --cursorColor: '#7ebebd';
+  --foreground: '#c6c6c6';
+  --background: '#282b33';
+  --brightWhite: '#d3d3d3';
+  --brightCyan: '#69abc5';
+  --brightPurple: '#efccfd';
+  --brightBlue: '#b2cff0';
+  --brightYellow: '#d1dfff';
+  --brightGreen: '#8fd7d6';
+  --brightRed: '#fa7193';
+  --brightBlack: '#434750';
+  --white: '#ababab';
+  --cyan: '#5b94ab';
+  --purple: '#e1c1ee';
+  --blue: '#a6c1e0';
+  --yellow: '#cccccc';
+  --green: '#7ebebd';
+  --red: '#e06383';
+  --black: '#34373e';
+  --name: 'wilmersdorf'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'wilmersdorf'; }
