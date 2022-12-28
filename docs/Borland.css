@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#a4a4a4';
-  --cursorColor: '#ffa560';
-  --foreground: '#ffff4e';
-  --background: '#0000a4';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#dfdffe';
-  --brightPurple: '#ff9cfe';
-  --brightBlue: '#b5dcff';
-  --brightYellow: '#ffffcc';
-  --brightGreen: '#ceffac';
-  --brightRed: '#ffb6b0';
-  --brightBlack: '#7c7c7c';
-  --white: '#eeeeee';
-  --cyan: '#c6c5fe';
-  --purple: '#ff73fd';
-  --blue: '#96cbfe';
-  --yellow: '#ffffb6';
-  --green: '#a8ff60';
-  --red: '#ff6c60';
-  --black: '#4f4f4f';
+    --selectionBackground: #a4a4a4;
+  --cursorColor: #ffa560;
+  --foreground: #ffff4e;
+  --background: #0000a4;
+  --brightWhite: #ffffff;
+  --brightCyan: #dfdffe;
+  --brightPurple: #ff9cfe;
+  --brightBlue: #b5dcff;
+  --brightYellow: #ffffcc;
+  --brightGreen: #ceffac;
+  --brightRed: #ffb6b0;
+  --brightBlack: #7c7c7c;
+  --white: #eeeeee;
+  --cyan: #c6c5fe;
+  --purple: #ff73fd;
+  --blue: #96cbfe;
+  --yellow: #ffffb6;
+  --green: #a8ff60;
+  --red: #ff6c60;
+  --black: #4f4f4f;
   --name: 'Borland'
 }
 
