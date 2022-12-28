@@ -41,7 +41,7 @@ function switchTheme(themeName) {
 
     var colorSchemeNameLink = document.getElementById("colorSchemeNameLink")
     if (colorSchemeNameLink) {
-        colorSchemeNameLink.href = "https://4bitcss/" + foundTheme;
+        colorSchemeNameLink.href = "https://4bitcss.com/" + foundTheme;
     }
 }
 
