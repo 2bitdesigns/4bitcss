@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#304b66';
-  --cursorColor: '#ffffff';
-  --foreground: '#c0c9e5';
-  --background: '#111e2a';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#64e0ff';
-  --brightPurple: '#ff4fa1';
-  --brightBlue: '#6c9bf5';
-  --brightYellow: '#fff09b';
-  --brightGreen: '#7afde1';
-  --brightRed: '#fc644d';
-  --brightBlack: '#304b66';
-  --white: '#c0c9e5';
-  --cyan: '#64e0ff';
-  --purple: '#ff4fa1';
-  --blue: '#6c9bf5';
-  --yellow: '#fff09b';
-  --green: '#7afde1';
-  --red: '#fc644d';
-  --black: '#000000';
+    --selectionBackground: #304b66;
+  --cursorColor: #ffffff;
+  --foreground: #c0c9e5;
+  --background: #111e2a;
+  --brightWhite: #ffffff;
+  --brightCyan: #64e0ff;
+  --brightPurple: #ff4fa1;
+  --brightBlue: #6c9bf5;
+  --brightYellow: #fff09b;
+  --brightGreen: #7afde1;
+  --brightRed: #fc644d;
+  --brightBlack: #304b66;
+  --white: #c0c9e5;
+  --cyan: #64e0ff;
+  --purple: #ff4fa1;
+  --blue: #6c9bf5;
+  --yellow: #fff09b;
+  --green: #7afde1;
+  --red: #fc644d;
+  --black: #000000;
   --name: 'Rapture'
 }
 
