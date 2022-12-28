@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #adbdd0;
-  --cursorColor: #e6e5e5;
-  --foreground: #e6e5e5;
-  --background: #0d0d17;
-  --brightWhite: #ffffff;
-  --brightCyan: #0ae78d;
-  --brightPurple: #ff78a2;
-  --brightBlue: #6096ff;
-  --brightYellow: #fffc67;
-  --brightGreen: #0ae78d;
-  --brightRed: #f16d86;
-  --brightBlack: #808080;
-  --white: #fcfcfc;
-  --cyan: #09c87a;
-  --purple: #ff2b6d;
-  --blue: #3182e0;
-  --yellow: #f5f17a;
-  --green: #09cd7e;
-  --red: #f12d52;
-  --black: #4d4d4d;
-  --name: Nocturnal Winter
+    --selectionBackground: '#adbdd0';
+  --cursorColor: '#e6e5e5';
+  --foreground: '#e6e5e5';
+  --background: '#0d0d17';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#0ae78d';
+  --brightPurple: '#ff78a2';
+  --brightBlue: '#6096ff';
+  --brightYellow: '#fffc67';
+  --brightGreen: '#0ae78d';
+  --brightRed: '#f16d86';
+  --brightBlack: '#808080';
+  --white: '#fcfcfc';
+  --cyan: '#09c87a';
+  --purple: '#ff2b6d';
+  --blue: '#3182e0';
+  --yellow: '#f5f17a';
+  --green: '#09cd7e';
+  --red: '#f12d52';
+  --black: '#4d4d4d';
+  --name: 'Nocturnal Winter'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Nocturnal Winter'; }
