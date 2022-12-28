@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #a4a390;
-  --cursorColor: #73635a;
-  --foreground: #3b2322;
-  --background: #dfdbc3;
-  --brightWhite: #ffffff;
-  --brightCyan: #0087cc;
-  --brightPurple: #cc00cc;
-  --brightBlue: #0000cc;
-  --brightYellow: #d06b00;
-  --brightGreen: #009600;
-  --brightRed: #cc0000;
-  --brightBlack: #808080;
-  --white: #cccccc;
-  --cyan: #0087cc;
-  --purple: #cc00cc;
-  --blue: #0000cc;
-  --yellow: #d06b00;
-  --green: #009600;
-  --red: #cc0000;
-  --black: #000000;
-  --name: Novel
+    --selectionBackground: '#a4a390';
+  --cursorColor: '#73635a';
+  --foreground: '#3b2322';
+  --background: '#dfdbc3';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#0087cc';
+  --brightPurple: '#cc00cc';
+  --brightBlue: '#0000cc';
+  --brightYellow: '#d06b00';
+  --brightGreen: '#009600';
+  --brightRed: '#cc0000';
+  --brightBlack: '#808080';
+  --white: '#cccccc';
+  --cyan: '#0087cc';
+  --purple: '#cc00cc';
+  --blue: '#0000cc';
+  --yellow: '#d06b00';
+  --green: '#009600';
+  --red: '#cc0000';
+  --black: '#000000';
+  --name: 'Novel'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Novel'; }
