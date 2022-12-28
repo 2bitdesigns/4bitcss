@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #3a3e3d;
-  --cursorColor: #ceddd7;
-  --foreground: #c6d5cf;
-  --background: #0f191f;
-  --brightWhite: #98a39e;
-  --brightCyan: #65b8c1;
-  --brightPurple: #cf86c1;
-  --brightBlue: #92a0e2;
-  --brightYellow: #d68c67;
-  --brightGreen: #a0ff85;
-  --brightRed: #e8838f;
-  --brightBlack: #263945;
-  --white: #c6d5cf;
-  --cyan: #66a5ad;
-  --purple: #b279a7;
-  --blue: #8190d4;
-  --yellow: #b77e64;
-  --green: #90ff6b;
-  --red: #de6e7c;
-  --black: #0f191f;
-  --name: neobones_dark
+    --selectionBackground: '#3a3e3d';
+  --cursorColor: '#ceddd7';
+  --foreground: '#c6d5cf';
+  --background: '#0f191f';
+  --brightWhite: '#98a39e';
+  --brightCyan: '#65b8c1';
+  --brightPurple: '#cf86c1';
+  --brightBlue: '#92a0e2';
+  --brightYellow: '#d68c67';
+  --brightGreen: '#a0ff85';
+  --brightRed: '#e8838f';
+  --brightBlack: '#263945';
+  --white: '#c6d5cf';
+  --cyan: '#66a5ad';
+  --purple: '#b279a7';
+  --blue: '#8190d4';
+  --yellow: '#b77e64';
+  --green: '#90ff6b';
+  --red: '#de6e7c';
+  --black: '#0f191f';
+  --name: 'neobones_dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'neobones_dark'; }
