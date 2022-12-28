@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #bbbbbb;
-  --foreground: #dbdbdb;
-  --background: #000000;
-  --brightWhite: #dbdbdb;
-  --brightCyan: #86eafe;
-  --brightPurple: #c001c1;
-  --brightBlue: #89beff;
-  --brightYellow: #fbe84a;
-  --brightGreen: #a5df55;
-  --brightRed: #d51d00;
-  --brightBlack: #262626;
-  --white: #cbcccb;
-  --cyan: #86e9fe;
-  --purple: #fd5ff1;
-  --blue: #496487;
-  --yellow: #fbe74a;
-  --green: #a5e055;
-  --red: #ff1b00;
-  --black: #575757;
-  --name: Hurtado
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#dbdbdb';
+  --background: '#000000';
+  --brightWhite: '#dbdbdb';
+  --brightCyan: '#86eafe';
+  --brightPurple: '#c001c1';
+  --brightBlue: '#89beff';
+  --brightYellow: '#fbe84a';
+  --brightGreen: '#a5df55';
+  --brightRed: '#d51d00';
+  --brightBlack: '#262626';
+  --white: '#cbcccb';
+  --cyan: '#86e9fe';
+  --purple: '#fd5ff1';
+  --blue: '#496487';
+  --yellow: '#fbe74a';
+  --green: '#a5e055';
+  --red: '#ff1b00';
+  --black: '#575757';
+  --name: 'Hurtado'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hurtado'; }
