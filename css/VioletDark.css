@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #595ab7;
-  --cursorColor: #708284;
-  --foreground: #708284;
-  --background: #1c1d1f;
-  --brightWhite: #c9c6bd;
-  --brightCyan: #259286;
-  --brightPurple: #c61c6f;
-  --brightBlue: #2176c7;
-  --brightYellow: #a57705;
-  --brightGreen: #738a04;
-  --brightRed: #bd3613;
-  --brightBlack: #45484b;
-  --white: #c9c6bd;
-  --cyan: #32a198;
-  --purple: #d13a82;
-  --blue: #2e8bce;
-  --yellow: #b4881d;
-  --green: #85981c;
-  --red: #c94c22;
-  --black: #56595c;
-  --name: Violet Dark
+    --selectionBackground: '#595ab7';
+  --cursorColor: '#708284';
+  --foreground: '#708284';
+  --background: '#1c1d1f';
+  --brightWhite: '#c9c6bd';
+  --brightCyan: '#259286';
+  --brightPurple: '#c61c6f';
+  --brightBlue: '#2176c7';
+  --brightYellow: '#a57705';
+  --brightGreen: '#738a04';
+  --brightRed: '#bd3613';
+  --brightBlack: '#45484b';
+  --white: '#c9c6bd';
+  --cyan: '#32a198';
+  --purple: '#d13a82';
+  --blue: '#2e8bce';
+  --yellow: '#b4881d';
+  --green: '#85981c';
+  --red: '#c94c22';
+  --black: '#56595c';
+  --name: 'Violet Dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Violet Dark'; }
