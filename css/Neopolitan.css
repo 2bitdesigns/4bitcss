@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #253b76;
-  --cursorColor: #ffffff;
-  --foreground: #ffffff;
-  --background: #271f19;
-  --brightWhite: #f8f8f8;
-  --brightCyan: #8da6ce;
-  --brightPurple: #ff0080;
-  --brightBlue: #253b76;
-  --brightYellow: #fbde2d;
-  --brightGreen: #61ce3c;
-  --brightRed: #800000;
-  --brightBlack: #000000;
-  --white: #f8f8f8;
-  --cyan: #8da6ce;
-  --purple: #ff0080;
-  --blue: #253b76;
-  --yellow: #fbde2d;
-  --green: #61ce3c;
-  --red: #800000;
-  --black: #000000;
-  --name: Neopolitan
+    --selectionBackground: '#253b76';
+  --cursorColor: '#ffffff';
+  --foreground: '#ffffff';
+  --background: '#271f19';
+  --brightWhite: '#f8f8f8';
+  --brightCyan: '#8da6ce';
+  --brightPurple: '#ff0080';
+  --brightBlue: '#253b76';
+  --brightYellow: '#fbde2d';
+  --brightGreen: '#61ce3c';
+  --brightRed: '#800000';
+  --brightBlack: '#000000';
+  --white: '#f8f8f8';
+  --cyan: '#8da6ce';
+  --purple: '#ff0080';
+  --blue: '#253b76';
+  --yellow: '#fbde2d';
+  --green: '#61ce3c';
+  --red: '#800000';
+  --black: '#000000';
+  --name: 'Neopolitan'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Neopolitan'; }
