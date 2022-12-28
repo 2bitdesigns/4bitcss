@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#42444b';
-  --cursorColor: '#51afef';
-  --foreground: '#bbc2cf';
-  --background: '#282c34';
-  --brightWhite: '#bfbfbf';
-  --brightCyan: '#51afef';
-  --brightPurple: '#c678dd';
-  --brightBlue: '#a9a1e1';
-  --brightYellow: '#ecbe7b';
-  --brightGreen: '#99bb66';
-  --brightRed: '#ff6655';
-  --brightBlack: '#000000';
-  --white: '#bbc2cf';
-  --cyan: '#51afef';
-  --purple: '#c678dd';
-  --blue: '#a9a1e1';
-  --yellow: '#ecbe7b';
-  --green: '#98be65';
-  --red: '#ff6c6b';
-  --black: '#000000';
+    --selectionBackground: #42444b;
+  --cursorColor: #51afef;
+  --foreground: #bbc2cf;
+  --background: #282c34;
+  --brightWhite: #bfbfbf;
+  --brightCyan: #51afef;
+  --brightPurple: #c678dd;
+  --brightBlue: #a9a1e1;
+  --brightYellow: #ecbe7b;
+  --brightGreen: #99bb66;
+  --brightRed: #ff6655;
+  --brightBlack: #000000;
+  --white: #bbc2cf;
+  --cyan: #51afef;
+  --purple: #c678dd;
+  --blue: #a9a1e1;
+  --yellow: #ecbe7b;
+  --green: #98be65;
+  --red: #ff6c6b;
+  --black: #000000;
   --name: 'DoomOne'
 }
 
