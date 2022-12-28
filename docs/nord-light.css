@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #d8dee9;
-  --cursorColor: #88c0d0;
-  --foreground: #414858;
-  --background: #e5e9f0;
-  --brightWhite: #eceff4;
-  --brightCyan: #8fbcbb;
-  --brightPurple: #b48ead;
-  --brightBlue: #81a1c1;
-  --brightYellow: #ebcb8b;
-  --brightGreen: #a3be8c;
-  --brightRed: #bf616a;
-  --brightBlack: #4c566a;
-  --white: #d8dee9;
-  --cyan: #88c0d0;
-  --purple: #b48ead;
-  --blue: #81a1c1;
-  --yellow: #ebcb8b;
-  --green: #a3be8c;
-  --red: #bf616a;
-  --black: #3b4252;
-  --name: nord-light
+    --selectionBackground: '#d8dee9';
+  --cursorColor: '#88c0d0';
+  --foreground: '#414858';
+  --background: '#e5e9f0';
+  --brightWhite: '#eceff4';
+  --brightCyan: '#8fbcbb';
+  --brightPurple: '#b48ead';
+  --brightBlue: '#81a1c1';
+  --brightYellow: '#ebcb8b';
+  --brightGreen: '#a3be8c';
+  --brightRed: '#bf616a';
+  --brightBlack: '#4c566a';
+  --white: '#d8dee9';
+  --cyan: '#88c0d0';
+  --purple: '#b48ead';
+  --blue: '#81a1c1';
+  --yellow: '#ebcb8b';
+  --green: '#a3be8c';
+  --red: '#bf616a';
+  --black: '#3b4252';
+  --name: 'nord-light'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'nord-light'; }
