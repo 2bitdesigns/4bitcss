@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #18354f;
-  --cursorColor: #f0cc09;
-  --foreground: #ffffff;
-  --background: #132738;
-  --brightWhite: #ffffff;
-  --brightCyan: #6ae3fa;
-  --brightPurple: #ff55ff;
-  --brightBlue: #5555ff;
-  --brightYellow: #edc809;
-  --brightGreen: #3bd01d;
-  --brightRed: #f40e17;
-  --brightBlack: #555555;
-  --white: #bbbbbb;
-  --cyan: #00bbbb;
-  --purple: #ff005d;
-  --blue: #1460d2;
-  --yellow: #ffe50a;
-  --green: #38de21;
-  --red: #ff0000;
-  --black: #000000;
-  --name: Cobalt2
+    --selectionBackground: '#18354f';
+  --cursorColor: '#f0cc09';
+  --foreground: '#ffffff';
+  --background: '#132738';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#6ae3fa';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#5555ff';
+  --brightYellow: '#edc809';
+  --brightGreen: '#3bd01d';
+  --brightRed: '#f40e17';
+  --brightBlack: '#555555';
+  --white: '#bbbbbb';
+  --cyan: '#00bbbb';
+  --purple: '#ff005d';
+  --blue: '#1460d2';
+  --yellow: '#ffe50a';
+  --green: '#38de21';
+  --red: '#ff0000';
+  --black: '#000000';
+  --name: 'Cobalt2'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt2'; }
