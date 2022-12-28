@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#484e5b';
-  --cursorColor: '#c7c7c7';
-  --foreground: '#d4d4d4';
-  --background: '#282c35';
-  --brightWhite: '#d4d4d4';
-  --brightCyan: '#5fb3b3';
-  --brightPurple: '#f1a5ab';
-  --brightBlue: '#6699cc';
-  --brightYellow: '#ffe2a9';
-  --brightGreen: '#a9cfa4';
-  --brightRed: '#e15a60';
-  --brightBlack: '#7f7f7f';
-  --white: '#d4d4d4';
-  --cyan: '#5fb3b3';
-  --purple: '#f1a5ab';
-  --blue: '#6699cc';
-  --yellow: '#ffe2a9';
-  --green: '#a9cfa4';
-  --red: '#e15a60';
-  --black: '#7f7f7f';
+    --selectionBackground: #484e5b;
+  --cursorColor: #c7c7c7;
+  --foreground: #d4d4d4;
+  --background: #282c35;
+  --brightWhite: #d4d4d4;
+  --brightCyan: #5fb3b3;
+  --brightPurple: #f1a5ab;
+  --brightBlue: #6699cc;
+  --brightYellow: #ffe2a9;
+  --brightGreen: #a9cfa4;
+  --brightRed: #e15a60;
+  --brightBlack: #7f7f7f;
+  --white: #d4d4d4;
+  --cyan: #5fb3b3;
+  --purple: #f1a5ab;
+  --blue: #6699cc;
+  --yellow: #ffe2a9;
+  --green: #a9cfa4;
+  --red: #e15a60;
+  --black: #7f7f7f;
   --name: 'Subliminal'
 }
 
