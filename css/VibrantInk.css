@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #ffffff;
-  --foreground: #ffffff;
-  --background: #000000;
-  --brightWhite: #e5e5e5;
-  --brightCyan: #00ffff;
-  --brightPurple: #ff00ff;
-  --brightBlue: #0000ff;
-  --brightYellow: #ffff00;
-  --brightGreen: #00ff00;
-  --brightRed: #ff0000;
-  --brightBlack: #555555;
-  --white: #f5f5f5;
-  --cyan: #44b4cc;
-  --purple: #9933cc;
-  --blue: #44b4cc;
-  --yellow: #ffcc00;
-  --green: #ccff04;
-  --red: #ff6600;
-  --black: #878787;
-  --name: VibrantInk
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#ffffff';
+  --foreground: '#ffffff';
+  --background: '#000000';
+  --brightWhite: '#e5e5e5';
+  --brightCyan: '#00ffff';
+  --brightPurple: '#ff00ff';
+  --brightBlue: '#0000ff';
+  --brightYellow: '#ffff00';
+  --brightGreen: '#00ff00';
+  --brightRed: '#ff0000';
+  --brightBlack: '#555555';
+  --white: '#f5f5f5';
+  --cyan: '#44b4cc';
+  --purple: '#9933cc';
+  --blue: '#44b4cc';
+  --yellow: '#ffcc00';
+  --green: '#ccff04';
+  --red: '#ff6600';
+  --black: '#878787';
+  --name: 'VibrantInk'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'VibrantInk'; }
