@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#384564';
-  --cursorColor: '#e0d9b9';
-  --foreground: '#ededed';
-  --background: '#222225';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#5d504a';
-  --brightPurple: '#de0071';
-  --brightBlue: '#4fc2fd';
-  --brightYellow: '#fff120';
-  --brightGreen: '#b1d130';
-  --brightRed: '#f07e18';
-  --brightBlack: '#5d504a';
-  --white: '#ededed';
-  --cyan: '#384564';
-  --purple: '#6b2775';
-  --blue: '#006bb3';
-  --yellow: '#ffcb3e';
-  --green: '#138034';
-  --red: '#d00e18';
-  --black: '#000000';
+    --selectionBackground: #384564;
+  --cursorColor: #e0d9b9;
+  --foreground: #ededed;
+  --background: #222225;
+  --brightWhite: #ffffff;
+  --brightCyan: #5d504a;
+  --brightPurple: #de0071;
+  --brightBlue: #4fc2fd;
+  --brightYellow: #fff120;
+  --brightGreen: #b1d130;
+  --brightRed: #f07e18;
+  --brightBlack: #5d504a;
+  --white: #ededed;
+  --cyan: #384564;
+  --purple: #6b2775;
+  --blue: #006bb3;
+  --yellow: #ffcb3e;
+  --green: #138034;
+  --red: #d00e18;
+  --black: #000000;
   --name: 'Highway'
 }
 
