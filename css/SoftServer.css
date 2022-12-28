@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #7f8786;
-  --cursorColor: #d2e0de;
-  --foreground: #99a3a2;
-  --background: #242626;
-  --brightWhite: #d2e0de;
-  --brightCyan: #64e39c;
-  --brightPurple: #606edf;
-  --brightBlue: #62b1df;
-  --brightYellow: #deb360;
-  --brightGreen: #bfdf55;
-  --brightRed: #dd5c60;
-  --brightBlack: #666c6c;
-  --white: #99a3a2;
-  --cyan: #6ba58f;
-  --purple: #6a71a3;
-  --blue: #6b8fa3;
-  --yellow: #a3906a;
-  --green: #9aa56a;
-  --red: #a2686a;
-  --black: #000000;
-  --name: SoftServer
+    --selectionBackground: '#7f8786';
+  --cursorColor: '#d2e0de';
+  --foreground: '#99a3a2';
+  --background: '#242626';
+  --brightWhite: '#d2e0de';
+  --brightCyan: '#64e39c';
+  --brightPurple: '#606edf';
+  --brightBlue: '#62b1df';
+  --brightYellow: '#deb360';
+  --brightGreen: '#bfdf55';
+  --brightRed: '#dd5c60';
+  --brightBlack: '#666c6c';
+  --white: '#99a3a2';
+  --cyan: '#6ba58f';
+  --purple: '#6a71a3';
+  --blue: '#6b8fa3';
+  --yellow: '#a3906a';
+  --green: '#9aa56a';
+  --red: '#a2686a';
+  --black: '#000000';
+  --name: 'SoftServer'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SoftServer'; }
