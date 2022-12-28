@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #313131;
-  --cursorColor: #ffffff;
-  --foreground: #ffffd4;
-  --background: #141414;
-  --brightWhite: #ffffd4;
-  --brightCyan: #8a989b;
-  --brightPurple: #d0dc8e;
-  --brightBlue: #5a5e62;
-  --brightYellow: #e2c47e;
-  --brightGreen: #ccd88c;
-  --brightRed: #de7c4c;
-  --brightBlack: #262626;
-  --white: #ffffd4;
-  --cyan: #778385;
-  --purple: #b4be7c;
-  --blue: #44474a;
-  --yellow: #c2a86c;
-  --green: #afb97a;
-  --red: #c06d44;
-  --black: #141414;
-  --name: Twilight
+    --selectionBackground: '#313131';
+  --cursorColor: '#ffffff';
+  --foreground: '#ffffd4';
+  --background: '#141414';
+  --brightWhite: '#ffffd4';
+  --brightCyan: '#8a989b';
+  --brightPurple: '#d0dc8e';
+  --brightBlue: '#5a5e62';
+  --brightYellow: '#e2c47e';
+  --brightGreen: '#ccd88c';
+  --brightRed: '#de7c4c';
+  --brightBlack: '#262626';
+  --white: '#ffffd4';
+  --cyan: '#778385';
+  --purple: '#b4be7c';
+  --blue: '#44474a';
+  --yellow: '#c2a86c';
+  --green: '#afb97a';
+  --red: '#c06d44';
+  --black: '#141414';
+  --name: 'Twilight'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Twilight'; }
