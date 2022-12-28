@@ -235,7 +235,7 @@ function Export-4BitCSS
 :root {
     $(@(
     foreach ($prop in $jsonObject.psobject.properties) {
-    "--$($prop.Name): $($prop.Value)"
+    "--$($prop.Name): '$($prop.Value)'"
     }) -join (';' + [Environment]::NewLine + '  '))
 }
 
