@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b5d5ff';
-  --cursorColor: '#ffffff';
-  --foreground: '#ffffff';
-  --background: '#000000';
-  --brightWhite: '#eeeeec';
-  --brightCyan: '#34e2e2';
-  --brightPurple: '#ad7fa8';
-  --brightBlue: '#729fcf';
-  --brightYellow: '#fce94f';
-  --brightGreen: '#8ae234';
-  --brightRed: '#ef2929';
-  --brightBlack: '#555753';
-  --white: '#d3d7cf';
-  --cyan: '#06989a';
-  --purple: '#75507b';
-  --blue: '#3465a4';
-  --yellow: '#c4a000';
-  --green: '#4e9a06';
-  --red: '#cc0000';
-  --black: '#000000';
+    --selectionBackground: #b5d5ff;
+  --cursorColor: #ffffff;
+  --foreground: #ffffff;
+  --background: #000000;
+  --brightWhite: #eeeeec;
+  --brightCyan: #34e2e2;
+  --brightPurple: #ad7fa8;
+  --brightBlue: #729fcf;
+  --brightYellow: #fce94f;
+  --brightGreen: #8ae234;
+  --brightRed: #ef2929;
+  --brightBlack: #555753;
+  --white: #d3d7cf;
+  --cyan: #06989a;
+  --purple: #75507b;
+  --blue: #3465a4;
+  --yellow: #c4a000;
+  --green: #4e9a06;
+  --red: #cc0000;
+  --black: #000000;
   --name: 'Builtin Tango Dark'
 }
 
