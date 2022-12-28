@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #3e4c4f;
-  --cursorColor: #c0cad0;
-  --foreground: #cdcdcd;
-  --background: #283033;
-  --brightWhite: #ffffff;
-  --brightCyan: #55ffff;
-  --brightPurple: #ff55ff;
-  --brightBlue: #a1d7ff;
-  --brightYellow: #fef874;
-  --brightGreen: #93c863;
-  --brightRed: #ff0003;
-  --brightBlack: #555555;
-  --white: #bbbbbb;
-  --cyan: #00bbbb;
-  --purple: #bb00bb;
-  --blue: #3a9bdb;
-  --yellow: #fecd22;
-  --green: #00bb00;
-  --red: #a60001;
-  --black: #000000;
-  --name: Obsidian
+    --selectionBackground: '#3e4c4f';
+  --cursorColor: '#c0cad0';
+  --foreground: '#cdcdcd';
+  --background: '#283033';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#55ffff';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#a1d7ff';
+  --brightYellow: '#fef874';
+  --brightGreen: '#93c863';
+  --brightRed: '#ff0003';
+  --brightBlack: '#555555';
+  --white: '#bbbbbb';
+  --cyan: '#00bbbb';
+  --purple: '#bb00bb';
+  --blue: '#3a9bdb';
+  --yellow: '#fecd22';
+  --green: '#00bb00';
+  --red: '#a60001';
+  --black: '#000000';
+  --name: 'Obsidian'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Obsidian'; }
