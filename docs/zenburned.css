@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #746956;
-  --cursorColor: #f3eadb;
-  --foreground: #f0e4cf;
-  --background: #404040;
-  --brightWhite: #c0ab86;
-  --brightCyan: #65b8c1;
-  --brightPurple: #cf86c1;
-  --brightBlue: #61abda;
-  --brightYellow: #d68c67;
-  --brightGreen: #8bae68;
-  --brightRed: #ec8685;
-  --brightBlack: #625a5b;
-  --white: #f0e4cf;
-  --cyan: #66a5ad;
-  --purple: #b279a7;
-  --blue: #6099c0;
-  --yellow: #b77e64;
-  --green: #819b69;
-  --red: #e3716e;
-  --black: #404040;
-  --name: zenburned
+    --selectionBackground: '#746956';
+  --cursorColor: '#f3eadb';
+  --foreground: '#f0e4cf';
+  --background: '#404040';
+  --brightWhite: '#c0ab86';
+  --brightCyan: '#65b8c1';
+  --brightPurple: '#cf86c1';
+  --brightBlue: '#61abda';
+  --brightYellow: '#d68c67';
+  --brightGreen: '#8bae68';
+  --brightRed: '#ec8685';
+  --brightBlack: '#625a5b';
+  --white: '#f0e4cf';
+  --cyan: '#66a5ad';
+  --purple: '#b279a7';
+  --blue: '#6099c0';
+  --yellow: '#b77e64';
+  --green: '#819b69';
+  --red: '#e3716e';
+  --black: '#404040';
+  --name: 'zenburned'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenburned'; }
