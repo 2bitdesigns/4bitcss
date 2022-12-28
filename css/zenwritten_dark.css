@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #404040;
-  --cursorColor: #c9c9c9;
-  --foreground: #bbbbbb;
-  --background: #191919;
-  --brightWhite: #8e8e8e;
-  --brightCyan: #65b8c1;
-  --brightPurple: #cf86c1;
-  --brightBlue: #61abda;
-  --brightYellow: #d68c67;
-  --brightGreen: #8bae68;
-  --brightRed: #e8838f;
-  --brightBlack: #3d3839;
-  --white: #bbbbbb;
-  --cyan: #66a5ad;
-  --purple: #b279a7;
-  --blue: #6099c0;
-  --yellow: #b77e64;
-  --green: #819b69;
-  --red: #de6e7c;
-  --black: #191919;
-  --name: zenwritten_dark
+    --selectionBackground: '#404040';
+  --cursorColor: '#c9c9c9';
+  --foreground: '#bbbbbb';
+  --background: '#191919';
+  --brightWhite: '#8e8e8e';
+  --brightCyan: '#65b8c1';
+  --brightPurple: '#cf86c1';
+  --brightBlue: '#61abda';
+  --brightYellow: '#d68c67';
+  --brightGreen: '#8bae68';
+  --brightRed: '#e8838f';
+  --brightBlack: '#3d3839';
+  --white: '#bbbbbb';
+  --cyan: '#66a5ad';
+  --purple: '#b279a7';
+  --blue: '#6099c0';
+  --yellow: '#b77e64';
+  --green: '#819b69';
+  --red: '#de6e7c';
+  --black: '#191919';
+  --name: 'zenwritten_dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenwritten_dark'; }
