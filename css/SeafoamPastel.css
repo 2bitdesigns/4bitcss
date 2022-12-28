@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#ffffff';
-  --cursorColor: '#57647a';
-  --foreground: '#d4e7d4';
-  --background: '#243435';
-  --brightWhite: '#e0e0e0';
-  --brightCyan: '#ade0e0';
-  --brightPurple: '#d6b2a1';
-  --brightBlue: '#7ac3cf';
-  --brightYellow: '#fae79d';
-  --brightGreen: '#98d9aa';
-  --brightRed: '#cf937a';
-  --brightBlack: '#8a8a8a';
-  --white: '#e0e0e0';
-  --cyan: '#729494';
-  --purple: '#8a7267';
-  --blue: '#4d7b82';
-  --yellow: '#ada16d';
-  --green: '#728c62';
-  --red: '#825d4d';
-  --black: '#757575';
+    --selectionBackground: #ffffff;
+  --cursorColor: #57647a;
+  --foreground: #d4e7d4;
+  --background: #243435;
+  --brightWhite: #e0e0e0;
+  --brightCyan: #ade0e0;
+  --brightPurple: #d6b2a1;
+  --brightBlue: #7ac3cf;
+  --brightYellow: #fae79d;
+  --brightGreen: #98d9aa;
+  --brightRed: #cf937a;
+  --brightBlack: #8a8a8a;
+  --white: #e0e0e0;
+  --cyan: #729494;
+  --purple: #8a7267;
+  --blue: #4d7b82;
+  --yellow: #ada16d;
+  --green: #728c62;
+  --red: #825d4d;
+  --black: #757575;
   --name: 'Seafoam Pastel'
 }
 
