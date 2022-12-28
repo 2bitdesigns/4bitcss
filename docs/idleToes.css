@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5b5b5b;
-  --cursorColor: #d6d6d6;
-  --foreground: #ffffff;
-  --background: #323232;
-  --brightWhite: #ffffff;
-  --brightCyan: #dcf4ff;
-  --brightPurple: #ff9dff;
-  --brightBlue: #5eb7f7;
-  --brightYellow: #ffe48b;
-  --brightGreen: #9dff91;
-  --brightRed: #f07070;
-  --brightBlack: #535353;
-  --white: #eeeeec;
-  --cyan: #bed6ff;
-  --purple: #f680ff;
-  --blue: #4099ff;
-  --yellow: #ffc66d;
-  --green: #7fe173;
-  --red: #d25252;
-  --black: #323232;
-  --name: idleToes
+    --selectionBackground: '#5b5b5b';
+  --cursorColor: '#d6d6d6';
+  --foreground: '#ffffff';
+  --background: '#323232';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#dcf4ff';
+  --brightPurple: '#ff9dff';
+  --brightBlue: '#5eb7f7';
+  --brightYellow: '#ffe48b';
+  --brightGreen: '#9dff91';
+  --brightRed: '#f07070';
+  --brightBlack: '#535353';
+  --white: '#eeeeec';
+  --cyan: '#bed6ff';
+  --purple: '#f680ff';
+  --blue: '#4099ff';
+  --yellow: '#ffc66d';
+  --green: '#7fe173';
+  --red: '#d25252';
+  --black: '#323232';
+  --name: 'idleToes'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'idleToes'; }
