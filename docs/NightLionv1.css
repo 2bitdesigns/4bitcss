@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #bbbbbb;
-  --foreground: #bbbbbb;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #55ffff;
-  --brightPurple: #ff55ff;
-  --brightBlue: #5555ff;
-  --brightYellow: #ffff55;
-  --brightGreen: #55ff55;
-  --brightRed: #ff5555;
-  --brightBlack: #555555;
-  --white: #bbbbbb;
-  --cyan: #00dadf;
-  --purple: #bb00bb;
-  --blue: #276bd8;
-  --yellow: #f3f167;
-  --green: #5fde8f;
-  --red: #bb0000;
-  --black: #4c4c4c;
-  --name: NightLion v1
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#bbbbbb';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#55ffff';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#5555ff';
+  --brightYellow: '#ffff55';
+  --brightGreen: '#55ff55';
+  --brightRed: '#ff5555';
+  --brightBlack: '#555555';
+  --white: '#bbbbbb';
+  --cyan: '#00dadf';
+  --purple: '#bb00bb';
+  --blue: '#276bd8';
+  --yellow: '#f3f167';
+  --green: '#5fde8f';
+  --red: '#bb0000';
+  --black: '#4c4c4c';
+  --name: 'NightLion v1'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'NightLion v1'; }
