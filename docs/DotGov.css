@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1a4080;
-  --cursorColor: #d9002f;
-  --foreground: #ebebeb;
-  --background: #262c35;
-  --brightWhite: #ffffff;
-  --brightCyan: #8bd2ed;
-  --brightPurple: #7830b0;
-  --brightBlue: #17b2e0;
-  --brightYellow: #f6bb34;
-  --brightGreen: #3d9751;
-  --brightRed: #bf091d;
-  --brightBlack: #191919;
-  --white: #ffffff;
-  --cyan: #8bd2ed;
-  --purple: #7830b0;
-  --blue: #17b2e0;
-  --yellow: #f6bb34;
-  --green: #3d9751;
-  --red: #bf091d;
-  --black: #191919;
-  --name: DotGov
+    --selectionBackground: '#1a4080';
+  --cursorColor: '#d9002f';
+  --foreground: '#ebebeb';
+  --background: '#262c35';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#8bd2ed';
+  --brightPurple: '#7830b0';
+  --brightBlue: '#17b2e0';
+  --brightYellow: '#f6bb34';
+  --brightGreen: '#3d9751';
+  --brightRed: '#bf091d';
+  --brightBlack: '#191919';
+  --white: '#ffffff';
+  --cyan: '#8bd2ed';
+  --purple: '#7830b0';
+  --blue: '#17b2e0';
+  --yellow: '#f6bb34';
+  --green: '#3d9751';
+  --red: '#bf091d';
+  --black: '#191919';
+  --name: 'DotGov'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DotGov'; }
