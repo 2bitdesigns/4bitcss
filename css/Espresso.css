@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#5b5b5b';
-  --cursorColor: '#d6d6d6';
-  --foreground: '#ffffff';
-  --background: '#323232';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#dcf4ff';
-  --brightPurple: '#efb5f7';
-  --brightBlue: '#8ab7d9';
-  --brightYellow: '#e1e48b';
-  --brightGreen: '#c2e075';
-  --brightRed: '#f00c0c';
-  --brightBlack: '#535353';
-  --white: '#eeeeec';
-  --cyan: '#bed6ff';
-  --purple: '#d197d9';
-  --blue: '#6c99bb';
-  --yellow: '#ffc66d';
-  --green: '#a5c261';
-  --red: '#d25252';
-  --black: '#353535';
+    --selectionBackground: #5b5b5b;
+  --cursorColor: #d6d6d6;
+  --foreground: #ffffff;
+  --background: #323232;
+  --brightWhite: #ffffff;
+  --brightCyan: #dcf4ff;
+  --brightPurple: #efb5f7;
+  --brightBlue: #8ab7d9;
+  --brightYellow: #e1e48b;
+  --brightGreen: #c2e075;
+  --brightRed: #f00c0c;
+  --brightBlack: #535353;
+  --white: #eeeeec;
+  --cyan: #bed6ff;
+  --purple: #d197d9;
+  --blue: #6c99bb;
+  --yellow: #ffc66d;
+  --green: #a5c261;
+  --red: #d25252;
+  --black: #353535;
   --name: 'Espresso'
 }
 
