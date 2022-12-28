@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#5a647e';
-  --cursorColor: '#ffffff';
-  --foreground: '#e6e1dc';
-  --background: '#2b2b2b';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#a0cef0';
-  --brightPurple: '#ffffff';
-  --brightBlue: '#9fcef0';
-  --brightYellow: '#ffff7c';
-  --brightGreen: '#83d182';
-  --brightRed: '#ff7b6b';
-  --brightBlack: '#323232';
-  --white: '#ffffff';
-  --cyan: '#6e9cbe';
-  --purple: '#d0d0ff';
-  --blue: '#6d9cbe';
-  --yellow: '#ffd24a';
-  --green: '#519f50';
-  --red: '#da4939';
-  --black: '#000000';
+    --selectionBackground: #5a647e;
+  --cursorColor: #ffffff;
+  --foreground: #e6e1dc;
+  --background: #2b2b2b;
+  --brightWhite: #ffffff;
+  --brightCyan: #a0cef0;
+  --brightPurple: #ffffff;
+  --brightBlue: #9fcef0;
+  --brightYellow: #ffff7c;
+  --brightGreen: #83d182;
+  --brightRed: #ff7b6b;
+  --brightBlack: #323232;
+  --white: #ffffff;
+  --cyan: #6e9cbe;
+  --purple: #d0d0ff;
+  --blue: #6d9cbe;
+  --yellow: #ffd24a;
+  --green: #519f50;
+  --red: #da4939;
+  --black: #000000;
   --name: 'Broadcast'
 }
 
