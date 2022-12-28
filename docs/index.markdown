@@ -1,5 +1,7 @@
 <h2 style='text-align:center'>
-    <span class='ColorSchemeFileName' />
+    <a id='colorSchemeNameLink' href='#'>
+        <span class='ColorSchemeFileName' />
+    </a>
 </h2>
 
 <div class='centeredText'>
@@ -7,10 +9,10 @@
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink' href='javascript:void(0)'>
+    <a id='downloadSchemeLink' href='#'>
         Download
     </a>
-    <a id='cdnSchemeLink' href='javascript:void(0)'>
+    <a id='cdnSchemeLink' href='#'>
         CDN
     </a>
 </div>
