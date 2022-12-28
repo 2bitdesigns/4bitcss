@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#16181e';
-  --cursorColor: '#b3b8c3';
-  --foreground: '#b3b8c3';
-  --background: '#20242d';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#85a7a5';
-  --brightPurple: '#a47996';
-  --brightBlue: '#7d8fa4';
-  --brightYellow: '#e5c179';
-  --brightGreen: '#87b379';
-  --brightRed: '#b04b57';
-  --brightBlack: '#000000';
-  --white: '#b3b8c3';
-  --cyan: '#85a7a5';
-  --purple: '#a47996';
-  --blue: '#7d8fa4';
-  --yellow: '#e5c179';
-  --green: '#87b379';
-  --red: '#b04b57';
-  --black: '#000000';
+    --selectionBackground: #16181e;
+  --cursorColor: #b3b8c3;
+  --foreground: #b3b8c3;
+  --background: #20242d;
+  --brightWhite: #ffffff;
+  --brightCyan: #85a7a5;
+  --brightPurple: #a47996;
+  --brightBlue: #7d8fa4;
+  --brightYellow: #e5c179;
+  --brightGreen: #87b379;
+  --brightRed: #b04b57;
+  --brightBlack: #000000;
+  --white: #b3b8c3;
+  --cyan: #85a7a5;
+  --purple: #a47996;
+  --blue: #7d8fa4;
+  --yellow: #e5c179;
+  --green: #87b379;
+  --red: #b04b57;
+  --black: #000000;
   --name: 'SpaceGray'
 }
 
