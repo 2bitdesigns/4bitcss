@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #453b39;
-  --cursorColor: #bbbbbb;
-  --foreground: #a0a0a0;
-  --background: #121212;
-  --brightWhite: #f8f8f2;
-  --brightCyan: #a3babf;
-  --brightPurple: #9e6ffe;
-  --brightBlue: #66d9ef;
-  --brightYellow: #e6db74;
-  --brightGreen: #beed5f;
-  --brightRed: #ff669d;
-  --brightBlack: #505354;
-  --white: #ccccc6;
-  --cyan: #5e7175;
-  --purple: #9e6ffe;
-  --blue: #66d9ef;
-  --yellow: #fd971f;
-  --green: #a6e22e;
-  --red: #f92672;
-  --black: #1b1d1e;
-  --name: Hardcore
+    --selectionBackground: '#453b39';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#a0a0a0';
+  --background: '#121212';
+  --brightWhite: '#f8f8f2';
+  --brightCyan: '#a3babf';
+  --brightPurple: '#9e6ffe';
+  --brightBlue: '#66d9ef';
+  --brightYellow: '#e6db74';
+  --brightGreen: '#beed5f';
+  --brightRed: '#ff669d';
+  --brightBlack: '#505354';
+  --white: '#ccccc6';
+  --cyan: '#5e7175';
+  --purple: '#9e6ffe';
+  --blue: '#66d9ef';
+  --yellow: '#fd971f';
+  --green: '#a6e22e';
+  --red: '#f92672';
+  --black: '#1b1d1e';
+  --name: 'Hardcore'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hardcore'; }
