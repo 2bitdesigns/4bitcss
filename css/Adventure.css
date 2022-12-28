@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #606060;
-  --cursorColor: #feffff;
-  --foreground: #feffff;
-  --background: #040404;
-  --brightWhite: #e4d5c7;
-  --brightCyan: #bdcfe5;
-  --brightPurple: #aa7900;
-  --brightBlue: #97d7ef;
-  --brightYellow: #ffb670;
-  --brightGreen: #99b52c;
-  --brightRed: #d76b42;
-  --brightBlack: #685656;
-  --white: #dbded8;
-  --cyan: #bdcfe5;
-  --purple: #e5c499;
-  --blue: #417ab3;
-  --yellow: #eebb6e;
-  --green: #5da602;
-  --red: #d84a33;
-  --black: #040404;
-  --name: Adventure
+    --selectionBackground: '#606060';
+  --cursorColor: '#feffff';
+  --foreground: '#feffff';
+  --background: '#040404';
+  --brightWhite: '#e4d5c7';
+  --brightCyan: '#bdcfe5';
+  --brightPurple: '#aa7900';
+  --brightBlue: '#97d7ef';
+  --brightYellow: '#ffb670';
+  --brightGreen: '#99b52c';
+  --brightRed: '#d76b42';
+  --brightBlack: '#685656';
+  --white: '#dbded8';
+  --cyan: '#bdcfe5';
+  --purple: '#e5c499';
+  --blue: '#417ab3';
+  --yellow: '#eebb6e';
+  --green: '#5da602';
+  --red: '#d84a33';
+  --black: '#040404';
+  --name: 'Adventure'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Adventure'; }
