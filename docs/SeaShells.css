@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#1e4962';
-  --cursorColor: '#fca02f';
-  --foreground: '#deb88d';
-  --background: '#09141b';
-  --brightWhite: '#fee4ce';
-  --brightCyan: '#87acb4';
-  --brightPurple: '#bbe3ee';
-  --brightBlue: '#1bbcdd';
-  --brightYellow: '#fdd39f';
-  --brightGreen: '#628d98';
-  --brightRed: '#d48678';
-  --brightBlack: '#434b53';
-  --white: '#deb88d';
-  --cyan: '#50a3b5';
-  --purple: '#68d4f1';
-  --blue: '#1e4950';
-  --yellow: '#fca02f';
-  --green: '#027c9b';
-  --red: '#d15123';
-  --black: '#17384c';
+    --selectionBackground: #1e4962;
+  --cursorColor: #fca02f;
+  --foreground: #deb88d;
+  --background: #09141b;
+  --brightWhite: #fee4ce;
+  --brightCyan: #87acb4;
+  --brightPurple: #bbe3ee;
+  --brightBlue: #1bbcdd;
+  --brightYellow: #fdd39f;
+  --brightGreen: #628d98;
+  --brightRed: #d48678;
+  --brightBlack: #434b53;
+  --white: #deb88d;
+  --cyan: #50a3b5;
+  --purple: #68d4f1;
+  --blue: #1e4950;
+  --yellow: #fca02f;
+  --green: #027c9b;
+  --red: #d15123;
+  --black: #17384c;
   --name: 'SeaShells'
 }
 
