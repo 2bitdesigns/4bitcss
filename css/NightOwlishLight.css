@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#f2f2f2';
-  --cursorColor: '#403f53';
-  --foreground: '#403f53';
-  --background: '#ffffff';
-  --brightWhite: '#989fb1';
-  --brightCyan: '#00c990';
-  --brightPurple: '#697098';
-  --brightBlue: '#5ca7e4';
-  --brightYellow: '#dac26b';
-  --brightGreen: '#49d0c5';
-  --brightRed: '#f76e6e';
-  --brightBlack: '#7a8181';
-  --white: '#7a8181';
-  --cyan: '#08916a';
-  --purple: '#403f53';
-  --blue: '#4876d6';
-  --yellow: '#daaa01';
-  --green: '#2aa298';
-  --red: '#d3423e';
-  --black: '#011627';
+    --selectionBackground: #f2f2f2;
+  --cursorColor: #403f53;
+  --foreground: #403f53;
+  --background: #ffffff;
+  --brightWhite: #989fb1;
+  --brightCyan: #00c990;
+  --brightPurple: #697098;
+  --brightBlue: #5ca7e4;
+  --brightYellow: #dac26b;
+  --brightGreen: #49d0c5;
+  --brightRed: #f76e6e;
+  --brightBlack: #7a8181;
+  --white: #7a8181;
+  --cyan: #08916a;
+  --purple: #403f53;
+  --blue: #4876d6;
+  --yellow: #daaa01;
+  --green: #2aa298;
+  --red: #d3423e;
+  --black: #011627;
   --name: 'Night Owlish Light'
 }
 
