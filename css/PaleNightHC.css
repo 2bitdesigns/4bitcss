@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#717cb4';
-  --cursorColor: '#ffcb6b';
-  --foreground: '#cccccc';
-  --background: '#3e4251';
-  --brightWhite: '#999999';
-  --brightCyan: '#b8eaff';
-  --brightPurple: '#ddbdf2';
-  --brightBlue: '#b4ccff';
-  --brightYellow: '#ffdfa6';
-  --brightGreen: '#dbf1ba';
-  --brightRed: '#f6a9ae';
-  --brightBlack: '#666666';
-  --white: '#ffffff';
-  --cyan: '#89ddff';
-  --purple: '#c792ea';
-  --blue: '#82aaff';
-  --yellow: '#ffcb6b';
-  --green: '#c3e88d';
-  --red: '#f07178';
-  --black: '#000000';
+    --selectionBackground: #717cb4;
+  --cursorColor: #ffcb6b;
+  --foreground: #cccccc;
+  --background: #3e4251;
+  --brightWhite: #999999;
+  --brightCyan: #b8eaff;
+  --brightPurple: #ddbdf2;
+  --brightBlue: #b4ccff;
+  --brightYellow: #ffdfa6;
+  --brightGreen: #dbf1ba;
+  --brightRed: #f6a9ae;
+  --brightBlack: #666666;
+  --white: #ffffff;
+  --cyan: #89ddff;
+  --purple: #c792ea;
+  --blue: #82aaff;
+  --yellow: #ffcb6b;
+  --green: #c3e88d;
+  --red: #f07178;
+  --black: #000000;
   --name: 'PaleNightHC'
 }
 
