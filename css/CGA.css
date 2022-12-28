@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c1deff;
-  --cursorColor: #b8b8b8;
-  --foreground: #aaaaaa;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #55ffff;
-  --brightPurple: #ff55ff;
-  --brightBlue: #5555ff;
-  --brightYellow: #ffff55;
-  --brightGreen: #55ff55;
-  --brightRed: #ff5555;
-  --brightBlack: #555555;
-  --white: #aaaaaa;
-  --cyan: #00aaaa;
-  --purple: #aa00aa;
-  --blue: #0000aa;
-  --yellow: #aa5500;
-  --green: #00aa00;
-  --red: #aa0000;
-  --black: #000000;
-  --name: CGA
+    --selectionBackground: '#c1deff';
+  --cursorColor: '#b8b8b8';
+  --foreground: '#aaaaaa';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#55ffff';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#5555ff';
+  --brightYellow: '#ffff55';
+  --brightGreen: '#55ff55';
+  --brightRed: '#ff5555';
+  --brightBlack: '#555555';
+  --white: '#aaaaaa';
+  --cyan: '#00aaaa';
+  --purple: '#aa00aa';
+  --blue: '#0000aa';
+  --yellow: '#aa5500';
+  --green: '#00aa00';
+  --red: '#aa0000';
+  --black: '#000000';
+  --name: 'CGA'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'CGA'; }
