@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #6dc2b8;
-  --cursorColor: #b3b8c3;
-  --foreground: #c2c8d7;
-  --background: #1c262b;
-  --brightWhite: #ffffff;
-  --brightCyan: #42c7da;
-  --brightPurple: #aa4dbc;
-  --brightBlue: #54a4f3;
-  --brightYellow: #fff163;
-  --brightGreen: #70be71;
-  --brightRed: #dc5c60;
-  --brightBlack: #777777;
-  --white: #a4a4a4;
-  --cyan: #16afca;
-  --purple: #8800a0;
-  --blue: #1e80f0;
-  --yellow: #ffea2e;
-  --green: #40a33f;
-  --red: #ee2b2a;
-  --black: #000000;
-  --name: OceanicMaterial
+    --selectionBackground: '#6dc2b8';
+  --cursorColor: '#b3b8c3';
+  --foreground: '#c2c8d7';
+  --background: '#1c262b';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#42c7da';
+  --brightPurple: '#aa4dbc';
+  --brightBlue: '#54a4f3';
+  --brightYellow: '#fff163';
+  --brightGreen: '#70be71';
+  --brightRed: '#dc5c60';
+  --brightBlack: '#777777';
+  --white: '#a4a4a4';
+  --cyan: '#16afca';
+  --purple: '#8800a0';
+  --blue: '#1e80f0';
+  --yellow: '#ffea2e';
+  --green: '#40a33f';
+  --red: '#ee2b2a';
+  --black: '#000000';
+  --name: 'OceanicMaterial'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'OceanicMaterial'; }
