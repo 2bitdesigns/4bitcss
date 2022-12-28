@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #3d3c58;
-  --cursorColor: #b3b0d6;
-  --foreground: #b3b0d6;
-  --background: #29283b;
-  --brightWhite: #ffffff;
-  --brightCyan: #43c1be;
-  --brightPurple: #aa7ff0;
-  --brightBlue: #65aef7;
-  --brightYellow: #fdd877;
-  --brightGreen: #5eca89;
-  --brightRed: #ef6487;
-  --brightBlack: #535178;
-  --white: #ffffff;
-  --cyan: #43c1be;
-  --purple: #aa7ff0;
-  --blue: #65aef7;
-  --yellow: #fdd877;
-  --green: #5eca89;
-  --red: #ef6487;
-  --black: #535178;
-  --name: Whimsy
+    --selectionBackground: '#3d3c58';
+  --cursorColor: '#b3b0d6';
+  --foreground: '#b3b0d6';
+  --background: '#29283b';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#43c1be';
+  --brightPurple: '#aa7ff0';
+  --brightBlue: '#65aef7';
+  --brightYellow: '#fdd877';
+  --brightGreen: '#5eca89';
+  --brightRed: '#ef6487';
+  --brightBlack: '#535178';
+  --white: '#ffffff';
+  --cyan: '#43c1be';
+  --purple: '#aa7ff0';
+  --blue: '#65aef7';
+  --yellow: '#fdd877';
+  --green: '#5eca89';
+  --red: '#ef6487';
+  --black: '#535178';
+  --name: 'Whimsy'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Whimsy'; }
