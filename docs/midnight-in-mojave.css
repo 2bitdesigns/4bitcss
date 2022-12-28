@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4a504d';
-  --cursorColor: '#32d74b';
-  --foreground: '#ffffff';
-  --background: '#1e1e1e';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#5ac8fa';
-  --brightPurple: '#bf5af2';
-  --brightBlue: '#0a84ff';
-  --brightYellow: '#ffd60a';
-  --brightGreen: '#32d74b';
-  --brightRed: '#ff453a';
-  --brightBlack: '#1e1e1e';
-  --white: '#ffffff';
-  --cyan: '#5ac8fa';
-  --purple: '#bf5af2';
-  --blue: '#0a84ff';
-  --yellow: '#ffd60a';
-  --green: '#32d74b';
-  --red: '#ff453a';
-  --black: '#1e1e1e';
+    --selectionBackground: #4a504d;
+  --cursorColor: #32d74b;
+  --foreground: #ffffff;
+  --background: #1e1e1e;
+  --brightWhite: #ffffff;
+  --brightCyan: #5ac8fa;
+  --brightPurple: #bf5af2;
+  --brightBlue: #0a84ff;
+  --brightYellow: #ffd60a;
+  --brightGreen: #32d74b;
+  --brightRed: #ff453a;
+  --brightBlack: #1e1e1e;
+  --white: #ffffff;
+  --cyan: #5ac8fa;
+  --purple: #bf5af2;
+  --blue: #0a84ff;
+  --yellow: #ffd60a;
+  --green: #32d74b;
+  --red: #ff453a;
+  --black: #1e1e1e;
   --name: 'midnight-in-mojave'
 }
 
