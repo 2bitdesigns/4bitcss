@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #606060;
-  --cursorColor: #fcfad6;
-  --foreground: #babab9;
-  --background: #1c0c28;
-  --brightWhite: #0a6c7e;
-  --brightCyan: #5e6071;
-  --brightPurple: #bc94b7;
-  --brightBlue: #39173d;
-  --brightYellow: #7a3188;
-  --brightGreen: #0a6c7e;
-  --brightRed: #c87272;
-  --brightBlack: #201637;
-  --white: #f0e8d6;
-  --cyan: #7e83cc;
-  --purple: #9d54a7;
-  --blue: #90a5bd;
-  --yellow: #eab9a8;
-  --green: #5cb1b3;
-  --red: #99246e;
-  --black: #0a4c62;
-  --name: BlueBerryPie
+    --selectionBackground: '#606060';
+  --cursorColor: '#fcfad6';
+  --foreground: '#babab9';
+  --background: '#1c0c28';
+  --brightWhite: '#0a6c7e';
+  --brightCyan: '#5e6071';
+  --brightPurple: '#bc94b7';
+  --brightBlue: '#39173d';
+  --brightYellow: '#7a3188';
+  --brightGreen: '#0a6c7e';
+  --brightRed: '#c87272';
+  --brightBlack: '#201637';
+  --white: '#f0e8d6';
+  --cyan: '#7e83cc';
+  --purple: '#9d54a7';
+  --blue: '#90a5bd';
+  --yellow: '#eab9a8';
+  --green: '#5cb1b3';
+  --red: '#99246e';
+  --black: '#0a4c62';
+  --name: 'BlueBerryPie'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlueBerryPie'; }
