@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#1e3a66';
-  --cursorColor: '#5b6ea7';
-  --foreground: '#8a8dae';
-  --background: '#222125';
-  --brightWhite: '#5b6ea7';
-  --brightCyan: '#1ffaff';
-  --brightPurple: '#ffc21d';
-  --brightBlue: '#4488ff';
-  --brightYellow: '#ff5e1e';
-  --brightGreen: '#3bff99';
-  --brightRed: '#ff3d48';
-  --brightBlack: '#5b3725';
-  --white: '#8a8eac';
-  --cyan: '#1fa6ac';
-  --purple: '#b08528';
-  --blue: '#2d57ac';
-  --yellow: '#ac4300';
-  --green: '#31ac61';
-  --red: '#ac2e31';
-  --black: '#000000';
+    --selectionBackground: #1e3a66;
+  --cursorColor: #5b6ea7;
+  --foreground: #8a8dae;
+  --background: #222125;
+  --brightWhite: #5b6ea7;
+  --brightCyan: #1ffaff;
+  --brightPurple: #ffc21d;
+  --brightBlue: #4488ff;
+  --brightYellow: #ff5e1e;
+  --brightGreen: #3bff99;
+  --brightRed: #ff3d48;
+  --brightBlack: #5b3725;
+  --white: #8a8eac;
+  --cyan: #1fa6ac;
+  --purple: #b08528;
+  --blue: #2d57ac;
+  --yellow: #ac4300;
+  --green: #31ac61;
+  --red: #ac2e31;
+  --black: #000000;
   --name: 'Ollie'
 }
 
