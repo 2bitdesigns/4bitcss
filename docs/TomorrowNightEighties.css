@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #515151;
-  --cursorColor: #cccccc;
-  --foreground: #cccccc;
-  --background: #2d2d2d;
-  --brightWhite: #ffffff;
-  --brightCyan: #66cccc;
-  --brightPurple: #cc99cc;
-  --brightBlue: #6699cc;
-  --brightYellow: #ffcc66;
-  --brightGreen: #99cc99;
-  --brightRed: #f2777a;
-  --brightBlack: #000000;
-  --white: #ffffff;
-  --cyan: #66cccc;
-  --purple: #cc99cc;
-  --blue: #6699cc;
-  --yellow: #ffcc66;
-  --green: #99cc99;
-  --red: #f2777a;
-  --black: #000000;
-  --name: Tomorrow Night Eighties
+    --selectionBackground: '#515151';
+  --cursorColor: '#cccccc';
+  --foreground: '#cccccc';
+  --background: '#2d2d2d';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#66cccc';
+  --brightPurple: '#cc99cc';
+  --brightBlue: '#6699cc';
+  --brightYellow: '#ffcc66';
+  --brightGreen: '#99cc99';
+  --brightRed: '#f2777a';
+  --brightBlack: '#000000';
+  --white: '#ffffff';
+  --cyan: '#66cccc';
+  --purple: '#cc99cc';
+  --blue: '#6699cc';
+  --yellow: '#ffcc66';
+  --green: '#99cc99';
+  --red: '#f2777a';
+  --black: '#000000';
+  --name: 'Tomorrow Night Eighties'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Eighties'; }
