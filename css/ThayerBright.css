@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4d4d4d';
-  --cursorColor: '#fc971f';
-  --foreground: '#f8f8f8';
-  --background: '#1b1d1e';
-  --brightWhite: '#f8f8f2';
-  --brightCyan: '#23cfd5';
-  --brightPurple: '#9e6ffe';
-  --brightBlue: '#3f78ff';
-  --brightYellow: '#feed6c';
-  --brightGreen: '#b6e354';
-  --brightRed: '#ff5995';
-  --brightBlack: '#505354';
-  --white: '#ccccc6';
-  --cyan: '#38c8b5';
-  --purple: '#8c54fe';
-  --blue: '#2757d6';
-  --yellow: '#f4fd22';
-  --green: '#4df840';
-  --red: '#f92672';
-  --black: '#1b1d1e';
+    --selectionBackground: #4d4d4d;
+  --cursorColor: #fc971f;
+  --foreground: #f8f8f8;
+  --background: #1b1d1e;
+  --brightWhite: #f8f8f2;
+  --brightCyan: #23cfd5;
+  --brightPurple: #9e6ffe;
+  --brightBlue: #3f78ff;
+  --brightYellow: #feed6c;
+  --brightGreen: #b6e354;
+  --brightRed: #ff5995;
+  --brightBlack: #505354;
+  --white: #ccccc6;
+  --cyan: #38c8b5;
+  --purple: #8c54fe;
+  --blue: #2757d6;
+  --yellow: #f4fd22;
+  --green: #4df840;
+  --red: #f92672;
+  --black: #1b1d1e;
   --name: 'Thayer Bright'
 }
 
