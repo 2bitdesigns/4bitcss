@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#444444';
-  --cursorColor: '#d0d0d0';
-  --foreground: '#c5c8c6';
-  --background: '#161719';
-  --brightWhite: '#e0e0e0';
-  --brightCyan: '#85befd';
-  --brightPurple: '#b9b6fc';
-  --brightBlue: '#96cbfe';
-  --brightYellow: '#f5ffa8';
-  --brightGreen: '#94fa36';
-  --brightRed: '#fd5ff1';
-  --brightBlack: '#000000';
-  --white: '#e0e0e0';
-  --cyan: '#85befd';
-  --purple: '#b9b6fc';
-  --blue: '#85befd';
-  --yellow: '#ffd7b1';
-  --green: '#87c38a';
-  --red: '#fd5ff1';
-  --black: '#000000';
+    --selectionBackground: #444444;
+  --cursorColor: #d0d0d0;
+  --foreground: #c5c8c6;
+  --background: #161719;
+  --brightWhite: #e0e0e0;
+  --brightCyan: #85befd;
+  --brightPurple: #b9b6fc;
+  --brightBlue: #96cbfe;
+  --brightYellow: #f5ffa8;
+  --brightGreen: #94fa36;
+  --brightRed: #fd5ff1;
+  --brightBlack: #000000;
+  --white: #e0e0e0;
+  --cyan: #85befd;
+  --purple: #b9b6fc;
+  --blue: #85befd;
+  --yellow: #ffd7b1;
+  --green: #87c38a;
+  --red: #fd5ff1;
+  --black: #000000;
   --name: 'Atom'
 }
 
