@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#666666';
-  --cursorColor: '#fcdc08';
-  --foreground: '#777777';
-  --background: '#111111';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#bbecff';
-  --brightPurple: '#cebbff';
-  --brightBlue: '#33bbff';
-  --brightYellow: '#ffd966';
-  --brightGreen: '#b6f292';
-  --brightRed: '#ff8888';
-  --brightBlack: '#414141';
-  --white: '#cccccc';
-  --cyan: '#88ddff';
-  --purple: '#aa88ff';
-  --blue: '#00aaff';
-  --yellow: '#ffcc33';
-  --green: '#98ec65';
-  --red: '#ff5555';
-  --black: '#141414';
+    --selectionBackground: #666666;
+  --cursorColor: #fcdc08;
+  --foreground: #777777;
+  --background: #111111;
+  --brightWhite: #ffffff;
+  --brightCyan: #bbecff;
+  --brightPurple: #cebbff;
+  --brightBlue: #33bbff;
+  --brightYellow: #ffd966;
+  --brightGreen: #b6f292;
+  --brightRed: #ff8888;
+  --brightBlack: #414141;
+  --white: #cccccc;
+  --cyan: #88ddff;
+  --purple: #aa88ff;
+  --blue: #00aaff;
+  --yellow: #ffcc33;
+  --green: #98ec65;
+  --red: #ff5555;
+  --black: #141414;
   --name: 'Framer'
 }
 
