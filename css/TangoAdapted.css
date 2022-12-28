@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c1deff';
-  --cursorColor: '#000000';
-  --foreground: '#000000';
-  --background: '#ffffff';
-  --brightWhite: '#f6f6f4';
-  --brightCyan: '#00feff';
-  --brightPurple: '#e9a7e1';
-  --brightBlue: '#88c9ff';
-  --brightYellow: '#fff121';
-  --brightGreen: '#93ff00';
-  --brightRed: '#ff0013';
-  --brightBlack: '#8f928b';
-  --white: '#e6ebe1';
-  --cyan: '#00d0d6';
-  --purple: '#c17ecc';
-  --blue: '#00a2ff';
-  --yellow: '#f0cb00';
-  --green: '#59d600';
-  --red: '#ff0000';
-  --black: '#000000';
+    --selectionBackground: #c1deff;
+  --cursorColor: #000000;
+  --foreground: #000000;
+  --background: #ffffff;
+  --brightWhite: #f6f6f4;
+  --brightCyan: #00feff;
+  --brightPurple: #e9a7e1;
+  --brightBlue: #88c9ff;
+  --brightYellow: #fff121;
+  --brightGreen: #93ff00;
+  --brightRed: #ff0013;
+  --brightBlack: #8f928b;
+  --white: #e6ebe1;
+  --cyan: #00d0d6;
+  --purple: #c17ecc;
+  --blue: #00a2ff;
+  --yellow: #f0cb00;
+  --green: #59d600;
+  --red: #ff0000;
+  --black: #000000;
   --name: 'Tango Adapted'
 }
 
