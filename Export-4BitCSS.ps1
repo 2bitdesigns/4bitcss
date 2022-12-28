@@ -235,7 +235,11 @@ function Export-4BitCSS
 :root {
     $(@(
     foreach ($prop in $jsonObject.psobject.properties) {
-    "--$($prop.Name): '$($prop.Value)'"
+        if ($prop.Name -eq 'Name') {
+            "--$($prop.Name): '$($prop.Value)'"            
+        } else {
+            "--$($prop.Name): $($prop.Value)"
+        }    
     }) -join (';' + [Environment]::NewLine + '  '))
 }
 
