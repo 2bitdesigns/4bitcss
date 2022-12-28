@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5e6687;
-  --cursorColor: #979db4;
-  --foreground: #979db4;
-  --background: #202746;
-  --brightWhite: #f5f7ff;
-  --brightCyan: #9c637a;
-  --brightPurple: #dfe2f1;
-  --brightBlue: #898ea4;
-  --brightYellow: #5e6687;
-  --brightGreen: #293256;
-  --brightRed: #c76b29;
-  --brightBlack: #6b7394;
-  --white: #979db4;
-  --cyan: #22a2c9;
-  --purple: #6679cc;
-  --blue: #3d8fd1;
-  --yellow: #c08b30;
-  --green: #ac9739;
-  --red: #c94922;
-  --black: #202746;
-  --name: AtelierSulphurpool
+    --selectionBackground: '#5e6687';
+  --cursorColor: '#979db4';
+  --foreground: '#979db4';
+  --background: '#202746';
+  --brightWhite: '#f5f7ff';
+  --brightCyan: '#9c637a';
+  --brightPurple: '#dfe2f1';
+  --brightBlue: '#898ea4';
+  --brightYellow: '#5e6687';
+  --brightGreen: '#293256';
+  --brightRed: '#c76b29';
+  --brightBlack: '#6b7394';
+  --white: '#979db4';
+  --cyan: '#22a2c9';
+  --purple: '#6679cc';
+  --blue: '#3d8fd1';
+  --yellow: '#c08b30';
+  --green: '#ac9739';
+  --red: '#c94922';
+  --black: '#202746';
+  --name: 'AtelierSulphurpool'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AtelierSulphurpool'; }
