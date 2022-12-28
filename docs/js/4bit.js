@@ -10,8 +10,8 @@ function feelingLucky() {
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    switchTheme(themeName);
-    
+    switchTheme(themes[randomNumber])
+
     for (arg in arguments) {
         if (arguments[arg].value) {
             arguments[arg].value = themes[randomNumber];
