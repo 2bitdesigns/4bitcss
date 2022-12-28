@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#18282e';
-  --cursorColor: '#384545';
-  --foreground: '#426644';
-  --background: '#0f191c';
-  --brightWhite: '#678c61';
-  --brightCyan: '#c1ff8a';
-  --brightPurple: '#11ff25';
-  --brightBlue: '#4f7e7e';
-  --brightYellow: '#faff00';
-  --brightGreen: '#90d762';
-  --brightRed: '#2fc079';
-  --brightBlack: '#688060';
-  --white: '#507350';
-  --cyan: '#50b45a';
-  --purple: '#409931';
-  --blue: '#3f5242';
-  --yellow: '#ffd700';
-  --green: '#82d967';
-  --red: '#23755a';
-  --black: '#0f191c';
+    --selectionBackground: #18282e;
+  --cursorColor: #384545;
+  --foreground: #426644;
+  --background: #0f191c;
+  --brightWhite: #678c61;
+  --brightCyan: #c1ff8a;
+  --brightPurple: #11ff25;
+  --brightBlue: #4f7e7e;
+  --brightYellow: #faff00;
+  --brightGreen: #90d762;
+  --brightRed: #2fc079;
+  --brightBlack: #688060;
+  --white: #507350;
+  --cyan: #50b45a;
+  --purple: #409931;
+  --blue: #3f5242;
+  --yellow: #ffd700;
+  --green: #82d967;
+  --red: #23755a;
+  --black: #0f191c;
   --name: 'matrix'
 }
 
