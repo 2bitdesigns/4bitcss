@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5a647e;
-  --cursorColor: #7f7f7f;
-  --foreground: #ffffff;
-  --background: #2b2b2b;
-  --brightWhite: #e5e5e5;
-  --brightCyan: #8c9bc4;
-  --brightPurple: #e500e5;
-  --brightBlue: #86bdc9;
-  --brightYellow: #e5e500;
-  --brightGreen: #bcee68;
-  --brightRed: #eecbad;
-  --brightBlack: #666666;
-  --white: #bfbfbf;
-  --cyan: #5a647e;
-  --purple: #ff73fd;
-  --blue: #75a5b0;
-  --yellow: #bfbb1f;
-  --green: #a8ff60;
-  --red: #cdaf95;
-  --black: #000000;
-  --name: Rippedcasts
+    --selectionBackground: '#5a647e';
+  --cursorColor: '#7f7f7f';
+  --foreground: '#ffffff';
+  --background: '#2b2b2b';
+  --brightWhite: '#e5e5e5';
+  --brightCyan: '#8c9bc4';
+  --brightPurple: '#e500e5';
+  --brightBlue: '#86bdc9';
+  --brightYellow: '#e5e500';
+  --brightGreen: '#bcee68';
+  --brightRed: '#eecbad';
+  --brightBlack: '#666666';
+  --white: '#bfbfbf';
+  --cyan: '#5a647e';
+  --purple: '#ff73fd';
+  --blue: '#75a5b0';
+  --yellow: '#bfbb1f';
+  --green: '#a8ff60';
+  --red: '#cdaf95';
+  --black: '#000000';
+  --name: 'Rippedcasts'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Rippedcasts'; }
