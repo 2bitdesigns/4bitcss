@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #2b1b1d;
-  --cursorColor: #68525a;
-  --foreground: #68525a;
-  --background: #150707;
-  --brightWhite: #b0949d;
-  --brightCyan: #ffceaf;
-  --brightPurple: #fc6cba;
-  --brightBlue: #cfc9ff;
-  --brightYellow: #c8381d;
-  --brightGreen: #8dff57;
-  --brightRed: #c5255d;
-  --brightBlack: #3d2b2e;
-  --white: #68525a;
-  --cyan: #e8a866;
-  --purple: #692f50;
-  --blue: #8c87b0;
-  --yellow: #ab311b;
-  --green: #579524;
-  --red: #91002b;
-  --black: #2b1b1d;
-  --name: CrayonPonyFish
+    --selectionBackground: '#2b1b1d';
+  --cursorColor: '#68525a';
+  --foreground: '#68525a';
+  --background: '#150707';
+  --brightWhite: '#b0949d';
+  --brightCyan: '#ffceaf';
+  --brightPurple: '#fc6cba';
+  --brightBlue: '#cfc9ff';
+  --brightYellow: '#c8381d';
+  --brightGreen: '#8dff57';
+  --brightRed: '#c5255d';
+  --brightBlack: '#3d2b2e';
+  --white: '#68525a';
+  --cyan: '#e8a866';
+  --purple: '#692f50';
+  --blue: '#8c87b0';
+  --yellow: '#ab311b';
+  --green: '#579524';
+  --red: '#91002b';
+  --black: '#2b1b1d';
+  --name: 'CrayonPonyFish'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'CrayonPonyFish'; }
