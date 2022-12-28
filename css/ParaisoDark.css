@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #4f424c;
-  --cursorColor: #a39e9b;
-  --foreground: #a39e9b;
-  --background: #2f1e2e;
-  --brightWhite: #e7e9db;
-  --brightCyan: #5bc4bf;
-  --brightPurple: #815ba4;
-  --brightBlue: #06b6ef;
-  --brightYellow: #fec418;
-  --brightGreen: #48b685;
-  --brightRed: #ef6155;
-  --brightBlack: #776e71;
-  --white: #a39e9b;
-  --cyan: #5bc4bf;
-  --purple: #815ba4;
-  --blue: #06b6ef;
-  --yellow: #fec418;
-  --green: #48b685;
-  --red: #ef6155;
-  --black: #2f1e2e;
-  --name: Paraiso Dark
+    --selectionBackground: '#4f424c';
+  --cursorColor: '#a39e9b';
+  --foreground: '#a39e9b';
+  --background: '#2f1e2e';
+  --brightWhite: '#e7e9db';
+  --brightCyan: '#5bc4bf';
+  --brightPurple: '#815ba4';
+  --brightBlue: '#06b6ef';
+  --brightYellow: '#fec418';
+  --brightGreen: '#48b685';
+  --brightRed: '#ef6155';
+  --brightBlack: '#776e71';
+  --white: '#a39e9b';
+  --cyan: '#5bc4bf';
+  --purple: '#815ba4';
+  --blue: '#06b6ef';
+  --yellow: '#fec418';
+  --green: '#48b685';
+  --red: '#ef6155';
+  --black: '#2f1e2e';
+  --name: 'Paraiso Dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Paraiso Dark'; }
