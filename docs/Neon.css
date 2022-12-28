@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#0013ff';
-  --cursorColor: '#c7c7c7';
-  --foreground: '#00fffc';
-  --background: '#14161a';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#88fffe';
-  --brightPurple: '#f15be5';
-  --brightBlue: '#3c40cb';
-  --brightYellow: '#fffd96';
-  --brightGreen: '#75ff88';
-  --brightRed: '#ff5a5a';
-  --brightBlack: '#686868';
-  --white: '#c7c7c7';
-  --cyan: '#00fffc';
-  --purple: '#f924e7';
-  --blue: '#0208cb';
-  --yellow: '#fffc7e';
-  --green: '#5ffa74';
-  --red: '#ff3045';
-  --black: '#000000';
+    --selectionBackground: #0013ff;
+  --cursorColor: #c7c7c7;
+  --foreground: #00fffc;
+  --background: #14161a;
+  --brightWhite: #ffffff;
+  --brightCyan: #88fffe;
+  --brightPurple: #f15be5;
+  --brightBlue: #3c40cb;
+  --brightYellow: #fffd96;
+  --brightGreen: #75ff88;
+  --brightRed: #ff5a5a;
+  --brightBlack: #686868;
+  --white: #c7c7c7;
+  --cyan: #00fffc;
+  --purple: #f924e7;
+  --blue: #0208cb;
+  --yellow: #fffc7e;
+  --green: #5ffa74;
+  --red: #ff3045;
+  --black: #000000;
   --name: 'Neon'
 }
 
