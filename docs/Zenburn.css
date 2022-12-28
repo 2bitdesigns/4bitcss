@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#21322f';
-  --cursorColor: '#73635a';
-  --foreground: '#dcdccc';
-  --background: '#3f3f3f';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#93e0e3';
-  --brightPurple: '#ec93d3';
-  --brightBlue: '#94bff3';
-  --brightYellow: '#e0cf9f';
-  --brightGreen: '#c3bf9f';
-  --brightRed: '#dca3a3';
-  --brightBlack: '#709080';
-  --white: '#dcdccc';
-  --cyan: '#8cd0d3';
-  --purple: '#dc8cc3';
-  --blue: '#506070';
-  --yellow: '#f0dfaf';
-  --green: '#60b48a';
-  --red: '#705050';
-  --black: '#4d4d4d';
+    --selectionBackground: #21322f;
+  --cursorColor: #73635a;
+  --foreground: #dcdccc;
+  --background: #3f3f3f;
+  --brightWhite: #ffffff;
+  --brightCyan: #93e0e3;
+  --brightPurple: #ec93d3;
+  --brightBlue: #94bff3;
+  --brightYellow: #e0cf9f;
+  --brightGreen: #c3bf9f;
+  --brightRed: #dca3a3;
+  --brightBlack: #709080;
+  --white: #dcdccc;
+  --cyan: #8cd0d3;
+  --purple: #dc8cc3;
+  --blue: #506070;
+  --yellow: #f0dfaf;
+  --green: #60b48a;
+  --red: #705050;
+  --black: #4d4d4d;
   --name: 'Zenburn'
 }
 
