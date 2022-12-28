@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #4e5a65;
-  --cursorColor: #fcbb6a;
-  --foreground: #d8dee9;
-  --background: #343d46;
-  --brightWhite: #ffffff;
-  --brightCyan: #82c4c4;
-  --brightPurple: #d8b6d8;
-  --brightBlue: #85add6;
-  --brightYellow: #fac761;
-  --brightGreen: #acd1a8;
-  --brightRed: #f97b58;
-  --brightBlack: #333333;
-  --white: #f7f7f7;
-  --cyan: #5fb4b4;
-  --purple: #c695c6;
-  --blue: #6699cc;
-  --yellow: #f9ae58;
-  --green: #99c794;
-  --red: #ec5f66;
-  --black: #000000;
-  --name: Mariana
+    --selectionBackground: '#4e5a65';
+  --cursorColor: '#fcbb6a';
+  --foreground: '#d8dee9';
+  --background: '#343d46';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#82c4c4';
+  --brightPurple: '#d8b6d8';
+  --brightBlue: '#85add6';
+  --brightYellow: '#fac761';
+  --brightGreen: '#acd1a8';
+  --brightRed: '#f97b58';
+  --brightBlack: '#333333';
+  --white: '#f7f7f7';
+  --cyan: '#5fb4b4';
+  --purple: '#c695c6';
+  --blue: '#6699cc';
+  --yellow: '#f9ae58';
+  --green: '#99c794';
+  --red: '#ec5f66';
+  --black: '#000000';
+  --name: 'Mariana'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Mariana'; }
