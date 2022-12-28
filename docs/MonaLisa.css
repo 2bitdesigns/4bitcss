@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #f7d66a;
-  --cursorColor: #c46c32;
-  --foreground: #f7d66a;
-  --background: #120b0d;
-  --brightWhite: #ffe598;
-  --brightCyan: #8acd8f;
-  --brightPurple: #ff5b6a;
-  --brightBlue: #9eb2b4;
-  --brightYellow: #ff9566;
-  --brightGreen: #b4b264;
-  --brightRed: #ff4331;
-  --brightBlack: #874228;
-  --white: #f7d75c;
-  --cyan: #588056;
-  --purple: #9b1d29;
-  --blue: #515c5d;
-  --yellow: #c36e28;
-  --green: #636232;
-  --red: #9b291c;
-  --black: #351b0e;
-  --name: MonaLisa
+    --selectionBackground: '#f7d66a';
+  --cursorColor: '#c46c32';
+  --foreground: '#f7d66a';
+  --background: '#120b0d';
+  --brightWhite: '#ffe598';
+  --brightCyan: '#8acd8f';
+  --brightPurple: '#ff5b6a';
+  --brightBlue: '#9eb2b4';
+  --brightYellow: '#ff9566';
+  --brightGreen: '#b4b264';
+  --brightRed: '#ff4331';
+  --brightBlack: '#874228';
+  --white: '#f7d75c';
+  --cyan: '#588056';
+  --purple: '#9b1d29';
+  --blue: '#515c5d';
+  --yellow: '#c36e28';
+  --green: '#636232';
+  --red: '#9b291c';
+  --black: '#351b0e';
+  --name: 'MonaLisa'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MonaLisa'; }
