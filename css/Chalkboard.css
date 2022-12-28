@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #073642;
-  --cursorColor: #d9e6f2;
-  --foreground: #d9e6f2;
-  --background: #29262f;
-  --brightWhite: #ffffff;
-  --brightCyan: #aadadb;
-  --brightPurple: #dbaada;
-  --brightBlue: #aaaadb;
-  --brightYellow: #dadbaa;
-  --brightGreen: #aadbaa;
-  --brightRed: #dbaaaa;
-  --brightBlack: #323232;
-  --white: #d9d9d9;
-  --cyan: #72c2c3;
-  --purple: #c372c2;
-  --blue: #7372c3;
-  --yellow: #c2c372;
-  --green: #72c373;
-  --red: #c37372;
-  --black: #000000;
-  --name: Chalkboard
+    --selectionBackground: '#073642';
+  --cursorColor: '#d9e6f2';
+  --foreground: '#d9e6f2';
+  --background: '#29262f';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#aadadb';
+  --brightPurple: '#dbaada';
+  --brightBlue: '#aaaadb';
+  --brightYellow: '#dadbaa';
+  --brightGreen: '#aadbaa';
+  --brightRed: '#dbaaaa';
+  --brightBlack: '#323232';
+  --white: '#d9d9d9';
+  --cyan: '#72c2c3';
+  --purple: '#c372c2';
+  --blue: '#7372c3';
+  --yellow: '#c2c372';
+  --green: '#72c373';
+  --red: '#c37372';
+  --black: '#000000';
+  --name: 'Chalkboard'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Chalkboard'; }
