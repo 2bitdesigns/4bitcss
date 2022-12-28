@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #cb392e;
-  --cursorColor: #7f7f7f;
-  --foreground: #ffffff;
-  --background: #2e2e2e;
-  --brightWhite: #ffffff;
-  --brightCyan: #7d53e7;
-  --brightPurple: #441090;
-  --brightBlue: #db501f;
-  --brightYellow: #fca013;
-  --brightGreen: #53eaa8;
-  --brightRed: #ff6517;
-  --brightBlack: #464646;
-  --white: #ffffff;
-  --cyan: #6e49cb;
-  --purple: #380d75;
-  --blue: #db3b21;
-  --yellow: #fca121;
-  --green: #3eb383;
-  --red: #fc6d26;
-  --black: #2e2e2e;
-  --name: Lab Fox
+    --selectionBackground: '#cb392e';
+  --cursorColor: '#7f7f7f';
+  --foreground: '#ffffff';
+  --background: '#2e2e2e';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#7d53e7';
+  --brightPurple: '#441090';
+  --brightBlue: '#db501f';
+  --brightYellow: '#fca013';
+  --brightGreen: '#53eaa8';
+  --brightRed: '#ff6517';
+  --brightBlack: '#464646';
+  --white: '#ffffff';
+  --cyan: '#6e49cb';
+  --purple: '#380d75';
+  --blue: '#db3b21';
+  --yellow: '#fca121';
+  --green: '#3eb383';
+  --red: '#fc6d26';
+  --black: '#2e2e2e';
+  --name: 'Lab Fox'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Lab Fox'; }
