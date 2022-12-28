@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #574c49;
-  --cursorColor: #c1c1c1;
-  --foreground: #c1c1c1;
-  --background: #242728;
-  --brightWhite: #f9f9f5;
-  --brightCyan: #69fcd3;
-  --brightPurple: #e681ff;
-  --brightBlue: #7fecff;
-  --brightYellow: #ebe087;
-  --brightGreen: #deff8c;
-  --brightRed: #fb58b4;
-  --brightBlack: #636667;
-  --white: #e1e1e1;
-  --cyan: #0effbb;
-  --purple: #d731ff;
-  --blue: #47e0fb;
-  --yellow: #fff727;
-  --green: #b6ff00;
-  --red: #ff0090;
-  --black: #242728;
-  --name: UltraViolent
+    --selectionBackground: '#574c49';
+  --cursorColor: '#c1c1c1';
+  --foreground: '#c1c1c1';
+  --background: '#242728';
+  --brightWhite: '#f9f9f5';
+  --brightCyan: '#69fcd3';
+  --brightPurple: '#e681ff';
+  --brightBlue: '#7fecff';
+  --brightYellow: '#ebe087';
+  --brightGreen: '#deff8c';
+  --brightRed: '#fb58b4';
+  --brightBlack: '#636667';
+  --white: '#e1e1e1';
+  --cyan: '#0effbb';
+  --purple: '#d731ff';
+  --blue: '#47e0fb';
+  --yellow: '#fff727';
+  --green: '#b6ff00';
+  --red: '#ff0090';
+  --black: '#242728';
+  --name: 'UltraViolent'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'UltraViolent'; }
