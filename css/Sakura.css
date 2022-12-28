@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c05cbf;
-  --cursorColor: #ff65fd;
-  --foreground: #dd7bdc;
-  --background: #18131e;
-  --brightWhite: #cbb6ff;
-  --brightCyan: #eeeeee;
-  --brightPurple: #e90cdd;
-  --brightBlue: #9892f1;
-  --brightYellow: #f59574;
-  --brightGreen: #22e529;
-  --brightRed: #f41d99;
-  --brightBlack: #786d69;
-  --white: #998eac;
-  --cyan: #939393;
-  --purple: #c71fbf;
-  --blue: #6964ab;
-  --yellow: #bc7053;
-  --green: #41af1a;
-  --red: #d52370;
-  --black: #000000;
-  --name: Sakura
+    --selectionBackground: '#c05cbf';
+  --cursorColor: '#ff65fd';
+  --foreground: '#dd7bdc';
+  --background: '#18131e';
+  --brightWhite: '#cbb6ff';
+  --brightCyan: '#eeeeee';
+  --brightPurple: '#e90cdd';
+  --brightBlue: '#9892f1';
+  --brightYellow: '#f59574';
+  --brightGreen: '#22e529';
+  --brightRed: '#f41d99';
+  --brightBlack: '#786d69';
+  --white: '#998eac';
+  --cyan: '#939393';
+  --purple: '#c71fbf';
+  --blue: '#6964ab';
+  --yellow: '#bc7053';
+  --green: '#41af1a';
+  --red: '#d52370';
+  --black: '#000000';
+  --name: 'Sakura'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sakura'; }
