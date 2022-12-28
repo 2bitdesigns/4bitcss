@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #ededed;
-  --cursorColor: #bbbbbb;
-  --foreground: #2a2c33;
-  --background: #f9f9f9;
-  --brightWhite: #ffffff;
-  --brightCyan: #3f953a;
-  --brightPurple: #a00095;
-  --brightBlue: #2f5af3;
-  --brightYellow: #d2b67c;
-  --brightGreen: #3f953a;
-  --brightRed: #de3e35;
-  --brightBlack: #000000;
-  --white: #bbbbbb;
-  --cyan: #3f953a;
-  --purple: #950095;
-  --blue: #2f5af3;
-  --yellow: #d2b67c;
-  --green: #3f953a;
-  --red: #de3e35;
-  --black: #000000;
-  --name: AtomOneLight
+    --selectionBackground: '#ededed';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#2a2c33';
+  --background: '#f9f9f9';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#3f953a';
+  --brightPurple: '#a00095';
+  --brightBlue: '#2f5af3';
+  --brightYellow: '#d2b67c';
+  --brightGreen: '#3f953a';
+  --brightRed: '#de3e35';
+  --brightBlack: '#000000';
+  --white: '#bbbbbb';
+  --cyan: '#3f953a';
+  --purple: '#950095';
+  --blue: '#2f5af3';
+  --yellow: '#d2b67c';
+  --green: '#3f953a';
+  --red: '#de3e35';
+  --black: '#000000';
+  --name: 'AtomOneLight'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AtomOneLight'; }
