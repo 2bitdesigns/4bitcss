@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #af8d21;
-  --cursorColor: #23ff18;
-  --foreground: #ffcc2f;
-  --background: #2c1d16;
-  --brightWhite: #e5e5e5;
-  --brightCyan: #00e5e5;
-  --brightPurple: #e500e5;
-  --brightBlue: #0000ff;
-  --brightYellow: #e5e500;
-  --brightGreen: #86a93e;
-  --brightRed: #e50000;
-  --brightBlack: #666666;
-  --white: #bfbfbf;
-  --cyan: #00acee;
-  --purple: #d05ec1;
-  --blue: #246eb2;
-  --yellow: #bebf00;
-  --green: #2baf2b;
-  --red: #ef5734;
-  --black: #2c1d16;
-  --name: Jackie Brown
+    --selectionBackground: '#af8d21';
+  --cursorColor: '#23ff18';
+  --foreground: '#ffcc2f';
+  --background: '#2c1d16';
+  --brightWhite: '#e5e5e5';
+  --brightCyan: '#00e5e5';
+  --brightPurple: '#e500e5';
+  --brightBlue: '#0000ff';
+  --brightYellow: '#e5e500';
+  --brightGreen: '#86a93e';
+  --brightRed: '#e50000';
+  --brightBlack: '#666666';
+  --white: '#bfbfbf';
+  --cyan: '#00acee';
+  --purple: '#d05ec1';
+  --blue: '#246eb2';
+  --yellow: '#bebf00';
+  --green: '#2baf2b';
+  --red: '#ef5734';
+  --black: '#2c1d16';
+  --name: 'Jackie Brown'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Jackie Brown'; }
