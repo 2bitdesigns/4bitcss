@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #454d96;
-  --cursorColor: #00ff9c;
-  --foreground: #00ff92;
-  --background: #151144;
-  --brightWhite: #ffffff;
-  --brightCyan: #e6e7fe;
-  --brightPurple: #ffb2fe;
-  --brightBlue: #c2e3ff;
-  --brightYellow: #fffed5;
-  --brightGreen: #d6fcba;
-  --brightRed: #ffc4be;
-  --brightBlack: #2e2e2e;
-  --white: #f1f1f1;
-  --cyan: #6bffdd;
-  --purple: #ff90fe;
-  --blue: #0071cf;
-  --yellow: #d2a700;
-  --green: #00c172;
-  --red: #ff8373;
-  --black: #080808;
-  --name: Cyberdyne
+    --selectionBackground: '#454d96';
+  --cursorColor: '#00ff9c';
+  --foreground: '#00ff92';
+  --background: '#151144';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#e6e7fe';
+  --brightPurple: '#ffb2fe';
+  --brightBlue: '#c2e3ff';
+  --brightYellow: '#fffed5';
+  --brightGreen: '#d6fcba';
+  --brightRed: '#ffc4be';
+  --brightBlack: '#2e2e2e';
+  --white: '#f1f1f1';
+  --cyan: '#6bffdd';
+  --purple: '#ff90fe';
+  --blue: '#0071cf';
+  --yellow: '#d2a700';
+  --green: '#00c172';
+  --red: '#ff8373';
+  --black: '#080808';
+  --name: 'Cyberdyne'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cyberdyne'; }
