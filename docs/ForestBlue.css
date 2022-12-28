@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4d4d4d';
-  --cursorColor: '#9e9ecb';
-  --foreground: '#e2d8cd';
-  --background: '#051519';
-  --brightWhite: '#e2d8cd';
-  --brightCyan: '#6096bf';
-  --brightPurple: '#7e62b3';
-  --brightBlue: '#39a7a2';
-  --brightYellow: '#30c85a';
-  --brightGreen: '#6bb48d';
-  --brightRed: '#fb3d66';
-  --brightBlack: '#3d3d3d';
-  --white: '#e2d8cd';
-  --cyan: '#31658c';
-  --purple: '#5e468c';
-  --blue: '#8ed0ce';
-  --yellow: '#1a8e63';
-  --green: '#92d3a2';
-  --red: '#f8818e';
-  --black: '#333333';
+    --selectionBackground: #4d4d4d;
+  --cursorColor: #9e9ecb;
+  --foreground: #e2d8cd;
+  --background: #051519;
+  --brightWhite: #e2d8cd;
+  --brightCyan: #6096bf;
+  --brightPurple: #7e62b3;
+  --brightBlue: #39a7a2;
+  --brightYellow: #30c85a;
+  --brightGreen: #6bb48d;
+  --brightRed: #fb3d66;
+  --brightBlack: #3d3d3d;
+  --white: #e2d8cd;
+  --cyan: #31658c;
+  --purple: #5e468c;
+  --blue: #8ed0ce;
+  --yellow: #1a8e63;
+  --green: #92d3a2;
+  --red: #f8818e;
+  --black: #333333;
   --name: 'ForestBlue'
 }
 
