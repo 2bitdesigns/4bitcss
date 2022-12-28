@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4e739f';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#ffffce';
-  --background: '#000000';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#fed04d';
-  --brightPurple: '#4e739f';
-  --brightBlue: '#cb4a05';
-  --brightYellow: '#fd9f4d';
-  --brightGreen: '#cc734d';
-  --brightRed: '#fecea0';
-  --brightBlack: '#000000';
-  --white: '#ffffce';
-  --cyan: '#979797';
-  --purple: '#734c4d';
-  --blue: '#720102';
-  --yellow: '#fecf75';
-  --green: '#9e744d';
-  --red: '#cda074';
-  --black: '#1d1d1d';
+    --selectionBackground: #4e739f;
+  --cursorColor: #bbbbbb;
+  --foreground: #ffffce;
+  --background: #000000;
+  --brightWhite: #ffffff;
+  --brightCyan: #fed04d;
+  --brightPurple: #4e739f;
+  --brightBlue: #cb4a05;
+  --brightYellow: #fd9f4d;
+  --brightGreen: #cc734d;
+  --brightRed: #fecea0;
+  --brightBlack: #000000;
+  --white: #ffffce;
+  --cyan: #979797;
+  --purple: #734c4d;
+  --blue: #720102;
+  --yellow: #fecf75;
+  --green: #9e744d;
+  --red: #cda074;
+  --black: #1d1d1d;
   --name: 'Fahrenheit'
 }
 
