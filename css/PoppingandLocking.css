@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#ebdbb2';
-  --cursorColor: '#c7c7c7';
-  --foreground: '#ebdbb2';
-  --background: '#181921';
-  --brightWhite: '#ebdbb2';
-  --brightCyan: '#7ec16e';
-  --brightPurple: '#d3869b';
-  --brightBlue: '#99c6ca';
-  --brightYellow: '#fabd2f';
-  --brightGreen: '#b8bb26';
-  --brightRed: '#f42c3e';
-  --brightBlack: '#928374';
-  --white: '#a89984';
-  --cyan: '#689d6a';
-  --purple: '#b16286';
-  --blue: '#458588';
-  --yellow: '#d79921';
-  --green: '#98971a';
-  --red: '#cc241d';
-  --black: '#1d2021';
+    --selectionBackground: #ebdbb2;
+  --cursorColor: #c7c7c7;
+  --foreground: #ebdbb2;
+  --background: #181921;
+  --brightWhite: #ebdbb2;
+  --brightCyan: #7ec16e;
+  --brightPurple: #d3869b;
+  --brightBlue: #99c6ca;
+  --brightYellow: #fabd2f;
+  --brightGreen: #b8bb26;
+  --brightRed: #f42c3e;
+  --brightBlack: #928374;
+  --white: #a89984;
+  --cyan: #689d6a;
+  --purple: #b16286;
+  --blue: #458588;
+  --yellow: #d79921;
+  --green: #98971a;
+  --red: #cc241d;
+  --black: #1d2021;
   --name: 'Popping and Locking'
 }
 
