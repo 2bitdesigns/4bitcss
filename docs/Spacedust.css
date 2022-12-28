@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #0a385c;
-  --cursorColor: #708284;
-  --foreground: #ecf0c1;
-  --background: #0a1e24;
-  --brightWhite: #fefff1;
-  --brightCyan: #83a7b4;
-  --brightPurple: #ff8a3a;
-  --brightBlue: #67a0ce;
-  --brightYellow: #ffc878;
-  --brightGreen: #aecab8;
-  --brightRed: #ff8a3a;
-  --brightBlack: #684c31;
-  --white: #f0f1ce;
-  --cyan: #06afc7;
-  --purple: #e35b00;
-  --blue: #0f548b;
-  --yellow: #e3cd7b;
-  --green: #5cab96;
-  --red: #e35b00;
-  --black: #6e5346;
-  --name: Spacedust
+    --selectionBackground: '#0a385c';
+  --cursorColor: '#708284';
+  --foreground: '#ecf0c1';
+  --background: '#0a1e24';
+  --brightWhite: '#fefff1';
+  --brightCyan: '#83a7b4';
+  --brightPurple: '#ff8a3a';
+  --brightBlue: '#67a0ce';
+  --brightYellow: '#ffc878';
+  --brightGreen: '#aecab8';
+  --brightRed: '#ff8a3a';
+  --brightBlack: '#684c31';
+  --white: '#f0f1ce';
+  --cyan: '#06afc7';
+  --purple: '#e35b00';
+  --blue: '#0f548b';
+  --yellow: '#e3cd7b';
+  --green: '#5cab96';
+  --red: '#e35b00';
+  --black: '#6e5346';
+  --name: 'Spacedust'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Spacedust'; }
