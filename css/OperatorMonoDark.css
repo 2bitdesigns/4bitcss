@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#19273b';
-  --cursorColor: '#fcdc08';
-  --foreground: '#c3cac2';
-  --background: '#191919';
-  --brightWhite: '#fdfdf6';
-  --brightCyan: '#82eada';
-  --brightPurple: '#ff2c7a';
-  --brightBlue: '#89d3f6';
-  --brightYellow: '#fdfdc5';
-  --brightGreen: '#83d0a2';
-  --brightRed: '#c37d62';
-  --brightBlack: '#9a9b99';
-  --white: '#ced4cd';
-  --cyan: '#72d5c6';
-  --purple: '#b86cb4';
-  --blue: '#4387cf';
-  --yellow: '#d4d697';
-  --green: '#4d7b3a';
-  --red: '#ca372d';
-  --black: '#5a5a5a';
+    --selectionBackground: #19273b;
+  --cursorColor: #fcdc08;
+  --foreground: #c3cac2;
+  --background: #191919;
+  --brightWhite: #fdfdf6;
+  --brightCyan: #82eada;
+  --brightPurple: #ff2c7a;
+  --brightBlue: #89d3f6;
+  --brightYellow: #fdfdc5;
+  --brightGreen: #83d0a2;
+  --brightRed: #c37d62;
+  --brightBlack: #9a9b99;
+  --white: #ced4cd;
+  --cyan: #72d5c6;
+  --purple: #b86cb4;
+  --blue: #4387cf;
+  --yellow: #d4d697;
+  --green: #4d7b3a;
+  --red: #ca372d;
+  --black: #5a5a5a;
   --name: 'Operator Mono Dark'
 }
 
