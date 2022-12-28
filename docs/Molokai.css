@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #bbbbbb;
-  --foreground: #bbbbbb;
-  --background: #121212;
-  --brightWhite: #ffffff;
-  --brightCyan: #51ceff;
-  --brightPurple: #af87ff;
-  --brightBlue: #00afff;
-  --brightYellow: #fff26d;
-  --brightGreen: #b1e05f;
-  --brightRed: #f6669d;
-  --brightBlack: #555555;
-  --white: #bbbbbb;
-  --cyan: #43a8d0;
-  --purple: #8700ff;
-  --blue: #1080d0;
-  --yellow: #dfd460;
-  --green: #98e123;
-  --red: #fa2573;
-  --black: #121212;
-  --name: Molokai
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#bbbbbb';
+  --background: '#121212';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#51ceff';
+  --brightPurple: '#af87ff';
+  --brightBlue: '#00afff';
+  --brightYellow: '#fff26d';
+  --brightGreen: '#b1e05f';
+  --brightRed: '#f6669d';
+  --brightBlack: '#555555';
+  --white: '#bbbbbb';
+  --cyan: '#43a8d0';
+  --purple: '#8700ff';
+  --blue: '#1080d0';
+  --yellow: '#dfd460';
+  --green: '#98e123';
+  --red: '#fa2573';
+  --black: '#121212';
+  --name: 'Molokai'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Molokai'; }
