@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#071317';
-  --cursorColor: '#ddeeff';
-  --foreground: '#ddeeff';
-  --background: '#071317';
-  --brightWhite: '#bbccdd';
-  --brightCyan: '#33ddff';
-  --brightPurple: '#aa77ff';
-  --brightBlue: '#3377ff';
-  --brightYellow: '#ffdd33';
-  --brightGreen: '#33ff11';
-  --brightRed: '#ff1133';
-  --brightBlack: '#556677';
-  --white: '#8899aa';
-  --cyan: '#22bbdd';
-  --purple: '#7755aa';
-  --blue: '#2255cc';
-  --yellow: '#ccaa22';
-  --green: '#33aa11';
-  --red: '#aa1122';
-  --black: '#223344';
+    --selectionBackground: #071317;
+  --cursorColor: #ddeeff;
+  --foreground: #ddeeff;
+  --background: #071317;
+  --brightWhite: #bbccdd;
+  --brightCyan: #33ddff;
+  --brightPurple: #aa77ff;
+  --brightBlue: #3377ff;
+  --brightYellow: #ffdd33;
+  --brightGreen: #33ff11;
+  --brightRed: #ff1133;
+  --brightBlack: #556677;
+  --white: #8899aa;
+  --cyan: #22bbdd;
+  --purple: #7755aa;
+  --blue: #2255cc;
+  --yellow: #ccaa22;
+  --green: #33aa11;
+  --red: #aa1122;
+  --black: #223344;
   --name: 'Galizur'
 }
 
