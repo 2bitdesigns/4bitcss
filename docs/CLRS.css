@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#6fd3fc';
-  --cursorColor: '#6fd3fc';
-  --foreground: '#262626';
-  --background: '#ffffff';
-  --brightWhite: '#eeeeec';
-  --brightCyan: '#3ad5ce';
-  --brightPurple: '#e900b0';
-  --brightBlue: '#1670ff';
-  --brightYellow: '#fdd727';
-  --brightGreen: '#2cc631';
-  --brightRed: '#fb0416';
-  --brightBlack: '#555753';
-  --white: '#b3b3b3';
-  --cyan: '#33c3c1';
-  --purple: '#9f00bd';
-  --blue: '#135cd0';
-  --yellow: '#fa701d';
-  --green: '#328a5d';
-  --red: '#f8282a';
-  --black: '#000000';
+    --selectionBackground: #6fd3fc;
+  --cursorColor: #6fd3fc;
+  --foreground: #262626;
+  --background: #ffffff;
+  --brightWhite: #eeeeec;
+  --brightCyan: #3ad5ce;
+  --brightPurple: #e900b0;
+  --brightBlue: #1670ff;
+  --brightYellow: #fdd727;
+  --brightGreen: #2cc631;
+  --brightRed: #fb0416;
+  --brightBlack: #555753;
+  --white: #b3b3b3;
+  --cyan: #33c3c1;
+  --purple: #9f00bd;
+  --blue: #135cd0;
+  --yellow: #fa701d;
+  --green: #328a5d;
+  --red: #f8282a;
+  --black: #000000;
   --name: 'CLRS'
 }
 
