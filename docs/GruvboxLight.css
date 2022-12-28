@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #d5c4a1;
-  --cursorColor: #282828;
-  --foreground: #282828;
-  --background: #fbf1c7;
-  --brightWhite: #7c6f64;
-  --brightCyan: #689d69;
-  --brightPurple: #b16186;
-  --brightBlue: #458588;
-  --brightYellow: #d79921;
-  --brightGreen: #98971a;
-  --brightRed: #cc241d;
-  --brightBlack: #9d8374;
-  --white: #3c3836;
-  --cyan: #427b58;
-  --purple: #8f3f71;
-  --blue: #076678;
-  --yellow: #b57614;
-  --green: #79740e;
-  --red: #9d0006;
-  --black: #fbf1c7;
-  --name: Gruvbox Light
+    --selectionBackground: '#d5c4a1';
+  --cursorColor: '#282828';
+  --foreground: '#282828';
+  --background: '#fbf1c7';
+  --brightWhite: '#7c6f64';
+  --brightCyan: '#689d69';
+  --brightPurple: '#b16186';
+  --brightBlue: '#458588';
+  --brightYellow: '#d79921';
+  --brightGreen: '#98971a';
+  --brightRed: '#cc241d';
+  --brightBlack: '#9d8374';
+  --white: '#3c3836';
+  --cyan: '#427b58';
+  --purple: '#8f3f71';
+  --blue: '#076678';
+  --yellow: '#b57614';
+  --green: '#79740e';
+  --red: '#9d0006';
+  --black: '#fbf1c7';
+  --name: 'Gruvbox Light'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Gruvbox Light'; }
