@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#2e206a';
-  --cursorColor: '#00ff9c';
-  --foreground: '#f106e3';
-  --background: '#030d18';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#e6e7fe';
-  --brightPurple: '#ffb2fe';
-  --brightBlue: '#f92883';
-  --brightYellow: '#fffed5';
-  --brightGreen: '#d6fcba';
-  --brightRed: '#ffc4be';
-  --brightBlack: '#8f8f8f';
-  --white: '#f1f1f1';
-  --cyan: '#d1d1fe';
-  --purple: '#ff90fe';
-  --blue: '#fed300';
-  --yellow: '#09b4bd';
-  --green: '#b4fb73';
-  --red: '#ff8373';
-  --black: '#626262';
+    --selectionBackground: #2e206a;
+  --cursorColor: #00ff9c;
+  --foreground: #f106e3;
+  --background: #030d18;
+  --brightWhite: #ffffff;
+  --brightCyan: #e6e7fe;
+  --brightPurple: #ffb2fe;
+  --brightBlue: #f92883;
+  --brightYellow: #fffed5;
+  --brightGreen: #d6fcba;
+  --brightRed: #ffc4be;
+  --brightBlack: #8f8f8f;
+  --white: #f1f1f1;
+  --cyan: #d1d1fe;
+  --purple: #ff90fe;
+  --blue: #fed300;
+  --yellow: #09b4bd;
+  --green: #b4fb73;
+  --red: #ff8373;
+  --black: #626262;
   --name: 'Laser'
 }
 
