@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #e6e6e6;
-  --cursorColor: #bbbbbb;
-  --foreground: #c8c8c8;
-  --background: #000000;
-  --brightWhite: #dfdfdf;
-  --brightCyan: #96dcdb;
-  --brightPurple: #e586e7;
-  --brightBlue: #6fbce2;
-  --brightYellow: #e1e487;
-  --brightGreen: #a3cca2;
-  --brightRed: #e4859b;
-  --brightBlack: #535353;
-  --white: #b4b4b4;
-  --cyan: #65aaaf;
-  --purple: #da62dc;
-  --blue: #449fd0;
-  --yellow: #dab853;
-  --green: #89d287;
-  --red: #e74669;
-  --black: #353535;
-  --name: Peppermint
+    --selectionBackground: '#e6e6e6';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#c8c8c8';
+  --background: '#000000';
+  --brightWhite: '#dfdfdf';
+  --brightCyan: '#96dcdb';
+  --brightPurple: '#e586e7';
+  --brightBlue: '#6fbce2';
+  --brightYellow: '#e1e487';
+  --brightGreen: '#a3cca2';
+  --brightRed: '#e4859b';
+  --brightBlack: '#535353';
+  --white: '#b4b4b4';
+  --cyan: '#65aaaf';
+  --purple: '#da62dc';
+  --blue: '#449fd0';
+  --yellow: '#dab853';
+  --green: '#89d287';
+  --red: '#e74669';
+  --black: '#353535';
+  --name: 'Peppermint'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Peppermint'; }
