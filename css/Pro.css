@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #414141;
-  --cursorColor: #4d4d4d;
-  --foreground: #f2f2f2;
-  --background: #000000;
-  --brightWhite: #e5e5e5;
-  --brightCyan: #00e5e5;
-  --brightPurple: #e500e5;
-  --brightBlue: #0000ff;
-  --brightYellow: #e5e500;
-  --brightGreen: #00d900;
-  --brightRed: #e50000;
-  --brightBlack: #666666;
-  --white: #bfbfbf;
-  --cyan: #00a6b2;
-  --purple: #b200b2;
-  --blue: #2009db;
-  --yellow: #999900;
-  --green: #00a600;
-  --red: #990000;
-  --black: #000000;
-  --name: Pro
+    --selectionBackground: '#414141';
+  --cursorColor: '#4d4d4d';
+  --foreground: '#f2f2f2';
+  --background: '#000000';
+  --brightWhite: '#e5e5e5';
+  --brightCyan: '#00e5e5';
+  --brightPurple: '#e500e5';
+  --brightBlue: '#0000ff';
+  --brightYellow: '#e5e500';
+  --brightGreen: '#00d900';
+  --brightRed: '#e50000';
+  --brightBlack: '#666666';
+  --white: '#bfbfbf';
+  --cyan: '#00a6b2';
+  --purple: '#b200b2';
+  --blue: '#2009db';
+  --yellow: '#999900';
+  --green: '#00a600';
+  --red: '#990000';
+  --black: '#000000';
+  --name: 'Pro'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Pro'; }
