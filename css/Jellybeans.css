@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#474e91';
-  --cursorColor: '#ffa560';
-  --foreground: '#dedede';
-  --background: '#121212';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#1ab2a8';
-  --brightPurple: '#fbdaff';
-  --brightBlue: '#b1d8f6';
-  --brightYellow: '#ffdca0';
-  --brightGreen: '#bddeab';
-  --brightRed: '#ffa1a1';
-  --brightBlack: '#bdbdbd';
-  --white: '#dedede';
-  --cyan: '#00988e';
-  --purple: '#e1c0fa';
-  --blue: '#97bedc';
-  --yellow: '#ffba7b';
-  --green: '#94b979';
-  --red: '#e27373';
-  --black: '#929292';
+    --selectionBackground: #474e91;
+  --cursorColor: #ffa560;
+  --foreground: #dedede;
+  --background: #121212;
+  --brightWhite: #ffffff;
+  --brightCyan: #1ab2a8;
+  --brightPurple: #fbdaff;
+  --brightBlue: #b1d8f6;
+  --brightYellow: #ffdca0;
+  --brightGreen: #bddeab;
+  --brightRed: #ffa1a1;
+  --brightBlack: #bdbdbd;
+  --white: #dedede;
+  --cyan: #00988e;
+  --purple: #e1c0fa;
+  --blue: #97bedc;
+  --yellow: #ffba7b;
+  --green: #94b979;
+  --red: #e27373;
+  --black: #929292;
   --name: 'Jellybeans'
 }
 
