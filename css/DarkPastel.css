@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b5d5ff';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#ffffff';
-  --background: '#000000';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#55ffff';
-  --brightPurple: '#ff55ff';
-  --brightBlue: '#5555ff';
-  --brightYellow: '#ffff55';
-  --brightGreen: '#55ff55';
-  --brightRed: '#ff5555';
-  --brightBlack: '#555555';
-  --white: '#bbbbbb';
-  --cyan: '#55ffff';
-  --purple: '#ff55ff';
-  --blue: '#5555ff';
-  --yellow: '#ffff55';
-  --green: '#55ff55';
-  --red: '#ff5555';
-  --black: '#000000';
+    --selectionBackground: #b5d5ff;
+  --cursorColor: #bbbbbb;
+  --foreground: #ffffff;
+  --background: #000000;
+  --brightWhite: #ffffff;
+  --brightCyan: #55ffff;
+  --brightPurple: #ff55ff;
+  --brightBlue: #5555ff;
+  --brightYellow: #ffff55;
+  --brightGreen: #55ff55;
+  --brightRed: #ff5555;
+  --brightBlack: #555555;
+  --white: #bbbbbb;
+  --cyan: #55ffff;
+  --purple: #ff55ff;
+  --blue: #5555ff;
+  --yellow: #ffff55;
+  --green: #55ff55;
+  --red: #ff5555;
+  --black: #000000;
   --name: 'Dark Pastel'
 }
 
