@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #220525;
-  --cursorColor: #e07d13;
-  --foreground: #cccccc;
-  --background: #191323;
-  --brightWhite: #ffffff;
-  --brightCyan: #bcf3ff;
-  --brightPurple: #da70d6;
-  --brightBlue: #91fff4;
-  --brightYellow: #f9e46b;
-  --brightGreen: #98c379;
-  --brightRed: #fe9ea1;
-  --brightBlack: #495162;
-  --white: #f1f1f1;
-  --cyan: #56b6c2;
-  --purple: #dc396a;
-  --blue: #22e8df;
-  --yellow: #e6c62f;
-  --green: #00bd9c;
-  --red: #ff6b7f;
-  --black: #17141f;
-  --name: Banana Blueberry
+    --selectionBackground: '#220525';
+  --cursorColor: '#e07d13';
+  --foreground: '#cccccc';
+  --background: '#191323';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#bcf3ff';
+  --brightPurple: '#da70d6';
+  --brightBlue: '#91fff4';
+  --brightYellow: '#f9e46b';
+  --brightGreen: '#98c379';
+  --brightRed: '#fe9ea1';
+  --brightBlack: '#495162';
+  --white: '#f1f1f1';
+  --cyan: '#56b6c2';
+  --purple: '#dc396a';
+  --blue: '#22e8df';
+  --yellow: '#e6c62f';
+  --green: '#00bd9c';
+  --red: '#ff6b7f';
+  --black: '#17141f';
+  --name: 'Banana Blueberry'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Banana Blueberry'; }
