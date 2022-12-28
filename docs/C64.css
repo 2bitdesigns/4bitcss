@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #7869c4;
-  --cursorColor: #7869c4;
-  --foreground: #7869c4;
-  --background: #40318d;
-  --brightWhite: #f7f7f7;
-  --brightCyan: #67b6bd;
-  --brightPurple: #8b3f96;
-  --brightBlue: #40318d;
-  --brightYellow: #bfce72;
-  --brightGreen: #55a049;
-  --brightRed: #883932;
-  --brightBlack: #000000;
-  --white: #ffffff;
-  --cyan: #67b6bd;
-  --purple: #8b3f96;
-  --blue: #40318d;
-  --yellow: #bfce72;
-  --green: #55a049;
-  --red: #883932;
-  --black: #090300;
-  --name: C64
+    --selectionBackground: '#7869c4';
+  --cursorColor: '#7869c4';
+  --foreground: '#7869c4';
+  --background: '#40318d';
+  --brightWhite: '#f7f7f7';
+  --brightCyan: '#67b6bd';
+  --brightPurple: '#8b3f96';
+  --brightBlue: '#40318d';
+  --brightYellow: '#bfce72';
+  --brightGreen: '#55a049';
+  --brightRed: '#883932';
+  --brightBlack: '#000000';
+  --white: '#ffffff';
+  --cyan: '#67b6bd';
+  --purple: '#8b3f96';
+  --blue: '#40318d';
+  --yellow: '#bfce72';
+  --green: '#55a049';
+  --red: '#883932';
+  --black: '#090300';
+  --name: 'C64'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'C64'; }
