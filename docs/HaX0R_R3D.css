@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#ebc1ff';
-  --cursorColor: '#b00d0d';
-  --foreground: '#b10e0e';
-  --background: '#200101';
-  --brightWhite: '#fefefe';
-  --brightCyan: '#ff1010';
-  --brightPurple: '#ff1010';
-  --brightBlue: '#ff1010';
-  --brightYellow: '#ff1010';
-  --brightGreen: '#ff1010';
-  --brightRed: '#ff1111';
-  --brightBlack: '#150000';
-  --white: '#fafafa';
-  --cyan: '#b00d0d';
-  --purple: '#b00d0d';
-  --blue: '#b00d0d';
-  --yellow: '#b00d0d';
-  --green: '#b00d0d';
-  --red: '#b00d0d';
-  --black: '#1f0000';
+    --selectionBackground: #ebc1ff;
+  --cursorColor: #b00d0d;
+  --foreground: #b10e0e;
+  --background: #200101;
+  --brightWhite: #fefefe;
+  --brightCyan: #ff1010;
+  --brightPurple: #ff1010;
+  --brightBlue: #ff1010;
+  --brightYellow: #ff1010;
+  --brightGreen: #ff1010;
+  --brightRed: #ff1111;
+  --brightBlack: #150000;
+  --white: #fafafa;
+  --cyan: #b00d0d;
+  --purple: #b00d0d;
+  --blue: #b00d0d;
+  --yellow: #b00d0d;
+  --green: #b00d0d;
+  --red: #b00d0d;
+  --black: #1f0000;
   --name: 'HaX0R_R3D'
 }
 
