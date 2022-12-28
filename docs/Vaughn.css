@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b5d5ff';
-  --cursorColor: '#ff5555';
-  --foreground: '#dcdccc';
-  --background: '#25234f';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#93e0e3';
-  --brightPurple: '#ec93d3';
-  --brightBlue: '#5555ff';
-  --brightYellow: '#f0dfaf';
-  --brightGreen: '#60b48a';
-  --brightRed: '#dca3a3';
-  --brightBlack: '#709080';
-  --white: '#709080';
-  --cyan: '#8cd0d3';
-  --purple: '#f08cc3';
-  --blue: '#5555ff';
-  --yellow: '#dfaf8f';
-  --green: '#60b48a';
-  --red: '#705050';
-  --black: '#25234f';
+    --selectionBackground: #b5d5ff;
+  --cursorColor: #ff5555;
+  --foreground: #dcdccc;
+  --background: #25234f;
+  --brightWhite: #ffffff;
+  --brightCyan: #93e0e3;
+  --brightPurple: #ec93d3;
+  --brightBlue: #5555ff;
+  --brightYellow: #f0dfaf;
+  --brightGreen: #60b48a;
+  --brightRed: #dca3a3;
+  --brightBlack: #709080;
+  --white: #709080;
+  --cyan: #8cd0d3;
+  --purple: #f08cc3;
+  --blue: #5555ff;
+  --yellow: #dfaf8f;
+  --green: #60b48a;
+  --red: #705050;
+  --black: #25234f;
   --name: 'Vaughn'
 }
 
