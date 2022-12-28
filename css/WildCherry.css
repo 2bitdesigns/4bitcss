@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #002831;
-  --cursorColor: #dd00ff;
-  --foreground: #dafaff;
-  --background: #1f1726;
-  --brightWhite: #e4838d;
-  --brightCyan: #ff919d;
-  --brightPurple: #ae636b;
-  --brightBlue: #308cba;
-  --brightYellow: #eac066;
-  --brightGreen: #f4dca5;
-  --brightRed: #da6bac;
-  --brightBlack: #009cc9;
-  --white: #fff8de;
-  --cyan: #c1b8b7;
-  --purple: #ececec;
-  --blue: #883cdc;
-  --yellow: #ffd16f;
-  --green: #2ab250;
-  --red: #d94085;
-  --black: #000507;
-  --name: WildCherry
+    --selectionBackground: '#002831';
+  --cursorColor: '#dd00ff';
+  --foreground: '#dafaff';
+  --background: '#1f1726';
+  --brightWhite: '#e4838d';
+  --brightCyan: '#ff919d';
+  --brightPurple: '#ae636b';
+  --brightBlue: '#308cba';
+  --brightYellow: '#eac066';
+  --brightGreen: '#f4dca5';
+  --brightRed: '#da6bac';
+  --brightBlack: '#009cc9';
+  --white: '#fff8de';
+  --cyan: '#c1b8b7';
+  --purple: '#ececec';
+  --blue: '#883cdc';
+  --yellow: '#ffd16f';
+  --green: '#2ab250';
+  --red: '#d94085';
+  --black: '#000507';
+  --name: 'WildCherry'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'WildCherry'; }
