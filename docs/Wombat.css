@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#453b39';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#dedacf';
-  --background: '#171717';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#b7fff9';
-  --brightPurple: '#ddaaff';
-  --brightBlue: '#a5c7ff';
-  --brightYellow: '#eee5b2';
-  --brightGreen: '#ddf88f';
-  --brightRed: '#f58c80';
-  --brightBlack: '#313131';
-  --white: '#dedacf';
-  --cyan: '#82fff7';
-  --purple: '#e86aff';
-  --blue: '#5da9f6';
-  --yellow: '#ebd99c';
-  --green: '#b1e969';
-  --red: '#ff615a';
-  --black: '#000000';
+    --selectionBackground: #453b39;
+  --cursorColor: #bbbbbb;
+  --foreground: #dedacf;
+  --background: #171717;
+  --brightWhite: #ffffff;
+  --brightCyan: #b7fff9;
+  --brightPurple: #ddaaff;
+  --brightBlue: #a5c7ff;
+  --brightYellow: #eee5b2;
+  --brightGreen: #ddf88f;
+  --brightRed: #f58c80;
+  --brightBlack: #313131;
+  --white: #dedacf;
+  --cyan: #82fff7;
+  --purple: #e86aff;
+  --blue: #5da9f6;
+  --yellow: #ebd99c;
+  --green: #b1e969;
+  --red: #ff615a;
+  --black: #000000;
   --name: 'Wombat'
 }
 
