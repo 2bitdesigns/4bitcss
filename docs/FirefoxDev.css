@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#163c61';
-  --cursorColor: '#708284';
-  --foreground: '#7c8fa4';
-  --background: '#0e1011';
-  --brightWhite: '#e2e2e2';
-  --brightCyan: '#005794';
-  --brightPurple: '#a200da';
-  --brightBlue: '#006fc0';
-  --brightYellow: '#cd9409';
-  --brightGreen: '#1d9000';
-  --brightRed: '#e1003f';
-  --brightBlack: '#001e27';
-  --white: '#dcdcdc';
-  --cyan: '#4b73a2';
-  --purple: '#d75cff';
-  --blue: '#359ddf';
-  --yellow: '#a57706';
-  --green: '#5eb83c';
-  --red: '#e63853';
-  --black: '#002831';
+    --selectionBackground: #163c61;
+  --cursorColor: #708284;
+  --foreground: #7c8fa4;
+  --background: #0e1011;
+  --brightWhite: #e2e2e2;
+  --brightCyan: #005794;
+  --brightPurple: #a200da;
+  --brightBlue: #006fc0;
+  --brightYellow: #cd9409;
+  --brightGreen: #1d9000;
+  --brightRed: #e1003f;
+  --brightBlack: #001e27;
+  --white: #dcdcdc;
+  --cyan: #4b73a2;
+  --purple: #d75cff;
+  --blue: #359ddf;
+  --yellow: #a57706;
+  --green: #5eb83c;
+  --red: #e63853;
+  --black: #002831;
   --name: 'FirefoxDev'
 }
 
