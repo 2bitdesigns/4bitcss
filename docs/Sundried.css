@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #302b2a;
-  --cursorColor: #ffffff;
-  --foreground: #c9c9c9;
-  --background: #1a1818;
-  --brightWhite: #ffffff;
-  --brightCyan: #fad484;
-  --brightPurple: #fd8aa1;
-  --brightBlue: #7999f7;
-  --brightYellow: #fc6a21;
-  --brightGreen: #128c21;
-  --brightRed: #aa000c;
-  --brightBlack: #4d4e48;
-  --white: #c9c9c9;
-  --cyan: #9c814f;
-  --purple: #864651;
-  --blue: #485b98;
-  --yellow: #9d602a;
-  --green: #587744;
-  --red: #a7463d;
-  --black: #302b2a;
-  --name: Sundried
+    --selectionBackground: '#302b2a';
+  --cursorColor: '#ffffff';
+  --foreground: '#c9c9c9';
+  --background: '#1a1818';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#fad484';
+  --brightPurple: '#fd8aa1';
+  --brightBlue: '#7999f7';
+  --brightYellow: '#fc6a21';
+  --brightGreen: '#128c21';
+  --brightRed: '#aa000c';
+  --brightBlack: '#4d4e48';
+  --white: '#c9c9c9';
+  --cyan: '#9c814f';
+  --purple: '#864651';
+  --blue: '#485b98';
+  --yellow: '#9d602a';
+  --green: '#587744';
+  --red: '#a7463d';
+  --black: '#302b2a';
+  --name: 'Sundried'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sundried'; }
