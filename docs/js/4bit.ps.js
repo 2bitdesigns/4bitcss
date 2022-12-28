@@ -79,9 +79,6 @@ function loadTheme() {
     if (previouslySaved) {
         switchTheme(previouslySaved);
     }
-    else {
-        switchTheme(getCSSVariable("--name").trim("'").trim('"'));
-    }
     for (arg in arguments) {
         if (arguments[arg].value) {
             arguments[arg].value = previouslySaved;
