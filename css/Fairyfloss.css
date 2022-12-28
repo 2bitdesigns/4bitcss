@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #8077a8;
-  --cursorColor: #f8f8f0;
-  --foreground: #f8f8f2;
-  --background: #5a5475;
-  --brightWhite: #f8f8f0;
-  --brightCyan: #c5a3ff;
-  --brightPurple: #ffb8d1;
-  --brightBlue: #c2ffdf;
-  --brightYellow: #ffea00;
-  --brightGreen: #c2ffdf;
-  --brightRed: #ff857f;
-  --brightBlack: #6090cb;
-  --white: #f8f8f0;
-  --cyan: #c5a3ff;
-  --purple: #ffb8d1;
-  --blue: #c2ffdf;
-  --yellow: #e6c000;
-  --green: #c2ffdf;
-  --red: #f92672;
-  --black: #040303;
-  --name: Fairyfloss
+    --selectionBackground: '#8077a8';
+  --cursorColor: '#f8f8f0';
+  --foreground: '#f8f8f2';
+  --background: '#5a5475';
+  --brightWhite: '#f8f8f0';
+  --brightCyan: '#c5a3ff';
+  --brightPurple: '#ffb8d1';
+  --brightBlue: '#c2ffdf';
+  --brightYellow: '#ffea00';
+  --brightGreen: '#c2ffdf';
+  --brightRed: '#ff857f';
+  --brightBlack: '#6090cb';
+  --white: '#f8f8f0';
+  --cyan: '#c5a3ff';
+  --purple: '#ffb8d1';
+  --blue: '#c2ffdf';
+  --yellow: '#e6c000';
+  --green: '#c2ffdf';
+  --red: '#f92672';
+  --black: '#040303';
+  --name: 'Fairyfloss'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Fairyfloss'; }
