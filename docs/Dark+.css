@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#3a3d41';
-  --cursorColor: '#ffffff';
-  --foreground: '#cccccc';
-  --background: '#1e1e1e';
-  --brightWhite: '#e5e5e5';
-  --brightCyan: '#29b8db';
-  --brightPurple: '#d670d6';
-  --brightBlue: '#3b8eea';
-  --brightYellow: '#f5f543';
-  --brightGreen: '#23d18b';
-  --brightRed: '#f14c4c';
-  --brightBlack: '#666666';
-  --white: '#e5e5e5';
-  --cyan: '#11a8cd';
-  --purple: '#bc3fbc';
-  --blue: '#2472c8';
-  --yellow: '#e5e510';
-  --green: '#0dbc79';
-  --red: '#cd3131';
-  --black: '#000000';
+    --selectionBackground: #3a3d41;
+  --cursorColor: #ffffff;
+  --foreground: #cccccc;
+  --background: #1e1e1e;
+  --brightWhite: #e5e5e5;
+  --brightCyan: #29b8db;
+  --brightPurple: #d670d6;
+  --brightBlue: #3b8eea;
+  --brightYellow: #f5f543;
+  --brightGreen: #23d18b;
+  --brightRed: #f14c4c;
+  --brightBlack: #666666;
+  --white: #e5e5e5;
+  --cyan: #11a8cd;
+  --purple: #bc3fbc;
+  --blue: #2472c8;
+  --yellow: #e5e510;
+  --green: #0dbc79;
+  --red: #cd3131;
+  --black: #000000;
   --name: 'Dark+'
 }
 
