@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4d52f8';
-  --cursorColor: '#53ae71';
-  --foreground: '#b3b3b3';
-  --background: '#000000';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#55ffff';
-  --brightPurple: '#ff55ff';
-  --brightBlue: '#5555ff';
-  --brightYellow: '#ffff55';
-  --brightGreen: '#55ff55';
-  --brightRed: '#ff5555';
-  --brightBlack: '#555555';
-  --white: '#cccccc';
-  --cyan: '#7acaca';
-  --purple: '#cc55cc';
-  --blue: '#5555cc';
-  --yellow: '#cdcd55';
-  --green: '#55cc55';
-  --red: '#cc5555';
-  --black: '#000000';
+    --selectionBackground: #4d52f8;
+  --cursorColor: #53ae71;
+  --foreground: #b3b3b3;
+  --background: #000000;
+  --brightWhite: #ffffff;
+  --brightCyan: #55ffff;
+  --brightPurple: #ff55ff;
+  --brightBlue: #5555ff;
+  --brightYellow: #ffff55;
+  --brightGreen: #55ff55;
+  --brightRed: #ff5555;
+  --brightBlack: #555555;
+  --white: #cccccc;
+  --cyan: #7acaca;
+  --purple: #cc55cc;
+  --blue: #5555cc;
+  --yellow: #cdcd55;
+  --green: #55cc55;
+  --red: #cc5555;
+  --black: #000000;
   --name: 'Wez'
 }
 
