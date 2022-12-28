@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#a9c1e2';
-  --cursorColor: '#3f3f3f';
-  --foreground: '#3e3e3e';
-  --background: '#f4f4f4';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#1cfafe';
-  --brightPurple: '#ffa29f';
-  --brightBlue: '#2e6cba';
-  --brightYellow: '#f1d007';
-  --brightGreen: '#87d5a2';
-  --brightRed: '#de0000';
-  --brightBlack: '#666666';
-  --white: '#ffffff';
-  --cyan: '#89d1ec';
-  --purple: '#e94691';
-  --blue: '#003e8a';
-  --yellow: '#f8eec7';
-  --green: '#07962a';
-  --red: '#970b16';
-  --black: '#3e3e3e';
+    --selectionBackground: #a9c1e2;
+  --cursorColor: #3f3f3f;
+  --foreground: #3e3e3e;
+  --background: #f4f4f4;
+  --brightWhite: #ffffff;
+  --brightCyan: #1cfafe;
+  --brightPurple: #ffa29f;
+  --brightBlue: #2e6cba;
+  --brightYellow: #f1d007;
+  --brightGreen: #87d5a2;
+  --brightRed: #de0000;
+  --brightBlack: #666666;
+  --white: #ffffff;
+  --cyan: #89d1ec;
+  --purple: #e94691;
+  --blue: #003e8a;
+  --yellow: #f8eec7;
+  --green: #07962a;
+  --red: #970b16;
+  --black: #3e3e3e;
   --name: 'Github'
 }
 
