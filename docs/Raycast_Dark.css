@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#333333';
-  --cursorColor: '#cccccc';
-  --foreground: '#ffffff';
-  --background: '#1a1a1a';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#52eee5';
-  --brightPurple: '#cf2f98';
-  --brightBlue: '#56c2ff';
-  --brightYellow: '#ffc531';
-  --brightGreen: '#59d499';
-  --brightRed: '#ff6363';
-  --brightBlack: '#000000';
-  --white: '#ffffff';
-  --cyan: '#52eee5';
-  --purple: '#cf2f98';
-  --blue: '#56c2ff';
-  --yellow: '#ffc531';
-  --green: '#59d499';
-  --red: '#ff5360';
-  --black: '#000000';
+    --selectionBackground: #333333;
+  --cursorColor: #cccccc;
+  --foreground: #ffffff;
+  --background: #1a1a1a;
+  --brightWhite: #ffffff;
+  --brightCyan: #52eee5;
+  --brightPurple: #cf2f98;
+  --brightBlue: #56c2ff;
+  --brightYellow: #ffc531;
+  --brightGreen: #59d499;
+  --brightRed: #ff6363;
+  --brightBlack: #000000;
+  --white: #ffffff;
+  --cyan: #52eee5;
+  --purple: #cf2f98;
+  --blue: #56c2ff;
+  --yellow: #ffc531;
+  --green: #59d499;
+  --red: #ff5360;
+  --black: #000000;
   --name: 'Raycast_Dark'
 }
 
