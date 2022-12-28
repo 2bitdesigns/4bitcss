@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4e6a78';
-  --cursorColor: '#eaeaea';
-  --foreground: '#e7ebed';
-  --background: '#1d262a';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#9affe6';
-  --brightPurple: '#fc669b';
-  --brightBlue: '#70cfff';
-  --brightYellow: '#fee16c';
-  --brightGreen: '#adf7be';
-  --brightRed: '#fc746d';
-  --brightBlack: '#a1b0b8';
-  --white: '#ffffff';
-  --cyan: '#59ffd1';
-  --purple: '#fc226e';
-  --blue: '#37b6ff';
-  --yellow: '#fed032';
-  --green: '#5cf19e';
-  --red: '#fc3841';
-  --black: '#435b67';
+    --selectionBackground: #4e6a78;
+  --cursorColor: #eaeaea;
+  --foreground: #e7ebed;
+  --background: #1d262a;
+  --brightWhite: #ffffff;
+  --brightCyan: #9affe6;
+  --brightPurple: #fc669b;
+  --brightBlue: #70cfff;
+  --brightYellow: #fee16c;
+  --brightGreen: #adf7be;
+  --brightRed: #fc746d;
+  --brightBlack: #a1b0b8;
+  --white: #ffffff;
+  --cyan: #59ffd1;
+  --purple: #fc226e;
+  --blue: #37b6ff;
+  --yellow: #fed032;
+  --green: #5cf19e;
+  --red: #fc3841;
+  --black: #435b67;
   --name: 'MaterialDesignColors'
 }
 
