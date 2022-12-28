@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #172539;
-  --cursorColor: #92805b;
-  --foreground: #aea47a;
-  --background: #191c27;
-  --brightWhite: #f4f4f4;
-  --brightCyan: #f3dbb2;
-  --brightPurple: #d33061;
-  --brightBlue: #3097c6;
-  --brightYellow: #dcdf7c;
-  --brightGreen: #a6a75d;
-  --brightRed: #ac3835;
-  --brightBlack: #555555;
-  --white: #aea47f;
-  --cyan: #5c4f4b;
-  --purple: #724d7c;
-  --blue: #576d8c;
-  --yellow: #cc8b3f;
-  --green: #48513b;
-  --red: #810009;
-  --black: #181818;
-  --name: Ciapre
+    --selectionBackground: '#172539';
+  --cursorColor: '#92805b';
+  --foreground: '#aea47a';
+  --background: '#191c27';
+  --brightWhite: '#f4f4f4';
+  --brightCyan: '#f3dbb2';
+  --brightPurple: '#d33061';
+  --brightBlue: '#3097c6';
+  --brightYellow: '#dcdf7c';
+  --brightGreen: '#a6a75d';
+  --brightRed: '#ac3835';
+  --brightBlack: '#555555';
+  --white: '#aea47f';
+  --cyan: '#5c4f4b';
+  --purple: '#724d7c';
+  --blue: '#576d8c';
+  --yellow: '#cc8b3f';
+  --green: '#48513b';
+  --red: '#810009';
+  --black: '#181818';
+  --name: 'Ciapre'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ciapre'; }
