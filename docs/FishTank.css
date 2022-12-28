@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#fcf7e9';
-  --cursorColor: '#fecd5e';
-  --foreground: '#ecf0fe';
-  --background: '#232537';
-  --brightWhite: '#f6ffec';
-  --brightCyan: '#a5bd86';
-  --brightPurple: '#fda5cd';
-  --brightBlue: '#b2befa';
-  --brightYellow: '#fee6a9';
-  --brightGreen: '#dbffa9';
-  --brightRed: '#da4b8a';
-  --brightBlack: '#6c5b30';
-  --white: '#ecf0fc';
-  --cyan: '#968763';
-  --purple: '#986f82';
-  --blue: '#525fb8';
-  --yellow: '#fecd5e';
-  --green: '#acf157';
-  --red: '#c6004a';
-  --black: '#03073c';
+    --selectionBackground: #fcf7e9;
+  --cursorColor: #fecd5e;
+  --foreground: #ecf0fe;
+  --background: #232537;
+  --brightWhite: #f6ffec;
+  --brightCyan: #a5bd86;
+  --brightPurple: #fda5cd;
+  --brightBlue: #b2befa;
+  --brightYellow: #fee6a9;
+  --brightGreen: #dbffa9;
+  --brightRed: #da4b8a;
+  --brightBlack: #6c5b30;
+  --white: #ecf0fc;
+  --cyan: #968763;
+  --purple: #986f82;
+  --blue: #525fb8;
+  --yellow: #fecd5e;
+  --green: #acf157;
+  --red: #c6004a;
+  --black: #03073c;
   --name: 'FishTank'
 }
 
