@@ -1,3 +1,4 @@
+var defaultTheme = "Konsolas";
 function themeList() {
     return [/*{
 "'$(
@@ -37,6 +38,20 @@ function switchTheme(themeName) {
     }
     fourBitCssLink.href = "/" + foundTheme + ".css";
     fourBitCssLink.themeName = foundTheme;
+    var downloadLink = document.getElementsById("downloadSchemeLink");
+    if (downloadLink) {
+        downloadLink.href = "/" + foundTheme + ".css";
+    }
+    var cdnLink = document.getElementById("cdnSchemeLink")
+    if (cdnLink) {
+        cdnLink.href = "https://cdn.jsdelivr.net/gh/2bitdesigns/4bitcss@latest/css/" + foundTheme + ".css";
+    }
+}
+
+function getCSSVariable(name) {
+    var root = document.querySelector(":root");
+    var rootStyle = getComputedStyle(root);
+    return rootStyle.getPropertyValue(name);
 }
 
 function saveTheme() {
@@ -58,6 +73,8 @@ function loadTheme() {
     var previouslySaved = localStorage.getItem("savedThemeLink");
     if (previouslySaved) {
         switchTheme(previouslySaved);
+    } else {
+        switchTheme(defaultTheme);
     }
     for (arg in arguments) {
         if (arguments[arg].value) {

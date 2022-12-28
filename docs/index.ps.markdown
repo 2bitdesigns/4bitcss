@@ -10,6 +10,15 @@ Get-Content .\4bitpreview.svg |
 ~~~
 </div>
 
+<div class='centeredText'>
+    <a id='downloadSchemeLink' href='javascript:void(0)'>
+        Download
+    </a>
+    <a id='cdnSchemeLink' href='javascript:void(0)'>
+        CDN
+    </a>
+</div>
+
 ~~~PipeScript{
 $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
     'BrightBlack', 'BrightRed', 'BrightGreen', 'BrightYellow', 'BrightBlue', 'BrightPurple', 'BrightCyan', 'BrightWhite'
