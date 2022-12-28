@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #d6d6d6;
-  --cursorColor: #4d4d4c;
-  --foreground: #4d4d4c;
-  --background: #ffffff;
-  --brightWhite: #ffffff;
-  --brightCyan: #3e999f;
-  --brightPurple: #8959a8;
-  --brightBlue: #15a9fd;
-  --brightYellow: #d5b807;
-  --brightGreen: #1fc231;
-  --brightRed: #ff0021;
-  --brightBlack: #000000;
-  --white: #ffffff;
-  --cyan: #3e999f;
-  --purple: #8959a8;
-  --blue: #1dd3ee;
-  --yellow: #1fc95b;
-  --green: #1f8c3b;
-  --red: #ff4d83;
-  --black: #000000;
-  --name: Spring
+    --selectionBackground: '#d6d6d6';
+  --cursorColor: '#4d4d4c';
+  --foreground: '#4d4d4c';
+  --background: '#ffffff';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#3e999f';
+  --brightPurple: '#8959a8';
+  --brightBlue: '#15a9fd';
+  --brightYellow: '#d5b807';
+  --brightGreen: '#1fc231';
+  --brightRed: '#ff0021';
+  --brightBlack: '#000000';
+  --white: '#ffffff';
+  --cyan: '#3e999f';
+  --purple: '#8959a8';
+  --blue: '#1dd3ee';
+  --yellow: '#1fc95b';
+  --green: '#1f8c3b';
+  --red: '#ff4d83';
+  --black: '#000000';
+  --name: 'Spring'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Spring'; }
