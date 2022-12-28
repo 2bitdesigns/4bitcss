@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#81aec6';
-  --cursorColor: '#e4e4e4';
-  --foreground: '#ebece6';
-  --background: '#1e1f29';
-  --brightWhite: '#ededec';
-  --brightCyan: '#8be9fe';
-  --brightPurple: '#fc4cb4';
-  --brightBlue: '#49baff';
-  --brightYellow: '#f0fb8c';
-  --brightGreen: '#50fb7c';
-  --brightRed: '#fc4346';
-  --brightBlack: '#555555';
-  --white: '#ededec';
-  --cyan: '#8be9fe';
-  --purple: '#fc4cb4';
-  --blue: '#49baff';
-  --yellow: '#f0fb8c';
-  --green: '#50fb7c';
-  --red: '#fc4346';
-  --black: '#000000';
+    --selectionBackground: #81aec6;
+  --cursorColor: #e4e4e4;
+  --foreground: #ebece6;
+  --background: #1e1f29;
+  --brightWhite: #ededec;
+  --brightCyan: #8be9fe;
+  --brightPurple: #fc4cb4;
+  --brightBlue: #49baff;
+  --brightYellow: #f0fb8c;
+  --brightGreen: #50fb7c;
+  --brightRed: #fc4346;
+  --brightBlack: #555555;
+  --white: #ededec;
+  --cyan: #8be9fe;
+  --purple: #fc4cb4;
+  --blue: #49baff;
+  --yellow: #f0fb8c;
+  --green: #50fb7c;
+  --red: #fc4346;
+  --black: #000000;
   --name: 'Snazzy'
 }
 
