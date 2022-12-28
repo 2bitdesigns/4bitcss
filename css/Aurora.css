@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #292e38;
-  --cursorColor: #ee5d43;
-  --foreground: #ffca28;
-  --background: #23262e;
-  --brightWhite: #c74ded;
-  --brightCyan: #03d6b8;
-  --brightPurple: #ee5d43;
-  --brightBlue: #03d6b8;
-  --brightYellow: #ffe66d;
-  --brightGreen: #8fd46d;
-  --brightRed: #f92672;
-  --brightBlack: #292e38;
-  --white: #c74ded;
-  --cyan: #03d6b8;
-  --purple: #ee5d43;
-  --blue: #0321d7;
-  --yellow: #ffe66d;
-  --green: #8fd46d;
-  --red: #f0266f;
-  --black: #23262e;
-  --name: Aurora
+    --selectionBackground: '#292e38';
+  --cursorColor: '#ee5d43';
+  --foreground: '#ffca28';
+  --background: '#23262e';
+  --brightWhite: '#c74ded';
+  --brightCyan: '#03d6b8';
+  --brightPurple: '#ee5d43';
+  --brightBlue: '#03d6b8';
+  --brightYellow: '#ffe66d';
+  --brightGreen: '#8fd46d';
+  --brightRed: '#f92672';
+  --brightBlack: '#292e38';
+  --white: '#c74ded';
+  --cyan: '#03d6b8';
+  --purple: '#ee5d43';
+  --blue: '#0321d7';
+  --yellow: '#ffe66d';
+  --green: '#8fd46d';
+  --red: '#f0266f';
+  --black: '#23262e';
+  --name: 'Aurora'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Aurora'; }
