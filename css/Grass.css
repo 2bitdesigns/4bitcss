@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b64926';
-  --cursorColor: '#8c2800';
-  --foreground: '#fff0a5';
-  --background: '#13773d';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#55ffff';
-  --brightPurple: '#ff55ff';
-  --brightBlue: '#0000bb';
-  --brightYellow: '#e7b000';
-  --brightGreen: '#00bb00';
-  --brightRed: '#bb0000';
-  --brightBlack: '#555555';
-  --white: '#bbbbbb';
-  --cyan: '#00bbbb';
-  --purple: '#950062';
-  --blue: '#0000a3';
-  --yellow: '#e7b000';
-  --green: '#00bb00';
-  --red: '#bb0000';
-  --black: '#000000';
+    --selectionBackground: #b64926;
+  --cursorColor: #8c2800;
+  --foreground: #fff0a5;
+  --background: #13773d;
+  --brightWhite: #ffffff;
+  --brightCyan: #55ffff;
+  --brightPurple: #ff55ff;
+  --brightBlue: #0000bb;
+  --brightYellow: #e7b000;
+  --brightGreen: #00bb00;
+  --brightRed: #bb0000;
+  --brightBlack: #555555;
+  --white: #bbbbbb;
+  --cyan: #00bbbb;
+  --purple: #950062;
+  --blue: #0000a3;
+  --yellow: #e7b000;
+  --green: #00bb00;
+  --red: #bb0000;
+  --black: #000000;
   --name: 'Grass'
 }
 
