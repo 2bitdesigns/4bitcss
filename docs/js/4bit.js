@@ -38,6 +38,11 @@ function switchTheme(themeName) {
     if (cdnLink) {
         cdnLink.href = "https://cdn.jsdelivr.net/gh/2bitdesigns/4bitcss@latest/css/" + foundTheme + ".css";
     }
+
+    var colorSchemeNameLink = document.getElementById("colorSchemeNameLink")
+    if (colorSchemeNameLink) {
+        colorSchemeNameLink.href = "https://4bitcss/" + foundTheme;
+    }
 }
 
 function getCSSVariable(name) {
