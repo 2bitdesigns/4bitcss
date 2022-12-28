@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#efb8ac';
-  --cursorColor: '#d4605a';
-  --foreground: '#dbdae0';
-  --background: '#292f33';
-  --brightWhite: '#fcf4df';
-  --brightCyan: '#819090';
-  --brightPurple: '#5c5db2';
-  --brightBlue: '#7c85c4';
-  --brightYellow: '#a86671';
-  --brightGreen: '#d4605a';
-  --brightRed: '#d4605a';
-  --brightBlack: '#092028';
-  --white: '#eae3ce';
-  --cyan: '#309186';
-  --purple: '#c0236f';
-  --blue: '#2e78c2';
-  --yellow: '#b7ab9b';
-  --green: '#edb8ac';
-  --red: '#cb1e2d';
-  --black: '#292f33';
+    --selectionBackground: #efb8ac;
+  --cursorColor: #d4605a;
+  --foreground: #dbdae0;
+  --background: #292f33;
+  --brightWhite: #fcf4df;
+  --brightCyan: #819090;
+  --brightPurple: #5c5db2;
+  --brightBlue: #7c85c4;
+  --brightYellow: #a86671;
+  --brightGreen: #d4605a;
+  --brightRed: #d4605a;
+  --brightBlack: #092028;
+  --white: #eae3ce;
+  --cyan: #309186;
+  --purple: #c0236f;
+  --blue: #2e78c2;
+  --yellow: #b7ab9b;
+  --green: #edb8ac;
+  --red: #cb1e2d;
+  --black: #292f33;
   --name: 'Fideloper'
 }
 
