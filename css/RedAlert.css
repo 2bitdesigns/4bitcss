@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#073642';
-  --cursorColor: '#ffffff';
-  --foreground: '#ffffff';
-  --background: '#762423';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#b7dfdd';
-  --brightPurple: '#ddb7df';
-  --brightBlue: '#65aaf1';
-  --brightYellow: '#dfddb7';
-  --brightGreen: '#aff08c';
-  --brightRed: '#e02553';
-  --brightBlack: '#262626';
-  --white: '#d6d6d6';
-  --cyan: '#6bbeb8';
-  --purple: '#e979d7';
-  --blue: '#489bee';
-  --yellow: '#beb86b';
-  --green: '#71be6b';
-  --red: '#d62e4e';
-  --black: '#000000';
+    --selectionBackground: #073642;
+  --cursorColor: #ffffff;
+  --foreground: #ffffff;
+  --background: #762423;
+  --brightWhite: #ffffff;
+  --brightCyan: #b7dfdd;
+  --brightPurple: #ddb7df;
+  --brightBlue: #65aaf1;
+  --brightYellow: #dfddb7;
+  --brightGreen: #aff08c;
+  --brightRed: #e02553;
+  --brightBlack: #262626;
+  --white: #d6d6d6;
+  --cyan: #6bbeb8;
+  --purple: #e979d7;
+  --blue: #489bee;
+  --yellow: #beb86b;
+  --green: #71be6b;
+  --red: #d62e4e;
+  --black: #000000;
   --name: 'Red Alert'
 }
 
