@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#656565';
-  --cursorColor: '#000000';
-  --foreground: '#000000';
-  --background: '#ffffff';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#0f9d58';
-  --brightPurple: '#4285f4';
-  --brightBlue: '#4285f4';
-  --brightYellow: '#f4b400';
-  --brightGreen: '#0f9d58';
-  --brightRed: '#db4437';
-  --brightBlack: '#000000';
-  --white: '#ffffff';
-  --cyan: '#4285f4';
-  --purple: '#db4437';
-  --blue: '#4285f4';
-  --yellow: '#f4b400';
-  --green: '#0f9d58';
-  --red: '#db4437';
-  --black: '#000000';
+    --selectionBackground: #656565;
+  --cursorColor: #000000;
+  --foreground: #000000;
+  --background: #ffffff;
+  --brightWhite: #ffffff;
+  --brightCyan: #0f9d58;
+  --brightPurple: #4285f4;
+  --brightBlue: #4285f4;
+  --brightYellow: #f4b400;
+  --brightGreen: #0f9d58;
+  --brightRed: #db4437;
+  --brightBlack: #000000;
+  --white: #ffffff;
+  --cyan: #4285f4;
+  --purple: #db4437;
+  --blue: #4285f4;
+  --yellow: #f4b400;
+  --green: #0f9d58;
+  --red: #db4437;
+  --black: #000000;
   --name: 'primary'
 }
 
