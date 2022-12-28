@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #2f363e;
-  --cursorColor: #f6f7ec;
-  --foreground: #e6e8ef;
-  --background: #1c1e22;
-  --brightWhite: #ebedf2;
-  --brightCyan: #3f94a8;
-  --brightPurple: #a4799d;
-  --brightBlue: #6a7c93;
-  --brightYellow: #deb566;
-  --brightGreen: #5ab977;
-  --brightRed: #b54036;
-  --brightBlack: #23252b;
-  --white: #e6e8ef;
-  --cyan: #3f94a8;
-  --purple: #a4799d;
-  --blue: #6a7c93;
-  --yellow: #deb566;
-  --green: #5ab977;
-  --red: #b54036;
-  --black: #23252b;
-  --name: Neutron
+    --selectionBackground: '#2f363e';
+  --cursorColor: '#f6f7ec';
+  --foreground: '#e6e8ef';
+  --background: '#1c1e22';
+  --brightWhite: '#ebedf2';
+  --brightCyan: '#3f94a8';
+  --brightPurple: '#a4799d';
+  --brightBlue: '#6a7c93';
+  --brightYellow: '#deb566';
+  --brightGreen: '#5ab977';
+  --brightRed: '#b54036';
+  --brightBlack: '#23252b';
+  --white: '#e6e8ef';
+  --cyan: '#3f94a8';
+  --purple: '#a4799d';
+  --blue: '#6a7c93';
+  --yellow: '#deb566';
+  --green: '#5ab977';
+  --red: '#b54036';
+  --black: '#23252b';
+  --name: 'Neutron'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Neutron'; }
