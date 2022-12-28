@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #daf0ff;
-  --cursorColor: #f32759;
-  --foreground: #373a41;
-  --background: #f9f9f9;
-  --brightWhite: #d3d3d3;
-  --brightCyan: #6d93bb;
-  --brightPurple: #ce33c0;
-  --brightBlue: #0099e1;
-  --brightYellow: #c5a332;
-  --brightGreen: #3cbc66;
-  --brightRed: #ff6480;
-  --brightBlack: #676a77;
-  --white: #babbc2;
-  --cyan: #27618d;
-  --purple: #823ff1;
-  --blue: #275fe4;
-  --yellow: #df631c;
-  --green: #23974a;
-  --red: #d52753;
-  --black: #373a41;
-  --name: BlulocoLight
+    --selectionBackground: '#daf0ff';
+  --cursorColor: '#f32759';
+  --foreground: '#373a41';
+  --background: '#f9f9f9';
+  --brightWhite: '#d3d3d3';
+  --brightCyan: '#6d93bb';
+  --brightPurple: '#ce33c0';
+  --brightBlue: '#0099e1';
+  --brightYellow: '#c5a332';
+  --brightGreen: '#3cbc66';
+  --brightRed: '#ff6480';
+  --brightBlack: '#676a77';
+  --white: '#babbc2';
+  --cyan: '#27618d';
+  --purple: '#823ff1';
+  --blue: '#275fe4';
+  --yellow: '#df631c';
+  --green: '#23974a';
+  --red: '#d52753';
+  --black: '#373a41';
+  --name: 'BlulocoLight'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlulocoLight'; }
