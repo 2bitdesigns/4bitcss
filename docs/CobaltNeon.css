@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #094fb1;
-  --cursorColor: #c4206f;
-  --foreground: #8ff586;
-  --background: #142838;
-  --brightWhite: #8ff586;
-  --brightCyan: #6cbc67;
-  --brightPurple: #8230a7;
-  --brightBlue: #3c7dd2;
-  --brightYellow: #e9f06d;
-  --brightGreen: #8ff586;
-  --brightRed: #d4312e;
-  --brightBlack: #fff688;
-  --white: #ba46b2;
-  --cyan: #8ff586;
-  --purple: #781aa0;
-  --blue: #8ff586;
-  --yellow: #e9e75c;
-  --green: #3ba5ff;
-  --red: #ff2320;
-  --black: #142631;
-  --name: Cobalt Neon
+    --selectionBackground: '#094fb1';
+  --cursorColor: '#c4206f';
+  --foreground: '#8ff586';
+  --background: '#142838';
+  --brightWhite: '#8ff586';
+  --brightCyan: '#6cbc67';
+  --brightPurple: '#8230a7';
+  --brightBlue: '#3c7dd2';
+  --brightYellow: '#e9f06d';
+  --brightGreen: '#8ff586';
+  --brightRed: '#d4312e';
+  --brightBlack: '#fff688';
+  --white: '#ba46b2';
+  --cyan: '#8ff586';
+  --purple: '#781aa0';
+  --blue: '#8ff586';
+  --yellow: '#e9e75c';
+  --green: '#3ba5ff';
+  --red: '#ff2320';
+  --black: '#142631';
+  --name: 'Cobalt Neon'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt Neon'; }
