@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#cbe1e7';
-  --cursorColor: '#fbfcfc';
-  --foreground: '#cbe1e7';
-  --background: '#1e1c31';
-  --brightWhite: '#cbe3e7';
-  --brightCyan: '#aaffe4';
-  --brightPurple: '#c991e1';
-  --brightBlue: '#91ddff';
-  --brightYellow: '#ffe9aa';
-  --brightGreen: '#95ffa4';
-  --brightRed: '#ff8080';
-  --brightBlack: '#565575';
-  --white: '#a6b3cc';
-  --cyan: '#63f2f1';
-  --purple: '#906cff';
-  --blue: '#65b2ff';
-  --yellow: '#ffb378';
-  --green: '#62d196';
-  --red: '#ff5458';
-  --black: '#141228';
+    --selectionBackground: #cbe1e7;
+  --cursorColor: #fbfcfc;
+  --foreground: #cbe1e7;
+  --background: #1e1c31;
+  --brightWhite: #cbe3e7;
+  --brightCyan: #aaffe4;
+  --brightPurple: #c991e1;
+  --brightBlue: #91ddff;
+  --brightYellow: #ffe9aa;
+  --brightGreen: #95ffa4;
+  --brightRed: #ff8080;
+  --brightBlack: #565575;
+  --white: #a6b3cc;
+  --cyan: #63f2f1;
+  --purple: #906cff;
+  --blue: #65b2ff;
+  --yellow: #ffb378;
+  --green: #62d196;
+  --red: #ff5458;
+  --black: #141228;
   --name: 'ChallengerDeep'
 }
 
