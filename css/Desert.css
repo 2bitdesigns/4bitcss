@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #00ff00;
-  --foreground: #ffffff;
-  --background: #333333;
-  --brightWhite: #ffffff;
-  --brightCyan: #ffd700;
-  --brightPurple: #ff55ff;
-  --brightBlue: #87ceff;
-  --brightYellow: #ffff55;
-  --brightGreen: #55ff55;
-  --brightRed: #ff5555;
-  --brightBlack: #555555;
-  --white: #f5deb3;
-  --cyan: #ffa0a0;
-  --purple: #ffdead;
-  --blue: #cd853f;
-  --yellow: #f0e68c;
-  --green: #98fb98;
-  --red: #ff2b2b;
-  --black: #4d4d4d;
-  --name: Desert
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#00ff00';
+  --foreground: '#ffffff';
+  --background: '#333333';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#ffd700';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#87ceff';
+  --brightYellow: '#ffff55';
+  --brightGreen: '#55ff55';
+  --brightRed: '#ff5555';
+  --brightBlack: '#555555';
+  --white: '#f5deb3';
+  --cyan: '#ffa0a0';
+  --purple: '#ffdead';
+  --blue: '#cd853f';
+  --yellow: '#f0e68c';
+  --green: '#98fb98';
+  --red: '#ff2b2b';
+  --black: '#4d4d4d';
+  --name: 'Desert'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Desert'; }
