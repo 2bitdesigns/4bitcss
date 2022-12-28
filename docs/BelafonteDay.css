@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #968c83;
-  --cursorColor: #45373c;
-  --foreground: #45373c;
-  --background: #d5ccba;
-  --brightWhite: #d5ccba;
-  --brightCyan: #989a9c;
-  --brightPurple: #97522c;
-  --brightBlue: #426a79;
-  --brightYellow: #eaa549;
-  --brightGreen: #858162;
-  --brightRed: #be100e;
-  --brightBlack: #5e5252;
-  --white: #968c83;
-  --cyan: #989a9c;
-  --purple: #97522c;
-  --blue: #426a79;
-  --yellow: #eaa549;
-  --green: #858162;
-  --red: #be100e;
-  --black: #20111b;
-  --name: Belafonte Day
+    --selectionBackground: '#968c83';
+  --cursorColor: '#45373c';
+  --foreground: '#45373c';
+  --background: '#d5ccba';
+  --brightWhite: '#d5ccba';
+  --brightCyan: '#989a9c';
+  --brightPurple: '#97522c';
+  --brightBlue: '#426a79';
+  --brightYellow: '#eaa549';
+  --brightGreen: '#858162';
+  --brightRed: '#be100e';
+  --brightBlack: '#5e5252';
+  --white: '#968c83';
+  --cyan: '#989a9c';
+  --purple: '#97522c';
+  --blue: '#426a79';
+  --yellow: '#eaa549';
+  --green: '#858162';
+  --red: '#be100e';
+  --black: '#20111b';
+  --name: 'Belafonte Day'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Belafonte Day'; }
