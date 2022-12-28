@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #4d4d4d;
-  --cursorColor: #e4c9af;
-  --foreground: #d0d0d0;
-  --background: #262626;
-  --brightWhite: #efefef;
-  --brightCyan: #b1e7dd;
-  --brightPurple: #d6aed6;
-  --brightBlue: #86aed6;
-  --brightYellow: #e4c9af;
-  --brightGreen: #aed686;
-  --brightRed: #d68686;
-  --brightBlack: #1c1c1c;
-  --white: #d0d0d0;
-  --cyan: #8adbb4;
-  --purple: #d6aed6;
-  --blue: #86aed6;
-  --yellow: #d7af87;
-  --green: #aed686;
-  --red: #d68686;
-  --black: #1c1c1c;
-  --name: Teerb
+    --selectionBackground: '#4d4d4d';
+  --cursorColor: '#e4c9af';
+  --foreground: '#d0d0d0';
+  --background: '#262626';
+  --brightWhite: '#efefef';
+  --brightCyan: '#b1e7dd';
+  --brightPurple: '#d6aed6';
+  --brightBlue: '#86aed6';
+  --brightYellow: '#e4c9af';
+  --brightGreen: '#aed686';
+  --brightRed: '#d68686';
+  --brightBlack: '#1c1c1c';
+  --white: '#d0d0d0';
+  --cyan: '#8adbb4';
+  --purple: '#d6aed6';
+  --blue: '#86aed6';
+  --yellow: '#d7af87';
+  --green: '#aed686';
+  --red: '#d68686';
+  --black: '#1c1c1c';
+  --name: 'Teerb'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Teerb'; }
