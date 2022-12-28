@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #474e5d;
-  --cursorColor: #a3b3cc;
-  --foreground: #dcdfe4;
-  --background: #282c34;
-  --brightWhite: #dcdfe4;
-  --brightCyan: #56b6c2;
-  --brightPurple: #c678dd;
-  --brightBlue: #61afef;
-  --brightYellow: #e5c07b;
-  --brightGreen: #98c379;
-  --brightRed: #e06c75;
-  --brightBlack: #282c34;
-  --white: #dcdfe4;
-  --cyan: #56b6c2;
-  --purple: #c678dd;
-  --blue: #61afef;
-  --yellow: #e5c07b;
-  --green: #98c379;
-  --red: #e06c75;
-  --black: #282c34;
-  --name: OneHalfDark
+    --selectionBackground: '#474e5d';
+  --cursorColor: '#a3b3cc';
+  --foreground: '#dcdfe4';
+  --background: '#282c34';
+  --brightWhite: '#dcdfe4';
+  --brightCyan: '#56b6c2';
+  --brightPurple: '#c678dd';
+  --brightBlue: '#61afef';
+  --brightYellow: '#e5c07b';
+  --brightGreen: '#98c379';
+  --brightRed: '#e06c75';
+  --brightBlack: '#282c34';
+  --white: '#dcdfe4';
+  --cyan: '#56b6c2';
+  --purple: '#c678dd';
+  --blue: '#61afef';
+  --yellow: '#e5c07b';
+  --green: '#98c379';
+  --red: '#e06c75';
+  --black: '#282c34';
+  --name: 'OneHalfDark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'OneHalfDark'; }
