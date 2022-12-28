@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5b5184;
-  --cursorColor: #c3d3de;
-  --foreground: #c3d3de;
-  --background: #262b33;
-  --brightWhite: #d5e5f1;
-  --brightCyan: #b7c9ef;
-  --brightPurple: #e16c87;
-  --brightBlue: #8c9fcd;
-  --brightYellow: #87e9ea;
-  --brightGreen: #bcdd61;
-  --brightRed: #de90ab;
-  --brightBlack: #a874ce;
-  --white: #c3d3de;
-  --cyan: #75a7d2;
-  --purple: #bc4f68;
-  --blue: #576ea6;
-  --yellow: #6ebfc0;
-  --green: #90a94b;
-  --red: #cf7b98;
-  --black: #3b3750;
-  --name: jubi
+    --selectionBackground: '#5b5184';
+  --cursorColor: '#c3d3de';
+  --foreground: '#c3d3de';
+  --background: '#262b33';
+  --brightWhite: '#d5e5f1';
+  --brightCyan: '#b7c9ef';
+  --brightPurple: '#e16c87';
+  --brightBlue: '#8c9fcd';
+  --brightYellow: '#87e9ea';
+  --brightGreen: '#bcdd61';
+  --brightRed: '#de90ab';
+  --brightBlack: '#a874ce';
+  --white: '#c3d3de';
+  --cyan: '#75a7d2';
+  --purple: '#bc4f68';
+  --blue: '#576ea6';
+  --yellow: '#6ebfc0';
+  --green: '#90a94b';
+  --red: '#cf7b98';
+  --black: '#3b3750';
+  --name: 'jubi'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'jubi'; }
