@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#7e6c88';
-  --cursorColor: '#d5ced9';
-  --foreground: '#d5ced9';
-  --background: '#2f2833';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#74d3de';
-  --brightPurple: '#f92672';
-  --brightBlue: '#3b79c7';
-  --brightYellow: '#e9d7a5';
-  --brightGreen: '#a5f69c';
-  --brightRed: '#fc644d';
-  --brightBlack: '#7e6c88';
-  --white: '#d5ced9';
-  --cyan: '#74d3de';
-  --purple: '#f92672';
-  --blue: '#3b79c7';
-  --yellow: '#e9d7a5';
-  --green: '#a5f69c';
-  --red: '#fc644d';
-  --black: '#2f2833';
+    --selectionBackground: #7e6c88;
+  --cursorColor: #d5ced9;
+  --foreground: #d5ced9;
+  --background: #2f2833;
+  --brightWhite: #ffffff;
+  --brightCyan: #74d3de;
+  --brightPurple: #f92672;
+  --brightBlue: #3b79c7;
+  --brightYellow: #e9d7a5;
+  --brightGreen: #a5f69c;
+  --brightRed: #fc644d;
+  --brightBlack: #7e6c88;
+  --white: #d5ced9;
+  --cyan: #74d3de;
+  --purple: #f92672;
+  --blue: #3b79c7;
+  --yellow: #e9d7a5;
+  --green: #a5f69c;
+  --red: #fc644d;
+  --black: #2f2833;
   --name: 'Calamity'
 }
 
