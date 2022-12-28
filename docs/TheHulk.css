@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #4d504c;
-  --cursorColor: #16b61b;
-  --foreground: #b5b5b5;
-  --background: #1b1d1e;
-  --brightWhite: #e5e6e1;
-  --brightCyan: #4085a6;
-  --brightPurple: #72589d;
-  --brightBlue: #506b95;
-  --brightYellow: #3afe16;
-  --brightGreen: #48ff77;
-  --brightRed: #8dff2a;
-  --brightBlack: #505354;
-  --white: #d9d8d1;
-  --cyan: #378ca9;
-  --purple: #641f74;
-  --blue: #2525f5;
-  --yellow: #63e457;
-  --green: #13ce30;
-  --red: #269d1b;
-  --black: #1b1d1e;
-  --name: The Hulk
+    --selectionBackground: '#4d504c';
+  --cursorColor: '#16b61b';
+  --foreground: '#b5b5b5';
+  --background: '#1b1d1e';
+  --brightWhite: '#e5e6e1';
+  --brightCyan: '#4085a6';
+  --brightPurple: '#72589d';
+  --brightBlue: '#506b95';
+  --brightYellow: '#3afe16';
+  --brightGreen: '#48ff77';
+  --brightRed: '#8dff2a';
+  --brightBlack: '#505354';
+  --white: '#d9d8d1';
+  --cyan: '#378ca9';
+  --purple: '#641f74';
+  --blue: '#2525f5';
+  --yellow: '#63e457';
+  --green: '#13ce30';
+  --red: '#269d1b';
+  --black: '#1b1d1e';
+  --name: 'The Hulk'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'The Hulk'; }
