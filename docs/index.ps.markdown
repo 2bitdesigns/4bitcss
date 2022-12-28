@@ -13,11 +13,11 @@ Get-Content .\4bitpreview.svg |
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink' href='#' download>
-        Download
+    <a id='downloadSchemeLink'>
+        CSS
     </a>
-    <a id='cdnSchemeLink' href='#'>
-        CDN
+    <a id='cdnSchemeLink'>
+        @jsdeliver 
     </a>
 </div>
 
