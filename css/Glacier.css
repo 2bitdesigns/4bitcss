@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #bd2523;
-  --cursorColor: #6c6c6c;
-  --foreground: #ffffff;
-  --background: #0c1115;
-  --brightWhite: #ffffff;
-  --brightCyan: #a0b6d3;
-  --brightPurple: #ea4727;
-  --brightBlue: #2a8bc1;
-  --brightYellow: #fddf6e;
-  --brightGreen: #49e998;
-  --brightRed: #bd0f2f;
-  --brightBlack: #404a55;
-  --white: #ffffff;
-  --cyan: #778397;
-  --purple: #bd2523;
-  --blue: #1f5872;
-  --yellow: #fb9435;
-  --green: #35a770;
-  --red: #bd0f2f;
-  --black: #2e343c;
-  --name: Glacier
+    --selectionBackground: '#bd2523';
+  --cursorColor: '#6c6c6c';
+  --foreground: '#ffffff';
+  --background: '#0c1115';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#a0b6d3';
+  --brightPurple: '#ea4727';
+  --brightBlue: '#2a8bc1';
+  --brightYellow: '#fddf6e';
+  --brightGreen: '#49e998';
+  --brightRed: '#bd0f2f';
+  --brightBlack: '#404a55';
+  --white: '#ffffff';
+  --cyan: '#778397';
+  --purple: '#bd2523';
+  --blue: '#1f5872';
+  --yellow: '#fb9435';
+  --green: '#35a770';
+  --red: '#bd0f2f';
+  --black: '#2e343c';
+  --name: 'Glacier'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Glacier'; }
