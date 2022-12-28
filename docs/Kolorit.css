@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#e1925c';
-  --cursorColor: '#c7c7c7';
-  --foreground: '#efecec';
-  --background: '#1d1a1e';
-  --brightWhite: '#ededed';
-  --brightCyan: '#57e9eb';
-  --brightPurple: '#da6cda';
-  --brightBlue: '#5db4ee';
-  --brightYellow: '#e8e562';
-  --brightGreen: '#47d7a1';
-  --brightRed: '#ff5b82';
-  --brightBlack: '#1d1a1e';
-  --white: '#ededed';
-  --cyan: '#57e9eb';
-  --purple: '#da6cda';
-  --blue: '#5db4ee';
-  --yellow: '#e8e562';
-  --green: '#47d7a1';
-  --red: '#ff5b82';
-  --black: '#1d1a1e';
+    --selectionBackground: #e1925c;
+  --cursorColor: #c7c7c7;
+  --foreground: #efecec;
+  --background: #1d1a1e;
+  --brightWhite: #ededed;
+  --brightCyan: #57e9eb;
+  --brightPurple: #da6cda;
+  --brightBlue: #5db4ee;
+  --brightYellow: #e8e562;
+  --brightGreen: #47d7a1;
+  --brightRed: #ff5b82;
+  --brightBlack: #1d1a1e;
+  --white: #ededed;
+  --cyan: #57e9eb;
+  --purple: #da6cda;
+  --blue: #5db4ee;
+  --yellow: #e8e562;
+  --green: #47d7a1;
+  --red: #ff5b82;
+  --black: #1d1a1e;
   --name: 'Kolorit'
 }
 
