@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c1deff;
-  --cursorColor: #c7c7c7;
-  --foreground: #000000;
-  --background: #f5deb3;
-  --brightWhite: #ffffff;
-  --brightCyan: #60fdff;
-  --brightPurple: #ff77ff;
-  --brightBlue: #6871ff;
-  --brightYellow: #fffc67;
-  --brightGreen: #5ffa68;
-  --brightRed: #ff6e67;
-  --brightBlack: #686868;
-  --white: #c7c7c7;
-  --cyan: #00c5c7;
-  --purple: #ca30c7;
-  --blue: #0225c7;
-  --yellow: #c7c400;
-  --green: #00c200;
-  --red: #c91b00;
-  --black: #000000;
-  --name: coffee_theme
+    --selectionBackground: '#c1deff';
+  --cursorColor: '#c7c7c7';
+  --foreground: '#000000';
+  --background: '#f5deb3';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#60fdff';
+  --brightPurple: '#ff77ff';
+  --brightBlue: '#6871ff';
+  --brightYellow: '#fffc67';
+  --brightGreen: '#5ffa68';
+  --brightRed: '#ff6e67';
+  --brightBlack: '#686868';
+  --white: '#c7c7c7';
+  --cyan: '#00c5c7';
+  --purple: '#ca30c7';
+  --blue: '#0225c7';
+  --yellow: '#c7c400';
+  --green: '#00c200';
+  --red: '#c91b00';
+  --black: '#000000';
+  --name: 'coffee_theme'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'coffee_theme'; }
