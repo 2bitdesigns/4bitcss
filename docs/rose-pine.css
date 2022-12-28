@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #191724;
-  --cursorColor: #e0def4;
-  --foreground: #e0def4;
-  --background: #191724;
-  --brightWhite: #e0def4;
-  --brightCyan: #ebbcba;
-  --brightPurple: #c4a7e7;
-  --brightBlue: #31748f;
-  --brightYellow: #f6c177;
-  --brightGreen: #9ccfd8;
-  --brightRed: #eb6f92;
-  --brightBlack: #6e6a86;
-  --white: #e0def4;
-  --cyan: #ebbcba;
-  --purple: #c4a7e7;
-  --blue: #31748f;
-  --yellow: #f6c177;
-  --green: #9ccfd8;
-  --red: #eb6f92;
-  --black: #26233a;
-  --name: rose-pine
+    --selectionBackground: '#191724';
+  --cursorColor: '#e0def4';
+  --foreground: '#e0def4';
+  --background: '#191724';
+  --brightWhite: '#e0def4';
+  --brightCyan: '#ebbcba';
+  --brightPurple: '#c4a7e7';
+  --brightBlue: '#31748f';
+  --brightYellow: '#f6c177';
+  --brightGreen: '#9ccfd8';
+  --brightRed: '#eb6f92';
+  --brightBlack: '#6e6a86';
+  --white: '#e0def4';
+  --cyan: '#ebbcba';
+  --purple: '#c4a7e7';
+  --blue: '#31748f';
+  --yellow: '#f6c177';
+  --green: '#9ccfd8';
+  --red: '#eb6f92';
+  --black: '#26233a';
+  --name: 'rose-pine'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine'; }
