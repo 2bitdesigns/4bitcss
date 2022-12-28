@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#343434';
-  --cursorColor: '#fc971f';
-  --foreground: '#d9d9d9';
-  --background: '#0c0c0c';
-  --brightWhite: '#f6f6ef';
-  --brightCyan: '#58d1eb';
-  --brightPurple: '#f4005f';
-  --brightBlue: '#9d65ff';
-  --brightYellow: '#e0d561';
-  --brightGreen: '#98e024';
-  --brightRed: '#f4005f';
-  --brightBlack: '#625e4c';
-  --white: '#c4c5b5';
-  --cyan: '#58d1eb';
-  --purple: '#f4005f';
-  --blue: '#9d65ff';
-  --yellow: '#fd971f';
-  --green: '#98e024';
-  --red: '#f4005f';
-  --black: '#1a1a1a';
+    --selectionBackground: #343434;
+  --cursorColor: #fc971f;
+  --foreground: #d9d9d9;
+  --background: #0c0c0c;
+  --brightWhite: #f6f6ef;
+  --brightCyan: #58d1eb;
+  --brightPurple: #f4005f;
+  --brightBlue: #9d65ff;
+  --brightYellow: #e0d561;
+  --brightGreen: #98e024;
+  --brightRed: #f4005f;
+  --brightBlack: #625e4c;
+  --white: #c4c5b5;
+  --cyan: #58d1eb;
+  --purple: #f4005f;
+  --blue: #9d65ff;
+  --yellow: #fd971f;
+  --green: #98e024;
+  --red: #f4005f;
+  --black: #1a1a1a;
   --name: 'Monokai Remastered'
 }
 
