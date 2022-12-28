@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #272e35;
-  --cursorColor: #bbbbbb;
-  --foreground: #bdbaae;
-  --background: #222222;
-  --brightWhite: #ffffff;
-  --brightCyan: #83e9e4;
-  --brightPurple: #ff55ff;
-  --brightBlue: #4d84d1;
-  --brightYellow: #ffd256;
-  --brightGreen: #93d493;
-  --brightRed: #ff6973;
-  --brightBlack: #555555;
-  --white: #efece7;
-  --cyan: #57c2c1;
-  --purple: #bf83c1;
-  --blue: #5486c0;
-  --yellow: #fec254;
-  --green: #81a764;
-  --red: #ec5f67;
-  --black: #15171c;
-  --name: SpaceGray Eighties
+    --selectionBackground: '#272e35';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#bdbaae';
+  --background: '#222222';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#83e9e4';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#4d84d1';
+  --brightYellow: '#ffd256';
+  --brightGreen: '#93d493';
+  --brightRed: '#ff6973';
+  --brightBlack: '#555555';
+  --white: '#efece7';
+  --cyan: '#57c2c1';
+  --purple: '#bf83c1';
+  --blue: '#5486c0';
+  --yellow: '#fec254';
+  --green: '#81a764';
+  --red: '#ec5f67';
+  --black: '#15171c';
+  --name: 'SpaceGray Eighties'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SpaceGray Eighties'; }
