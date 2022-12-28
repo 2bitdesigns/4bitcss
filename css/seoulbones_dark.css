@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#777777';
-  --cursorColor: '#e2e2e2';
-  --foreground: '#dddddd';
-  --background: '#4b4b4b';
-  --brightWhite: '#a8a8a8';
-  --brightCyan: '#6bcacb';
-  --brightPurple: '#b2b3da';
-  --brightBlue: '#a2c8e9';
-  --brightYellow: '#ffe5b3';
-  --brightGreen: '#8fcd92';
-  --brightRed: '#eb99b1';
-  --brightBlack: '#6c6465';
-  --white: '#dddddd';
-  --cyan: '#6fbdbe';
-  --purple: '#a5a6c5';
-  --blue: '#97bdde';
-  --yellow: '#ffdf9b';
-  --green: '#98bd99';
-  --red: '#e388a3';
-  --black: '#4b4b4b';
+    --selectionBackground: #777777;
+  --cursorColor: #e2e2e2;
+  --foreground: #dddddd;
+  --background: #4b4b4b;
+  --brightWhite: #a8a8a8;
+  --brightCyan: #6bcacb;
+  --brightPurple: #b2b3da;
+  --brightBlue: #a2c8e9;
+  --brightYellow: #ffe5b3;
+  --brightGreen: #8fcd92;
+  --brightRed: #eb99b1;
+  --brightBlack: #6c6465;
+  --white: #dddddd;
+  --cyan: #6fbdbe;
+  --purple: #a5a6c5;
+  --blue: #97bdde;
+  --yellow: #ffdf9b;
+  --green: #98bd99;
+  --red: #e388a3;
+  --black: #4b4b4b;
   --name: 'seoulbones_dark'
 }
 
