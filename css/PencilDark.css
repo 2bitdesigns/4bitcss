@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b6d6fd;
-  --cursorColor: #20bbfc;
-  --foreground: #f1f1f1;
-  --background: #212121;
-  --brightWhite: #f1f1f1;
-  --brightCyan: #4fb8cc;
-  --brightPurple: #6855de;
-  --brightBlue: #20bbfc;
-  --brightYellow: #f3e430;
-  --brightGreen: #5fd7af;
-  --brightRed: #fb007a;
-  --brightBlack: #424242;
-  --white: #d9d9d9;
-  --cyan: #20a5ba;
-  --purple: #523c79;
-  --blue: #008ec4;
-  --yellow: #a89c14;
-  --green: #10a778;
-  --red: #c30771;
-  --black: #212121;
-  --name: PencilDark
+    --selectionBackground: '#b6d6fd';
+  --cursorColor: '#20bbfc';
+  --foreground: '#f1f1f1';
+  --background: '#212121';
+  --brightWhite: '#f1f1f1';
+  --brightCyan: '#4fb8cc';
+  --brightPurple: '#6855de';
+  --brightBlue: '#20bbfc';
+  --brightYellow: '#f3e430';
+  --brightGreen: '#5fd7af';
+  --brightRed: '#fb007a';
+  --brightBlack: '#424242';
+  --white: '#d9d9d9';
+  --cyan: '#20a5ba';
+  --purple: '#523c79';
+  --blue: '#008ec4';
+  --yellow: '#a89c14';
+  --green: '#10a778';
+  --red: '#c30771';
+  --black: '#212121';
+  --name: 'PencilDark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'PencilDark'; }
