@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #acb0be;
-  --cursorColor: #dc8a78;
-  --foreground: #4c4f69;
-  --background: #eff1f5;
-  --brightWhite: #bcc0cc;
-  --brightCyan: #179299;
-  --brightPurple: #ea76cb;
-  --brightBlue: #1e66f5;
-  --brightYellow: #df8e1d;
-  --brightGreen: #40a02b;
-  --brightRed: #d20f39;
-  --brightBlack: #6c6f85;
-  --white: #acb0be;
-  --cyan: #179299;
-  --purple: #ea76cb;
-  --blue: #1e66f5;
-  --yellow: #df8e1d;
-  --green: #40a02b;
-  --red: #d20f39;
-  --black: #5c5f77;
-  --name: catppuccin-latte
+    --selectionBackground: '#acb0be';
+  --cursorColor: '#dc8a78';
+  --foreground: '#4c4f69';
+  --background: '#eff1f5';
+  --brightWhite: '#bcc0cc';
+  --brightCyan: '#179299';
+  --brightPurple: '#ea76cb';
+  --brightBlue: '#1e66f5';
+  --brightYellow: '#df8e1d';
+  --brightGreen: '#40a02b';
+  --brightRed: '#d20f39';
+  --brightBlack: '#6c6f85';
+  --white: '#acb0be';
+  --cyan: '#179299';
+  --purple: '#ea76cb';
+  --blue: '#1e66f5';
+  --yellow: '#df8e1d';
+  --green: '#40a02b';
+  --red: '#d20f39';
+  --black: '#5c5f77';
+  --name: 'catppuccin-latte'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-latte'; }
