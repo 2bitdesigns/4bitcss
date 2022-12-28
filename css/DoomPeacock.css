@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #a60033;
-  --cursorColor: #9c9c9d;
-  --foreground: #ede0ce;
-  --background: #2b2a27;
-  --brightWhite: #dfdfdf;
-  --brightCyan: #46d9ff;
-  --brightPurple: #c678dd;
-  --brightBlue: #51afef;
-  --brightYellow: #e6f972;
-  --brightGreen: #98be65;
-  --brightRed: #ff5d38;
-  --brightBlack: #2b2a27;
-  --white: #ede0ce;
-  --cyan: #5699af;
-  --purple: #a9a1e1;
-  --blue: #2a6cc6;
-  --yellow: #bcd42a;
-  --green: #26a6a6;
-  --red: #cb4b16;
-  --black: #1c1f24;
-  --name: Doom Peacock
+    --selectionBackground: '#a60033';
+  --cursorColor: '#9c9c9d';
+  --foreground: '#ede0ce';
+  --background: '#2b2a27';
+  --brightWhite: '#dfdfdf';
+  --brightCyan: '#46d9ff';
+  --brightPurple: '#c678dd';
+  --brightBlue: '#51afef';
+  --brightYellow: '#e6f972';
+  --brightGreen: '#98be65';
+  --brightRed: '#ff5d38';
+  --brightBlack: '#2b2a27';
+  --white: '#ede0ce';
+  --cyan: '#5699af';
+  --purple: '#a9a1e1';
+  --blue: '#2a6cc6';
+  --yellow: '#bcd42a';
+  --green: '#26a6a6';
+  --red: '#cb4b16';
+  --black: '#1c1f24';
+  --name: 'Doom Peacock'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Doom Peacock'; }
