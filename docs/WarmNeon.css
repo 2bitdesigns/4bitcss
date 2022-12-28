@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b0ad21';
-  --cursorColor: '#30ff24';
-  --foreground: '#afdab6';
-  --background: '#404040';
-  --brightWhite: '#d8c8bb';
-  --brightCyan: '#5ed1e5';
-  --brightPurple: '#f674ba';
-  --brightBlue: '#7b91d6';
-  --brightYellow: '#ddda7a';
-  --brightGreen: '#9cc090';
-  --brightRed: '#e97071';
-  --brightBlack: '#fefcfc';
-  --white: '#d0b8a3';
-  --cyan: '#2abbd4';
-  --purple: '#f920fb';
-  --blue: '#4261c5';
-  --yellow: '#dae145';
-  --green: '#39b13a';
-  --red: '#e24346';
-  --black: '#000000';
+    --selectionBackground: #b0ad21;
+  --cursorColor: #30ff24;
+  --foreground: #afdab6;
+  --background: #404040;
+  --brightWhite: #d8c8bb;
+  --brightCyan: #5ed1e5;
+  --brightPurple: #f674ba;
+  --brightBlue: #7b91d6;
+  --brightYellow: #ddda7a;
+  --brightGreen: #9cc090;
+  --brightRed: #e97071;
+  --brightBlack: #fefcfc;
+  --white: #d0b8a3;
+  --cyan: #2abbd4;
+  --purple: #f920fb;
+  --blue: #4261c5;
+  --yellow: #dae145;
+  --green: #39b13a;
+  --red: #e24346;
+  --black: #000000;
   --name: 'WarmNeon'
 }
 
