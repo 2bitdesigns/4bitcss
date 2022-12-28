@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#273951';
-  --cursorColor: '#ddb3ff';
-  --foreground: '#a6b2c0';
-  --background: '#1b2738';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#85cc95';
-  --brightPurple: '#ddb3ff';
-  --brightBlue: '#7fb5ff';
-  --brightYellow: '#ffd700';
-  --brightGreen: '#85cc95';
-  --brightRed: '#ff9999';
-  --brightBlack: '#575656';
-  --white: '#ffffff';
-  --cyan: '#21c7a8';
-  --purple: '#ddb3ff';
-  --blue: '#7fb5ff';
-  --yellow: '#ffd700';
-  --green: '#85cc95';
-  --red: '#ff9999';
-  --black: '#011627';
+    --selectionBackground: #273951;
+  --cursorColor: #ddb3ff;
+  --foreground: #a6b2c0;
+  --background: #1b2738;
+  --brightWhite: #ffffff;
+  --brightCyan: #85cc95;
+  --brightPurple: #ddb3ff;
+  --brightBlue: #7fb5ff;
+  --brightYellow: #ffd700;
+  --brightGreen: #85cc95;
+  --brightRed: #ff9999;
+  --brightBlack: #575656;
+  --white: #ffffff;
+  --cyan: #21c7a8;
+  --purple: #ddb3ff;
+  --blue: #7fb5ff;
+  --yellow: #ffd700;
+  --green: #85cc95;
+  --red: #ff9999;
+  --black: #011627;
   --name: 'Mirage'
 }
 
