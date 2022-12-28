@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5f217a;
-  --cursorColor: #d5d5d5;
-  --foreground: #31d07b;
-  --background: #24364b;
-  --brightWhite: #d5d5d5;
-  --brightCyan: #42c3ae;
-  --brightPurple: #ae6bdc;
-  --brightBlue: #34a6da;
-  --brightYellow: #e7d84b;
-  --brightGreen: #31d07b;
-  --brightRed: #dd5944;
-  --brightBlack: #336889;
-  --white: #23d183;
-  --cyan: #35a08f;
-  --purple: #8a5edc;
-  --blue: #325d96;
-  --yellow: #db8e27;
-  --green: #1a9172;
-  --red: #be2d26;
-  --black: #2c3f58;
-  --name: ToyChest
+    --selectionBackground: '#5f217a';
+  --cursorColor: '#d5d5d5';
+  --foreground: '#31d07b';
+  --background: '#24364b';
+  --brightWhite: '#d5d5d5';
+  --brightCyan: '#42c3ae';
+  --brightPurple: '#ae6bdc';
+  --brightBlue: '#34a6da';
+  --brightYellow: '#e7d84b';
+  --brightGreen: '#31d07b';
+  --brightRed: '#dd5944';
+  --brightBlack: '#336889';
+  --white: '#23d183';
+  --cyan: '#35a08f';
+  --purple: '#8a5edc';
+  --blue: '#325d96';
+  --yellow: '#db8e27';
+  --green: '#1a9172';
+  --red: '#be2d26';
+  --black: '#2c3f58';
+  --name: 'ToyChest'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ToyChest'; }
