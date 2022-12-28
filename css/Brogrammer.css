@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1f1f1f;
-  --cursorColor: #b9b9b9;
-  --foreground: #d6dbe5;
-  --background: #131313;
-  --brightWhite: #ffffff;
-  --brightCyan: #0f7ddb;
-  --brightPurple: #5350b9;
-  --brightBlue: #1081d6;
-  --brightYellow: #f3bd09;
-  --brightGreen: #1dd361;
-  --brightRed: #de352e;
-  --brightBlack: #d6dbe5;
-  --white: #d6dbe5;
-  --cyan: #1081d6;
-  --purple: #4e5ab7;
-  --blue: #2a84d2;
-  --yellow: #ecba0f;
-  --green: #2dc55e;
-  --red: #f81118;
-  --black: #1f1f1f;
-  --name: Brogrammer
+    --selectionBackground: '#1f1f1f';
+  --cursorColor: '#b9b9b9';
+  --foreground: '#d6dbe5';
+  --background: '#131313';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#0f7ddb';
+  --brightPurple: '#5350b9';
+  --brightBlue: '#1081d6';
+  --brightYellow: '#f3bd09';
+  --brightGreen: '#1dd361';
+  --brightRed: '#de352e';
+  --brightBlack: '#d6dbe5';
+  --white: '#d6dbe5';
+  --cyan: '#1081d6';
+  --purple: '#4e5ab7';
+  --blue: '#2a84d2';
+  --yellow: '#ecba0f';
+  --green: '#2dc55e';
+  --red: '#f81118';
+  --black: '#1f1f1f';
+  --name: 'Brogrammer'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Brogrammer'; }
