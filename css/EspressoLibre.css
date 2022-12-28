@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c3dcff';
-  --cursorColor: '#ffffff';
-  --foreground: '#b8a898';
-  --background: '#2a211c';
-  --brightWhite: '#eeeeec';
-  --brightCyan: '#34e2e2';
-  --brightPurple: '#ff818a';
-  --brightBlue: '#43a8ed';
-  --brightYellow: '#fffb5c';
-  --brightGreen: '#9aff87';
-  --brightRed: '#ef2929';
-  --brightBlack: '#555753';
-  --white: '#d3d7cf';
-  --cyan: '#06989a';
-  --purple: '#c5656b';
-  --blue: '#0066ff';
-  --yellow: '#f0e53a';
-  --green: '#1a921c';
-  --red: '#cc0000';
-  --black: '#000000';
+    --selectionBackground: #c3dcff;
+  --cursorColor: #ffffff;
+  --foreground: #b8a898;
+  --background: #2a211c;
+  --brightWhite: #eeeeec;
+  --brightCyan: #34e2e2;
+  --brightPurple: #ff818a;
+  --brightBlue: #43a8ed;
+  --brightYellow: #fffb5c;
+  --brightGreen: #9aff87;
+  --brightRed: #ef2929;
+  --brightBlack: #555753;
+  --white: #d3d7cf;
+  --cyan: #06989a;
+  --purple: #c5656b;
+  --blue: #0066ff;
+  --yellow: #f0e53a;
+  --green: #1a921c;
+  --red: #cc0000;
+  --black: #000000;
   --name: 'Espresso Libre'
 }
 
