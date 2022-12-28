@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c1deff;
-  --cursorColor: #76ff9f;
-  --foreground: #e41951;
-  --background: #1c153d;
-  --brightWhite: #ffffff;
-  --brightCyan: #60fdff;
-  --brightPurple: #bd35ec;
-  --brightBlue: #6871ff;
-  --brightYellow: #fffc67;
-  --brightGreen: #5ffa68;
-  --brightRed: #ff6e67;
-  --brightBlack: #686868;
-  --white: #c7c7c7;
-  --cyan: #00c5c7;
-  --purple: #ca30c7;
-  --blue: #0271b6;
-  --yellow: #faf945;
-  --green: #00dc84;
-  --red: #ff0051;
-  --black: #101116;
-  --name: Scarlet Protocol
+    --selectionBackground: '#c1deff';
+  --cursorColor: '#76ff9f';
+  --foreground: '#e41951';
+  --background: '#1c153d';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#60fdff';
+  --brightPurple: '#bd35ec';
+  --brightBlue: '#6871ff';
+  --brightYellow: '#fffc67';
+  --brightGreen: '#5ffa68';
+  --brightRed: '#ff6e67';
+  --brightBlack: '#686868';
+  --white: '#c7c7c7';
+  --cyan: '#00c5c7';
+  --purple: '#ca30c7';
+  --blue: '#0271b6';
+  --yellow: '#faf945';
+  --green: '#00dc84';
+  --red: '#ff0051';
+  --black: '#101116';
+  --name: 'Scarlet Protocol'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Scarlet Protocol'; }
