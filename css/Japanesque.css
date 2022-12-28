@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#175877';
-  --cursorColor: '#edcf4f';
-  --foreground: '#f7f6ec';
-  --background: '#1e1e1e';
-  --brightWhite: '#b2b5ae';
-  --brightCyan: '#76bbca';
-  --brightPurple: '#604291';
-  --brightBlue: '#135979';
-  --brightYellow: '#78592f';
-  --brightGreen: '#767f2c';
-  --brightRed: '#d18fa6';
-  --brightBlack: '#595b59';
-  --white: '#fafaf6';
-  --cyan: '#389aad';
-  --purple: '#a57fc4';
-  --blue: '#4c9ad4';
-  --yellow: '#e9b32a';
-  --green: '#7bb75b';
-  --red: '#cf3f61';
-  --black: '#343935';
+    --selectionBackground: #175877;
+  --cursorColor: #edcf4f;
+  --foreground: #f7f6ec;
+  --background: #1e1e1e;
+  --brightWhite: #b2b5ae;
+  --brightCyan: #76bbca;
+  --brightPurple: #604291;
+  --brightBlue: #135979;
+  --brightYellow: #78592f;
+  --brightGreen: #767f2c;
+  --brightRed: #d18fa6;
+  --brightBlack: #595b59;
+  --white: #fafaf6;
+  --cyan: #389aad;
+  --purple: #a57fc4;
+  --blue: #4c9ad4;
+  --yellow: #e9b32a;
+  --green: #7bb75b;
+  --red: #cf3f61;
+  --black: #343935;
   --name: 'Japanesque'
 }
 
