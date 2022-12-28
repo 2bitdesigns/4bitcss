@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #ea6154;
-  --cursorColor: #cdcdcd;
-  --foreground: #adadad;
-  --background: #1b1c1d;
-  --brightWhite: #8c735b;
-  --brightCyan: #4fbce6;
-  --brightPurple: #e75e4f;
-  --brightBlue: #3393ca;
-  --brightYellow: #fdc325;
-  --brightGreen: #74ec4c;
-  --brightRed: #f74319;
-  --brightBlack: #5fac6d;
-  --white: #adadad;
-  --cyan: #3ca1a6;
-  --purple: #f02e4f;
-  --blue: #2c70b7;
-  --yellow: #fa771d;
-  --green: #565747;
-  --red: #f8511b;
-  --black: #242526;
-  --name: FrontEndDelight
+    --selectionBackground: '#ea6154';
+  --cursorColor: '#cdcdcd';
+  --foreground: '#adadad';
+  --background: '#1b1c1d';
+  --brightWhite: '#8c735b';
+  --brightCyan: '#4fbce6';
+  --brightPurple: '#e75e4f';
+  --brightBlue: '#3393ca';
+  --brightYellow: '#fdc325';
+  --brightGreen: '#74ec4c';
+  --brightRed: '#f74319';
+  --brightBlack: '#5fac6d';
+  --white: '#adadad';
+  --cyan: '#3ca1a6';
+  --purple: '#f02e4f';
+  --blue: '#2c70b7';
+  --yellow: '#fa771d';
+  --green: '#565747';
+  --red: '#f8511b';
+  --black: '#242526';
+  --name: 'FrontEndDelight'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FrontEndDelight'; }
