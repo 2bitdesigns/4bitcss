@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #f3e0b8;
-  --cursorColor: #bbbbbb;
-  --foreground: #dbd1b9;
-  --background: #0e0d15;
-  --brightWhite: #fff5db;
-  --brightCyan: #62caa8;
-  --brightPurple: #f12aae;
-  --brightBlue: #40a4cf;
-  --brightYellow: #fac357;
-  --brightGreen: #b4ce59;
-  --brightRed: #d02063;
-  --brightBlack: #331e4d;
-  --white: #f3e0b8;
-  --cyan: #42a38c;
-  --purple: #b7077e;
-  --blue: #1d6da1;
-  --yellow: #cd751c;
-  --green: #5d731a;
-  --red: #64002c;
-  --black: #08002e;
-  --name: Floraverse
+    --selectionBackground: '#f3e0b8';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#dbd1b9';
+  --background: '#0e0d15';
+  --brightWhite: '#fff5db';
+  --brightCyan: '#62caa8';
+  --brightPurple: '#f12aae';
+  --brightBlue: '#40a4cf';
+  --brightYellow: '#fac357';
+  --brightGreen: '#b4ce59';
+  --brightRed: '#d02063';
+  --brightBlack: '#331e4d';
+  --white: '#f3e0b8';
+  --cyan: '#42a38c';
+  --purple: '#b7077e';
+  --blue: '#1d6da1';
+  --yellow: '#cd751c';
+  --green: '#5d731a';
+  --red: '#64002c';
+  --black: '#08002e';
+  --name: 'Floraverse'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Floraverse'; }
