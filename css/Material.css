@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c2c2c2';
-  --cursorColor: '#16afca';
-  --foreground: '#232322';
-  --background: '#eaeaea';
-  --brightWhite: '#d9d9d9';
-  --brightCyan: '#26bbd1';
-  --brightPurple: '#aa4dbc';
-  --brightBlue: '#54a4f3';
-  --brightYellow: '#ffea2e';
-  --brightGreen: '#7aba3a';
-  --brightRed: '#e83b3f';
-  --brightBlack: '#424242';
-  --white: '#efefef';
-  --cyan: '#0e717c';
-  --purple: '#560088';
-  --blue: '#134eb2';
-  --yellow: '#f6981e';
-  --green: '#457b24';
-  --red: '#b7141f';
-  --black: '#212121';
+    --selectionBackground: #c2c2c2;
+  --cursorColor: #16afca;
+  --foreground: #232322;
+  --background: #eaeaea;
+  --brightWhite: #d9d9d9;
+  --brightCyan: #26bbd1;
+  --brightPurple: #aa4dbc;
+  --brightBlue: #54a4f3;
+  --brightYellow: #ffea2e;
+  --brightGreen: #7aba3a;
+  --brightRed: #e83b3f;
+  --brightBlack: #424242;
+  --white: #efefef;
+  --cyan: #0e717c;
+  --purple: #560088;
+  --blue: #134eb2;
+  --yellow: #f6981e;
+  --green: #457b24;
+  --red: #b7141f;
+  --black: #212121;
   --name: 'Material'
 }
 
