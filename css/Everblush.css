@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #141b1e;
-  --cursorColor: #dadada;
-  --foreground: #dadada;
-  --background: #141b1e;
-  --brightWhite: #bdc3c2;
-  --brightCyan: #67cbe7;
-  --brightPurple: #ce89df;
-  --brightBlue: #71baf2;
-  --brightYellow: #f4d67a;
-  --brightGreen: #96d988;
-  --brightRed: #ef7e7e;
-  --brightBlack: #2d3437;
-  --white: #b3b9b8;
-  --cyan: #6cbfbf;
-  --purple: #c47fd5;
-  --blue: #67b0e8;
-  --yellow: #e5c76b;
-  --green: #8ccf7e;
-  --red: #e57474;
-  --black: #232a2d;
-  --name: Everblush
+    --selectionBackground: '#141b1e';
+  --cursorColor: '#dadada';
+  --foreground: '#dadada';
+  --background: '#141b1e';
+  --brightWhite: '#bdc3c2';
+  --brightCyan: '#67cbe7';
+  --brightPurple: '#ce89df';
+  --brightBlue: '#71baf2';
+  --brightYellow: '#f4d67a';
+  --brightGreen: '#96d988';
+  --brightRed: '#ef7e7e';
+  --brightBlack: '#2d3437';
+  --white: '#b3b9b8';
+  --cyan: '#6cbfbf';
+  --purple: '#c47fd5';
+  --blue: '#67b0e8';
+  --yellow: '#e5c76b';
+  --green: '#8ccf7e';
+  --red: '#e57474';
+  --black: '#232a2d';
+  --name: 'Everblush'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Everblush'; }
