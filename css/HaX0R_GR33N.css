@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #d4ffc1;
-  --cursorColor: #15d00d;
-  --foreground: #16b10e;
-  --background: #020f01;
-  --brightWhite: #fefefe;
-  --brightCyan: #19e20e;
-  --brightPurple: #19e20e;
-  --brightBlue: #19e20e;
-  --brightYellow: #19e20e;
-  --brightGreen: #19e20e;
-  --brightRed: #19e20e;
-  --brightBlack: #001510;
-  --white: #fafafa;
-  --cyan: #15d00d;
-  --purple: #15d00d;
-  --blue: #15d00d;
-  --yellow: #15d00d;
-  --green: #15d00d;
-  --red: #15d00d;
-  --black: #001f0b;
-  --name: HaX0R_GR33N
+    --selectionBackground: '#d4ffc1';
+  --cursorColor: '#15d00d';
+  --foreground: '#16b10e';
+  --background: '#020f01';
+  --brightWhite: '#fefefe';
+  --brightCyan: '#19e20e';
+  --brightPurple: '#19e20e';
+  --brightBlue: '#19e20e';
+  --brightYellow: '#19e20e';
+  --brightGreen: '#19e20e';
+  --brightRed: '#19e20e';
+  --brightBlack: '#001510';
+  --white: '#fafafa';
+  --cyan: '#15d00d';
+  --purple: '#15d00d';
+  --blue: '#15d00d';
+  --yellow: '#15d00d';
+  --green: '#15d00d';
+  --red: '#15d00d';
+  --black: '#001f0b';
+  --name: 'HaX0R_GR33N'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_GR33N'; }
