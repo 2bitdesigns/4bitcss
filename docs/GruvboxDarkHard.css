@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#665c54';
-  --cursorColor: '#ebdbb2';
-  --foreground: '#ebdbb2';
-  --background: '#1b1b1b';
-  --brightWhite: '#ebdbb2';
-  --brightCyan: '#8ec07c';
-  --brightPurple: '#d3869b';
-  --brightBlue: '#83a598';
-  --brightYellow: '#fabd2f';
-  --brightGreen: '#b8bb26';
-  --brightRed: '#fb4934';
-  --brightBlack: '#928374';
-  --white: '#a89984';
-  --cyan: '#689d6a';
-  --purple: '#b16286';
-  --blue: '#458588';
-  --yellow: '#d79921';
-  --green: '#98971a';
-  --red: '#cc241d';
-  --black: '#1b1b1b';
+    --selectionBackground: #665c54;
+  --cursorColor: #ebdbb2;
+  --foreground: #ebdbb2;
+  --background: #1b1b1b;
+  --brightWhite: #ebdbb2;
+  --brightCyan: #8ec07c;
+  --brightPurple: #d3869b;
+  --brightBlue: #83a598;
+  --brightYellow: #fabd2f;
+  --brightGreen: #b8bb26;
+  --brightRed: #fb4934;
+  --brightBlack: #928374;
+  --white: #a89984;
+  --cyan: #689d6a;
+  --purple: #b16286;
+  --blue: #458588;
+  --yellow: #d79921;
+  --green: #98971a;
+  --red: #cc241d;
+  --black: #1b1b1b;
   --name: 'GruvboxDarkHard'
 }
 
