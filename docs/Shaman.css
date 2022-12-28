@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#415555';
-  --cursorColor: '#4afcd6';
-  --foreground: '#405555';
-  --background: '#001015';
-  --brightWhite: '#58fbd6';
-  --brightCyan: '#98d028';
-  --brightPurple: '#1298ff';
-  --brightBlue: '#61d5ba';
-  --brightYellow: '#8ed4fd';
-  --brightGreen: '#2aea5e';
-  --brightRed: '#ff4242';
-  --brightBlack: '#384451';
-  --white: '#405555';
-  --cyan: '#5d7e19';
-  --purple: '#00599d';
-  --blue: '#449a86';
-  --yellow: '#5e8baa';
-  --green: '#00a941';
-  --red: '#b2302d';
-  --black: '#012026';
+    --selectionBackground: #415555;
+  --cursorColor: #4afcd6;
+  --foreground: #405555;
+  --background: #001015;
+  --brightWhite: #58fbd6;
+  --brightCyan: #98d028;
+  --brightPurple: #1298ff;
+  --brightBlue: #61d5ba;
+  --brightYellow: #8ed4fd;
+  --brightGreen: #2aea5e;
+  --brightRed: #ff4242;
+  --brightBlack: #384451;
+  --white: #405555;
+  --cyan: #5d7e19;
+  --purple: #00599d;
+  --blue: #449a86;
+  --yellow: #5e8baa;
+  --green: #00a941;
+  --red: #b2302d;
+  --black: #012026;
   --name: 'Shaman'
 }
 
