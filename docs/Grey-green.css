@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#517e50';
-  --cursorColor: '#fff400';
-  --foreground: '#ffffff';
-  --background: '#002a1a';
-  --brightWhite: '#f5ecec';
-  --brightCyan: '#00ffd3';
-  --brightPurple: '#ff008a';
-  --brightBlue: '#00afff';
-  --brightYellow: '#ffd100';
-  --brightGreen: '#00ff44';
-  --brightRed: '#ff3939';
-  --brightBlack: '#666666';
-  --white: '#ffffff';
-  --cyan: '#00ffbc';
-  --purple: '#ff00f0';
-  --blue: '#00deff';
-  --yellow: '#f1ff01';
-  --green: '#74ff00';
-  --red: '#fe1414';
-  --black: '#000000';
+    --selectionBackground: #517e50;
+  --cursorColor: #fff400;
+  --foreground: #ffffff;
+  --background: #002a1a;
+  --brightWhite: #f5ecec;
+  --brightCyan: #00ffd3;
+  --brightPurple: #ff008a;
+  --brightBlue: #00afff;
+  --brightYellow: #ffd100;
+  --brightGreen: #00ff44;
+  --brightRed: #ff3939;
+  --brightBlack: #666666;
+  --white: #ffffff;
+  --cyan: #00ffbc;
+  --purple: #ff00f0;
+  --blue: #00deff;
+  --yellow: #f1ff01;
+  --green: #74ff00;
+  --red: #fe1414;
+  --black: #000000;
   --name: 'Grey-green'
 }
 
