@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #808080;
-  --foreground: #f1f1f1;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #e0e0fe;
-  --brightPurple: #fb9cfe;
-  --brightBlue: #b5dcff;
-  --brightYellow: #ffffcc;
-  --brightGreen: #cfffab;
-  --brightRed: #fcb6b0;
-  --brightBlack: #7b7b7b;
-  --white: #efedef;
-  --cyan: #c6c5fe;
-  --purple: #fa73fd;
-  --blue: #96cafe;
-  --yellow: #fffeb7;
-  --green: #a8ff60;
-  --red: #fa6c60;
-  --black: #4f4f4f;
-  --name: IR_Black
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#808080';
+  --foreground: '#f1f1f1';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#e0e0fe';
+  --brightPurple: '#fb9cfe';
+  --brightBlue: '#b5dcff';
+  --brightYellow: '#ffffcc';
+  --brightGreen: '#cfffab';
+  --brightRed: '#fcb6b0';
+  --brightBlack: '#7b7b7b';
+  --white: '#efedef';
+  --cyan: '#c6c5fe';
+  --purple: '#fa73fd';
+  --blue: '#96cafe';
+  --yellow: '#fffeb7';
+  --green: '#a8ff60';
+  --red: '#fa6c60';
+  --black: '#4f4f4f';
+  --name: 'IR_Black'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'IR_Black'; }
