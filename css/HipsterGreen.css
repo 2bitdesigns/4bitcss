@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#083905';
-  --cursorColor: '#23ff18';
-  --foreground: '#84c138';
-  --background: '#100b05';
-  --brightWhite: '#e5e5e5';
-  --brightCyan: '#00e5e5';
-  --brightPurple: '#e500e5';
-  --brightBlue: '#0000ff';
-  --brightYellow: '#e5e500';
-  --brightGreen: '#86a93e';
-  --brightRed: '#e50000';
-  --brightBlack: '#666666';
-  --white: '#bfbfbf';
-  --cyan: '#00a6b2';
-  --purple: '#b200b2';
-  --blue: '#246eb2';
-  --yellow: '#bfbf00';
-  --green: '#00a600';
-  --red: '#b6214a';
-  --black: '#000000';
+    --selectionBackground: #083905;
+  --cursorColor: #23ff18;
+  --foreground: #84c138;
+  --background: #100b05;
+  --brightWhite: #e5e5e5;
+  --brightCyan: #00e5e5;
+  --brightPurple: #e500e5;
+  --brightBlue: #0000ff;
+  --brightYellow: #e5e500;
+  --brightGreen: #86a93e;
+  --brightRed: #e50000;
+  --brightBlack: #666666;
+  --white: #bfbfbf;
+  --cyan: #00a6b2;
+  --purple: #b200b2;
+  --blue: #246eb2;
+  --yellow: #bfbf00;
+  --green: #00a600;
+  --red: #b6214a;
+  --black: #000000;
   --name: 'Hipster Green'
 }
 
