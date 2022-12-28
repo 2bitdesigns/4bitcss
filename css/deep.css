@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#780002';
-  --cursorColor: '#d0d0d0';
-  --foreground: '#cdcdcd';
-  --background: '#090909';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#8df9ff';
-  --brightPurple: '#e09aff';
-  --brightBlue: '#9fa9ff';
-  --brightYellow: '#fedc2b';
-  --brightGreen: '#22ff18';
-  --brightRed: '#fb0007';
-  --brightBlack: '#535353';
-  --white: '#e0e0e0';
-  --cyan: '#50d2da';
-  --purple: '#b052da';
-  --blue: '#5665ff';
-  --yellow: '#d9bd26';
-  --green: '#1cd915';
-  --red: '#d70005';
-  --black: '#000000';
+    --selectionBackground: #780002;
+  --cursorColor: #d0d0d0;
+  --foreground: #cdcdcd;
+  --background: #090909;
+  --brightWhite: #ffffff;
+  --brightCyan: #8df9ff;
+  --brightPurple: #e09aff;
+  --brightBlue: #9fa9ff;
+  --brightYellow: #fedc2b;
+  --brightGreen: #22ff18;
+  --brightRed: #fb0007;
+  --brightBlack: #535353;
+  --white: #e0e0e0;
+  --cyan: #50d2da;
+  --purple: #b052da;
+  --blue: #5665ff;
+  --yellow: #d9bd26;
+  --green: #1cd915;
+  --red: #d70005;
+  --black: #000000;
   --name: 'deep'
 }
 
