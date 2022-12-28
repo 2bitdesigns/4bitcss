@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#575256';
-  --cursorColor: '#af9a91';
-  --foreground: '#af9a91';
-  --background: '#121214';
-  --brightWhite: '#d2c7a9';
-  --brightCyan: '#a4dce7';
-  --brightPurple: '#e2c2bb';
-  --brightBlue: '#8086ef';
-  --brightYellow: '#f66813';
-  --brightGreen: '#d6b04e';
-  --brightRed: '#d9443f';
-  --brightBlack: '#4e4b61';
-  --white: '#af9a91';
-  --cyan: '#8faea9';
-  --purple: '#a17c7b';
-  --blue: '#5f63b4';
-  --yellow: '#b55600';
-  --green: '#91773f';
-  --red: '#ba3934';
-  --black: '#572100';
+    --selectionBackground: #575256;
+  --cursorColor: #af9a91;
+  --foreground: #af9a91;
+  --background: #121214;
+  --brightWhite: #d2c7a9;
+  --brightCyan: #a4dce7;
+  --brightPurple: #e2c2bb;
+  --brightBlue: #8086ef;
+  --brightYellow: #f66813;
+  --brightGreen: #d6b04e;
+  --brightRed: #d9443f;
+  --brightBlack: #4e4b61;
+  --white: #af9a91;
+  --cyan: #8faea9;
+  --purple: #a17c7b;
+  --blue: #5f63b4;
+  --yellow: #b55600;
+  --green: #91773f;
+  --red: #ba3934;
+  --black: #572100;
   --name: 'SleepyHollow'
 }
 
