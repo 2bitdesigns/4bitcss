@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#ffffff';
-  --cursorColor: '#13a10e';
-  --foreground: '#13a10e';
-  --background: '#000000';
-  --brightWhite: '#16ba10';
-  --brightCyan: '#16ba10';
-  --brightPurple: '#16ba10';
-  --brightBlue: '#16ba10';
-  --brightYellow: '#16ba10';
-  --brightGreen: '#16ba10';
-  --brightRed: '#16ba10';
-  --brightBlack: '#16ba10';
-  --white: '#13a10e';
-  --cyan: '#13a10e';
-  --purple: '#13a10e';
-  --blue: '#13a10e';
-  --yellow: '#13a10e';
-  --green: '#13a10e';
-  --red: '#13a10e';
-  --black: '#13a10e';
+    --selectionBackground: #ffffff;
+  --cursorColor: #13a10e;
+  --foreground: #13a10e;
+  --background: #000000;
+  --brightWhite: #16ba10;
+  --brightCyan: #16ba10;
+  --brightPurple: #16ba10;
+  --brightBlue: #16ba10;
+  --brightYellow: #16ba10;
+  --brightGreen: #16ba10;
+  --brightRed: #16ba10;
+  --brightBlack: #16ba10;
+  --white: #13a10e;
+  --cyan: #13a10e;
+  --purple: #13a10e;
+  --blue: #13a10e;
+  --yellow: #13a10e;
+  --green: #13a10e;
+  --red: #13a10e;
+  --black: #13a10e;
   --name: 'Retro'
 }
 
