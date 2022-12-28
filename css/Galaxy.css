@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b5d5ff';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#ffffff';
-  --background: '#1d2837';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#3979bc';
-  --brightPurple: '#e75699';
-  --brightBlue: '#589df6';
-  --brightYellow: '#ffff55';
-  --brightGreen: '#35bb9a';
-  --brightRed: '#fa8c8f';
-  --brightBlack: '#555555';
-  --white: '#bbbbbb';
-  --cyan: '#1f9ee7';
-  --purple: '#944d95';
-  --blue: '#589df6';
-  --yellow: '#fef02a';
-  --green: '#21b089';
-  --red: '#f9555f';
-  --black: '#000000';
+    --selectionBackground: #b5d5ff;
+  --cursorColor: #bbbbbb;
+  --foreground: #ffffff;
+  --background: #1d2837;
+  --brightWhite: #ffffff;
+  --brightCyan: #3979bc;
+  --brightPurple: #e75699;
+  --brightBlue: #589df6;
+  --brightYellow: #ffff55;
+  --brightGreen: #35bb9a;
+  --brightRed: #fa8c8f;
+  --brightBlack: #555555;
+  --white: #bbbbbb;
+  --cyan: #1f9ee7;
+  --purple: #944d95;
+  --blue: #589df6;
+  --yellow: #fef02a;
+  --green: #21b089;
+  --red: #f9555f;
+  --black: #000000;
   --name: 'Galaxy'
 }
 
