@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #424242;
-  --cursorColor: #424242;
-  --foreground: #959595;
-  --background: #222222;
-  --brightWhite: #c1c2c2;
-  --brightCyan: #5fc0ae;
-  --brightPurple: #ab53d6;
-  --brightBlue: #6699d6;
-  --brightYellow: #e5be39;
-  --brightGreen: #aabb39;
-  --brightRed: #d3232f;
-  --brightBlack: #454747;
-  --white: #3c3d3d;
-  --cyan: #91bfb7;
-  --purple: #c092d6;
-  --blue: #a0bad6;
-  --yellow: #e5d289;
-  --green: #afba67;
-  --red: #d45a60;
-  --black: #2b2b2b;
-  --name: Later This Evening
+    --selectionBackground: '#424242';
+  --cursorColor: '#424242';
+  --foreground: '#959595';
+  --background: '#222222';
+  --brightWhite: '#c1c2c2';
+  --brightCyan: '#5fc0ae';
+  --brightPurple: '#ab53d6';
+  --brightBlue: '#6699d6';
+  --brightYellow: '#e5be39';
+  --brightGreen: '#aabb39';
+  --brightRed: '#d3232f';
+  --brightBlack: '#454747';
+  --white: '#3c3d3d';
+  --cyan: '#91bfb7';
+  --purple: '#c092d6';
+  --blue: '#a0bad6';
+  --yellow: '#e5d289';
+  --green: '#afba67';
+  --red: '#d45a60';
+  --black: '#2b2b2b';
+  --name: 'Later This Evening'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Later This Evening'; }
