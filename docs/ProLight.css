@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c1ddff';
-  --cursorColor: '#4d4d4d';
-  --foreground: '#191919';
-  --background: '#ffffff';
-  --brightWhite: '#f2f2f2';
-  --brightCyan: '#61f7f8';
-  --brightPurple: '#ff7eff';
-  --brightBlue: '#0082ff';
-  --brightYellow: '#f2f156';
-  --brightGreen: '#61ef57';
-  --brightRed: '#ff6640';
-  --brightBlack: '#9f9f9f';
-  --white: '#dcdcdc';
-  --cyan: '#4ed2de';
-  --purple: '#ed66e8';
-  --blue: '#3b75ff';
-  --yellow: '#c6c440';
-  --green: '#50d148';
-  --red: '#e5492b';
-  --black: '#000000';
+    --selectionBackground: #c1ddff;
+  --cursorColor: #4d4d4d;
+  --foreground: #191919;
+  --background: #ffffff;
+  --brightWhite: #f2f2f2;
+  --brightCyan: #61f7f8;
+  --brightPurple: #ff7eff;
+  --brightBlue: #0082ff;
+  --brightYellow: #f2f156;
+  --brightGreen: #61ef57;
+  --brightRed: #ff6640;
+  --brightBlack: #9f9f9f;
+  --white: #dcdcdc;
+  --cyan: #4ed2de;
+  --purple: #ed66e8;
+  --blue: #3b75ff;
+  --yellow: #c6c440;
+  --green: #50d148;
+  --red: #e5492b;
+  --black: #000000;
   --name: 'Pro Light'
 }
 
