@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #203727;
-  --cursorColor: #ffcc00;
-  --foreground: #dadedc;
-  --background: #051f14;
-  --brightWhite: #ffffff;
-  --brightCyan: #cfffd1;
-  --brightPurple: #ffffff;
-  --brightBlue: #568264;
-  --brightYellow: #ffff94;
-  --brightGreen: #73da70;
-  --brightRed: #ff943b;
-  --brightBlack: #323232;
-  --white: #ffffff;
-  --cyan: #9df39f;
-  --purple: #f8f8f8;
-  --blue: #245032;
-  --yellow: #ffe862;
-  --green: #41a83e;
-  --red: #fd6209;
-  --black: #000000;
-  --name: DjangoRebornAgain
+    --selectionBackground: '#203727';
+  --cursorColor: '#ffcc00';
+  --foreground: '#dadedc';
+  --background: '#051f14';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#cfffd1';
+  --brightPurple: '#ffffff';
+  --brightBlue: '#568264';
+  --brightYellow: '#ffff94';
+  --brightGreen: '#73da70';
+  --brightRed: '#ff943b';
+  --brightBlack: '#323232';
+  --white: '#ffffff';
+  --cyan: '#9df39f';
+  --purple: '#f8f8f8';
+  --blue: '#245032';
+  --yellow: '#ffe862';
+  --green: '#41a83e';
+  --red: '#fd6209';
+  --black: '#000000';
+  --name: 'DjangoRebornAgain'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DjangoRebornAgain'; }
