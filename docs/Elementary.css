@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #bbbbbb;
-  --foreground: #efefef;
-  --background: #181818;
-  --brightWhite: #8c00ec;
-  --brightCyan: #3ea8fc;
-  --brightPurple: #fb0050;
-  --brightBlue: #0955ff;
-  --brightYellow: #fec80e;
-  --brightGreen: #6bc219;
-  --brightRed: #fc1c18;
-  --brightBlack: #4b4b4b;
-  --white: #efefef;
-  --cyan: #2595e1;
-  --purple: #e40038;
-  --blue: #063b8c;
-  --yellow: #fdb40c;
-  --green: #5aa513;
-  --red: #d71c15;
-  --black: #242424;
-  --name: Elementary
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#efefef';
+  --background: '#181818';
+  --brightWhite: '#8c00ec';
+  --brightCyan: '#3ea8fc';
+  --brightPurple: '#fb0050';
+  --brightBlue: '#0955ff';
+  --brightYellow: '#fec80e';
+  --brightGreen: '#6bc219';
+  --brightRed: '#fc1c18';
+  --brightBlack: '#4b4b4b';
+  --white: '#efefef';
+  --cyan: '#2595e1';
+  --purple: '#e40038';
+  --blue: '#063b8c';
+  --yellow: '#fdb40c';
+  --green: '#5aa513';
+  --red: '#d71c15';
+  --black: '#242424';
+  --name: 'Elementary'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Elementary'; }
