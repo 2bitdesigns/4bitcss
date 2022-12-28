@@ -24,10 +24,10 @@ foreach ($jsonFile in $jsonFiles) {
     if ($jsonObject.Name -match '^\{') { continue }
     $jsonObject | Export-4BitCSS -OutputPath (Join-Path $PSScriptRoot css)
     $jsonObject | Export-4BitCSS -OutputPath $docsPath
-    $previewFilePath = Join-Path $docsPath "$($jsonObject.Name).md"
+    $previewFilePath = Join-Path $docsPath "$($jsonObject.Name -replace '\s').md"
 @"
 ---
-stylesheet: $($jsonObject.Name).css
+stylesheet: $($jsonObject.Name -replace '\s').css
 ---
 $transpiledText
 "@ |

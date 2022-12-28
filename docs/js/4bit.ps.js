@@ -80,7 +80,7 @@ function loadTheme() {
         switchTheme(previouslySaved);
     }
     else {
-        switchTheme(getCSSVariable("--name"));
+        switchTheme(getCSSVariable("--name").trim());
     }
     for (arg in arguments) {
         if (arguments[arg].value) {
