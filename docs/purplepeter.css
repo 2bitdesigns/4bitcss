@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #8689c2;
-  --cursorColor: #c7c7c7;
-  --foreground: #ece7fa;
-  --background: #2a1a4a;
-  --brightWhite: #b9aed3;
-  --brightCyan: #a0a0d6;
-  --brightPurple: #ba91d4;
-  --brightBlue: #79daed;
-  --brightYellow: #f2e9bf;
-  --brightGreen: #b4be8f;
-  --brightRed: #f99f92;
-  --brightBlack: #100b23;
-  --white: #ffba81;
-  --cyan: #ba8cff;
-  --purple: #e78fcd;
-  --blue: #66d9ef;
-  --yellow: #efdfac;
-  --green: #99b481;
-  --red: #ff796d;
-  --black: #0a0520;
-  --name: purplepeter
+    --selectionBackground: '#8689c2';
+  --cursorColor: '#c7c7c7';
+  --foreground: '#ece7fa';
+  --background: '#2a1a4a';
+  --brightWhite: '#b9aed3';
+  --brightCyan: '#a0a0d6';
+  --brightPurple: '#ba91d4';
+  --brightBlue: '#79daed';
+  --brightYellow: '#f2e9bf';
+  --brightGreen: '#b4be8f';
+  --brightRed: '#f99f92';
+  --brightBlack: '#100b23';
+  --white: '#ffba81';
+  --cyan: '#ba8cff';
+  --purple: '#e78fcd';
+  --blue: '#66d9ef';
+  --yellow: '#efdfac';
+  --green: '#99b481';
+  --red: '#ff796d';
+  --black: '#0a0520';
+  --name: 'purplepeter'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'purplepeter'; }
