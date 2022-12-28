@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #287691;
-  --cursorColor: #ff271d;
-  --foreground: #fffbf6;
-  --background: #21084a;
-  --brightWhite: #ffffff;
-  --brightCyan: #74fdf3;
-  --brightPurple: #ac7bf0;
-  --brightBlue: #00a6ff;
-  --brightYellow: #ffd852;
-  --brightGreen: #b8e36e;
-  --brightRed: #ff4250;
-  --brightBlack: #565656;
-  --white: #ffffff;
-  --cyan: #00deef;
-  --purple: #815bb5;
-  --blue: #00a2fa;
-  --yellow: #ffc400;
-  --green: #9be205;
-  --red: #ff260e;
-  --black: #000000;
-  --name: Purple Rain
+    --selectionBackground: '#287691';
+  --cursorColor: '#ff271d';
+  --foreground: '#fffbf6';
+  --background: '#21084a';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#74fdf3';
+  --brightPurple: '#ac7bf0';
+  --brightBlue: '#00a6ff';
+  --brightYellow: '#ffd852';
+  --brightGreen: '#b8e36e';
+  --brightRed: '#ff4250';
+  --brightBlack: '#565656';
+  --white: '#ffffff';
+  --cyan: '#00deef';
+  --purple: '#815bb5';
+  --blue: '#00a2fa';
+  --yellow: '#ffc400';
+  --green: '#9be205';
+  --red: '#ff260e';
+  --black: '#000000';
+  --name: 'Purple Rain'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Purple Rain'; }
