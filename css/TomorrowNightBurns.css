@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b0bec5;
-  --cursorColor: #ff443e;
-  --foreground: #a1b0b8;
-  --background: #151515;
-  --brightWhite: #f5f5f5;
-  --brightCyan: #ba8586;
-  --brightPurple: #df9395;
-  --brightBlue: #fc595f;
-  --brightYellow: #d2494e;
-  --brightGreen: #a63c40;
-  --brightRed: #832e31;
-  --brightBlack: #5d6f71;
-  --white: #f5f5f5;
-  --cyan: #ba8586;
-  --purple: #df9395;
-  --blue: #fc595f;
-  --yellow: #d3494e;
-  --green: #a63c40;
-  --red: #832e31;
-  --black: #252525;
-  --name: Tomorrow Night Burns
+    --selectionBackground: '#b0bec5';
+  --cursorColor: '#ff443e';
+  --foreground: '#a1b0b8';
+  --background: '#151515';
+  --brightWhite: '#f5f5f5';
+  --brightCyan: '#ba8586';
+  --brightPurple: '#df9395';
+  --brightBlue: '#fc595f';
+  --brightYellow: '#d2494e';
+  --brightGreen: '#a63c40';
+  --brightRed: '#832e31';
+  --brightBlack: '#5d6f71';
+  --white: '#f5f5f5';
+  --cyan: '#ba8586';
+  --purple: '#df9395';
+  --blue: '#fc595f';
+  --yellow: '#d3494e';
+  --green: '#a63c40';
+  --red: '#832e31';
+  --black: '#252525';
+  --name: 'Tomorrow Night Burns'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Burns'; }
