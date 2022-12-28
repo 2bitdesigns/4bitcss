@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #eff0f1;
-  --cursorColor: #eff0f1;
-  --foreground: #eff0f1;
-  --background: #31363b;
-  --brightWhite: #fcfcfc;
-  --brightCyan: #16a085;
-  --brightPurple: #8e44ad;
-  --brightBlue: #3daee9;
-  --brightYellow: #fdbc4b;
-  --brightGreen: #1cdc9a;
-  --brightRed: #c0392b;
-  --brightBlack: #7f8c8d;
-  --white: #eff0f1;
-  --cyan: #1abc9c;
-  --purple: #9b59b6;
-  --blue: #1d99f3;
-  --yellow: #f67400;
-  --green: #11d116;
-  --red: #ed1515;
-  --black: #31363b;
-  --name: Breeze
+    --selectionBackground: '#eff0f1';
+  --cursorColor: '#eff0f1';
+  --foreground: '#eff0f1';
+  --background: '#31363b';
+  --brightWhite: '#fcfcfc';
+  --brightCyan: '#16a085';
+  --brightPurple: '#8e44ad';
+  --brightBlue: '#3daee9';
+  --brightYellow: '#fdbc4b';
+  --brightGreen: '#1cdc9a';
+  --brightRed: '#c0392b';
+  --brightBlack: '#7f8c8d';
+  --white: '#eff0f1';
+  --cyan: '#1abc9c';
+  --purple: '#9b59b6';
+  --blue: '#1d99f3';
+  --yellow: '#f67400';
+  --green: '#11d116';
+  --red: '#ed1515';
+  --black: '#31363b';
+  --name: 'Breeze'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Breeze'; }
