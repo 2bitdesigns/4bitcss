@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1d4125;
-  --cursorColor: #73fa91;
-  --foreground: #637d75;
-  --background: #0f1610;
-  --brightWhite: #73fa91;
-  --brightCyan: #00e0c4;
-  --brightPurple: #0058e0;
-  --brightBlue: #00aae0;
-  --brightYellow: #bde000;
-  --brightGreen: #18e000;
-  --brightRed: #e08009;
-  --brightBlack: #3c4812;
-  --white: #647d75;
-  --cyan: #327f77;
-  --purple: #47587f;
-  --blue: #2f6a7f;
-  --yellow: #717f24;
-  --green: #2f7e25;
-  --red: #7f2b27;
-  --black: #112616;
-  --name: AlienBlood
+    --selectionBackground: '#1d4125';
+  --cursorColor: '#73fa91';
+  --foreground: '#637d75';
+  --background: '#0f1610';
+  --brightWhite: '#73fa91';
+  --brightCyan: '#00e0c4';
+  --brightPurple: '#0058e0';
+  --brightBlue: '#00aae0';
+  --brightYellow: '#bde000';
+  --brightGreen: '#18e000';
+  --brightRed: '#e08009';
+  --brightBlack: '#3c4812';
+  --white: '#647d75';
+  --cyan: '#327f77';
+  --purple: '#47587f';
+  --blue: '#2f6a7f';
+  --yellow: '#717f24';
+  --green: '#2f7e25';
+  --red: '#7f2b27';
+  --black: '#112616';
+  --name: 'AlienBlood'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AlienBlood'; }
