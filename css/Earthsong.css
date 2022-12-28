@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#121418';
-  --cursorColor: '#f6f7ec';
-  --foreground: '#e5c7a9';
-  --background: '#292520';
-  --brightWhite: '#f6f7ec';
-  --brightCyan: '#84f088';
-  --brightPurple: '#ff9269';
-  --brightBlue: '#5fdaff';
-  --brightYellow: '#e0d561';
-  --brightGreen: '#98e036';
-  --brightRed: '#ff645a';
-  --brightBlack: '#675f54';
-  --white: '#e5c6aa';
-  --cyan: '#509552';
-  --purple: '#d0633d';
-  --blue: '#1398b9';
-  --yellow: '#f5ae2e';
-  --green: '#85c54c';
-  --red: '#c94234';
-  --black: '#121418';
+    --selectionBackground: #121418;
+  --cursorColor: #f6f7ec;
+  --foreground: #e5c7a9;
+  --background: #292520;
+  --brightWhite: #f6f7ec;
+  --brightCyan: #84f088;
+  --brightPurple: #ff9269;
+  --brightBlue: #5fdaff;
+  --brightYellow: #e0d561;
+  --brightGreen: #98e036;
+  --brightRed: #ff645a;
+  --brightBlack: #675f54;
+  --white: #e5c6aa;
+  --cyan: #509552;
+  --purple: #d0633d;
+  --blue: #1398b9;
+  --yellow: #f5ae2e;
+  --green: #85c54c;
+  --red: #c94234;
+  --black: #121418;
   --name: 'Earthsong'
 }
 
