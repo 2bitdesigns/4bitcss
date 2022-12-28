@@ -2,7 +2,9 @@
 stylesheet: HaX0R_R3D.css
 ---
 <h2 style='text-align:center'>
-    <span class='ColorSchemeFileName' />
+    <a id='colorSchemeNameLink' href='#'>
+        <span class='ColorSchemeFileName' />
+    </a>
 </h2>
 
 <div class='centeredText'>
@@ -10,10 +12,10 @@ stylesheet: HaX0R_R3D.css
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink' href='javascript:void(0)'>
+    <a id='downloadSchemeLink' href='#'>
         Download
     </a>
-    <a id='cdnSchemeLink' href='javascript:void(0)'>
+    <a id='cdnSchemeLink' href='#'>
         CDN
     </a>
 </div>
