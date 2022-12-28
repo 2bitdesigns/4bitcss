@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #003f8e;
-  --cursorColor: #ffffff;
-  --foreground: #ffffff;
-  --background: #002451;
-  --brightWhite: #ffffff;
-  --brightCyan: #99ffff;
-  --brightPurple: #ebbbff;
-  --brightBlue: #bbdaff;
-  --brightYellow: #ffeead;
-  --brightGreen: #d1f1a9;
-  --brightRed: #ff9da4;
-  --brightBlack: #000000;
-  --white: #ffffff;
-  --cyan: #99ffff;
-  --purple: #ebbbff;
-  --blue: #bbdaff;
-  --yellow: #ffeead;
-  --green: #d1f1a9;
-  --red: #ff9da4;
-  --black: #000000;
-  --name: Tomorrow Night Blue
+    --selectionBackground: '#003f8e';
+  --cursorColor: '#ffffff';
+  --foreground: '#ffffff';
+  --background: '#002451';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#99ffff';
+  --brightPurple: '#ebbbff';
+  --brightBlue: '#bbdaff';
+  --brightYellow: '#ffeead';
+  --brightGreen: '#d1f1a9';
+  --brightRed: '#ff9da4';
+  --brightBlack: '#000000';
+  --white: '#ffffff';
+  --cyan: '#99ffff';
+  --purple: '#ebbbff';
+  --blue: '#bbdaff';
+  --yellow: '#ffeead';
+  --green: '#d1f1a9';
+  --red: '#ff9da4';
+  --black: '#000000';
+  --name: 'Tomorrow Night Blue'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Blue'; }
