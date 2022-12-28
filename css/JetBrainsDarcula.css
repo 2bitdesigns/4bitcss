@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1a3272;
-  --cursorColor: #ffffff;
-  --foreground: #adadad;
-  --background: #202020;
-  --brightWhite: #eeeeee;
-  --brightCyan: #60d3d1;
-  --brightPurple: #fb82ff;
-  --brightBlue: #6d9df1;
-  --brightYellow: #ffff00;
-  --brightGreen: #67ff4f;
-  --brightRed: #fb7172;
-  --brightBlack: #555555;
-  --white: #adadad;
-  --cyan: #33c2c1;
-  --purple: #fa54ff;
-  --blue: #4581eb;
-  --yellow: #c2c300;
-  --green: #126e00;
-  --red: #fa5355;
-  --black: #000000;
-  --name: JetBrains Darcula
+    --selectionBackground: '#1a3272';
+  --cursorColor: '#ffffff';
+  --foreground: '#adadad';
+  --background: '#202020';
+  --brightWhite: '#eeeeee';
+  --brightCyan: '#60d3d1';
+  --brightPurple: '#fb82ff';
+  --brightBlue: '#6d9df1';
+  --brightYellow: '#ffff00';
+  --brightGreen: '#67ff4f';
+  --brightRed: '#fb7172';
+  --brightBlack: '#555555';
+  --white: '#adadad';
+  --cyan: '#33c2c1';
+  --purple: '#fa54ff';
+  --blue: '#4581eb';
+  --yellow: '#c2c300';
+  --green: '#126e00';
+  --red: '#fa5355';
+  --black: '#000000';
+  --name: 'JetBrains Darcula'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'JetBrains Darcula'; }
