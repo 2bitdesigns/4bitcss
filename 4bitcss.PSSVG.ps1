@@ -49,6 +49,16 @@ $assetFile =
     }    
 ) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg) -Width 320 
 
+$boxSize = [Ordered]@{Width = 80; Height = 80}
+=<svg> -ViewBox 640, 160 @(
+    foreach ($n in 0..7) {
+        =<svg.rect> -X ($boxSize.Width * $n) -Y 0 -Class "ansi$n-fill" @boxSize
+    }
+    foreach ($n in 8..15) {
+        =<svg.rect> -X ($boxSize.Width * ($n - 8)) -Y 80 -Class "ansi$n-fill" @boxSize
+    }
+) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg) -Width 320
+
 $assetFile
 $assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
 
