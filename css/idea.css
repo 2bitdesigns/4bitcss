@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #44475a;
-  --cursorColor: #bbbbbb;
-  --foreground: #adadad;
-  --background: #202020;
-  --brightWhite: #181818;
-  --brightCyan: #248887;
-  --brightPurple: #fc7eff;
-  --brightBlue: #6c9ced;
-  --brightYellow: #ffff0b;
-  --brightGreen: #98b61c;
-  --brightRed: #fc7072;
-  --brightBlack: #ffffff;
-  --white: #181818;
-  --cyan: #248887;
-  --purple: #9d74b0;
-  --blue: #437ee7;
-  --yellow: #ccb444;
-  --green: #98b61c;
-  --red: #fc5256;
-  --black: #adadad;
-  --name: idea
+    --selectionBackground: '#44475a';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#adadad';
+  --background: '#202020';
+  --brightWhite: '#181818';
+  --brightCyan: '#248887';
+  --brightPurple: '#fc7eff';
+  --brightBlue: '#6c9ced';
+  --brightYellow: '#ffff0b';
+  --brightGreen: '#98b61c';
+  --brightRed: '#fc7072';
+  --brightBlack: '#ffffff';
+  --white: '#181818';
+  --cyan: '#248887';
+  --purple: '#9d74b0';
+  --blue: '#437ee7';
+  --yellow: '#ccb444';
+  --green: '#98b61c';
+  --red: '#fc5256';
+  --black: '#adadad';
+  --name: 'idea'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'idea'; }
