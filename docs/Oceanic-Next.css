@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #3e4953;
-  --cursorColor: #b3b8c3;
-  --foreground: #b3b8c3;
-  --background: #121b21;
-  --brightWhite: #ffffff;
-  --brightCyan: #50a5a4;
-  --brightPurple: #b77eb8;
-  --brightBlue: #5486c0;
-  --brightYellow: #f7bd51;
-  --brightGreen: #89bd82;
-  --brightRed: #e44754;
-  --brightBlack: #52606b;
-  --white: #ffffff;
-  --cyan: #50a5a4;
-  --purple: #b77eb8;
-  --blue: #5486c0;
-  --yellow: #f7bd51;
-  --green: #89bd82;
-  --red: #e44754;
-  --black: #121c21;
-  --name: Oceanic-Next
+    --selectionBackground: '#3e4953';
+  --cursorColor: '#b3b8c3';
+  --foreground: '#b3b8c3';
+  --background: '#121b21';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#50a5a4';
+  --brightPurple: '#b77eb8';
+  --brightBlue: '#5486c0';
+  --brightYellow: '#f7bd51';
+  --brightGreen: '#89bd82';
+  --brightRed: '#e44754';
+  --brightBlack: '#52606b';
+  --white: '#ffffff';
+  --cyan: '#50a5a4';
+  --purple: '#b77eb8';
+  --blue: '#5486c0';
+  --yellow: '#f7bd51';
+  --green: '#89bd82';
+  --red: '#e44754';
+  --black: '#121c21';
+  --name: 'Oceanic-Next'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Oceanic-Next'; }
