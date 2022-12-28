@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#5c545b';
-  --cursorColor: '#b9b5b8';
-  --foreground: '#b9b5b8';
-  --background: '#322931';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#b33508';
-  --brightPurple: '#d5d3d5';
-  --brightBlue: '#989498';
-  --brightYellow: '#5c545b';
-  --brightGreen: '#433b42';
-  --brightRed: '#fd8b19';
-  --brightBlack: '#797379';
-  --white: '#b9b5b8';
-  --cyan: '#149b93';
-  --purple: '#c85e7c';
-  --blue: '#1290bf';
-  --yellow: '#fdcc59';
-  --green: '#8fc13e';
-  --red: '#dd464c';
-  --black: '#322931';
+    --selectionBackground: #5c545b;
+  --cursorColor: #b9b5b8;
+  --foreground: #b9b5b8;
+  --background: #322931;
+  --brightWhite: #ffffff;
+  --brightCyan: #b33508;
+  --brightPurple: #d5d3d5;
+  --brightBlue: #989498;
+  --brightYellow: #5c545b;
+  --brightGreen: #433b42;
+  --brightRed: #fd8b19;
+  --brightBlack: #797379;
+  --white: #b9b5b8;
+  --cyan: #149b93;
+  --purple: #c85e7c;
+  --blue: #1290bf;
+  --yellow: #fdcc59;
+  --green: #8fc13e;
+  --red: #dd464c;
+  --black: #322931;
   --name: 'Hopscotch'
 }
 
