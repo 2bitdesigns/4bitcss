@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c1deff;
-  --cursorColor: #000000;
-  --foreground: #000000;
-  --background: #ffffff;
-  --brightWhite: #f4f4f2;
-  --brightCyan: #00f6fa;
-  --brightPurple: #d898d1;
-  --brightBlue: #76bfff;
-  --brightYellow: #ffec00;
-  --brightGreen: #8af600;
-  --brightRed: #ff0013;
-  --brightBlack: #797d76;
-  --white: #e0e5db;
-  --cyan: #00bdc3;
-  --purple: #a96cb3;
-  --blue: #008ef6;
-  --yellow: #e2c000;
-  --green: #4cc300;
-  --red: #ff0000;
-  --black: #000000;
-  --name: Tango Half Adapted
+    --selectionBackground: '#c1deff';
+  --cursorColor: '#000000';
+  --foreground: '#000000';
+  --background: '#ffffff';
+  --brightWhite: '#f4f4f2';
+  --brightCyan: '#00f6fa';
+  --brightPurple: '#d898d1';
+  --brightBlue: '#76bfff';
+  --brightYellow: '#ffec00';
+  --brightGreen: '#8af600';
+  --brightRed: '#ff0013';
+  --brightBlack: '#797d76';
+  --white: '#e0e5db';
+  --cyan: '#00bdc3';
+  --purple: '#a96cb3';
+  --blue: '#008ef6';
+  --yellow: '#e2c000';
+  --green: '#4cc300';
+  --red: '#ff0000';
+  --black: '#000000';
+  --name: 'Tango Half Adapted'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tango Half Adapted'; }
