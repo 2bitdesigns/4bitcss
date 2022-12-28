@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #ade48c;
-  --cursorColor: #202e18;
-  --foreground: #202e18;
-  --background: #e5ede6;
-  --brightWhite: #415934;
-  --brightCyan: #2b747c;
-  --brightPurple: #7b3b70;
-  --brightBlue: #1d5573;
-  --brightYellow: #803d1c;
-  --brightGreen: #3f5a22;
-  --brightRed: #94253e;
-  --brightBlack: #b3c6b6;
-  --white: #202e18;
-  --cyan: #3b8992;
-  --purple: #88507d;
-  --blue: #286486;
-  --yellow: #944927;
-  --green: #567a30;
-  --red: #a8334c;
-  --black: #e5ede6;
-  --name: neobones_light
+    --selectionBackground: '#ade48c';
+  --cursorColor: '#202e18';
+  --foreground: '#202e18';
+  --background: '#e5ede6';
+  --brightWhite: '#415934';
+  --brightCyan: '#2b747c';
+  --brightPurple: '#7b3b70';
+  --brightBlue: '#1d5573';
+  --brightYellow: '#803d1c';
+  --brightGreen: '#3f5a22';
+  --brightRed: '#94253e';
+  --brightBlack: '#b3c6b6';
+  --white: '#202e18';
+  --cyan: '#3b8992';
+  --purple: '#88507d';
+  --blue: '#286486';
+  --yellow: '#944927';
+  --green: '#567a30';
+  --red: '#a8334c';
+  --black: '#e5ede6';
+  --name: 'neobones_light'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'neobones_light'; }
