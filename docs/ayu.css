@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#253340';
-  --cursorColor: '#f29718';
-  --foreground: '#e6e1cf';
-  --background: '#0f1419';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#c7fffd';
-  --brightPurple: '#ffa3aa';
-  --brightBlue: '#68d5ff';
-  --brightYellow: '#fff779';
-  --brightGreen: '#eafe84';
-  --brightRed: '#ff6565';
-  --brightBlack: '#323232';
-  --white: '#ffffff';
-  --cyan: '#95e6cb';
-  --purple: '#f07178';
-  --blue: '#36a3d9';
-  --yellow: '#e7c547';
-  --green: '#b8cc52';
-  --red: '#ff3333';
-  --black: '#000000';
+    --selectionBackground: #253340;
+  --cursorColor: #f29718;
+  --foreground: #e6e1cf;
+  --background: #0f1419;
+  --brightWhite: #ffffff;
+  --brightCyan: #c7fffd;
+  --brightPurple: #ffa3aa;
+  --brightBlue: #68d5ff;
+  --brightYellow: #fff779;
+  --brightGreen: #eafe84;
+  --brightRed: #ff6565;
+  --brightBlack: #323232;
+  --white: #ffffff;
+  --cyan: #95e6cb;
+  --purple: #f07178;
+  --blue: #36a3d9;
+  --yellow: #e7c547;
+  --green: #b8cc52;
+  --red: #ff3333;
+  --black: #000000;
   --name: 'ayu'
 }
 
