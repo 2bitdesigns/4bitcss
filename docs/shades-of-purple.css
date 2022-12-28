@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#b362ff';
-  --cursorColor: '#fad000';
-  --foreground: '#ffffff';
-  --background: '#1e1d40';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#79e8fb';
-  --brightPurple: '#ff77ff';
-  --brightBlue: '#6871ff';
-  --brightYellow: '#f1d000';
-  --brightGreen: '#43d426';
-  --brightRed: '#f92a1c';
-  --brightBlack: '#686868';
-  --white: '#c7c7c7';
-  --cyan: '#00c5c7';
-  --purple: '#ff2c70';
-  --blue: '#6943ff';
-  --yellow: '#ffe700';
-  --green: '#3ad900';
-  --red: '#d90429';
-  --black: '#000000';
+    --selectionBackground: #b362ff;
+  --cursorColor: #fad000;
+  --foreground: #ffffff;
+  --background: #1e1d40;
+  --brightWhite: #ffffff;
+  --brightCyan: #79e8fb;
+  --brightPurple: #ff77ff;
+  --brightBlue: #6871ff;
+  --brightYellow: #f1d000;
+  --brightGreen: #43d426;
+  --brightRed: #f92a1c;
+  --brightBlack: #686868;
+  --white: #c7c7c7;
+  --cyan: #00c5c7;
+  --purple: #ff2c70;
+  --blue: #6943ff;
+  --yellow: #ffe700;
+  --green: #3ad900;
+  --red: #d90429;
+  --black: #000000;
   --name: 'shades-of-purple'
 }
 
