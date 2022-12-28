@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c1deff;
-  --cursorColor: #21f6bc;
-  --foreground: #e5e5e5;
-  --background: #332a57;
-  --brightWhite: #ffffff;
-  --brightCyan: #99d6fc;
-  --brightPurple: #e6aefe;
-  --brightBlue: #1bccfd;
-  --brightYellow: #fff787;
-  --brightGreen: #21f6bc;
-  --brightRed: #ff8aa4;
-  --brightBlack: #000000;
-  --white: #ffffff;
-  --cyan: #86cbfe;
-  --purple: #df95ff;
-  --blue: #00bfff;
-  --yellow: #fffa6a;
-  --green: #00fbac;
-  --red: #ff7092;
-  --black: #000000;
-  --name: cyberpunk
+    --selectionBackground: '#c1deff';
+  --cursorColor: '#21f6bc';
+  --foreground: '#e5e5e5';
+  --background: '#332a57';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#99d6fc';
+  --brightPurple: '#e6aefe';
+  --brightBlue: '#1bccfd';
+  --brightYellow: '#fff787';
+  --brightGreen: '#21f6bc';
+  --brightRed: '#ff8aa4';
+  --brightBlack: '#000000';
+  --white: '#ffffff';
+  --cyan: '#86cbfe';
+  --purple: '#df95ff';
+  --blue: '#00bfff';
+  --yellow: '#fffa6a';
+  --green: '#00fbac';
+  --red: '#ff7092';
+  --black: '#000000';
+  --name: 'cyberpunk'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'cyberpunk'; }
