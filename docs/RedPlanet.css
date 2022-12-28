@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#1b324a';
-  --cursorColor: '#c2b790';
-  --foreground: '#c2b790';
-  --background: '#222222';
-  --brightWhite: '#d6bfb8';
-  --brightCyan: '#38add8';
-  --brightPurple: '#de4974';
-  --brightBlue: '#60827e';
-  --brightYellow: '#ebeb91';
-  --brightGreen: '#869985';
-  --brightRed: '#b55242';
-  --brightBlack: '#676767';
-  --white: '#b9aa99';
-  --cyan: '#5b8390';
-  --purple: '#896492';
-  --blue: '#69819e';
-  --yellow: '#e8bf6a';
-  --green: '#728271';
-  --red: '#8c3432';
-  --black: '#202020';
+    --selectionBackground: #1b324a;
+  --cursorColor: #c2b790;
+  --foreground: #c2b790;
+  --background: #222222;
+  --brightWhite: #d6bfb8;
+  --brightCyan: #38add8;
+  --brightPurple: #de4974;
+  --brightBlue: #60827e;
+  --brightYellow: #ebeb91;
+  --brightGreen: #869985;
+  --brightRed: #b55242;
+  --brightBlack: #676767;
+  --white: #b9aa99;
+  --cyan: #5b8390;
+  --purple: #896492;
+  --blue: #69819e;
+  --yellow: #e8bf6a;
+  --green: #728271;
+  --red: #8c3432;
+  --black: #202020;
   --name: 'Red Planet'
 }
 
