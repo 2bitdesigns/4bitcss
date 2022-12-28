@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4d4d4d';
-  --cursorColor: '#e2bbef';
-  --foreground: '#ddeedd';
-  --background: '#1c1c1c';
-  --brightWhite: '#ddccbb';
-  --brightCyan: '#b0c4de';
-  --brightPurple: '#996600';
-  --brightBlue: '#87ceeb';
-  --brightYellow: '#ffa75d';
-  --brightGreen: '#88aa22';
-  --brightRed: '#cc5533';
-  --brightBlack: '#554444';
-  --white: '#bbaa99';
-  --cyan: '#b0c4de';
-  --purple: '#deb887';
-  --blue: '#6495ed';
-  --yellow: '#e8ae5b';
-  --green: '#86af80';
-  --red: '#cd5c5c';
-  --black: '#3d352a';
+    --selectionBackground: #4d4d4d;
+  --cursorColor: #e2bbef;
+  --foreground: #ddeedd;
+  --background: #1c1c1c;
+  --brightWhite: #ddccbb;
+  --brightCyan: #b0c4de;
+  --brightPurple: #996600;
+  --brightBlue: #87ceeb;
+  --brightYellow: #ffa75d;
+  --brightGreen: #88aa22;
+  --brightRed: #cc5533;
+  --brightBlack: #554444;
+  --white: #bbaa99;
+  --cyan: #b0c4de;
+  --purple: #deb887;
+  --blue: #6495ed;
+  --yellow: #e8ae5b;
+  --green: #86af80;
+  --red: #cd5c5c;
+  --black: #3d352a;
   --name: 'Arthur'
 }
 
