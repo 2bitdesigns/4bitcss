@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #3b5070;
-  --cursorColor: #c9d1d9;
-  --foreground: #8b949e;
-  --background: #101216;
-  --brightWhite: #ffffff;
-  --brightCyan: #2b7489;
-  --brightPurple: #db61a2;
-  --brightBlue: #6ca4f8;
-  --brightYellow: #e3b341;
-  --brightGreen: #56d364;
-  --brightRed: #f78166;
-  --brightBlack: #4d4d4d;
-  --white: #ffffff;
-  --cyan: #2b7489;
-  --purple: #db61a2;
-  --blue: #6ca4f8;
-  --yellow: #e3b341;
-  --green: #56d364;
-  --red: #f78166;
-  --black: #000000;
-  --name: GitHub Dark
+    --selectionBackground: '#3b5070';
+  --cursorColor: '#c9d1d9';
+  --foreground: '#8b949e';
+  --background: '#101216';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#2b7489';
+  --brightPurple: '#db61a2';
+  --brightBlue: '#6ca4f8';
+  --brightYellow: '#e3b341';
+  --brightGreen: '#56d364';
+  --brightRed: '#f78166';
+  --brightBlack: '#4d4d4d';
+  --white: '#ffffff';
+  --cyan: '#2b7489';
+  --purple: '#db61a2';
+  --blue: '#6ca4f8';
+  --yellow: '#e3b341';
+  --green: '#56d364';
+  --red: '#f78166';
+  --black: '#000000';
+  --name: 'GitHub Dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'GitHub Dark'; }
