@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #9ba787;
-  --cursorColor: #9fda9c;
-  --foreground: #f7f7f7;
-  --background: #0e100a;
-  --brightWhite: #ffffff;
-  --brightCyan: #68f2e0;
-  --brightPurple: #c495f0;
-  --brightBlue: #97a4f7;
-  --brightYellow: #f3f79e;
-  --brightGreen: #6ce05c;
-  --brightRed: #f01578;
-  --brightBlack: #5a5a5a;
-  --white: #e2d1e3;
-  --cyan: #0798ab;
-  --purple: #8400ff;
-  --blue: #3449d1;
-  --yellow: #d8e30e;
-  --green: #29cf13;
-  --red: #c70031;
-  --black: #4d4d4d;
-  --name: Kibble
+    --selectionBackground: '#9ba787';
+  --cursorColor: '#9fda9c';
+  --foreground: '#f7f7f7';
+  --background: '#0e100a';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#68f2e0';
+  --brightPurple: '#c495f0';
+  --brightBlue: '#97a4f7';
+  --brightYellow: '#f3f79e';
+  --brightGreen: '#6ce05c';
+  --brightRed: '#f01578';
+  --brightBlack: '#5a5a5a';
+  --white: '#e2d1e3';
+  --cyan: '#0798ab';
+  --purple: '#8400ff';
+  --blue: '#3449d1';
+  --yellow: '#d8e30e';
+  --green: '#29cf13';
+  --red: '#c70031';
+  --black: '#4d4d4d';
+  --name: 'Kibble'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Kibble'; }
