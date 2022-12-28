@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #216dff;
-  --cursorColor: #7f7f7f;
-  --foreground: #ffffff;
-  --background: #224fbc;
-  --brightWhite: #e5e5e5;
-  --brightCyan: #00e5e5;
-  --brightPurple: #e500e5;
-  --brightBlue: #0000ff;
-  --brightYellow: #e5e500;
-  --brightGreen: #00d900;
-  --brightRed: #e50000;
-  --brightBlack: #666666;
-  --white: #bfbfbf;
-  --cyan: #00a6b2;
-  --purple: #b200b2;
-  --blue: #0000b2;
-  --yellow: #999900;
-  --green: #00a600;
-  --red: #990000;
-  --black: #000000;
-  --name: Ocean
+    --selectionBackground: '#216dff';
+  --cursorColor: '#7f7f7f';
+  --foreground: '#ffffff';
+  --background: '#224fbc';
+  --brightWhite: '#e5e5e5';
+  --brightCyan: '#00e5e5';
+  --brightPurple: '#e500e5';
+  --brightBlue: '#0000ff';
+  --brightYellow: '#e5e500';
+  --brightGreen: '#00d900';
+  --brightRed: '#e50000';
+  --brightBlack: '#666666';
+  --white: '#bfbfbf';
+  --cyan: '#00a6b2';
+  --purple: '#b200b2';
+  --blue: '#0000b2';
+  --yellow: '#999900';
+  --green: '#00a600';
+  --red: '#990000';
+  --black: '#000000';
+  --name: 'Ocean'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ocean'; }
