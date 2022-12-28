@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #424242;
-  --cursorColor: #eaeaea;
-  --foreground: #eaeaea;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #70c0b1;
-  --brightPurple: #c397d8;
-  --brightBlue: #7aa6da;
-  --brightYellow: #e7c547;
-  --brightGreen: #b9ca4a;
-  --brightRed: #d54e53;
-  --brightBlack: #000000;
-  --white: #ffffff;
-  --cyan: #70c0b1;
-  --purple: #c397d8;
-  --blue: #7aa6da;
-  --yellow: #e7c547;
-  --green: #b9ca4a;
-  --red: #d54e53;
-  --black: #000000;
-  --name: Tomorrow Night Bright
+    --selectionBackground: '#424242';
+  --cursorColor: '#eaeaea';
+  --foreground: '#eaeaea';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#70c0b1';
+  --brightPurple: '#c397d8';
+  --brightBlue: '#7aa6da';
+  --brightYellow: '#e7c547';
+  --brightGreen: '#b9ca4a';
+  --brightRed: '#d54e53';
+  --brightBlack: '#000000';
+  --white: '#ffffff';
+  --cyan: '#70c0b1';
+  --purple: '#c397d8';
+  --blue: '#7aa6da';
+  --yellow: '#e7c547';
+  --green: '#b9ca4a';
+  --red: '#d54e53';
+  --black: '#000000';
+  --name: 'Tomorrow Night Bright'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Bright'; }
