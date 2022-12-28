@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #4d4d4d;
-  --cursorColor: #9e9ecb;
-  --foreground: #999993;
-  --background: #101010;
-  --brightWhite: #c0c0c0;
-  --brightCyan: #6096bf;
-  --brightPurple: #7e62b3;
-  --brightBlue: #477ab3;
-  --brightYellow: #9e9ecb;
-  --brightGreen: #53a6a6;
-  --brightRed: #bf4d80;
-  --brightBlack: #3d3d3d;
-  --white: #899ca1;
-  --cyan: #31658c;
-  --purple: #5e468c;
-  --blue: #395573;
-  --yellow: #7c7c99;
-  --green: #287373;
-  --red: #8c4665;
-  --black: #333333;
-  --name: Wryan
+    --selectionBackground: '#4d4d4d';
+  --cursorColor: '#9e9ecb';
+  --foreground: '#999993';
+  --background: '#101010';
+  --brightWhite: '#c0c0c0';
+  --brightCyan: '#6096bf';
+  --brightPurple: '#7e62b3';
+  --brightBlue: '#477ab3';
+  --brightYellow: '#9e9ecb';
+  --brightGreen: '#53a6a6';
+  --brightRed: '#bf4d80';
+  --brightBlack: '#3d3d3d';
+  --white: '#899ca1';
+  --cyan: '#31658c';
+  --purple: '#5e468c';
+  --blue: '#395573';
+  --yellow: '#7c7c99';
+  --green: '#287373';
+  --red: '#8c4665';
+  --black: '#333333';
+  --name: 'Wryan'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Wryan'; }
