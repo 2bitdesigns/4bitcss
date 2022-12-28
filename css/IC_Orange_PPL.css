@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #c14020;
-  --cursorColor: #fc531d;
-  --foreground: #ffcb83;
-  --background: #262626;
-  --brightWhite: #fafaff;
-  --brightCyan: #c69752;
-  --brightPurple: #fc874f;
-  --brightBlue: #ffbe55;
-  --brightYellow: #ffe36e;
-  --brightGreen: #f6ff40;
-  --brightRed: #ff8c68;
-  --brightBlack: #6a4f2a;
-  --white: #ffc88a;
-  --cyan: #f79500;
-  --purple: #fc5e00;
-  --blue: #bd6d00;
-  --yellow: #caaf00;
-  --green: #a4a900;
-  --red: #c13900;
-  --black: #000000;
-  --name: IC_Orange_PPL
+    --selectionBackground: '#c14020';
+  --cursorColor: '#fc531d';
+  --foreground: '#ffcb83';
+  --background: '#262626';
+  --brightWhite: '#fafaff';
+  --brightCyan: '#c69752';
+  --brightPurple: '#fc874f';
+  --brightBlue: '#ffbe55';
+  --brightYellow: '#ffe36e';
+  --brightGreen: '#f6ff40';
+  --brightRed: '#ff8c68';
+  --brightBlack: '#6a4f2a';
+  --white: '#ffc88a';
+  --cyan: '#f79500';
+  --purple: '#fc5e00';
+  --blue: '#bd6d00';
+  --yellow: '#caaf00';
+  --green: '#a4a900';
+  --red: '#c13900';
+  --black: '#000000';
+  --name: 'IC_Orange_PPL'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'IC_Orange_PPL'; }
