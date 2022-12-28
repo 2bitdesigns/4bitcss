@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #ccced0;
-  --cursorColor: #ccced0;
-  --foreground: #ccced0;
-  --background: #202535;
-  --brightWhite: #ffffee;
-  --brightCyan: #55ffbb;
-  --brightPurple: #aa88ff;
-  --brightBlue: #77bbff;
-  --brightYellow: #ffff77;
-  --brightGreen: #99ee77;
-  --brightRed: #ee6655;
-  --brightBlack: #405570;
-  --white: #f5f5da;
-  --cyan: #44eeee;
-  --purple: #ff77cc;
-  --blue: #5588ff;
-  --yellow: #ffdd88;
-  --green: #55ee77;
-  --red: #ee5577;
-  --black: #253045;
-  --name: Sublette
+    --selectionBackground: '#ccced0';
+  --cursorColor: '#ccced0';
+  --foreground: '#ccced0';
+  --background: '#202535';
+  --brightWhite: '#ffffee';
+  --brightCyan: '#55ffbb';
+  --brightPurple: '#aa88ff';
+  --brightBlue: '#77bbff';
+  --brightYellow: '#ffff77';
+  --brightGreen: '#99ee77';
+  --brightRed: '#ee6655';
+  --brightBlack: '#405570';
+  --white: '#f5f5da';
+  --cyan: '#44eeee';
+  --purple: '#ff77cc';
+  --blue: '#5588ff';
+  --yellow: '#ffdd88';
+  --green: '#55ee77';
+  --red: '#ee5577';
+  --black: '#253045';
+  --name: 'Sublette'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sublette'; }
