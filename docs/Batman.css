@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4d504c';
-  --cursorColor: '#fcef0c';
-  --foreground: '#6f6f6f';
-  --background: '#1b1d1e';
-  --brightWhite: '#dadbd6';
-  --brightCyan: '#a3a3a6';
-  --brightPurple: '#9a9a9d';
-  --brightBlue: '#919495';
-  --brightYellow: '#feed6c';
-  --brightGreen: '#fff27d';
-  --brightRed: '#fff78e';
-  --brightBlack: '#505354';
-  --white: '#c6c5bf';
-  --cyan: '#62605f';
-  --purple: '#747271';
-  --blue: '#737174';
-  --yellow: '#f4fd22';
-  --green: '#c8be46';
-  --red: '#e6dc44';
-  --black: '#1b1d1e';
+    --selectionBackground: #4d504c;
+  --cursorColor: #fcef0c;
+  --foreground: #6f6f6f;
+  --background: #1b1d1e;
+  --brightWhite: #dadbd6;
+  --brightCyan: #a3a3a6;
+  --brightPurple: #9a9a9d;
+  --brightBlue: #919495;
+  --brightYellow: #feed6c;
+  --brightGreen: #fff27d;
+  --brightRed: #fff78e;
+  --brightBlack: #505354;
+  --white: #c6c5bf;
+  --cyan: #62605f;
+  --purple: #747271;
+  --blue: #737174;
+  --yellow: #f4fd22;
+  --green: #c8be46;
+  --red: #e6dc44;
+  --black: #1b1d1e;
   --name: 'Batman'
 }
 
