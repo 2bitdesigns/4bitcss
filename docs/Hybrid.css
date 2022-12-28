@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1e1f22;
-  --cursorColor: #b7bcba;
-  --foreground: #b7bcba;
-  --background: #161719;
-  --brightWhite: #5a626a;
-  --brightCyan: #4d7b74;
-  --brightPurple: #6e5079;
-  --brightBlue: #4b6b88;
-  --brightYellow: #e58a50;
-  --brightGreen: #798431;
-  --brightRed: #8d2e32;
-  --brightBlack: #1d1f22;
-  --white: #b5b9b6;
-  --cyan: #7fbfb4;
-  --purple: #a17eac;
-  --blue: #6e90b0;
-  --yellow: #e4b55e;
-  --green: #b3bf5a;
-  --red: #b84d51;
-  --black: #2a2e33;
-  --name: Hybrid
+    --selectionBackground: '#1e1f22';
+  --cursorColor: '#b7bcba';
+  --foreground: '#b7bcba';
+  --background: '#161719';
+  --brightWhite: '#5a626a';
+  --brightCyan: '#4d7b74';
+  --brightPurple: '#6e5079';
+  --brightBlue: '#4b6b88';
+  --brightYellow: '#e58a50';
+  --brightGreen: '#798431';
+  --brightRed: '#8d2e32';
+  --brightBlack: '#1d1f22';
+  --white: '#b5b9b6';
+  --cyan: '#7fbfb4';
+  --purple: '#a17eac';
+  --blue: '#6e90b0';
+  --yellow: '#e4b55e';
+  --green: '#b3bf5a';
+  --red: '#b84d51';
+  --black: '#2a2e33';
+  --name: 'Hybrid'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hybrid'; }
