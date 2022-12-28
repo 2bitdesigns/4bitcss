@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b5d5ff;
-  --cursorColor: #000000;
-  --foreground: #000000;
-  --background: #ffffff;
-  --brightWhite: #ffffff;
-  --brightCyan: #55ffff;
-  --brightPurple: #ff55ff;
-  --brightBlue: #5555ff;
-  --brightYellow: #ffff55;
-  --brightGreen: #55ff55;
-  --brightRed: #ff5555;
-  --brightBlack: #555555;
-  --white: #bbbbbb;
-  --cyan: #00bbbb;
-  --purple: #bb00bb;
-  --blue: #0000bb;
-  --yellow: #bbbb00;
-  --green: #00bb00;
-  --red: #bb0000;
-  --black: #000000;
-  --name: Builtin Light
+    --selectionBackground: '#b5d5ff';
+  --cursorColor: '#000000';
+  --foreground: '#000000';
+  --background: '#ffffff';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#55ffff';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#5555ff';
+  --brightYellow: '#ffff55';
+  --brightGreen: '#55ff55';
+  --brightRed: '#ff5555';
+  --brightBlack: '#555555';
+  --white: '#bbbbbb';
+  --cyan: '#00bbbb';
+  --purple: '#bb00bb';
+  --blue: '#0000bb';
+  --yellow: '#bbbb00';
+  --green: '#00bb00';
+  --red: '#bb0000';
+  --black: '#000000';
+  --name: 'Builtin Light'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Light'; }
