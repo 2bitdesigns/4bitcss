@@ -12,11 +12,11 @@ stylesheet: HaX0R_R3D.css
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink' href='#' download>
-        Download
+    <a id='downloadSchemeLink'>
+        CSS
     </a>
-    <a id='cdnSchemeLink' href='#'>
-        CDN
+    <a id='cdnSchemeLink'>
+        @jsdeliver 
     </a>
 </div>
 
