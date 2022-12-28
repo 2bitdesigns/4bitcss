@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#070e50';
-  --cursorColor: '#2c3fff';
-  --foreground: '#e3e3e3';
-  --background: '#1b1d1e';
-  --brightWhite: '#fffff9';
-  --brightCyan: '#6184ff';
-  --brightPurple: '#747cff';
-  --brightBlue: '#1d50ff';
-  --brightYellow: '#fe3a35';
-  --brightGreen: '#ff3338';
-  --brightRed: '#ff0325';
-  --brightBlack: '#505354';
-  --white: '#fffef6';
-  --cyan: '#3256ff';
-  --purple: '#2435db';
-  --blue: '#2c3fff';
-  --yellow: '#e24756';
-  --green: '#e22928';
-  --red: '#e60813';
-  --black: '#1b1d1e';
+    --selectionBackground: #070e50;
+  --cursorColor: #2c3fff;
+  --foreground: #e3e3e3;
+  --background: #1b1d1e;
+  --brightWhite: #fffff9;
+  --brightCyan: #6184ff;
+  --brightPurple: #747cff;
+  --brightBlue: #1d50ff;
+  --brightYellow: #fe3a35;
+  --brightGreen: #ff3338;
+  --brightRed: #ff0325;
+  --brightBlack: #505354;
+  --white: #fffef6;
+  --cyan: #3256ff;
+  --purple: #2435db;
+  --blue: #2c3fff;
+  --yellow: #e24756;
+  --green: #e22928;
+  --red: #e60813;
+  --black: #1b1d1e;
   --name: 'Spiderman'
 }
 
