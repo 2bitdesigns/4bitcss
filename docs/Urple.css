@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #a063eb;
-  --cursorColor: #a063eb;
-  --foreground: #877a9b;
-  --background: #1b1b23;
-  --brightWhite: #bfa3ff;
-  --brightCyan: #eaeaea;
-  --brightPurple: #a05eee;
-  --brightBlue: #867aed;
-  --brightYellow: #f08161;
-  --brightGreen: #29e620;
-  --brightRed: #ff6388;
-  --brightBlack: #5d3225;
-  --white: #87799c;
-  --cyan: #808080;
-  --purple: #6c3ca1;
-  --blue: #564d9b;
-  --yellow: #ad5c42;
-  --green: #37a415;
-  --red: #b0425b;
-  --black: #000000;
-  --name: Urple
+    --selectionBackground: '#a063eb';
+  --cursorColor: '#a063eb';
+  --foreground: '#877a9b';
+  --background: '#1b1b23';
+  --brightWhite: '#bfa3ff';
+  --brightCyan: '#eaeaea';
+  --brightPurple: '#a05eee';
+  --brightBlue: '#867aed';
+  --brightYellow: '#f08161';
+  --brightGreen: '#29e620';
+  --brightRed: '#ff6388';
+  --brightBlack: '#5d3225';
+  --white: '#87799c';
+  --cyan: '#808080';
+  --purple: '#6c3ca1';
+  --blue: '#564d9b';
+  --yellow: '#ad5c42';
+  --green: '#37a415';
+  --red: '#b0425b';
+  --black: '#000000';
+  --name: 'Urple'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Urple'; }
