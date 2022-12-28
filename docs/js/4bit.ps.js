@@ -78,8 +78,9 @@ function loadTheme() {
     var previouslySaved = localStorage.getItem("savedThemeLink");
     if (previouslySaved) {
         switchTheme(previouslySaved);
-    } else {
-        switchTheme(defaultTheme);
+    }
+    else {
+        switchTheme(getCSSVariable("--name"));
     }
     for (arg in arguments) {
         if (arguments[arg].value) {
