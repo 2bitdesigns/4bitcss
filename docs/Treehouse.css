@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #786b53;
-  --cursorColor: #fac814;
-  --foreground: #786b53;
-  --background: #191919;
-  --brightWhite: #ffc800;
-  --brightCyan: #f07d14;
-  --brightPurple: #e14c5a;
-  --brightBlue: #85cfed;
-  --brightYellow: #f2b732;
-  --brightGreen: #55f238;
-  --brightRed: #ed5d20;
-  --brightBlack: #433626;
-  --white: #786b53;
-  --cyan: #b25a1e;
-  --purple: #97363d;
-  --blue: #58859a;
-  --yellow: #aa820c;
-  --green: #44a900;
-  --red: #b2270e;
-  --black: #321300;
-  --name: Treehouse
+    --selectionBackground: '#786b53';
+  --cursorColor: '#fac814';
+  --foreground: '#786b53';
+  --background: '#191919';
+  --brightWhite: '#ffc800';
+  --brightCyan: '#f07d14';
+  --brightPurple: '#e14c5a';
+  --brightBlue: '#85cfed';
+  --brightYellow: '#f2b732';
+  --brightGreen: '#55f238';
+  --brightRed: '#ed5d20';
+  --brightBlack: '#433626';
+  --white: '#786b53';
+  --cyan: '#b25a1e';
+  --purple: '#97363d';
+  --blue: '#58859a';
+  --yellow: '#aa820c';
+  --green: '#44a900';
+  --red: '#b2270e';
+  --black: '#321300';
+  --name: 'Treehouse'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Treehouse'; }
