@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#a4a390';
-  --cursorColor: '#ffffff';
-  --foreground: '#d7c9a7';
-  --background: '#7a251e';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#55ffff';
-  --brightPurple: '#ff55ff';
-  --brightBlue: '#0072ae';
-  --brightYellow: '#e7b000';
-  --brightGreen: '#00bb00';
-  --brightRed: '#bb0000';
-  --brightBlack: '#555555';
-  --white: '#bbbbbb';
-  --cyan: '#00bbbb';
-  --purple: '#bb00bb';
-  --blue: '#0072ff';
-  --yellow: '#e7b000';
-  --green: '#00bb00';
-  --red: '#ff3f00';
-  --black: '#000000';
+    --selectionBackground: #a4a390;
+  --cursorColor: #ffffff;
+  --foreground: #d7c9a7;
+  --background: #7a251e;
+  --brightWhite: #ffffff;
+  --brightCyan: #55ffff;
+  --brightPurple: #ff55ff;
+  --brightBlue: #0072ae;
+  --brightYellow: #e7b000;
+  --brightGreen: #00bb00;
+  --brightRed: #bb0000;
+  --brightBlack: #555555;
+  --white: #bbbbbb;
+  --cyan: #00bbbb;
+  --purple: #bb00bb;
+  --blue: #0072ff;
+  --yellow: #e7b000;
+  --green: #00bb00;
+  --red: #ff3f00;
+  --black: #000000;
   --name: 'Red Sands'
 }
 
