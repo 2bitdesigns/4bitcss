@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #060606;
-  --cursorColor: #c8c1c1;
-  --foreground: #c8c1c1;
-  --background: #060606;
-  --brightWhite: #ffffff;
-  --brightCyan: #69ffff;
-  --brightPurple: #ff54ff;
-  --brightBlue: #4b4bff;
-  --brightYellow: #ffff55;
-  --brightGreen: #5fff5f;
-  --brightRed: #ff4141;
-  --brightBlack: #7b716e;
-  --white: #c8c1c1;
-  --cyan: #42b0c8;
-  --purple: #ad1edc;
-  --blue: #2323a5;
-  --yellow: #ebae1f;
-  --green: #18b218;
-  --red: #aa1717;
-  --black: #000000;
-  --name: Konsolas
+    --selectionBackground: '#060606';
+  --cursorColor: '#c8c1c1';
+  --foreground: '#c8c1c1';
+  --background: '#060606';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#69ffff';
+  --brightPurple: '#ff54ff';
+  --brightBlue: '#4b4bff';
+  --brightYellow: '#ffff55';
+  --brightGreen: '#5fff5f';
+  --brightRed: '#ff4141';
+  --brightBlack: '#7b716e';
+  --white: '#c8c1c1';
+  --cyan: '#42b0c8';
+  --purple: '#ad1edc';
+  --blue: '#2323a5';
+  --yellow: '#ebae1f';
+  --green: '#18b218';
+  --red: '#aa1717';
+  --black: '#000000';
+  --name: 'Konsolas'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Konsolas'; }
