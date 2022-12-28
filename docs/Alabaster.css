@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#bfdbfe';
-  --cursorColor: '#007acc';
-  --foreground: '#000000';
-  --background: '#f7f7f7';
-  --brightWhite: '#f7f7f7';
-  --brightCyan: '#00aacb';
-  --brightPurple: '#e64ce6';
-  --brightBlue: '#007acc';
-  --brightYellow: '#ffbc5d';
-  --brightGreen: '#60cb00';
-  --brightRed: '#f05050';
-  --brightBlack: '#777777';
-  --white: '#f7f7f7';
-  --cyan: '#0083b2';
-  --purple: '#7a3e9d';
-  --blue: '#325cc0';
-  --yellow: '#cb9000';
-  --green: '#448c27';
-  --red: '#aa3731';
-  --black: '#000000';
+    --selectionBackground: #bfdbfe;
+  --cursorColor: #007acc;
+  --foreground: #000000;
+  --background: #f7f7f7;
+  --brightWhite: #f7f7f7;
+  --brightCyan: #00aacb;
+  --brightPurple: #e64ce6;
+  --brightBlue: #007acc;
+  --brightYellow: #ffbc5d;
+  --brightGreen: #60cb00;
+  --brightRed: #f05050;
+  --brightBlack: #777777;
+  --white: #f7f7f7;
+  --cyan: #0083b2;
+  --purple: #7a3e9d;
+  --blue: #325cc0;
+  --yellow: #cb9000;
+  --green: #448c27;
+  --red: #aa3731;
+  --black: #000000;
   --name: 'Alabaster'
 }
 
