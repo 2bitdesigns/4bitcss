@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#4d4d4d';
-  --cursorColor: '#aa9175';
-  --foreground: '#a0a0a0';
-  --background: '#222222';
-  --brightWhite: '#d8c8bb';
-  --brightCyan: '#dcdcdc';
-  --brightPurple: '#a3a3a3';
-  --brightBlue: '#98bd5e';
-  --brightYellow: '#a99175';
-  --brightGreen: '#8c8c8c';
-  --brightRed: '#a97775';
-  --brightBlack: '#474747';
-  --white: '#d0b8a3';
-  --cyan: '#c9c9c9';
-  --purple: '#767676';
-  --blue: '#657d3e';
-  --yellow: '#a98051';
-  --green: '#666666';
-  --red: '#a95551';
-  --black: '#383838';
+    --selectionBackground: #4d4d4d;
+  --cursorColor: #aa9175;
+  --foreground: #a0a0a0;
+  --background: #222222;
+  --brightWhite: #d8c8bb;
+  --brightCyan: #dcdcdc;
+  --brightPurple: #a3a3a3;
+  --brightBlue: #98bd5e;
+  --brightYellow: #a99175;
+  --brightGreen: #8c8c8c;
+  --brightRed: #a97775;
+  --brightBlack: #474747;
+  --white: #d0b8a3;
+  --cyan: #c9c9c9;
+  --purple: #767676;
+  --blue: #657d3e;
+  --yellow: #a98051;
+  --green: #666666;
+  --red: #a95551;
+  --black: #383838;
   --name: 'N0tch2k'
 }
 
