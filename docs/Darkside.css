@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#303333';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#bababa';
-  --background: '#222324';
-  --brightWhite: '#bababa';
-  --brightCyan: '#3d97e2';
-  --brightPurple: '#957bbe';
-  --brightBlue: '#387cd3';
-  --brightYellow: '#efd64b';
-  --brightGreen: '#77b869';
-  --brightRed: '#e05a4f';
-  --brightBlack: '#000000';
-  --white: '#bababa';
-  --cyan: '#1c98e8';
-  --purple: '#8e69c9';
-  --blue: '#1c98e8';
-  --yellow: '#f2d42c';
-  --green: '#68c256';
-  --red: '#e8341c';
-  --black: '#000000';
+    --selectionBackground: #303333;
+  --cursorColor: #bbbbbb;
+  --foreground: #bababa;
+  --background: #222324;
+  --brightWhite: #bababa;
+  --brightCyan: #3d97e2;
+  --brightPurple: #957bbe;
+  --brightBlue: #387cd3;
+  --brightYellow: #efd64b;
+  --brightGreen: #77b869;
+  --brightRed: #e05a4f;
+  --brightBlack: #000000;
+  --white: #bababa;
+  --cyan: #1c98e8;
+  --purple: #8e69c9;
+  --blue: #1c98e8;
+  --yellow: #f2d42c;
+  --green: #68c256;
+  --red: #e8341c;
+  --black: #000000;
   --name: 'Darkside'
 }
 
