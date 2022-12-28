@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c1e4ff';
-  --cursorColor: '#10b6ff';
-  --foreground: '#11b7ff';
-  --background: '#010515';
-  --brightWhite: '#fefefe';
-  --brightCyan: '#00b3f7';
-  --brightPurple: '#00b3f7';
-  --brightBlue: '#00b3f7';
-  --brightYellow: '#00b3f7';
-  --brightGreen: '#00b3f7';
-  --brightRed: '#00b3f7';
-  --brightBlack: '#080117';
-  --white: '#fafafa';
-  --cyan: '#10b6ff';
-  --purple: '#10b6ff';
-  --blue: '#10b6ff';
-  --yellow: '#10b6ff';
-  --green: '#10b6ff';
-  --red: '#10b6ff';
-  --black: '#010921';
+    --selectionBackground: #c1e4ff;
+  --cursorColor: #10b6ff;
+  --foreground: #11b7ff;
+  --background: #010515;
+  --brightWhite: #fefefe;
+  --brightCyan: #00b3f7;
+  --brightPurple: #00b3f7;
+  --brightBlue: #00b3f7;
+  --brightYellow: #00b3f7;
+  --brightGreen: #00b3f7;
+  --brightRed: #00b3f7;
+  --brightBlack: #080117;
+  --white: #fafafa;
+  --cyan: #10b6ff;
+  --purple: #10b6ff;
+  --blue: #10b6ff;
+  --yellow: #10b6ff;
+  --green: #10b6ff;
+  --red: #10b6ff;
+  --black: #010921;
   --name: 'HaX0R_BLUE'
 }
 
