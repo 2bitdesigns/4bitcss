@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #245032;
-  --cursorColor: #336442;
-  --foreground: #f8f8f8;
-  --background: #0b2f20;
-  --brightWhite: #ffffff;
-  --brightCyan: #cfffd1;
-  --brightPurple: #ffffff;
-  --brightBlue: #568264;
-  --brightYellow: #ffff94;
-  --brightGreen: #73da70;
-  --brightRed: #ff943b;
-  --brightBlack: #323232;
-  --white: #ffffff;
-  --cyan: #9df39f;
-  --purple: #f8f8f8;
-  --blue: #245032;
-  --yellow: #ffe862;
-  --green: #41a83e;
-  --red: #fd6209;
-  --black: #000000;
-  --name: Django
+    --selectionBackground: '#245032';
+  --cursorColor: '#336442';
+  --foreground: '#f8f8f8';
+  --background: '#0b2f20';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#cfffd1';
+  --brightPurple: '#ffffff';
+  --brightBlue: '#568264';
+  --brightYellow: '#ffff94';
+  --brightGreen: '#73da70';
+  --brightRed: '#ff943b';
+  --brightBlack: '#323232';
+  --white: '#ffffff';
+  --cyan: '#9df39f';
+  --purple: '#f8f8f8';
+  --blue: '#245032';
+  --yellow: '#ffe862';
+  --green: '#41a83e';
+  --red: '#fd6209';
+  --black: '#000000';
+  --name: 'Django'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Django'; }
