@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5e6687;
-  --cursorColor: #979db4;
-  --foreground: #ede4e4;
-  --background: #132638;
-  --brightWhite: #f5f7ff;
-  --brightCyan: #9c637a;
-  --brightPurple: #dfe2f1;
-  --brightBlue: #898ea4;
-  --brightYellow: #5e6687;
-  --brightGreen: #73ad43;
-  --brightRed: #c76b29;
-  --brightBlack: #6b7394;
-  --white: #979db4;
-  --cyan: #22a2c9;
-  --purple: #6679cc;
-  --blue: #3d8fd1;
-  --yellow: #c08b30;
-  --green: #ac9739;
-  --red: #c94922;
-  --black: #202746;
-  --name: Hivacruz
+    --selectionBackground: '#5e6687';
+  --cursorColor: '#979db4';
+  --foreground: '#ede4e4';
+  --background: '#132638';
+  --brightWhite: '#f5f7ff';
+  --brightCyan: '#9c637a';
+  --brightPurple: '#dfe2f1';
+  --brightBlue: '#898ea4';
+  --brightYellow: '#5e6687';
+  --brightGreen: '#73ad43';
+  --brightRed: '#c76b29';
+  --brightBlack: '#6b7394';
+  --white: '#979db4';
+  --cyan: '#22a2c9';
+  --purple: '#6679cc';
+  --blue: '#3d8fd1';
+  --yellow: '#c08b30';
+  --green: '#ac9739';
+  --red: '#c94922';
+  --black: '#202746';
+  --name: 'Hivacruz'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hivacruz'; }
