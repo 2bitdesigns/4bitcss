@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #363983;
-  --cursorColor: #ffa560;
-  --foreground: #bbbbbb;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #dfdffe;
-  --brightPurple: #ff9cfe;
-  --brightBlue: #b5dcff;
-  --brightYellow: #ffffcc;
-  --brightGreen: #ceffac;
-  --brightRed: #ffb6b0;
-  --brightBlack: #7c7c7c;
-  --white: #eeeeee;
-  --cyan: #c6c5fe;
-  --purple: #ff73fd;
-  --blue: #96cbfe;
-  --yellow: #ffffb6;
-  --green: #a8ff60;
-  --red: #ff6c60;
-  --black: #4f4f4f;
-  --name: Builtin Pastel Dark
+    --selectionBackground: '#363983';
+  --cursorColor: '#ffa560';
+  --foreground: '#bbbbbb';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#dfdffe';
+  --brightPurple: '#ff9cfe';
+  --brightBlue: '#b5dcff';
+  --brightYellow: '#ffffcc';
+  --brightGreen: '#ceffac';
+  --brightRed: '#ffb6b0';
+  --brightBlack: '#7c7c7c';
+  --white: '#eeeeee';
+  --cyan: '#c6c5fe';
+  --purple: '#ff73fd';
+  --blue: '#96cbfe';
+  --yellow: '#ffffb6';
+  --green: '#a8ff60';
+  --red: '#ff6c60';
+  --black: '#4f4f4f';
+  --name: 'Builtin Pastel Dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Pastel Dark'; }
