@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #005f5f;
-  --cursorColor: #eeeeee;
-  --foreground: #d0d0d0;
-  --background: #1c1c1c;
-  --brightWhite: #dadada;
-  --brightCyan: #87d7d7;
-  --brightPurple: #afafd7;
-  --brightBlue: #87afd7;
-  --brightYellow: #d7d7af;
-  --brightGreen: #afd7af;
-  --brightRed: #d75f5f;
-  --brightBlack: #8a8a8a;
-  --white: #dadada;
-  --cyan: #5fd7d7;
-  --purple: #afafff;
-  --blue: #5fafd7;
-  --yellow: #d7d787;
-  --green: #87d7af;
-  --red: #ff5f5f;
-  --black: #080808;
-  --name: Guezwhoz
+    --selectionBackground: '#005f5f';
+  --cursorColor: '#eeeeee';
+  --foreground: '#d0d0d0';
+  --background: '#1c1c1c';
+  --brightWhite: '#dadada';
+  --brightCyan: '#87d7d7';
+  --brightPurple: '#afafd7';
+  --brightBlue: '#87afd7';
+  --brightYellow: '#d7d7af';
+  --brightGreen: '#afd7af';
+  --brightRed: '#d75f5f';
+  --brightBlack: '#8a8a8a';
+  --white: '#dadada';
+  --cyan: '#5fd7d7';
+  --purple: '#afafff';
+  --blue: '#5fafd7';
+  --yellow: '#d7d787';
+  --green: '#87d7af';
+  --red: '#ff5f5f';
+  --black: '#080808';
+  --name: 'Guezwhoz'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Guezwhoz'; }
