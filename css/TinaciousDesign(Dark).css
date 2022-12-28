@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#ff3399';
-  --cursorColor: '#cbcbf0';
-  --foreground: '#cbcbf0';
-  --background: '#1d1d26';
-  --brightWhite: '#d5d6f3';
-  --brightCyan: '#00d5d4';
-  --brightPurple: '#d783ff';
-  --brightBlue: '#00cbff';
-  --brightYellow: '#ffd479';
-  --brightGreen: '#00d364';
-  --brightRed: '#ff2f92';
-  --brightBlack: '#636667';
-  --white: '#cbcbf0';
-  --cyan: '#00ceca';
-  --purple: '#cc66ff';
-  --blue: '#00cbff';
-  --yellow: '#ffcc66';
-  --green: '#00d364';
-  --red: '#ff3399';
-  --black: '#1d1d26';
+    --selectionBackground: #ff3399;
+  --cursorColor: #cbcbf0;
+  --foreground: #cbcbf0;
+  --background: #1d1d26;
+  --brightWhite: #d5d6f3;
+  --brightCyan: #00d5d4;
+  --brightPurple: #d783ff;
+  --brightBlue: #00cbff;
+  --brightYellow: #ffd479;
+  --brightGreen: #00d364;
+  --brightRed: #ff2f92;
+  --brightBlack: #636667;
+  --white: #cbcbf0;
+  --cyan: #00ceca;
+  --purple: #cc66ff;
+  --blue: #00cbff;
+  --yellow: #ffcc66;
+  --green: #00d364;
+  --red: #ff3399;
+  --black: #1d1d26;
   --name: 'Tinacious Design (Dark)'
 }
 
