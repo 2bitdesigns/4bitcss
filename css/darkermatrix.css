@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #0f191c;
-  --cursorColor: #373a26;
-  --foreground: #28380d;
-  --background: #070c0e;
-  --brightWhite: #00381e;
-  --brightCyan: #176c73;
-  --brightPurple: #412a4d;
-  --brightBlue: #00ff87;
-  --brightYellow: #e2e500;
-  --brightGreen: #90d762;
-  --brightRed: #00381d;
-  --brightBlack: #333333;
-  --white: #002e19;
-  --cyan: #125459;
-  --purple: #412a4d;
-  --blue: #00cb6b;
-  --yellow: #595900;
-  --green: #6fa64c;
-  --red: #002e18;
-  --black: #091013;
-  --name: darkermatrix
+    --selectionBackground: '#0f191c';
+  --cursorColor: '#373a26';
+  --foreground: '#28380d';
+  --background: '#070c0e';
+  --brightWhite: '#00381e';
+  --brightCyan: '#176c73';
+  --brightPurple: '#412a4d';
+  --brightBlue: '#00ff87';
+  --brightYellow: '#e2e500';
+  --brightGreen: '#90d762';
+  --brightRed: '#00381d';
+  --brightBlack: '#333333';
+  --white: '#002e19';
+  --cyan: '#125459';
+  --purple: '#412a4d';
+  --blue: '#00cb6b';
+  --yellow: '#595900';
+  --green: '#6fa64c';
+  --red: '#002e18';
+  --black: '#091013';
+  --name: 'darkermatrix'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'darkermatrix'; }
