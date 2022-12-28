@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #706b4e;
-  --cursorColor: #efbf38;
-  --foreground: #f8dcc0;
-  --background: #1f1d45;
-  --brightWhite: #f6f5fb;
-  --brightCyan: #c8faf4;
-  --brightPurple: #9b5953;
-  --brightBlue: #1997c6;
-  --brightYellow: #efc11a;
-  --brightGreen: #9eff6e;
-  --brightRed: #fc5f5a;
-  --brightBlack: #4e7cbf;
-  --white: #f8dcc0;
-  --cyan: #70a598;
-  --purple: #665993;
-  --blue: #0f4ac6;
-  --yellow: #e7741e;
-  --green: #4ab118;
-  --red: #bd0013;
-  --black: #050404;
-  --name: AdventureTime
+    --selectionBackground: '#706b4e';
+  --cursorColor: '#efbf38';
+  --foreground: '#f8dcc0';
+  --background: '#1f1d45';
+  --brightWhite: '#f6f5fb';
+  --brightCyan: '#c8faf4';
+  --brightPurple: '#9b5953';
+  --brightBlue: '#1997c6';
+  --brightYellow: '#efc11a';
+  --brightGreen: '#9eff6e';
+  --brightRed: '#fc5f5a';
+  --brightBlack: '#4e7cbf';
+  --white: '#f8dcc0';
+  --cyan: '#70a598';
+  --purple: '#665993';
+  --blue: '#0f4ac6';
+  --yellow: '#e7741e';
+  --green: '#4ab118';
+  --red: '#bd0013';
+  --black: '#050404';
+  --name: 'AdventureTime'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AdventureTime'; }
