@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #2b2a24;
-  --cursorColor: #708284;
-  --foreground: #b8dbef;
-  --background: #1d1f21;
-  --brightWhite: #ffffff;
-  --brightCyan: #d63865;
-  --brightPurple: #695abc;
-  --brightBlue: #61b9d0;
-  --brightYellow: #ff8949;
-  --brightGreen: #a7d42c;
-  --brightRed: #d22a24;
-  --brightBlack: #1d1d19;
-  --white: #ffffff;
-  --cyan: #d63865;
-  --purple: #695abc;
-  --blue: #5096be;
-  --yellow: #f4ef6d;
-  --green: #9fd364;
-  --red: #f18339;
-  --black: #1d1d19;
-  --name: Flatland
+    --selectionBackground: '#2b2a24';
+  --cursorColor: '#708284';
+  --foreground: '#b8dbef';
+  --background: '#1d1f21';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#d63865';
+  --brightPurple: '#695abc';
+  --brightBlue: '#61b9d0';
+  --brightYellow: '#ff8949';
+  --brightGreen: '#a7d42c';
+  --brightRed: '#d22a24';
+  --brightBlack: '#1d1d19';
+  --white: '#ffffff';
+  --cyan: '#d63865';
+  --purple: '#695abc';
+  --blue: '#5096be';
+  --yellow: '#f4ef6d';
+  --green: '#9fd364';
+  --red: '#f18339';
+  --black: '#1d1d19';
+  --name: 'Flatland'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Flatland'; }
