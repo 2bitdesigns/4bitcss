@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#1f2b41';
-  --cursorColor: '#ffa7c4';
-  --foreground: '#ced2d6';
-  --background: '#0e1729';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#ffa7c4';
-  --brightPurple: '#c792eb';
-  --brightBlue: '#8dabe1';
-  --brightYellow: '#ffcb8b';
-  --brightGreen: '#85cc95';
-  --brightRed: '#ffa7c4';
-  --brightBlack: '#575656';
-  --white: '#ffffff';
-  --cyan: '#78ccf0';
-  --purple: '#c792eb';
-  --blue: '#8dabe1';
-  --yellow: '#ffcb8b';
-  --green: '#85cc95';
-  --red: '#ffa7c4';
-  --black: '#0a1222';
+    --selectionBackground: #1f2b41;
+  --cursorColor: #ffa7c4;
+  --foreground: #ced2d6;
+  --background: #0e1729;
+  --brightWhite: #ffffff;
+  --brightCyan: #ffa7c4;
+  --brightPurple: #c792eb;
+  --brightBlue: #8dabe1;
+  --brightYellow: #ffcb8b;
+  --brightGreen: #85cc95;
+  --brightRed: #ffa7c4;
+  --brightBlack: #575656;
+  --white: #ffffff;
+  --cyan: #78ccf0;
+  --purple: #c792eb;
+  --blue: #8dabe1;
+  --yellow: #ffcb8b;
+  --green: #85cc95;
+  --red: #ffa7c4;
+  --black: #0a1222;
   --name: 'Overnight Slumber'
 }
 
