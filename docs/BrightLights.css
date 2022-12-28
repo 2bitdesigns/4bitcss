@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b3c9d7;
-  --cursorColor: #f34b00;
-  --foreground: #b3c9d7;
-  --background: #191919;
-  --brightWhite: #c2c8d7;
-  --brightCyan: #6cbfb5;
-  --brightPurple: #ba76e7;
-  --brightBlue: #76d5ff;
-  --brightYellow: #ffc251;
-  --brightGreen: #b7e876;
-  --brightRed: #ff355b;
-  --brightBlack: #191919;
-  --white: #c2c8d7;
-  --cyan: #6cbfb5;
-  --purple: #ba76e7;
-  --blue: #76d4ff;
-  --yellow: #ffc251;
-  --green: #b7e876;
-  --red: #ff355b;
-  --black: #191919;
-  --name: Bright Lights
+    --selectionBackground: '#b3c9d7';
+  --cursorColor: '#f34b00';
+  --foreground: '#b3c9d7';
+  --background: '#191919';
+  --brightWhite: '#c2c8d7';
+  --brightCyan: '#6cbfb5';
+  --brightPurple: '#ba76e7';
+  --brightBlue: '#76d5ff';
+  --brightYellow: '#ffc251';
+  --brightGreen: '#b7e876';
+  --brightRed: '#ff355b';
+  --brightBlack: '#191919';
+  --white: '#c2c8d7';
+  --cyan: '#6cbfb5';
+  --purple: '#ba76e7';
+  --blue: '#76d4ff';
+  --yellow: '#ffc251';
+  --green: '#b7e876';
+  --red: '#ff355b';
+  --black: '#191919';
+  --name: 'Bright Lights'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Bright Lights'; }
