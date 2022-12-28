@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #67747c;
-  --cursorColor: #b4b1b1;
-  --foreground: #ffffff;
-  --background: #2c3643;
-  --brightWhite: #ffffff;
-  --brightCyan: #27dede;
-  --brightPurple: #d34590;
-  --brightBlue: #278ad6;
-  --brightYellow: #feef6d;
-  --brightGreen: #16c98d;
-  --brightRed: #fa5e5b;
-  --brightBlack: #6f6b68;
-  --white: #e7e7e7;
-  --cyan: #28ddde;
-  --purple: #d34590;
-  --blue: #288ad6;
-  --yellow: #ffc83f;
-  --green: #16c98d;
-  --red: #fa5e5b;
-  --black: #080200;
-  --name: Chester
+    --selectionBackground: '#67747c';
+  --cursorColor: '#b4b1b1';
+  --foreground: '#ffffff';
+  --background: '#2c3643';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#27dede';
+  --brightPurple: '#d34590';
+  --brightBlue: '#278ad6';
+  --brightYellow: '#feef6d';
+  --brightGreen: '#16c98d';
+  --brightRed: '#fa5e5b';
+  --brightBlack: '#6f6b68';
+  --white: '#e7e7e7';
+  --cyan: '#28ddde';
+  --purple: '#d34590';
+  --blue: '#288ad6';
+  --yellow: '#ffc83f';
+  --green: '#16c98d';
+  --red: '#fa5e5b';
+  --black: '#080200';
+  --name: 'Chester'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Chester'; }
