@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#3d4042';
-  --cursorColor: '#c4cacf';
-  --foreground: '#b4bdc3';
-  --background: '#1c1917';
-  --brightWhite: '#888f94';
-  --brightCyan: '#65b8c1';
-  --brightPurple: '#cf86c1';
-  --brightBlue: '#61abda';
-  --brightYellow: '#d68c67';
-  --brightGreen: '#8bae68';
-  --brightRed: '#e8838f';
-  --brightBlack: '#403833';
-  --white: '#b4bdc3';
-  --cyan: '#66a5ad';
-  --purple: '#b279a7';
-  --blue: '#6099c0';
-  --yellow: '#b77e64';
-  --green: '#819b69';
-  --red: '#de6e7c';
-  --black: '#1c1917';
+    --selectionBackground: #3d4042;
+  --cursorColor: #c4cacf;
+  --foreground: #b4bdc3;
+  --background: #1c1917;
+  --brightWhite: #888f94;
+  --brightCyan: #65b8c1;
+  --brightPurple: #cf86c1;
+  --brightBlue: #61abda;
+  --brightYellow: #d68c67;
+  --brightGreen: #8bae68;
+  --brightRed: #e8838f;
+  --brightBlack: #403833;
+  --white: #b4bdc3;
+  --cyan: #66a5ad;
+  --purple: #b279a7;
+  --blue: #6099c0;
+  --yellow: #b77e64;
+  --green: #819b69;
+  --red: #de6e7c;
+  --black: #1c1917;
   --name: 'zenbones_dark'
 }
 
