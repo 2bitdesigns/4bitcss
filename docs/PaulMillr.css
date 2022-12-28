@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#414141';
-  --cursorColor: '#4d4d4d';
-  --foreground: '#f2f2f2';
-  --background: '#000000';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#7adff2';
-  --brightPurple: '#db67e6';
-  --brightBlue: '#709aed';
-  --brightYellow: '#f3d64e';
-  --brightGreen: '#66ff66';
-  --brightRed: '#ff0080';
-  --brightBlack: '#666666';
-  --white: '#bbbbbb';
-  --cyan: '#66ccff';
-  --purple: '#b449be';
-  --blue: '#396bd7';
-  --yellow: '#e7bf00';
-  --green: '#79ff0f';
-  --red: '#ff0000';
-  --black: '#2a2a2a';
+    --selectionBackground: #414141;
+  --cursorColor: #4d4d4d;
+  --foreground: #f2f2f2;
+  --background: #000000;
+  --brightWhite: #ffffff;
+  --brightCyan: #7adff2;
+  --brightPurple: #db67e6;
+  --brightBlue: #709aed;
+  --brightYellow: #f3d64e;
+  --brightGreen: #66ff66;
+  --brightRed: #ff0080;
+  --brightBlack: #666666;
+  --white: #bbbbbb;
+  --cyan: #66ccff;
+  --purple: #b449be;
+  --blue: #396bd7;
+  --yellow: #e7bf00;
+  --green: #79ff0f;
+  --red: #ff0000;
+  --black: #2a2a2a;
   --name: 'PaulMillr'
 }
 
