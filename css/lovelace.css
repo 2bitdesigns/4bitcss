@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c1deff';
-  --cursorColor: '#c574dd';
-  --foreground: '#fdfdfd';
-  --background: '#1d1f28';
-  --brightWhite: '#bebec1';
-  --brightCyan: '#3fdcee';
-  --brightPurple: '#b043d1';
-  --brightBlue: '#556fff';
-  --brightYellow: '#ff8037';
-  --brightGreen: '#18e3c8';
-  --brightRed: '#ff4971';
-  --brightBlack: '#414458';
-  --white: '#fdfdfd';
-  --cyan: '#79e6f3';
-  --purple: '#c574dd';
-  --blue: '#8897f4';
-  --yellow: '#f2a272';
-  --green: '#5adecd';
-  --red: '#f37f97';
-  --black: '#282a36';
+    --selectionBackground: #c1deff;
+  --cursorColor: #c574dd;
+  --foreground: #fdfdfd;
+  --background: #1d1f28;
+  --brightWhite: #bebec1;
+  --brightCyan: #3fdcee;
+  --brightPurple: #b043d1;
+  --brightBlue: #556fff;
+  --brightYellow: #ff8037;
+  --brightGreen: #18e3c8;
+  --brightRed: #ff4971;
+  --brightBlack: #414458;
+  --white: #fdfdfd;
+  --cyan: #79e6f3;
+  --purple: #c574dd;
+  --blue: #8897f4;
+  --yellow: #f2a272;
+  --green: #5adecd;
+  --red: #f37f97;
+  --black: #282a36;
   --name: 'lovelace'
 }
 
