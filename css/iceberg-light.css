@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #33374c;
-  --cursorColor: #33374c;
-  --foreground: #33374c;
-  --background: #e8e9ec;
-  --brightWhite: #262a3f;
-  --brightCyan: #327698;
-  --brightPurple: #6845ad;
-  --brightBlue: #22478e;
-  --brightYellow: #b6662d;
-  --brightGreen: #598030;
-  --brightRed: #cc3768;
-  --brightBlack: #8389a3;
-  --white: #33374c;
-  --cyan: #3f83a6;
-  --purple: #7759b4;
-  --blue: #2d539e;
-  --yellow: #c57339;
-  --green: #668e3d;
-  --red: #cc517a;
-  --black: #dcdfe7;
-  --name: iceberg-light
+    --selectionBackground: '#33374c';
+  --cursorColor: '#33374c';
+  --foreground: '#33374c';
+  --background: '#e8e9ec';
+  --brightWhite: '#262a3f';
+  --brightCyan: '#327698';
+  --brightPurple: '#6845ad';
+  --brightBlue: '#22478e';
+  --brightYellow: '#b6662d';
+  --brightGreen: '#598030';
+  --brightRed: '#cc3768';
+  --brightBlack: '#8389a3';
+  --white: '#33374c';
+  --cyan: '#3f83a6';
+  --purple: '#7759b4';
+  --blue: '#2d539e';
+  --yellow: '#c57339';
+  --green: '#668e3d';
+  --red: '#cc517a';
+  --black: '#dcdfe7';
+  --name: 'iceberg-light'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iceberg-light'; }
