@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1f2233;
-  --cursorColor: #ffcc00;
-  --foreground: #8f93a2;
-  --background: #0f111a;
-  --brightWhite: #ffffff;
-  --brightCyan: #89ddff;
-  --brightPurple: #c792ea;
-  --brightBlue: #82aaff;
-  --brightYellow: #ffcb6b;
-  --brightGreen: #c3e88d;
-  --brightRed: #ff5370;
-  --brightBlack: #546e7a;
-  --white: #ffffff;
-  --cyan: #89ddff;
-  --purple: #c792ea;
-  --blue: #82aaff;
-  --yellow: #ffcb6b;
-  --green: #c3e88d;
-  --red: #ff5370;
-  --black: #546e7a;
-  --name: MaterialOcean
+    --selectionBackground: '#1f2233';
+  --cursorColor: '#ffcc00';
+  --foreground: '#8f93a2';
+  --background: '#0f111a';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#89ddff';
+  --brightPurple: '#c792ea';
+  --brightBlue: '#82aaff';
+  --brightYellow: '#ffcb6b';
+  --brightGreen: '#c3e88d';
+  --brightRed: '#ff5370';
+  --brightBlack: '#546e7a';
+  --white: '#ffffff';
+  --cyan: '#89ddff';
+  --purple: '#c792ea';
+  --blue: '#82aaff';
+  --yellow: '#ffcb6b';
+  --green: '#c3e88d';
+  --red: '#ff5370';
+  --black: '#546e7a';
+  --name: 'MaterialOcean'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MaterialOcean'; }
