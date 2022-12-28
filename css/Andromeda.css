@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#5a5c62';
-  --cursorColor: '#f8f8f0';
-  --foreground: '#e5e5e5';
-  --background: '#262a33';
-  --brightWhite: '#e5e5e5';
-  --brightCyan: '#0fa8cd';
-  --brightPurple: '#bc3fbc';
-  --brightBlue: '#2472c8';
-  --brightYellow: '#e5e512';
-  --brightGreen: '#05bc79';
-  --brightRed: '#cd3131';
-  --brightBlack: '#666666';
-  --white: '#e5e5e5';
-  --cyan: '#0fa8cd';
-  --purple: '#bc3fbc';
-  --blue: '#2472c8';
-  --yellow: '#e5e512';
-  --green: '#05bc79';
-  --red: '#cd3131';
-  --black: '#000000';
+    --selectionBackground: #5a5c62;
+  --cursorColor: #f8f8f0;
+  --foreground: #e5e5e5;
+  --background: #262a33;
+  --brightWhite: #e5e5e5;
+  --brightCyan: #0fa8cd;
+  --brightPurple: #bc3fbc;
+  --brightBlue: #2472c8;
+  --brightYellow: #e5e512;
+  --brightGreen: #05bc79;
+  --brightRed: #cd3131;
+  --brightBlack: #666666;
+  --white: #e5e5e5;
+  --cyan: #0fa8cd;
+  --purple: #bc3fbc;
+  --blue: #2472c8;
+  --yellow: #e5e512;
+  --green: #05bc79;
+  --red: #cd3131;
+  --black: #000000;
   --name: 'Andromeda'
 }
 
