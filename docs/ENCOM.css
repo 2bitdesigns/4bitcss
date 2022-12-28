@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #00a48c;
-  --cursorColor: #bbbbbb;
-  --foreground: #00a595;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #00cdcd;
-  --brightPurple: #ff00ff;
-  --brightBlue: #0000ff;
-  --brightYellow: #ffff00;
-  --brightGreen: #00ee00;
-  --brightRed: #ff0000;
-  --brightBlack: #555555;
-  --white: #bbbbbb;
-  --cyan: #008b8b;
-  --purple: #bc00ca;
-  --blue: #0081ff;
-  --yellow: #ffd000;
-  --green: #008b00;
-  --red: #9f0000;
-  --black: #000000;
-  --name: ENCOM
+    --selectionBackground: '#00a48c';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#00a595';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#00cdcd';
+  --brightPurple: '#ff00ff';
+  --brightBlue: '#0000ff';
+  --brightYellow: '#ffff00';
+  --brightGreen: '#00ee00';
+  --brightRed: '#ff0000';
+  --brightBlack: '#555555';
+  --white: '#bbbbbb';
+  --cyan: '#008b8b';
+  --purple: '#bc00ca';
+  --blue: '#0081ff';
+  --yellow: '#ffd000';
+  --green: '#008b00';
+  --red: '#9f0000';
+  --black: '#000000';
+  --name: 'ENCOM'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ENCOM'; }
