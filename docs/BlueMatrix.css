@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#c1deff';
-  --cursorColor: '#76ff9f';
-  --foreground: '#00a2ff';
-  --background: '#101116';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#60fdff';
-  --brightPurple: '#d682ec';
-  --brightBlue: '#6871ff';
-  --brightYellow: '#fffc67';
-  --brightGreen: '#5ffa68';
-  --brightRed: '#ff6e67';
-  --brightBlack: '#686868';
-  --white: '#c7c7c7';
-  --cyan: '#76c1ff';
-  --purple: '#d57bff';
-  --blue: '#00b0ff';
-  --yellow: '#fffc58';
-  --green: '#00ff9c';
-  --red: '#ff5680';
-  --black: '#101116';
+    --selectionBackground: #c1deff;
+  --cursorColor: #76ff9f;
+  --foreground: #00a2ff;
+  --background: #101116;
+  --brightWhite: #ffffff;
+  --brightCyan: #60fdff;
+  --brightPurple: #d682ec;
+  --brightBlue: #6871ff;
+  --brightYellow: #fffc67;
+  --brightGreen: #5ffa68;
+  --brightRed: #ff6e67;
+  --brightBlack: #686868;
+  --white: #c7c7c7;
+  --cyan: #76c1ff;
+  --purple: #d57bff;
+  --blue: #00b0ff;
+  --yellow: #fffc58;
+  --green: #00ff9c;
+  --red: #ff5680;
+  --black: #101116;
   --name: 'Blue Matrix'
 }
 
