@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #25524a;
-  --cursorColor: #7a1c1c;
-  --foreground: #eee4d9;
-  --background: #201f1e;
-  --brightWhite: #efefef;
-  --brightCyan: #bcffc7;
-  --brightPurple: #cbbaf9;
-  --brightBlue: #b3e8f3;
-  --brightYellow: #ffddaa;
-  --brightGreen: #e3f6aa;
-  --brightRed: #ffb9b9;
-  --brightBlack: #777777;
-  --white: #bab2b2;
-  --cyan: #63fad5;
-  --purple: #e37bd9;
-  --blue: #518bfc;
-  --yellow: #ffc656;
-  --green: #12c258;
-  --red: #da2700;
-  --black: #333333;
-  --name: arcoiris
+    --selectionBackground: '#25524a';
+  --cursorColor: '#7a1c1c';
+  --foreground: '#eee4d9';
+  --background: '#201f1e';
+  --brightWhite: '#efefef';
+  --brightCyan: '#bcffc7';
+  --brightPurple: '#cbbaf9';
+  --brightBlue: '#b3e8f3';
+  --brightYellow: '#ffddaa';
+  --brightGreen: '#e3f6aa';
+  --brightRed: '#ffb9b9';
+  --brightBlack: '#777777';
+  --white: '#bab2b2';
+  --cyan: '#63fad5';
+  --purple: '#e37bd9';
+  --blue: '#518bfc';
+  --yellow: '#ffc656';
+  --green: '#12c258';
+  --red: '#da2700';
+  --black: '#333333';
+  --name: 'arcoiris'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'arcoiris'; }
