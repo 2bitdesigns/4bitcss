@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#272e36';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#c9c6bc';
-  --background: '#222222';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#58c2c1';
-  --brightPurple: '#bf83c1';
-  --brightBlue: '#5486c0';
-  --brightYellow: '#fec254';
-  --brightGreen: '#89e986';
-  --brightRed: '#ec5f67';
-  --brightBlack: '#555555';
-  --white: '#b3b8c3';
-  --cyan: '#80cdcb';
-  --purple: '#a5789e';
-  --blue: '#7c8fa5';
-  --yellow: '#c6735a';
-  --green: '#92b477';
-  --red: '#b24a56';
-  --black: '#15171c';
+    --selectionBackground: #272e36;
+  --cursorColor: #bbbbbb;
+  --foreground: #c9c6bc;
+  --background: #222222;
+  --brightWhite: #ffffff;
+  --brightCyan: #58c2c1;
+  --brightPurple: #bf83c1;
+  --brightBlue: #5486c0;
+  --brightYellow: #fec254;
+  --brightGreen: #89e986;
+  --brightRed: #ec5f67;
+  --brightBlack: #555555;
+  --white: #b3b8c3;
+  --cyan: #80cdcb;
+  --purple: #a5789e;
+  --blue: #7c8fa5;
+  --yellow: #c6735a;
+  --green: #92b477;
+  --red: #b24a56;
+  --black: #15171c;
   --name: 'SpaceGray Eighties Dull'
 }
 
