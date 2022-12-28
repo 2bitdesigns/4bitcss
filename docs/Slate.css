@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#0f3754';
-  --cursorColor: '#87d3c4';
-  --foreground: '#35b1d2';
-  --background: '#222222';
-  --brightWhite: '#e0e0e0';
-  --brightCyan: '#8cdfe0';
-  --brightPurple: '#c5a7d9';
-  --brightBlue: '#7ab0d2';
-  --brightYellow: '#d0ccca';
-  --brightGreen: '#beffa8';
-  --brightRed: '#ffcdd9';
-  --brightBlack: '#ffffff';
-  --white: '#02c5e0';
-  --cyan: '#15ab9c';
-  --purple: '#a481d3';
-  --blue: '#264b49';
-  --yellow: '#c4c9c0';
-  --green: '#81d778';
-  --red: '#e2a8bf';
-  --black: '#222222';
+    --selectionBackground: #0f3754;
+  --cursorColor: #87d3c4;
+  --foreground: #35b1d2;
+  --background: #222222;
+  --brightWhite: #e0e0e0;
+  --brightCyan: #8cdfe0;
+  --brightPurple: #c5a7d9;
+  --brightBlue: #7ab0d2;
+  --brightYellow: #d0ccca;
+  --brightGreen: #beffa8;
+  --brightRed: #ffcdd9;
+  --brightBlack: #ffffff;
+  --white: #02c5e0;
+  --cyan: #15ab9c;
+  --purple: #a481d3;
+  --blue: #264b49;
+  --yellow: #c4c9c0;
+  --green: #81d778;
+  --red: #e2a8bf;
+  --black: #222222;
   --name: 'Slate'
 }
 
