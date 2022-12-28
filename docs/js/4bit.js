@@ -30,7 +30,7 @@ function switchTheme(themeName) {
     }
     fourBitCssLink.href = "/" + foundTheme + ".css";
     fourBitCssLink.themeName = foundTheme;
-    var downloadLink = document.getElementsById("downloadSchemeLink");
+    var downloadLink = document.getElementById("downloadSchemeLink");
     if (downloadLink) {
         downloadLink.href = "/" + foundTheme + ".css";
     }
