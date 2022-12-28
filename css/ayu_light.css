@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #f0eee4;
-  --cursorColor: #ff6a00;
-  --foreground: #5c6773;
-  --background: #fafafa;
-  --brightWhite: #ffffff;
-  --brightCyan: #7ff1cb;
-  --brightPurple: #ffa3aa;
-  --brightBlue: #73d8ff;
-  --brightYellow: #ffc94a;
-  --brightGreen: #b8e532;
-  --brightRed: #ff6565;
-  --brightBlack: #323232;
-  --white: #ffffff;
-  --cyan: #4dbf99;
-  --purple: #f07178;
-  --blue: #41a6d9;
-  --yellow: #f29718;
-  --green: #86b300;
-  --red: #ff3333;
-  --black: #000000;
-  --name: ayu_light
+    --selectionBackground: '#f0eee4';
+  --cursorColor: '#ff6a00';
+  --foreground: '#5c6773';
+  --background: '#fafafa';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#7ff1cb';
+  --brightPurple: '#ffa3aa';
+  --brightBlue: '#73d8ff';
+  --brightYellow: '#ffc94a';
+  --brightGreen: '#b8e532';
+  --brightRed: '#ff6565';
+  --brightBlack: '#323232';
+  --white: '#ffffff';
+  --cyan: '#4dbf99';
+  --purple: '#f07178';
+  --blue: '#41a6d9';
+  --yellow: '#f29718';
+  --green: '#86b300';
+  --red: '#ff3333';
+  --black: '#000000';
+  --name: 'ayu_light'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ayu_light'; }
