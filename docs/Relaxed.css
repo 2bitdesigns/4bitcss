@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#6a7985';
-  --cursorColor: '#d9d9d9';
-  --foreground: '#d9d9d9';
-  --background: '#353a44';
-  --brightWhite: '#f7f7f7';
-  --brightCyan: '#acbbd0';
-  --brightPurple: '#b06698';
-  --brightBlue: '#7eaac7';
-  --brightYellow: '#ebc17a';
-  --brightGreen: '#a0ac77';
-  --brightRed: '#bc5653';
-  --brightBlack: '#636363';
-  --white: '#d9d9d9';
-  --cyan: '#c9dfff';
-  --purple: '#b06698';
-  --blue: '#6a8799';
-  --yellow: '#ebc17a';
-  --green: '#909d63';
-  --red: '#bc5653';
-  --black: '#151515';
+    --selectionBackground: #6a7985;
+  --cursorColor: #d9d9d9;
+  --foreground: #d9d9d9;
+  --background: #353a44;
+  --brightWhite: #f7f7f7;
+  --brightCyan: #acbbd0;
+  --brightPurple: #b06698;
+  --brightBlue: #7eaac7;
+  --brightYellow: #ebc17a;
+  --brightGreen: #a0ac77;
+  --brightRed: #bc5653;
+  --brightBlack: #636363;
+  --white: #d9d9d9;
+  --cyan: #c9dfff;
+  --purple: #b06698;
+  --blue: #6a8799;
+  --yellow: #ebc17a;
+  --green: #909d63;
+  --red: #bc5653;
+  --black: #151515;
   --name: 'Relaxed'
 }
 
