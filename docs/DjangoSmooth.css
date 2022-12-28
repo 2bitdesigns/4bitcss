@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #336442;
-  --cursorColor: #336442;
-  --foreground: #f8f8f8;
-  --background: #245032;
-  --brightWhite: #ffffff;
-  --brightCyan: #cfffd1;
-  --brightPurple: #ffffff;
-  --brightBlue: #cacaca;
-  --brightYellow: #ffff94;
-  --brightGreen: #73da70;
-  --brightRed: #ff943b;
-  --brightBlack: #323232;
-  --white: #e8e8e7;
-  --cyan: #9df39f;
-  --purple: #f8f8f8;
-  --blue: #989898;
-  --yellow: #ffe862;
-  --green: #41a83e;
-  --red: #fd6209;
-  --black: #000000;
-  --name: DjangoSmooth
+    --selectionBackground: '#336442';
+  --cursorColor: '#336442';
+  --foreground: '#f8f8f8';
+  --background: '#245032';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#cfffd1';
+  --brightPurple: '#ffffff';
+  --brightBlue: '#cacaca';
+  --brightYellow: '#ffff94';
+  --brightGreen: '#73da70';
+  --brightRed: '#ff943b';
+  --brightBlack: '#323232';
+  --white: '#e8e8e7';
+  --cyan: '#9df39f';
+  --purple: '#f8f8f8';
+  --blue: '#989898';
+  --yellow: '#ffe862';
+  --green: '#41a83e';
+  --red: '#fd6209';
+  --black: '#000000';
+  --name: 'DjangoSmooth'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DjangoSmooth'; }
