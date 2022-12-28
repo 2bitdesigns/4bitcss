@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #073642;
-  --cursorColor: #839496;
-  --foreground: #839496;
-  --background: #002b36;
-  --brightWhite: #fdf6e3;
-  --brightCyan: #93a1a1;
-  --brightPurple: #6c71c4;
-  --brightBlue: #839496;
-  --brightYellow: #657b83;
-  --brightGreen: #586e75;
-  --brightRed: #cb4b16;
-  --brightBlack: #002b36;
-  --white: #eee8d5;
-  --cyan: #2aa198;
-  --purple: #d33682;
-  --blue: #268bd2;
-  --yellow: #b58900;
-  --green: #859900;
-  --red: #dc322f;
-  --black: #073642;
-  --name: Builtin Solarized Dark
+    --selectionBackground: '#073642';
+  --cursorColor: '#839496';
+  --foreground: '#839496';
+  --background: '#002b36';
+  --brightWhite: '#fdf6e3';
+  --brightCyan: '#93a1a1';
+  --brightPurple: '#6c71c4';
+  --brightBlue: '#839496';
+  --brightYellow: '#657b83';
+  --brightGreen: '#586e75';
+  --brightRed: '#cb4b16';
+  --brightBlack: '#002b36';
+  --white: '#eee8d5';
+  --cyan: '#2aa198';
+  --purple: '#d33682';
+  --blue: '#268bd2';
+  --yellow: '#b58900';
+  --green: '#859900';
+  --red: '#dc322f';
+  --black: '#073642';
+  --name: 'Builtin Solarized Dark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Solarized Dark'; }
