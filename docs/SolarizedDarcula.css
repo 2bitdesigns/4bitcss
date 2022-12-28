@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #214283;
-  --cursorColor: #708284;
-  --foreground: #d2d8d9;
-  --background: #3d3f41;
-  --brightWhite: #d2d8d9;
-  --brightCyan: #15968d;
-  --brightPurple: #797fd4;
-  --brightBlue: #2075c7;
-  --brightYellow: #b68800;
-  --brightGreen: #629655;
-  --brightRed: #f24840;
-  --brightBlack: #25292a;
-  --white: #d2d8d9;
-  --cyan: #15968d;
-  --purple: #797fd4;
-  --blue: #2075c7;
-  --yellow: #b68800;
-  --green: #629655;
-  --red: #f24840;
-  --black: #25292a;
-  --name: Solarized Darcula
+    --selectionBackground: '#214283';
+  --cursorColor: '#708284';
+  --foreground: '#d2d8d9';
+  --background: '#3d3f41';
+  --brightWhite: '#d2d8d9';
+  --brightCyan: '#15968d';
+  --brightPurple: '#797fd4';
+  --brightBlue: '#2075c7';
+  --brightYellow: '#b68800';
+  --brightGreen: '#629655';
+  --brightRed: '#f24840';
+  --brightBlack: '#25292a';
+  --white: '#d2d8d9';
+  --cyan: '#15968d';
+  --purple: '#797fd4';
+  --blue: '#2075c7';
+  --yellow: '#b68800';
+  --green: '#629655';
+  --red: '#f24840';
+  --black: '#25292a';
+  --name: 'Solarized Darcula'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Darcula'; }
