@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #222222;
-  --cursorColor: #fefefe;
-  --foreground: #ffffff;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #b8eaff;
-  --brightPurple: #ddbdf2;
-  --brightBlue: #b4ccff;
-  --brightYellow: #ffdfa6;
-  --brightGreen: #dbf1ba;
-  --brightRed: #f6a9ae;
-  --brightBlack: #333333;
-  --white: #cccccc;
-  --cyan: #89ddff;
-  --purple: #c792ea;
-  --blue: #82aaff;
-  --yellow: #ffcb6b;
-  --green: #c3e88d;
-  --red: #f07178;
-  --black: #000000;
-  --name: UltraDark
+    --selectionBackground: '#222222';
+  --cursorColor: '#fefefe';
+  --foreground: '#ffffff';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#b8eaff';
+  --brightPurple: '#ddbdf2';
+  --brightBlue: '#b4ccff';
+  --brightYellow: '#ffdfa6';
+  --brightGreen: '#dbf1ba';
+  --brightRed: '#f6a9ae';
+  --brightBlack: '#333333';
+  --white: '#cccccc';
+  --cyan: '#89ddff';
+  --purple: '#c792ea';
+  --blue: '#82aaff';
+  --yellow: '#ffcb6b';
+  --green: '#c3e88d';
+  --red: '#f07178';
+  --black: '#000000';
+  --name: 'UltraDark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'UltraDark'; }
