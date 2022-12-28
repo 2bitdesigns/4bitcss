@@ -16,9 +16,9 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 [PSCustomObject]@{    
     Table = @(foreach ($n in 0..15) {
         [PSCustomObject]@{
-            "ANSI Code"  = $n
-            Color      = $colors[$n]
-            Sample     = "<span class='ANSI$n'>*</span>"
+            "ANSI Color Number"  = $n
+            Color                = $colors[$n]
+            Sample               = "<span class='ANSI$n'>*</span>"
         }
     })
 }
