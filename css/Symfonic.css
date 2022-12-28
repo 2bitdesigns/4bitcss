@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#073642';
-  --cursorColor: '#dc322f';
-  --foreground: '#ffffff';
-  --background: '#000000';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#ccccff';
-  --brightPurple: '#b729d9';
-  --brightBlue: '#0084d4';
-  --brightYellow: '#ff8400';
-  --brightGreen: '#56db3a';
-  --brightRed: '#dc322f';
-  --brightBlack: '#1b1d21';
-  --white: '#ffffff';
-  --cyan: '#ccccff';
-  --purple: '#b729d9';
-  --blue: '#0084d4';
-  --yellow: '#ff8400';
-  --green: '#56db3a';
-  --red: '#dc322f';
-  --black: '#000000';
+    --selectionBackground: #073642;
+  --cursorColor: #dc322f;
+  --foreground: #ffffff;
+  --background: #000000;
+  --brightWhite: #ffffff;
+  --brightCyan: #ccccff;
+  --brightPurple: #b729d9;
+  --brightBlue: #0084d4;
+  --brightYellow: #ff8400;
+  --brightGreen: #56db3a;
+  --brightRed: #dc322f;
+  --brightBlack: #1b1d21;
+  --white: #ffffff;
+  --cyan: #ccccff;
+  --purple: #b729d9;
+  --blue: #0084d4;
+  --yellow: #ff8400;
+  --green: #56db3a;
+  --red: #dc322f;
+  --black: #000000;
   --name: 'Symfonic'
 }
 
