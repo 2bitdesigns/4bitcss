@@ -27,7 +27,6 @@ foreach ($jsonFile in $jsonFiles) {
     $previewFilePath = Join-Path $docsPath "$($jsonObject.Name).md"
 @"
 ---
-title: $($jsonObject.Name)
 stylesheet: $($jsonObject.Name).css
 ---
 $transpiledText
