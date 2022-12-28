@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#eeeeec';
-  --cursorColor: '#bbbbbb';
-  --foreground: '#eeeeec';
-  --background: '#111416';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#00ffff';
-  --brightPurple: '#ff00ff';
-  --brightBlue: '#11b5f6';
-  --brightYellow: '#ffff00';
-  --brightGreen: '#00ff00';
-  --brightRed: '#ff0000';
-  --brightBlack: '#404040';
-  --white: '#faebd7';
-  --cyan: '#00cdcd';
-  --purple: '#cd00cd';
-  --blue: '#1093f5';
-  --yellow: '#cdcd00';
-  --green: '#00cd00';
-  --red: '#cd0000';
-  --black: '#000000';
+    --selectionBackground: #eeeeec;
+  --cursorColor: #bbbbbb;
+  --foreground: #eeeeec;
+  --background: #111416;
+  --brightWhite: #ffffff;
+  --brightCyan: #00ffff;
+  --brightPurple: #ff00ff;
+  --brightBlue: #11b5f6;
+  --brightYellow: #ffff00;
+  --brightGreen: #00ff00;
+  --brightRed: #ff0000;
+  --brightBlack: #404040;
+  --white: #faebd7;
+  --cyan: #00cdcd;
+  --purple: #cd00cd;
+  --blue: #1093f5;
+  --yellow: #cdcd00;
+  --green: #00cd00;
+  --red: #cd0000;
+  --black: #000000;
   --name: 'Abernathy'
 }
 
