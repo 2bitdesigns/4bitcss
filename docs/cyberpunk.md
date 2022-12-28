@@ -12,7 +12,7 @@ stylesheet: cyberpunk.css
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink' href='#'>
+    <a id='downloadSchemeLink' href='#' download>
         Download
     </a>
     <a id='cdnSchemeLink' href='#'>
