@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #555555;
-  --cursorColor: #bbbbbb;
-  --foreground: #bbbbbb;
-  --background: #000000;
-  --brightWhite: #ffffff;
-  --brightCyan: #55ffff;
-  --brightPurple: #ff55ff;
-  --brightBlue: #5555ff;
-  --brightYellow: #ffff55;
-  --brightGreen: #55ff55;
-  --brightRed: #ff5555;
-  --brightBlack: #555555;
-  --white: #f2f2f2;
-  --cyan: #67d9f0;
-  --purple: #fa2573;
-  --blue: #c48dff;
-  --yellow: #fc951e;
-  --green: #a6e32d;
-  --red: #e52222;
-  --black: #000000;
-  --name: Mathias
+    --selectionBackground: '#555555';
+  --cursorColor: '#bbbbbb';
+  --foreground: '#bbbbbb';
+  --background: '#000000';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#55ffff';
+  --brightPurple: '#ff55ff';
+  --brightBlue: '#5555ff';
+  --brightYellow: '#ffff55';
+  --brightGreen: '#55ff55';
+  --brightRed: '#ff5555';
+  --brightBlack: '#555555';
+  --white: '#f2f2f2';
+  --cyan: '#67d9f0';
+  --purple: '#fa2573';
+  --blue: '#c48dff';
+  --yellow: '#fc951e';
+  --green: '#a6e32d';
+  --red: '#e52222';
+  --black: '#000000';
+  --name: 'Mathias'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Mathias'; }
