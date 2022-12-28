@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #5a5753;
-  --cursorColor: #a8a49d;
-  --foreground: #a8a49d;
-  --background: #010101;
-  --brightWhite: #fefbea;
-  --brightCyan: #f5bfd7;
-  --brightPurple: #b296c6;
-  --brightBlue: #489e48;
-  --brightYellow: #d6da25;
-  --brightGreen: #7fb5e1;
-  --brightRed: #f8b63f;
-  --brightBlack: #726e6a;
-  --white: #a8a49d;
-  --cyan: #f5bfd7;
-  --purple: #b296c6;
-  --blue: #489e48;
-  --yellow: #d6da25;
-  --green: #7fb5e1;
-  --red: #f8b63f;
-  --black: #010101;
-  --name: Harper
+    --selectionBackground: '#5a5753';
+  --cursorColor: '#a8a49d';
+  --foreground: '#a8a49d';
+  --background: '#010101';
+  --brightWhite: '#fefbea';
+  --brightCyan: '#f5bfd7';
+  --brightPurple: '#b296c6';
+  --brightBlue: '#489e48';
+  --brightYellow: '#d6da25';
+  --brightGreen: '#7fb5e1';
+  --brightRed: '#f8b63f';
+  --brightBlack: '#726e6a';
+  --white: '#a8a49d';
+  --cyan: '#f5bfd7';
+  --purple: '#b296c6';
+  --blue: '#489e48';
+  --yellow: '#d6da25';
+  --green: '#7fb5e1';
+  --red: '#f8b63f';
+  --black: '#010101';
+  --name: 'Harper'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Harper'; }
