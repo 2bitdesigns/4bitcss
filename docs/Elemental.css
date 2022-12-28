@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#413829';
-  --cursorColor: '#facb80';
-  --foreground: '#807a74';
-  --background: '#22211d';
-  --brightWhite: '#fff1e9';
-  --brightCyan: '#59d599';
-  --brightPurple: '#cd7c54';
-  --brightBlue: '#79d9d9';
-  --brightYellow: '#d69927';
-  --brightGreen: '#61e070';
-  --brightRed: '#e0502a';
-  --brightBlack: '#555445';
-  --white: '#807974';
-  --cyan: '#387f58';
-  --purple: '#7f4e2f';
-  --blue: '#497f7d';
-  --yellow: '#7f7111';
-  --green: '#479a43';
-  --red: '#98290f';
-  --black: '#3c3c30';
+    --selectionBackground: #413829;
+  --cursorColor: #facb80;
+  --foreground: #807a74;
+  --background: #22211d;
+  --brightWhite: #fff1e9;
+  --brightCyan: #59d599;
+  --brightPurple: #cd7c54;
+  --brightBlue: #79d9d9;
+  --brightYellow: #d69927;
+  --brightGreen: #61e070;
+  --brightRed: #e0502a;
+  --brightBlack: #555445;
+  --white: #807974;
+  --cyan: #387f58;
+  --purple: #7f4e2f;
+  --blue: #497f7d;
+  --yellow: #7f7111;
+  --green: #479a43;
+  --red: #98290f;
+  --black: #3c3c30;
   --name: 'Elemental'
 }
 
