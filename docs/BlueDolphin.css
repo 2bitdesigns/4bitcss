@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#2baeca';
-  --cursorColor: '#ffcc00';
-  --foreground: '#c5f2ff';
-  --background: '#006984';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#a3f7ff';
-  --brightPurple: '#ddb0f6';
-  --brightBlue: '#9cc4ff';
-  --brightYellow: '#ffe585';
-  --brightGreen: '#ddffa7';
-  --brightRed: '#ff8b92';
-  --brightBlack: '#434758';
-  --white: '#d0d0d0';
-  --cyan: '#89ebff';
-  --purple: '#e9c1ff';
-  --blue: '#82aaff';
-  --yellow: '#f4d69f';
-  --green: '#b4e88d';
-  --red: '#ff8288';
-  --black: '#292d3e';
+    --selectionBackground: #2baeca;
+  --cursorColor: #ffcc00;
+  --foreground: #c5f2ff;
+  --background: #006984;
+  --brightWhite: #ffffff;
+  --brightCyan: #a3f7ff;
+  --brightPurple: #ddb0f6;
+  --brightBlue: #9cc4ff;
+  --brightYellow: #ffe585;
+  --brightGreen: #ddffa7;
+  --brightRed: #ff8b92;
+  --brightBlack: #434758;
+  --white: #d0d0d0;
+  --cyan: #89ebff;
+  --purple: #e9c1ff;
+  --blue: #82aaff;
+  --yellow: #f4d69f;
+  --green: #b4e88d;
+  --red: #ff8288;
+  --black: #292d3e;
   --name: 'BlueDolphin'
 }
 
