@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #b9c0ca;
-  --cursorColor: #ffcc00;
-  --foreground: #b9c0cb;
-  --background: #282c34;
-  --brightWhite: #ffffff;
-  --brightCyan: #5fb9bc;
-  --brightPurple: #ff78f8;
-  --brightBlue: #10b1fe;
-  --brightYellow: #f9c859;
-  --brightGreen: #3fc56b;
-  --brightRed: #ff6480;
-  --brightBlack: #8f9aae;
-  --white: #cdd4e0;
-  --cyan: #4483aa;
-  --purple: #7a82da;
-  --blue: #3476ff;
-  --yellow: #ff936a;
-  --green: #25a45c;
-  --red: #fc2f52;
-  --black: #41444d;
-  --name: BlulocoDark
+    --selectionBackground: '#b9c0ca';
+  --cursorColor: '#ffcc00';
+  --foreground: '#b9c0cb';
+  --background: '#282c34';
+  --brightWhite: '#ffffff';
+  --brightCyan: '#5fb9bc';
+  --brightPurple: '#ff78f8';
+  --brightBlue: '#10b1fe';
+  --brightYellow: '#f9c859';
+  --brightGreen: '#3fc56b';
+  --brightRed: '#ff6480';
+  --brightBlack: '#8f9aae';
+  --white: '#cdd4e0';
+  --cyan: '#4483aa';
+  --purple: '#7a82da';
+  --blue: '#3476ff';
+  --yellow: '#ff936a';
+  --green: '#25a45c';
+  --red: '#fc2f52';
+  --black: '#41444d';
+  --name: 'BlulocoDark'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlulocoDark'; }
