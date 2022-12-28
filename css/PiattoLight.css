@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#706b4e';
-  --cursorColor: '#5e77c8';
-  --foreground: '#414141';
-  --background: '#ffffff';
-  --brightWhite: '#f2f2f2';
-  --brightCyan: '#829429';
-  --brightPurple: '#a454b2';
-  --brightBlue: '#3c5ea8';
-  --brightYellow: '#cd6f34';
-  --brightGreen: '#829429';
-  --brightRed: '#db3365';
-  --brightBlack: '#3f3f3f';
-  --white: '#ffffff';
-  --cyan: '#66781e';
-  --purple: '#a454b2';
-  --blue: '#3c5ea8';
-  --yellow: '#cd6f34';
-  --green: '#66781e';
-  --red: '#b23771';
-  --black: '#414141';
+    --selectionBackground: #706b4e;
+  --cursorColor: #5e77c8;
+  --foreground: #414141;
+  --background: #ffffff;
+  --brightWhite: #f2f2f2;
+  --brightCyan: #829429;
+  --brightPurple: #a454b2;
+  --brightBlue: #3c5ea8;
+  --brightYellow: #cd6f34;
+  --brightGreen: #829429;
+  --brightRed: #db3365;
+  --brightBlack: #3f3f3f;
+  --white: #ffffff;
+  --cyan: #66781e;
+  --purple: #a454b2;
+  --blue: #3c5ea8;
+  --yellow: #cd6f34;
+  --green: #66781e;
+  --red: #b23771;
+  --black: #414141;
   --name: 'Piatto Light'
 }
 
