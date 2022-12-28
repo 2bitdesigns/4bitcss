@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#eeffff';
-  --cursorColor: '#ffffff';
-  --foreground: '#eeffff';
-  --background: '#212121';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#89ddff';
-  --brightPurple: '#c792ea';
-  --brightBlue: '#82aaff';
-  --brightYellow: '#ffcb6b';
-  --brightGreen: '#c3e88d';
-  --brightRed: '#ff5370';
-  --brightBlack: '#545454';
-  --white: '#ffffff';
-  --cyan: '#89ddff';
-  --purple: '#c792ea';
-  --blue: '#82aaff';
-  --yellow: '#ffcb6b';
-  --green: '#c3e88d';
-  --red: '#ff5370';
-  --black: '#000000';
+    --selectionBackground: #eeffff;
+  --cursorColor: #ffffff;
+  --foreground: #eeffff;
+  --background: #212121;
+  --brightWhite: #ffffff;
+  --brightCyan: #89ddff;
+  --brightPurple: #c792ea;
+  --brightBlue: #82aaff;
+  --brightYellow: #ffcb6b;
+  --brightGreen: #c3e88d;
+  --brightRed: #ff5370;
+  --brightBlack: #545454;
+  --white: #ffffff;
+  --cyan: #89ddff;
+  --purple: #c792ea;
+  --blue: #82aaff;
+  --yellow: #ffcb6b;
+  --green: #c3e88d;
+  --red: #ff5370;
+  --black: #000000;
   --name: 'MaterialDarker'
 }
 
