@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #1f1d2b;
-  --cursorColor: #524966;
-  --foreground: #514968;
-  --background: #100815;
-  --brightWhite: #9e8cbd;
-  --brightCyan: #acd4eb;
-  --brightPurple: #a479e3;
-  --brightBlue: #90baf9;
-  --brightYellow: #fde83b;
-  --brightGreen: #2cd946;
-  --brightRed: #d5356c;
-  --brightBlack: #312d3d;
-  --white: #524966;
-  --cyan: #8aaabe;
-  --purple: #674d96;
-  --blue: #6580b0;
-  --yellow: #b49d27;
-  --green: #23801c;
-  --red: #91284c;
-  --black: #241f2b;
-  --name: Royal
+    --selectionBackground: '#1f1d2b';
+  --cursorColor: '#524966';
+  --foreground: '#514968';
+  --background: '#100815';
+  --brightWhite: '#9e8cbd';
+  --brightCyan: '#acd4eb';
+  --brightPurple: '#a479e3';
+  --brightBlue: '#90baf9';
+  --brightYellow: '#fde83b';
+  --brightGreen: '#2cd946';
+  --brightRed: '#d5356c';
+  --brightBlack: '#312d3d';
+  --white: '#524966';
+  --cyan: '#8aaabe';
+  --purple: '#674d96';
+  --blue: '#6580b0';
+  --yellow: '#b49d27';
+  --green: '#23801c';
+  --red: '#91284c';
+  --black: '#241f2b';
+  --name: 'Royal'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Royal'; }
