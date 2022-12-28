@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #626880;
-  --cursorColor: #f2d5cf;
-  --foreground: #c6d0f5;
-  --background: #303446;
-  --brightWhite: #a5adce;
-  --brightCyan: #81c8be;
-  --brightPurple: #f4b8e4;
-  --brightBlue: #8caaee;
-  --brightYellow: #e5c890;
-  --brightGreen: #a6d189;
-  --brightRed: #e78284;
-  --brightBlack: #626880;
-  --white: #b5bfe2;
-  --cyan: #81c8be;
-  --purple: #f4b8e4;
-  --blue: #8caaee;
-  --yellow: #e5c890;
-  --green: #a6d189;
-  --red: #e78284;
-  --black: #51576d;
-  --name: catppuccin-frappe
+    --selectionBackground: '#626880';
+  --cursorColor: '#f2d5cf';
+  --foreground: '#c6d0f5';
+  --background: '#303446';
+  --brightWhite: '#a5adce';
+  --brightCyan: '#81c8be';
+  --brightPurple: '#f4b8e4';
+  --brightBlue: '#8caaee';
+  --brightYellow: '#e5c890';
+  --brightGreen: '#a6d189';
+  --brightRed: '#e78284';
+  --brightBlack: '#626880';
+  --white: '#b5bfe2';
+  --cyan: '#81c8be';
+  --purple: '#f4b8e4';
+  --blue: '#8caaee';
+  --yellow: '#e5c890';
+  --green: '#a6d189';
+  --red: '#e78284';
+  --black: '#51576d';
+  --name: 'catppuccin-frappe'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-frappe'; }
