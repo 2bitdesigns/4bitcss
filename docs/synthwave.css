@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#19cde6';
-  --cursorColor: '#19cde6';
-  --foreground: '#dad9c7';
-  --background: '#000000';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#19cde6';
-  --brightPurple: '#f97137';
-  --brightBlue: '#2f9ded';
-  --brightYellow: '#fdf454';
-  --brightGreen: '#25c141';
-  --brightRed: '#f841a0';
-  --brightBlack: '#000000';
-  --white: '#ffffff';
-  --cyan: '#12c3e2';
-  --purple: '#f85a21';
-  --blue: '#2186ec';
-  --yellow: '#fdf834';
-  --green: '#1ebb2b';
-  --red: '#f6188f';
-  --black: '#000000';
+    --selectionBackground: #19cde6;
+  --cursorColor: #19cde6;
+  --foreground: #dad9c7;
+  --background: #000000;
+  --brightWhite: #ffffff;
+  --brightCyan: #19cde6;
+  --brightPurple: #f97137;
+  --brightBlue: #2f9ded;
+  --brightYellow: #fdf454;
+  --brightGreen: #25c141;
+  --brightRed: #f841a0;
+  --brightBlack: #000000;
+  --white: #ffffff;
+  --cyan: #12c3e2;
+  --purple: #f85a21;
+  --blue: #2186ec;
+  --yellow: #fdf834;
+  --green: #1ebb2b;
+  --red: #f6188f;
+  --black: #000000;
   --name: 'synthwave'
 }
 
