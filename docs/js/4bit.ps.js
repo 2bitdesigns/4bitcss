@@ -80,7 +80,7 @@ function loadTheme() {
         switchTheme(previouslySaved);
     }
     else {
-        switchTheme(getCSSVariable("--name").trim("'"));
+        switchTheme(getCSSVariable("--name").trim("'").trim('"'));
     }
     for (arg in arguments) {
         if (arguments[arg].value) {
