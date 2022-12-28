@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #4d4d4d;
-  --cursorColor: #fcfbcc;
-  --foreground: #acacab;
-  --background: #1a1a1a;
-  --brightWhite: #e2e2e2;
-  --brightCyan: #d7d9fc;
-  --brightPurple: #ad7fa8;
-  --brightBlue: #b6defb;
-  --brightYellow: #fcfbcc;
-  --brightGreen: #c3f786;
-  --brightRed: #f99286;
-  --brightBlack: #141414;
-  --white: #f2f2f2;
-  --cyan: #c9caec;
-  --purple: #75507b;
-  --blue: #a9cdeb;
-  --yellow: #ecebbe;
-  --green: #b6377d;
-  --red: #e9897c;
-  --black: #050505;
-  --name: Square
+    --selectionBackground: '#4d4d4d';
+  --cursorColor: '#fcfbcc';
+  --foreground: '#acacab';
+  --background: '#1a1a1a';
+  --brightWhite: '#e2e2e2';
+  --brightCyan: '#d7d9fc';
+  --brightPurple: '#ad7fa8';
+  --brightBlue: '#b6defb';
+  --brightYellow: '#fcfbcc';
+  --brightGreen: '#c3f786';
+  --brightRed: '#f99286';
+  --brightBlack: '#141414';
+  --white: '#f2f2f2';
+  --cyan: '#c9caec';
+  --purple: '#75507b';
+  --blue: '#a9cdeb';
+  --yellow: '#ecebbe';
+  --green: '#b6377d';
+  --red: '#e9897c';
+  --black: '#050505';
+  --name: 'Square'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Square'; }
