@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#49473e';
-  --cursorColor: '#e6e0c2';
-  --foreground: '#ddd8bb';
-  --background: '#1f1f28';
-  --brightWhite: '#a8a48d';
-  --brightCyan: '#7bc2df';
-  --brightPurple: '#a98fd2';
-  --brightBlue: '#7bc2df';
-  --brightYellow: '#f1c982';
-  --brightGreen: '#9ec967';
-  --brightRed: '#ec818c';
-  --brightBlack: '#3c3c51';
-  --white: '#ddd8bb';
-  --cyan: '#7eb3c9';
-  --purple: '#957fb8';
-  --blue: '#7eb3c9';
-  --yellow: '#e5c283';
-  --green: '#98bc6d';
-  --red: '#e46a78';
-  --black: '#1f1f28';
+    --selectionBackground: #49473e;
+  --cursorColor: #e6e0c2;
+  --foreground: #ddd8bb;
+  --background: #1f1f28;
+  --brightWhite: #a8a48d;
+  --brightCyan: #7bc2df;
+  --brightPurple: #a98fd2;
+  --brightBlue: #7bc2df;
+  --brightYellow: #f1c982;
+  --brightGreen: #9ec967;
+  --brightRed: #ec818c;
+  --brightBlack: #3c3c51;
+  --white: #ddd8bb;
+  --cyan: #7eb3c9;
+  --purple: #957fb8;
+  --blue: #7eb3c9;
+  --yellow: #e5c283;
+  --green: #98bc6d;
+  --red: #e46a78;
+  --black: #1f1f28;
   --name: 'kanagawabones'
 }
 
