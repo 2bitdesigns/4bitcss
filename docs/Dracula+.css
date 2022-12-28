@@ -1,25 +1,25 @@
 :root {
-    --selectionBackground: #f8f8f2;
-  --cursorColor: #eceff4;
-  --foreground: #f8f8f2;
-  --background: #212121;
-  --brightWhite: #f8f8f2;
-  --brightCyan: #a4ffff;
-  --brightPurple: #ff92df;
-  --brightBlue: #d6acff;
-  --brightYellow: #ffcb6b;
-  --brightGreen: #69ff94;
-  --brightRed: #ff6e6e;
-  --brightBlack: #545454;
-  --white: #f8f8f2;
-  --cyan: #8be9fd;
-  --purple: #c792ea;
-  --blue: #82aaff;
-  --yellow: #ffcb6b;
-  --green: #50fa7b;
-  --red: #ff5555;
-  --black: #21222c;
-  --name: Dracula+
+    --selectionBackground: '#f8f8f2';
+  --cursorColor: '#eceff4';
+  --foreground: '#f8f8f2';
+  --background: '#212121';
+  --brightWhite: '#f8f8f2';
+  --brightCyan: '#a4ffff';
+  --brightPurple: '#ff92df';
+  --brightBlue: '#d6acff';
+  --brightYellow: '#ffcb6b';
+  --brightGreen: '#69ff94';
+  --brightRed: '#ff6e6e';
+  --brightBlack: '#545454';
+  --white: '#f8f8f2';
+  --cyan: '#8be9fd';
+  --purple: '#c792ea';
+  --blue: '#82aaff';
+  --yellow: '#ffcb6b';
+  --green: '#50fa7b';
+  --red: '#ff5555';
+  --black: '#21222c';
+  --name: 'Dracula+'
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Dracula+'; }
