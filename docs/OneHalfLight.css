@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#bfceff';
-  --cursorColor: '#bfceff';
-  --foreground: '#383a42';
-  --background: '#fafafa';
-  --brightWhite: '#ffffff';
-  --brightCyan: '#56b6c2';
-  --brightPurple: '#c678dd';
-  --brightBlue: '#61afef';
-  --brightYellow: '#e5c07b';
-  --brightGreen: '#98c379';
-  --brightRed: '#e06c75';
-  --brightBlack: '#4f525e';
-  --white: '#fafafa';
-  --cyan: '#0997b3';
-  --purple: '#a626a4';
-  --blue: '#0184bc';
-  --yellow: '#c18401';
-  --green: '#50a14f';
-  --red: '#e45649';
-  --black: '#383a42';
+    --selectionBackground: #bfceff;
+  --cursorColor: #bfceff;
+  --foreground: #383a42;
+  --background: #fafafa;
+  --brightWhite: #ffffff;
+  --brightCyan: #56b6c2;
+  --brightPurple: #c678dd;
+  --brightBlue: #61afef;
+  --brightYellow: #e5c07b;
+  --brightGreen: #98c379;
+  --brightRed: #e06c75;
+  --brightBlack: #4f525e;
+  --white: #fafafa;
+  --cyan: #0997b3;
+  --purple: #a626a4;
+  --blue: #0184bc;
+  --yellow: #c18401;
+  --green: #50a14f;
+  --red: #e45649;
+  --black: #383a42;
   --name: 'OneHalfLight'
 }
 
