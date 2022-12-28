@@ -1,24 +1,24 @@
 :root {
-    --selectionBackground: '#3ea9fe';
-  --cursorColor: '#bafc8b';
-  --foreground: '#0b0b0b';
-  --background: '#ff8cd9';
-  --brightWhite: '#fff3fe';
-  --brightCyan: '#79ecd5';
-  --brightPurple: '#fdd5e5';
-  --brightBlue: '#0075ea';
-  --brightYellow: '#ffef50';
-  --brightGreen: '#d3ffaf';
-  --brightRed: '#d91329';
-  --brightBlack: '#434343';
-  --white: '#e2d7e1';
-  --cyan: '#6bd1bc';
-  --purple: '#ff36a2';
-  --blue: '#145fcd';
-  --yellow: '#eedf4b';
-  --green: '#bafc8b';
-  --red: '#a80f20';
-  --black: '#0c0c0c';
+    --selectionBackground: #3ea9fe;
+  --cursorColor: #bafc8b;
+  --foreground: #0b0b0b;
+  --background: #ff8cd9;
+  --brightWhite: #fff3fe;
+  --brightCyan: #79ecd5;
+  --brightPurple: #fdd5e5;
+  --brightBlue: #0075ea;
+  --brightYellow: #ffef50;
+  --brightGreen: #d3ffaf;
+  --brightRed: #d91329;
+  --brightBlack: #434343;
+  --white: #e2d7e1;
+  --cyan: #6bd1bc;
+  --purple: #ff36a2;
+  --blue: #145fcd;
+  --yellow: #eedf4b;
+  --green: #bafc8b;
+  --red: #a80f20;
+  --black: #0c0c0c;
   --name: 'Unikitty'
 }
 
