@@ -1,6 +1,7 @@
 ---
 stylesheet: Alabaster.css
 image: Alabaster.png
+description: Alabaster color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
