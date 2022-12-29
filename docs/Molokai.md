@@ -1,5 +1,6 @@
 ---
 stylesheet: Molokai.css
+image: Molokai.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
