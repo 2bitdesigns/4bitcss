@@ -1,6 +1,7 @@
 ---
 stylesheet: Hardcore.css
 image: Hardcore.png
+description: Hardcore color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
