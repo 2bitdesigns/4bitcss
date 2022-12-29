@@ -1,5 +1,6 @@
 ---
 stylesheet: Cobalt2.css
+image: Cobalt2.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
