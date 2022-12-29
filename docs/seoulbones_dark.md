@@ -1,6 +1,7 @@
 ---
 stylesheet: seoulbones_dark.css
 image: seoulbones_dark.png
+description: seoulbones_dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
