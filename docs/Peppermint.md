@@ -1,5 +1,6 @@
 ---
 stylesheet: Peppermint.css
+image: Peppermint.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
