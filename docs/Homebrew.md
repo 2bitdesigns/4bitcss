@@ -1,5 +1,6 @@
 ---
 stylesheet: Homebrew.css
+image: Homebrew.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
