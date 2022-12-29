@@ -1,6 +1,7 @@
 ---
 stylesheet: LiquidCarbonTransparent.css
 image: LiquidCarbonTransparent.png
+description: LiquidCarbonTransparent color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
