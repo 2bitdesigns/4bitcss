@@ -67,7 +67,7 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 =<svg> -ViewBox 640, 240 @(
     =<svg.defs> @(
         =<svg.style> -Type 'text/css' @'
-@import url('https://4bitcss.com/$ColorSchemeName.css')
+@import url('https://4bitcss.com/$ColorSchemeFileName.css')
 '@
         =<svg.style> -Type 'text/css' @'
 @import url('https://fonts.googleapis.com/css?family=Abel')
