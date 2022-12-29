@@ -1,6 +1,7 @@
 ---
 stylesheet: HaX0R_R3D.css
 image: HaX0R_R3D.png
+description: HaX0R_R3D color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
