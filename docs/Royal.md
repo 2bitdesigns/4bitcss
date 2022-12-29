@@ -1,6 +1,7 @@
 ---
 stylesheet: Royal.css
 image: Royal.png
+description: Royal color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
