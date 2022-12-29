@@ -1,6 +1,7 @@
 ---
 stylesheet: Ciapre.css
 image: Ciapre.png
+description: Ciapre color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
