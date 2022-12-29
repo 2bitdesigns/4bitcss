@@ -1,6 +1,7 @@
 ---
 stylesheet: Django.css
 image: Django.png
+description: Django color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
