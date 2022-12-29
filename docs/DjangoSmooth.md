@@ -1,6 +1,7 @@
 ---
 stylesheet: DjangoSmooth.css
 image: DjangoSmooth.png
+description: DjangoSmooth color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
