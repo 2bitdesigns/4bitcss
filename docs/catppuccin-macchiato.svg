@@ -6,20 +6,20 @@
   </defs>
   <rect width="640" height="80" x="0" y="0" class="background-fill" />
   <text x="50%" y="16.5%" class="foreground-fill" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">catppuccin-macchiato</text>
-  <rect x="0" y="80" class="ansi0-fill" fill="Black" width="80" height="80" />
-  <rect x="80" y="80" class="ansi1-fill" fill="Red" width="80" height="80" />
-  <rect x="160" y="80" class="ansi2-fill" fill="Green" width="80" height="80" />
-  <rect x="240" y="80" class="ansi3-fill" fill="Yellow" width="80" height="80" />
-  <rect x="320" y="80" class="ansi4-fill" fill="Blue" width="80" height="80" />
-  <rect x="400" y="80" class="ansi5-fill" fill="Purple" width="80" height="80" />
-  <rect x="480" y="80" class="ansi6-fill" fill="Cyan" width="80" height="80" />
-  <rect x="560" y="80" class="ansi7-fill" fill="White" width="80" height="80" />
-  <rect x="0" y="160" class="ansi8-fill" fill="BrightBlack" width="80" height="80" />
-  <rect x="80" y="160" class="ansi9-fill" fill="BrightRed" width="80" height="80" />
-  <rect x="160" y="160" class="ansi10-fill" fill="BrightGreen" width="80" height="80" />
-  <rect x="240" y="160" class="ansi11-fill" fill="BrightYellow" width="80" height="80" />
-  <rect x="320" y="160" class="ansi12-fill" fill="BrightBlue" width="80" height="80" />
-  <rect x="400" y="160" class="ansi13-fill" fill="BrightPurple" width="80" height="80" />
-  <rect x="480" y="160" class="ansi14-fill" fill="BrightCyan" width="80" height="80" />
-  <rect x="560" y="160" class="ansi15-fill" fill="BrightWhite" width="80" height="80" />
+  <rect x="0" y="79" class="ansi0-fill" fill="Black" width="80" height="80" />
+  <rect x="80" y="79" class="ansi1-fill" fill="Red" width="80" height="80" />
+  <rect x="160" y="79" class="ansi2-fill" fill="Green" width="80" height="80" />
+  <rect x="240" y="79" class="ansi3-fill" fill="Yellow" width="80" height="80" />
+  <rect x="320" y="79" class="ansi4-fill" fill="Blue" width="80" height="80" />
+  <rect x="400" y="79" class="ansi5-fill" fill="Purple" width="80" height="80" />
+  <rect x="480" y="79" class="ansi6-fill" fill="Cyan" width="80" height="80" />
+  <rect x="560" y="79" class="ansi7-fill" fill="White" width="80" height="80" />
+  <rect x="0" y="159" class="ansi8-fill" fill="BrightBlack" width="80" height="80" />
+  <rect x="80" y="159" class="ansi9-fill" fill="BrightRed" width="80" height="80" />
+  <rect x="160" y="159" class="ansi10-fill" fill="BrightGreen" width="80" height="80" />
+  <rect x="240" y="159" class="ansi11-fill" fill="BrightYellow" width="80" height="80" />
+  <rect x="320" y="159" class="ansi12-fill" fill="BrightBlue" width="80" height="80" />
+  <rect x="400" y="159" class="ansi13-fill" fill="BrightPurple" width="80" height="80" />
+  <rect x="480" y="159" class="ansi14-fill" fill="BrightCyan" width="80" height="80" />
+  <rect x="560" y="159" class="ansi15-fill" fill="BrightWhite" width="80" height="80" />
 </svg>
