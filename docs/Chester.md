@@ -1,6 +1,7 @@
 ---
 stylesheet: Chester.css
 image: Chester.png
+description: Chester color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
