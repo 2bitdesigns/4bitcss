@@ -1,6 +1,7 @@
 ---
 stylesheet: MonaLisa.css
 image: MonaLisa.png
+description: MonaLisa color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
