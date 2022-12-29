@@ -1,6 +1,7 @@
 ---
 stylesheet: EspressoLibre.css
 image: EspressoLibre.png
+description: Espresso Libre color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
