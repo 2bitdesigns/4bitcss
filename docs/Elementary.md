@@ -1,6 +1,7 @@
 ---
 stylesheet: Elementary.css
 image: Elementary.png
+description: Elementary color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
