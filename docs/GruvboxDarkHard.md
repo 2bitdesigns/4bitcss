@@ -1,6 +1,7 @@
 ---
 stylesheet: GruvboxDarkHard.css
 image: GruvboxDarkHard.png
+description: GruvboxDarkHard color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
