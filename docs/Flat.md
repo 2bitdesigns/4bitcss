@@ -1,6 +1,7 @@
 ---
 stylesheet: Flat.css
 image: Flat.png
+description: Flat color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
