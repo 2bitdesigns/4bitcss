@@ -1,6 +1,7 @@
 ---
 stylesheet: darkermatrix.css
 image: darkermatrix.png
+description: darkermatrix color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
