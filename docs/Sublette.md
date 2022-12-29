@@ -1,6 +1,7 @@
 ---
 stylesheet: Sublette.css
 image: Sublette.png
+description: Sublette color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
