@@ -1,6 +1,7 @@
 ---
 stylesheet: Galaxy.css
 image: Galaxy.png
+description: Galaxy color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
