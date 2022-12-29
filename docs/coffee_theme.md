@@ -1,5 +1,6 @@
 ---
 stylesheet: coffee_theme.css
+image: coffee_theme.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
