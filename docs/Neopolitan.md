@@ -1,6 +1,7 @@
 ---
 stylesheet: Neopolitan.css
 image: Neopolitan.png
+description: Neopolitan color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
