@@ -1,6 +1,7 @@
 ---
 stylesheet: shades-of-purple.css
 image: shades-of-purple.png
+description: shades-of-purple color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
