@@ -1,6 +1,7 @@
 ---
 stylesheet: IC_Green_PPL.css
 image: IC_Green_PPL.png
+description: IC_Green_PPL color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
