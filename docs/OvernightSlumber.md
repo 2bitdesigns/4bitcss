@@ -1,5 +1,6 @@
 ---
 stylesheet: OvernightSlumber.css
+image: OvernightSlumber.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
