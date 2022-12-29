@@ -1,6 +1,7 @@
 ---
 stylesheet: Grape.css
 image: Grape.png
+description: Grape color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
