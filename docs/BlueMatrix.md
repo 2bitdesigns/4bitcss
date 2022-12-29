@@ -1,6 +1,7 @@
 ---
 stylesheet: BlueMatrix.css
 image: BlueMatrix.png
+description: Blue Matrix color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
