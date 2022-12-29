@@ -1,5 +1,6 @@
 ---
 stylesheet: purplepeter.css
+image: purplepeter.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
