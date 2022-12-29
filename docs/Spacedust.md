@@ -1,6 +1,7 @@
 ---
 stylesheet: Spacedust.css
 image: Spacedust.png
+description: Spacedust color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
