@@ -1,5 +1,6 @@
 ---
 stylesheet: Highway.css
+image: Highway.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
