@@ -1,6 +1,7 @@
 ---
 stylesheet: Raycast_Dark.css
 image: Raycast_Dark.png
+description: Raycast_Dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
