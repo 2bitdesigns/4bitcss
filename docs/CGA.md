@@ -1,6 +1,7 @@
 ---
 stylesheet: CGA.css
 image: CGA.png
+description: CGA color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
