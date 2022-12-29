@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinTangoLight.css
 image: BuiltinTangoLight.png
+description: Builtin Tango Light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
