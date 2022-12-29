@@ -1,6 +1,7 @@
 ---
 stylesheet: BananaBlueberry.css
 image: BananaBlueberry.png
+description: Banana Blueberry color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
