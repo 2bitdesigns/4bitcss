@@ -1,6 +1,7 @@
 ---
 stylesheet: ThayerBright.css
 image: ThayerBright.png
+description: Thayer Bright color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
