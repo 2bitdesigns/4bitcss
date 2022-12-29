@@ -1,5 +1,6 @@
 ---
 stylesheet: Rouge2.css
+image: Rouge2.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
