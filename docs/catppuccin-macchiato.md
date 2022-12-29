@@ -1,6 +1,7 @@
 ---
 stylesheet: catppuccin-macchiato.css
 image: catppuccin-macchiato.png
+description: catppuccin-macchiato color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
