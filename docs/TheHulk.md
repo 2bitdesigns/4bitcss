@@ -1,6 +1,7 @@
 ---
 stylesheet: TheHulk.css
 image: TheHulk.png
+description: The Hulk color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
