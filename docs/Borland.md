@@ -1,6 +1,7 @@
 ---
 stylesheet: Borland.css
 image: Borland.png
+description: Borland color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
