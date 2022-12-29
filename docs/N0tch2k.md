@@ -1,5 +1,6 @@
 ---
 stylesheet: N0tch2k.css
+image: N0tch2k.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
