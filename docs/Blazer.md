@@ -1,6 +1,7 @@
 ---
 stylesheet: Blazer.css
 image: Blazer.png
+description: Blazer color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
