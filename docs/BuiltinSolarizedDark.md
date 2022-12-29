@@ -1,5 +1,6 @@
 ---
 stylesheet: BuiltinSolarizedDark.css
+image: BuiltinSolarizedDark.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
