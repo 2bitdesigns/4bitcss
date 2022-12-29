@@ -1,5 +1,6 @@
 ---
 stylesheet: ToyChest.css
+image: ToyChest.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
