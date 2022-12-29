@@ -1,6 +1,7 @@
 ---
 stylesheet: TomorrowNightBurns.css
 image: TomorrowNightBurns.png
+description: Tomorrow Night Burns color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
