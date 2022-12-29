@@ -1,6 +1,7 @@
 ---
 stylesheet: MaterialDark.css
 image: MaterialDark.png
+description: MaterialDark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
