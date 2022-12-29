@@ -1,5 +1,6 @@
 ---
 stylesheet: PoppingandLocking.css
+image: PoppingandLocking.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
