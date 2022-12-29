@@ -1,6 +1,7 @@
 ---
 stylesheet: SolarizedDark-Patched.css
 image: SolarizedDark-Patched.png
+description: Solarized Dark - Patched color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
