@@ -1,6 +1,7 @@
 ---
 stylesheet: DoomPeacock.css
 image: DoomPeacock.png
+description: Doom Peacock color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
