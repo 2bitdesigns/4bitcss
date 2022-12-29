@@ -1,6 +1,7 @@
 ---
 stylesheet: AyuMirage.css
 image: AyuMirage.png
+description: Ayu Mirage color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
