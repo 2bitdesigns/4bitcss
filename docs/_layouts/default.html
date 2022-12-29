@@ -22,6 +22,24 @@
     {% endif %}
     <script type="text/javascript" src="/js/4bit.js"></script>
     <title>{{site.title}}{% if page.title %} - {{page.title}}  {% endif %}</title>
+    <meta content="{{ site.title }}" property="og:site_name">
+    {% if page.title %}
+    <meta content="{{ page.title }}" property="og:title" />
+    {% elsif page.stylesheet % }
+    <meta content="{{ page.stylesheet }}" property="og:title" />
+    {% else %}
+    <meta content="{{ site.title }}" property="og:title" />
+    {% endif %}
+    {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description" />
+    {% elsif site.description % }
+    <meta content="{{ site.description }}" property="og:description" />
+    {% if page.date %}
+      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
+    {% endif %}
+    {% if page.image %}
+      <meta content="/{{ page.image }}" property="og:image" />
+    {% endif %}    
     <style>
       .monospace {
         font-family: 'Courier New', Courier, monospace;
