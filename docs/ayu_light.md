@@ -1,6 +1,7 @@
 ---
 stylesheet: ayu_light.css
 image: ayu_light.png
+description: ayu_light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
