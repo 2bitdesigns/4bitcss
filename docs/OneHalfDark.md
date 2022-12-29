@@ -1,6 +1,7 @@
 ---
 stylesheet: OneHalfDark.css
 image: OneHalfDark.png
+description: OneHalfDark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
