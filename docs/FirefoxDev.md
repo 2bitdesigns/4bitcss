@@ -1,6 +1,7 @@
 ---
 stylesheet: FirefoxDev.css
 image: FirefoxDev.png
+description: FirefoxDev color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
