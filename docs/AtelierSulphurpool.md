@@ -1,6 +1,7 @@
 ---
 stylesheet: AtelierSulphurpool.css
 image: AtelierSulphurpool.png
+description: AtelierSulphurpool color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
