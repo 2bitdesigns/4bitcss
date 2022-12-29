@@ -1,6 +1,7 @@
 ---
 stylesheet: ScarletProtocol.css
 image: ScarletProtocol.png
+description: Scarlet Protocol color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
