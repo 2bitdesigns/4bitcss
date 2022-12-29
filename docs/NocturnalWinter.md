@@ -1,5 +1,6 @@
 ---
 stylesheet: NocturnalWinter.css
+image: NocturnalWinter.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
