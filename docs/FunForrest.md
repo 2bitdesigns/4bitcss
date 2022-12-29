@@ -1,6 +1,7 @@
 ---
 stylesheet: FunForrest.css
 image: FunForrest.png
+description: FunForrest color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
