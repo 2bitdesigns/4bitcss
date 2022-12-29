@@ -1,6 +1,7 @@
 ---
 stylesheet: Brogrammer.css
 image: Brogrammer.png
+description: Brogrammer color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
