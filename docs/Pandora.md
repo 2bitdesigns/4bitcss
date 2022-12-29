@@ -1,6 +1,7 @@
 ---
 stylesheet: Pandora.css
 image: Pandora.png
+description: Pandora color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
