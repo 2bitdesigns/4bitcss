@@ -1,6 +1,7 @@
 ---
 stylesheet: JackieBrown.css
 image: JackieBrown.png
+description: Jackie Brown color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
