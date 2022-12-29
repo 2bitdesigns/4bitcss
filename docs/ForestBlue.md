@@ -1,6 +1,7 @@
 ---
 stylesheet: ForestBlue.css
 image: ForestBlue.png
+description: ForestBlue color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
