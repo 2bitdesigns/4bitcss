@@ -1,6 +1,7 @@
 ---
 stylesheet: UltraDark.css
 image: UltraDark.png
+description: UltraDark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
