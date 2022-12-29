@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinSolarizedLight.css
 image: BuiltinSolarizedLight.png
+description: Builtin Solarized Light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
