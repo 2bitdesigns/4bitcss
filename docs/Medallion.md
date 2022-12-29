@@ -1,6 +1,7 @@
 ---
 stylesheet: Medallion.css
 image: Medallion.png
+description: Medallion color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
