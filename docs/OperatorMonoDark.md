@@ -1,5 +1,6 @@
 ---
 stylesheet: OperatorMonoDark.css
+image: OperatorMonoDark.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
