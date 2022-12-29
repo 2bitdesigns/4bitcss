@@ -1,6 +1,7 @@
 ---
 stylesheet: Rippedcasts.css
 image: Rippedcasts.png
+description: Rippedcasts color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
