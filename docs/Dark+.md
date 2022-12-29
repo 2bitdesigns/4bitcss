@@ -1,6 +1,7 @@
 ---
 stylesheet: Dark+.css
 image: Dark+.png
+description: Dark+ color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
