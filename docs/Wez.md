@@ -1,6 +1,7 @@
 ---
 stylesheet: Wez.css
 image: Wez.png
+description: Wez color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
