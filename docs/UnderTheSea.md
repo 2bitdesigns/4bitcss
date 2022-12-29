@@ -1,6 +1,7 @@
 ---
 stylesheet: UnderTheSea.css
 image: UnderTheSea.png
+description: UnderTheSea color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
