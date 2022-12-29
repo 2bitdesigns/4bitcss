@@ -1,5 +1,6 @@
 ---
 stylesheet: PencilDark.css
+image: PencilDark.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
