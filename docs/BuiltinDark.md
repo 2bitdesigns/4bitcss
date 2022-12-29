@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinDark.css
 image: BuiltinDark.png
+description: Builtin Dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
