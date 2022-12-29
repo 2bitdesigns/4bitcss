@@ -1,6 +1,7 @@
 ---
 stylesheet: Spring.css
 image: Spring.png
+description: Spring color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
