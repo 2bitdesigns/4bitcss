@@ -1,6 +1,7 @@
 ---
 stylesheet: TerminalBasic.css
 image: TerminalBasic.png
+description: Terminal Basic color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
