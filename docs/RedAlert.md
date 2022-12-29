@@ -1,6 +1,7 @@
 ---
 stylesheet: RedAlert.css
 image: RedAlert.png
+description: Red Alert color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
