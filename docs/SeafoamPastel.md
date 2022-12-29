@@ -1,6 +1,7 @@
 ---
 stylesheet: SeafoamPastel.css
 image: SeafoamPastel.png
+description: Seafoam Pastel color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
