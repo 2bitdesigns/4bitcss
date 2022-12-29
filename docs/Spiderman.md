@@ -1,6 +1,7 @@
 ---
 stylesheet: Spiderman.css
 image: Spiderman.png
+description: Spiderman color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
