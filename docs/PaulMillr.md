@@ -1,5 +1,6 @@
 ---
 stylesheet: PaulMillr.css
+image: PaulMillr.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
