@@ -1,6 +1,7 @@
 ---
 stylesheet: Afterglow.css
 image: Afterglow.png
+description: Afterglow color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
