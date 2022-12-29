@@ -54,10 +54,10 @@ $assetFile =
 $boxSize = [Ordered]@{Width = 80; Height = 80}
 =<svg> -ViewBox 640, 160 @(
     foreach ($n in 0..7) {
-        =<svg.rect> -X (1 + ($boxSize.Width * $n)) -Y 0 -Class "ansi$n-fill" @boxSize
+        =<svg.rect> -X ($boxSize.Width * $n) -Y 0 -Class "ansi$n-fill" @boxSize
     }
     foreach ($n in 8..15) {
-        =<svg.rect> -X (1 + ($boxSize.Width * ($n - 8))) -Y 80 -Class "ansi$n-fill" @boxSize
+        =<svg.rect> -X ($boxSize.Width * ($n - 8)) -Y 80 -Class "ansi$n-fill" @boxSize
     }
 ) -OutputPath (Join-Path $docsRoot .\4bitpreview.svg) -Width 320
 
@@ -78,10 +78,10 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
         '$ColorSchemeName'
     ) @fontSettings 
     foreach ($n in 0..7) {
-        =<svg.rect> -X (1 + ($boxSize.Width * $n)) -Y 80 -Class "ansi$n-fill" @boxSize -Fill $($colors[$n])
+        =<svg.rect> -X ($boxSize.Width * $n) -Y 80 -Class "ansi$n-fill" @boxSize -Fill $($colors[$n])
     }
     foreach ($n in 8..15) {
-        =<svg.rect> -X (1 + ($boxSize.Width * ($n - 8))) -Y 160 -Class "ansi$n-fill" @boxSize -Fill $($colors[$n])
+        =<svg.rect> -X ($boxSize.Width * ($n - 8)) -Y 160 -Class "ansi$n-fill" @boxSize -Fill $($colors[$n])
     }
 ) -OutputPath (Join-Path $docsRoot .\4bitpreviewtemplate.svg) -Class background-fill
 
