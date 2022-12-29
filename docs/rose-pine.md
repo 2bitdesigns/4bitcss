@@ -1,5 +1,6 @@
 ---
 stylesheet: rose-pine.css
+image: rose-pine.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
