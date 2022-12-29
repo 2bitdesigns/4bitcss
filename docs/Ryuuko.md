@@ -1,5 +1,6 @@
 ---
 stylesheet: Ryuuko.css
+image: Ryuuko.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
