@@ -1,6 +1,7 @@
 ---
 stylesheet: CrayonPonyFish.css
 image: CrayonPonyFish.png
+description: CrayonPonyFish color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
