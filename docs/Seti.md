@@ -1,6 +1,7 @@
 ---
 stylesheet: Seti.css
 image: Seti.png
+description: Seti color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
