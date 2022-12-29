@@ -1,6 +1,7 @@
 ---
 stylesheet: zenwritten_dark.css
 image: zenwritten_dark.png
+description: zenwritten_dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
