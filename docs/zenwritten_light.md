@@ -1,6 +1,7 @@
 ---
 stylesheet: zenwritten_light.css
 image: zenwritten_light.png
+description: zenwritten_light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
