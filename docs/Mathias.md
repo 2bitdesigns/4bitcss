@@ -1,5 +1,6 @@
 ---
 stylesheet: Mathias.css
+image: Mathias.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
