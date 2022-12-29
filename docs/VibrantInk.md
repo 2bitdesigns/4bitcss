@@ -1,6 +1,7 @@
 ---
 stylesheet: VibrantInk.css
 image: VibrantInk.png
+description: VibrantInk color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
