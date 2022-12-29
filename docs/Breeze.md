@@ -1,5 +1,6 @@
 ---
 stylesheet: Breeze.css
+image: Breeze.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
