@@ -1,6 +1,7 @@
 ---
 stylesheet: Espresso.css
 image: Espresso.png
+description: Espresso color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
