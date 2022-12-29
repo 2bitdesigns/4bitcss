@@ -1,6 +1,7 @@
 ---
 stylesheet: SolarizedDarkHigherContrast.css
 image: SolarizedDarkHigherContrast.png
+description: Solarized Dark Higher Contrast color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
