@@ -1,5 +1,6 @@
 ---
 stylesheet: FrontEndDelight.css
+image: FrontEndDelight.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
