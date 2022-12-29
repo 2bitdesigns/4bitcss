@@ -1,6 +1,7 @@
 ---
 stylesheet: Mariana.css
 image: Mariana.png
+description: Mariana color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
