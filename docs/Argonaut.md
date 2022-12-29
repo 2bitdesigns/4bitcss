@@ -1,5 +1,6 @@
 ---
 stylesheet: Argonaut.css
+image: Argonaut.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
