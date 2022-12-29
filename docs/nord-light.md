@@ -1,6 +1,7 @@
 ---
 stylesheet: nord-light.css
 image: nord-light.png
+description: nord-light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
