@@ -1,6 +1,7 @@
 ---
 stylesheet: NightLionv1.css
 image: NightLionv1.png
+description: NightLion v1 color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
