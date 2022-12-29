@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinLight.css
 image: BuiltinLight.png
+description: Builtin Light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
