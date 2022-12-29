@@ -1,6 +1,7 @@
 ---
 stylesheet: TangoHalfAdapted.css
 image: TangoHalfAdapted.png
+description: Tango Half Adapted color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
