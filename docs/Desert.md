@@ -1,6 +1,7 @@
 ---
 stylesheet: Desert.css
 image: Desert.png
+description: Desert color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
