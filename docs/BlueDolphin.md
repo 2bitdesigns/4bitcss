@@ -1,6 +1,7 @@
 ---
 stylesheet: BlueDolphin.css
 image: BlueDolphin.png
+description: BlueDolphin color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
