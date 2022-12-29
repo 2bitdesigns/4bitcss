@@ -1,5 +1,6 @@
 ---
 stylesheet: HaX0R_BLUE.css
+image: HaX0R_BLUE.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
