@@ -1,5 +1,6 @@
 ---
 stylesheet: Everblush.css
+image: Everblush.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
