@@ -1,5 +1,6 @@
 ---
 stylesheet: Square.css
+image: Square.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
