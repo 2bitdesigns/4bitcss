@@ -1,5 +1,6 @@
 ---
 stylesheet: Spring.css
+image: Spring.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
