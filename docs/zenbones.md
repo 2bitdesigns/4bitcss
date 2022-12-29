@@ -1,5 +1,6 @@
 ---
 stylesheet: zenbones.css
+image: zenbones.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
