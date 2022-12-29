@@ -1,6 +1,7 @@
 ---
 stylesheet: rose-pine-moon.css
 image: rose-pine-moon.png
+description: rose-pine-moon color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
