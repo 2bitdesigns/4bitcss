@@ -1,6 +1,7 @@
 ---
 stylesheet: Pro.css
 image: Pro.png
+description: Pro color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
