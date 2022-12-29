@@ -1,5 +1,6 @@
 ---
 stylesheet: AtomOneLight.css
+image: AtomOneLight.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
