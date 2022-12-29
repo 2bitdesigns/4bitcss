@@ -1,6 +1,7 @@
 ---
 stylesheet: synthwave.css
 image: synthwave.png
+description: synthwave color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
