@@ -1,5 +1,6 @@
 ---
 stylesheet: jubi.css
+image: jubi.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
