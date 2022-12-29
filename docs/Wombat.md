@@ -1,6 +1,7 @@
 ---
 stylesheet: Wombat.css
 image: Wombat.png
+description: Wombat color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
