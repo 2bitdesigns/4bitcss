@@ -1,6 +1,7 @@
 ---
 stylesheet: SpaceGray.css
 image: SpaceGray.png
+description: SpaceGray color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
