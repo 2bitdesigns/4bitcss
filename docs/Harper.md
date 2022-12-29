@@ -1,6 +1,7 @@
 ---
 stylesheet: Harper.css
 image: Harper.png
+description: Harper color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
