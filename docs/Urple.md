@@ -1,6 +1,7 @@
 ---
 stylesheet: Urple.css
 image: Urple.png
+description: Urple color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
