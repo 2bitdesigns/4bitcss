@@ -1,6 +1,7 @@
 ---
 stylesheet: Batman.css
 image: Batman.png
+description: Batman color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
