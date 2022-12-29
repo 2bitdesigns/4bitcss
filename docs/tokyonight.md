@@ -1,6 +1,7 @@
 ---
 stylesheet: tokyonight.css
 image: tokyonight.png
+description: tokyonight color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
