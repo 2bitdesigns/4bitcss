@@ -1,6 +1,7 @@
 ---
 stylesheet: Flatland.css
 image: Flatland.png
+description: Flatland color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
