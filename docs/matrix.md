@@ -1,5 +1,6 @@
 ---
 stylesheet: matrix.css
+image: matrix.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
