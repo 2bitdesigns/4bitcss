@@ -1,6 +1,7 @@
 ---
 stylesheet: Grey-green.css
 image: Grey-green.png
+description: Grey-green color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
