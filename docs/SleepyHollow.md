@@ -1,6 +1,7 @@
 ---
 stylesheet: SleepyHollow.css
 image: SleepyHollow.png
+description: SleepyHollow color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
