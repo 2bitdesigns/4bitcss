@@ -1,6 +1,7 @@
 ---
 stylesheet: MaterialOcean.css
 image: MaterialOcean.png
+description: MaterialOcean color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
