@@ -1,6 +1,7 @@
 ---
 stylesheet: Fahrenheit.css
 image: Fahrenheit.png
+description: Fahrenheit color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
