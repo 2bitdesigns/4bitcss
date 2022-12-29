@@ -1,5 +1,6 @@
 ---
 stylesheet: Pnevma.css
+image: Pnevma.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
