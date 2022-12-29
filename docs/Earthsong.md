@@ -1,6 +1,7 @@
 ---
 stylesheet: Earthsong.css
 image: Earthsong.png
+description: Earthsong color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
