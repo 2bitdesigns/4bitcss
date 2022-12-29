@@ -1,6 +1,7 @@
 ---
 stylesheet: DuotoneDark.css
 image: DuotoneDark.png
+description: Duotone Dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
