@@ -1,5 +1,6 @@
 ---
 stylesheet: Ocean.css
+image: Ocean.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
