@@ -1,5 +1,6 @@
 ---
 stylesheet: zenwritten_light.css
+image: zenwritten_light.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
