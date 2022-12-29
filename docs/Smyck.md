@@ -1,6 +1,7 @@
 ---
 stylesheet: Smyck.css
 image: Smyck.png
+description: Smyck color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
