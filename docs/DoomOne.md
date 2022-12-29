@@ -1,5 +1,6 @@
 ---
 stylesheet: DoomOne.css
+image: DoomOne.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
