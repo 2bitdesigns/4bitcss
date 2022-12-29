@@ -1,5 +1,6 @@
 ---
 stylesheet: IC_Orange_PPL.css
+image: IC_Orange_PPL.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
