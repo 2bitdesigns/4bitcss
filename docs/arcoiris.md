@@ -1,5 +1,6 @@
 ---
 stylesheet: arcoiris.css
+image: arcoiris.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
