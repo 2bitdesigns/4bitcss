@@ -1,5 +1,6 @@
 ---
 stylesheet: Abernathy.css
+image: Abernathy.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
