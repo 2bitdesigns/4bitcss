@@ -1,5 +1,6 @@
 ---
 stylesheet: Mirage.css
+image: Mirage.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
