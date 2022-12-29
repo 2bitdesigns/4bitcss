@@ -1,5 +1,7 @@
 <h2 style='text-align:center'>
-    <span class='ColorSchemeFileName' />
+    <a id='colorSchemeNameLink' href='#'>
+        <span class='ColorSchemeFileName' />
+    </a>
 </h2>
 
 <div class='centeredText'>
@@ -10,6 +12,14 @@ Get-Content .\4bitpreview.svg |
 ~~~
 </div>
 
+<div class='centeredText'>
+    <a id='downloadSchemeLink'>
+        CSS
+    </a>
+    <a id='cdnSchemeLink'>
+        @jsdeliver 
+    </a>
+</div>
 
 ~~~PipeScript{
 $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
@@ -17,9 +27,9 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
 [PSCustomObject]@{    
     Table = @(foreach ($n in 0..15) {
         [PSCustomObject]@{
-            "ANSI Code"  = $n
-            Color      = $colors[$n]
-            Sample     = "<span class='ANSI$n'>*</span>"
+            "CSS Class"  = "ANSI$n"
+            Color        = $colors[$n]
+            Sample       = "<span class='ANSI$n'>*</span>"
         }
     })
 }

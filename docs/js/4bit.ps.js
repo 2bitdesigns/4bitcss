@@ -1,3 +1,4 @@
+var defaultTheme = "Konsolas";
 function themeList() {
     return [/*{
 "'$(
@@ -17,7 +18,7 @@ function feelingLucky() {
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    fourBitCssLink.href = "/" + themes[randomNumber] + ".css";
+    switchTheme(themes[randomNumber])
 
     for (arg in arguments) {
         if (arguments[arg].value) {
@@ -37,6 +38,25 @@ function switchTheme(themeName) {
     }
     fourBitCssLink.href = "/" + foundTheme + ".css";
     fourBitCssLink.themeName = foundTheme;
+    var downloadLink = document.getElementById("downloadSchemeLink");
+    if (downloadLink) {
+        downloadLink.href = "/" + foundTheme + ".css";
+    }
+    var cdnLink = document.getElementById("cdnSchemeLink")
+    if (cdnLink) {
+        cdnLink.href = "https://cdn.jsdelivr.net/gh/2bitdesigns/4bitcss@latest/css/" + foundTheme + ".css";
+    }
+
+    var colorSchemeNameLink = document.getElementById("colorSchemeNameLink")
+    if (colorSchemeNameLink) {
+        colorSchemeNameLink.href = "https://4bitcss.com/" + foundTheme;
+    }
+}
+
+function getCSSVariable(name) {
+    var root = document.querySelector(":root");
+    var rootStyle = getComputedStyle(root);
+    return rootStyle.getPropertyValue(name);
 }
 
 function saveTheme() {

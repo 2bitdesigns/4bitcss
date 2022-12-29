@@ -2,90 +2,145 @@
 ---
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
-<link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
-<meta name="viewport" content="width=device-width" />
-<link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
-<script type="text/javascript" src="/js/4bit.js"></script>
-<style>
-  .monospace {
-    font-family: 'Courier New', Courier, monospace;
-    white-space: pre;
-    max-width: 90%;
-  }
-  
-  .flexible {
-    display: flex;
-  }
-  .centeredFlex {
-    justify-content: center;    
-  }
+  <head>
+    {% if site.analyticsID %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{site.analyticsID}}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{site.analyticsID}}');
+    </script>
+    {% endif %}
+    <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
+    <meta name="viewport" content="width=device-width" />
+    {% if page.stylesheet %}
+    <link rel="stylesheet" type="text/css" href="/{{page.stylesheet}}" id="4bitcss" />
+    {% else %}
+    <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
+    {% endif %}
+    <script type="text/javascript" src="/js/4bit.js"></script>
+    <title>{{site.title}}{% if page.title %} - {{page.title}}  {% elsif page.stylesheet %} - {{page.stylesheet}}{% endif %}</title>
+    <meta content="{{ site.title }}" property="og:site_name">
+    {% if page.title %}
+    <meta content="{{ page.title }}" property="og:title" />
+    {% elsif page.stylesheet % }
+    <meta content="{{ page.stylesheet }}" property="og:title" />
+    {% else %}
+    <meta content="{{ site.title }}" property="og:title" />
+    {% endif %}
+    {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description" />
+    <meta name="description" content="{{ page.description }}" />    
+    {% elsif site.description % }
+    <meta content="{{ site.description }}" property="og:description" />
+    {% if page.date %}
+      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
+    {% endif %}
+    {% if page.url %}
+      <meta content="{{ site.url }}{{ page.url }}" property="og:url" />
+      <meta content="{{ site.url }}{{ page.url }}" property="twitter:url" />
+      <meta content="{{ site.url }}" property="twitter:domain" />
+    {% endif %}
 
-  .centered {
-    margin-left: auto;
-    margin-right: auto;
-  }
+    {% if page.image %}
+      <meta content="/{{ page.image }}" property="og:image" />
+      <meta content="/{{ page.image }}" property="twitter:image" />
+    {% endif %}    
+    <style>
+      .monospace {
+        font-family: 'Courier New', Courier, monospace;
+        white-space: pre;
+        max-width: 90%;
+      }
+      
+      .flexible {
+        display: flex;
+      }
+      .centeredFlex {
+        justify-content: center;    
+      }
+    
+      .centered {
+        margin-left: auto;
+        margin-right: auto;
+      }
 
-  .flexRow {
-    flex-direction: row;
-  }
-  .flexColumn {
-    flex-direction: column;
-  }
-  .halfWidth {
-    width: 50%;
-  }
-
-  .halfOrWholeWidth {
-    width: 50%;
-  }
-
-  .collapsible {
-    visibility: visible;
-  }
-  
-
-  .rowOrColumn {
-    flex-direction: row;
-  }
-
-  @media (max-width: 960px) {
-    .collapsible {
-        visibility: collapse;
-    }
-    .rowOrColumn {
+      .centeredText {
+        text-align:center;
+      }
+    
+      .flexRow {
+        flex-direction: row;
+      }
+      .flexColumn {
         flex-direction: column;
-    }
-    .halfOrWholeWidth {
-      width: 100%;
-    }
-  }
+      }
+      .halfWidth {
+        width: 50%;
+      }
+    
+      .halfOrWholeWidth {
+        width: 50%;
+      }
+    
+      .collapsible {
+        visibility: visible;
+      }
+      
+    
+      .rowOrColumn {
+        flex-direction: row;
+      }
+    
+      @media (max-width: 960px) {
+        .collapsible {
+            visibility: collapse;
+        }
+        .rowOrColumn {
+            flex-direction: column;
+        }
+        .halfOrWholeWidth {
+          width: 100%;
+        }
+      }
+    
+    
+      body {
+        width: 100%;
+        height: 100%;
+        font-family: 'Righteous';
+        letter-spacing: 0.15em;
+      }
+    
+      pre, code {
+        font-family: monospace;
+        letter-spacing: normal;    
+      }
+    
+      a {
+        text-decoration: none;
+      }
 
+      table {
+        margin-left:auto;
+        margin-right:auto;
+      }
 
-  body {
-    width: 100%;
-    height: 100%;
-    font-family: 'Righteous';
-    letter-spacing: 0.15em;
-  }
-
-  pre, code {
-    font-family: monospace;
-    letter-spacing: normal;
-    font-size: 1.5em;
-  }
-
-  a {
-    text-decoration: none;
-  }
-
-</style>
+      tr, th {
+        text-align: center;
+      }
+    
+    </style>
+  </head>
 <body class="background foreground">    
     {% if site.ghRepo %}
       <div>
         
       </div>
     {% endif %}
-    <div style="position: fixed; margin-top: 1%; margin-right: 1%; right:0;">
+    <div style="position: fixed; margin-top: 1%; margin-right: 1%; right:3%; top:3%">
     <a href='https://github.com/2bitdesigns/4bitcss'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" class="foreground-stroke">
     </path>
@@ -97,9 +152,9 @@
     <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Abel')</style>
   </defs>
   <ellipse stroke-width="1.25" fill="transparent" cx="50%" cy="50%" stroke="#4488ff" ry="75" rx="50" class="foreground-stroke" />
-  <text font-size="28" x="50%" y="47.5%" class="foreground-fill" fill="#4488ff" text-anchor="middle" style="font-family: 'Abel';" alignment-baseline="middle">4bit</text>
-  <text font-size="28" x="50%" y="52%" class="foreground-fill" fill="#4488ff" text-anchor="middle" style="font-family: 'Abel';" alignment-baseline="middle">⋅⋅⋅⋅</text>
-  <text font-size="24" x="50%" y="57.5%" class="foreground-fill" fill="#4488ff" text-anchor="middle" style="font-family: 'Abel';" alignment-baseline="middle">css</text>
+  <text font-size="28" x="50%" y="45%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">4bit</text>
+  <text font-size="28" x="50%" y="50%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">⋅⋅⋅⋅</text>
+  <text font-size="28" x="50%" y="55%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">css</text>
 </svg></a></svg></div>
 
     {% if page.title %}
