@@ -1,5 +1,6 @@
 ---
 stylesheet: MonokaiVivid.css
+image: MonokaiVivid.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
