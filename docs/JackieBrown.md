@@ -1,5 +1,6 @@
 ---
 stylesheet: JackieBrown.css
+image: JackieBrown.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
