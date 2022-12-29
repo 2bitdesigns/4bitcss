@@ -1,5 +1,6 @@
 ---
 stylesheet: Material.css
+image: Material.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
