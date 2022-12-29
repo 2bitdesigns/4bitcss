@@ -1,6 +1,7 @@
 ---
 stylesheet: Japanesque.css
 image: Japanesque.png
+description: Japanesque color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
