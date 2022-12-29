@@ -1,6 +1,7 @@
 ---
 stylesheet: RedPlanet.css
 image: RedPlanet.png
+description: Red Planet color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
