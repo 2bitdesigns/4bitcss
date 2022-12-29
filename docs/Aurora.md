@@ -1,6 +1,7 @@
 ---
 stylesheet: Aurora.css
 image: Aurora.png
+description: Aurora color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
