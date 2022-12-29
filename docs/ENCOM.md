@@ -1,6 +1,7 @@
 ---
 stylesheet: ENCOM.css
 image: ENCOM.png
+description: ENCOM color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
