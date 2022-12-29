@@ -1,5 +1,6 @@
 ---
 stylesheet: seoulbones_light.css
+image: seoulbones_light.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
