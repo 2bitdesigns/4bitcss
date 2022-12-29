@@ -1,6 +1,7 @@
 ---
 stylesheet: HipsterGreen.css
 image: HipsterGreen.png
+description: Hipster Green color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
