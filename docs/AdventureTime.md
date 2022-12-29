@@ -1,6 +1,7 @@
 ---
 stylesheet: AdventureTime.css
 image: AdventureTime.png
+description: AdventureTime color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
