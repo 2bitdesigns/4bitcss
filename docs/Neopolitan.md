@@ -1,5 +1,6 @@
 ---
 stylesheet: Neopolitan.css
+image: Neopolitan.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
