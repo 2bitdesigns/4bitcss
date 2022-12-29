@@ -1,6 +1,7 @@
 ---
 stylesheet: Arthur.css
 image: Arthur.png
+description: Arthur color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
