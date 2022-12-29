@@ -1,5 +1,6 @@
 ---
 stylesheet: Slate.css
+image: Slate.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
