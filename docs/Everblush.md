@@ -1,6 +1,7 @@
 ---
 stylesheet: Everblush.css
 image: Everblush.png
+description: Everblush color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
