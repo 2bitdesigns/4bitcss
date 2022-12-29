@@ -1,6 +1,7 @@
 ---
 stylesheet: IC_Orange_PPL.css
 image: IC_Orange_PPL.png
+description: IC_Orange_PPL color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
