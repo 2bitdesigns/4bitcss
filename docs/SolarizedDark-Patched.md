@@ -1,5 +1,6 @@
 ---
 stylesheet: SolarizedDark-Patched.css
+image: SolarizedDark-Patched.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
