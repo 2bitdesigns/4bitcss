@@ -1,6 +1,7 @@
 ---
 stylesheet: Adventure.css
 image: Adventure.png
+description: Adventure color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
