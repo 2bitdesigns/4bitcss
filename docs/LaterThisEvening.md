@@ -1,5 +1,6 @@
 ---
 stylesheet: LaterThisEvening.css
+image: LaterThisEvening.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
