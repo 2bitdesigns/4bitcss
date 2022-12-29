@@ -1,5 +1,6 @@
 ---
 stylesheet: PencilLight.css
+image: PencilLight.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
