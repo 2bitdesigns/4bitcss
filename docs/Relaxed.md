@@ -1,6 +1,7 @@
 ---
 stylesheet: Relaxed.css
 image: Relaxed.png
+description: Relaxed color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
