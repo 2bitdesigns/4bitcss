@@ -1,6 +1,7 @@
 ---
 stylesheet: PencilLight.css
 image: PencilLight.png
+description: PencilLight color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
