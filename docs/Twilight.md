@@ -1,5 +1,6 @@
 ---
 stylesheet: Twilight.css
+image: Twilight.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
