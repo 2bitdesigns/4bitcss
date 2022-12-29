@@ -1,6 +1,7 @@
 ---
 stylesheet: CLRS.css
 image: CLRS.png
+description: CLRS color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
