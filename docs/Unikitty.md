@@ -1,6 +1,7 @@
 ---
 stylesheet: Unikitty.css
 image: Unikitty.png
+description: Unikitty color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
