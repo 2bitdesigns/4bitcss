@@ -1,6 +1,7 @@
 ---
 stylesheet: Neutron.css
 image: Neutron.png
+description: Neutron color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
