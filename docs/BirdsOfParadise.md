@@ -1,5 +1,6 @@
 ---
 stylesheet: BirdsOfParadise.css
+image: BirdsOfParadise.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
