@@ -1,6 +1,7 @@
 ---
 stylesheet: PaulMillr.css
 image: PaulMillr.png
+description: PaulMillr color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
