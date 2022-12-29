@@ -1,6 +1,7 @@
 ---
 stylesheet: PaleNightHC.css
 image: PaleNightHC.png
+description: PaleNightHC color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
