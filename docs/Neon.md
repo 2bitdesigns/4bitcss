@@ -1,6 +1,7 @@
 ---
 stylesheet: Neon.css
 image: Neon.png
+description: Neon color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
