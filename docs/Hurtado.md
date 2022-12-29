@@ -1,6 +1,7 @@
 ---
 stylesheet: Hurtado.css
 image: Hurtado.png
+description: Hurtado color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
