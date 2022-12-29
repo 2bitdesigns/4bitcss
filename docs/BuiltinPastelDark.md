@@ -1,5 +1,6 @@
 ---
 stylesheet: BuiltinPastelDark.css
+image: BuiltinPastelDark.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
