@@ -1,5 +1,6 @@
 ---
 stylesheet: Zenburn.css
+image: Zenburn.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
