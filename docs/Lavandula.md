@@ -1,5 +1,6 @@
 ---
 stylesheet: Lavandula.css
+image: Lavandula.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
