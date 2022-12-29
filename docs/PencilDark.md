@@ -1,6 +1,7 @@
 ---
 stylesheet: PencilDark.css
 image: PencilDark.png
+description: PencilDark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
