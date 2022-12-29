@@ -1,6 +1,7 @@
 ---
 stylesheet: JetBrainsDarcula.css
 image: JetBrainsDarcula.png
+description: JetBrains Darcula color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
