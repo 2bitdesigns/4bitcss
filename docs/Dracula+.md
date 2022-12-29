@@ -1,6 +1,7 @@
 ---
 stylesheet: Dracula+.css
 image: Dracula+.png
+description: Dracula+ color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
