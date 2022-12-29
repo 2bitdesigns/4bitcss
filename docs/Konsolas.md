@@ -1,6 +1,7 @@
 ---
 stylesheet: Konsolas.css
 image: Konsolas.png
+description: Konsolas color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
