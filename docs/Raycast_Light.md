@@ -1,5 +1,6 @@
 ---
 stylesheet: Raycast_Light.css
+image: Raycast_Light.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
