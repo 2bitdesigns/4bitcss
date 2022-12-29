@@ -1,6 +1,7 @@
 ---
 stylesheet: Calamity.css
 image: Calamity.png
+description: Calamity color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
