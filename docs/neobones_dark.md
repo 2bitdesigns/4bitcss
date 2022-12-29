@@ -1,5 +1,6 @@
 ---
 stylesheet: neobones_dark.css
+image: neobones_dark.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
