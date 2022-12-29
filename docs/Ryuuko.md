@@ -1,6 +1,7 @@
 ---
 stylesheet: Ryuuko.css
 image: Ryuuko.png
+description: Ryuuko color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
