@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 640 240" class="background-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style type="text/css">@import url('https://4bitcss.com/Red Planet.css')</style>
+    <style type="text/css">@import url('https://4bitcss.com/RedPlanet.css')</style>
     <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Abel')</style>
   </defs>
   <rect width="640" height="80" x="0" y="0" class="background-fill" />
