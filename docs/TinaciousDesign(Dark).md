@@ -1,5 +1,6 @@
 ---
 stylesheet: TinaciousDesign(Dark).css
+image: TinaciousDesign(Dark).png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
