@@ -1,6 +1,7 @@
 ---
 stylesheet: vimbones.css
 image: vimbones.png
+description: vimbones color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
