@@ -1,6 +1,7 @@
 ---
 stylesheet: GitHubDark.css
 image: GitHubDark.png
+description: GitHub Dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
