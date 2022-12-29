@@ -1,6 +1,7 @@
 ---
 stylesheet: DarkPastel.css
 image: DarkPastel.png
+description: Dark Pastel color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
