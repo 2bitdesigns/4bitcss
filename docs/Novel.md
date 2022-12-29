@@ -1,6 +1,7 @@
 ---
 stylesheet: Novel.css
 image: Novel.png
+description: Novel color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
