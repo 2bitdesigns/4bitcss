@@ -1,6 +1,7 @@
 ---
 stylesheet: lovelace.css
 image: lovelace.png
+description: lovelace color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
