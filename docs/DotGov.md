@@ -1,6 +1,7 @@
 ---
 stylesheet: DotGov.css
 image: DotGov.png
+description: DotGov color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
