@@ -1,6 +1,7 @@
 ---
 stylesheet: VioletDark.css
 image: VioletDark.png
+description: Violet Dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
