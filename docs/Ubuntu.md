@@ -1,6 +1,7 @@
 ---
 stylesheet: Ubuntu.css
 image: Ubuntu.png
+description: Ubuntu color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
