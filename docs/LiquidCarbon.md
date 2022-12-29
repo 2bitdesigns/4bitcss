@@ -1,5 +1,6 @@
 ---
 stylesheet: LiquidCarbon.css
+image: LiquidCarbon.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
