@@ -1,6 +1,7 @@
 ---
 stylesheet: Andromeda.css
 image: Andromeda.png
+description: Andromeda color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
