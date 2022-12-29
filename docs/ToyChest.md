@@ -1,6 +1,7 @@
 ---
 stylesheet: ToyChest.css
 image: ToyChest.png
+description: ToyChest color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
