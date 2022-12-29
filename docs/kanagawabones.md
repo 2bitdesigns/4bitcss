@@ -1,6 +1,7 @@
 ---
 stylesheet: kanagawabones.css
 image: kanagawabones.png
+description: kanagawabones color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
