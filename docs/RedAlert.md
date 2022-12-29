@@ -1,5 +1,6 @@
 ---
 stylesheet: RedAlert.css
+image: RedAlert.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
