@@ -1,5 +1,6 @@
 ---
 stylesheet: catppuccin-latte.css
+image: catppuccin-latte.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
