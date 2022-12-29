@@ -1,6 +1,7 @@
 ---
 stylesheet: Ollie.css
 image: Ollie.png
+description: Ollie color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
