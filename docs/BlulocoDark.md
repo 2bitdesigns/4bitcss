@@ -1,6 +1,7 @@
 ---
 stylesheet: BlulocoDark.css
 image: BlulocoDark.png
+description: BlulocoDark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
