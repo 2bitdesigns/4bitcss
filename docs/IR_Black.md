@@ -1,6 +1,7 @@
 ---
 stylesheet: IR_Black.css
 image: IR_Black.png
+description: IR_Black color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
