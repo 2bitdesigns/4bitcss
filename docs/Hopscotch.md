@@ -1,6 +1,7 @@
 ---
 stylesheet: Hopscotch.css
 image: Hopscotch.png
+description: Hopscotch color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
