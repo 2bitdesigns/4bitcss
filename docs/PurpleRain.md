@@ -1,6 +1,7 @@
 ---
 stylesheet: PurpleRain.css
 image: PurpleRain.png
+description: Purple Rain color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
