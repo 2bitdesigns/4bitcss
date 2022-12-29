@@ -1,6 +1,7 @@
 ---
 stylesheet: ManPage.css
 image: ManPage.png
+description: Man Page color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
