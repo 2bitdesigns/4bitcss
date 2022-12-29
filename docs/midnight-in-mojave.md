@@ -1,6 +1,7 @@
 ---
 stylesheet: midnight-in-mojave.css
 image: midnight-in-mojave.png
+description: midnight-in-mojave color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
