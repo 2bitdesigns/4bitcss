@@ -1,6 +1,7 @@
 ---
 stylesheet: Retro.css
 image: Retro.png
+description: Retro color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
