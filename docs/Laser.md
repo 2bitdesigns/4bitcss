@@ -1,5 +1,6 @@
 ---
 stylesheet: Laser.css
+image: Laser.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
