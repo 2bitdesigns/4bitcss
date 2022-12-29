@@ -1,5 +1,6 @@
 ---
 stylesheet: OneHalfLight.css
+image: OneHalfLight.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
