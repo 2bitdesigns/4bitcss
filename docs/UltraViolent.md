@@ -1,5 +1,6 @@
 ---
 stylesheet: UltraViolent.css
+image: UltraViolent.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
