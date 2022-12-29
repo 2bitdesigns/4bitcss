@@ -1,6 +1,7 @@
 ---
 stylesheet: AlienBlood.css
 image: AlienBlood.png
+description: AlienBlood color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
