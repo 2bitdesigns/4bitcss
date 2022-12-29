@@ -1,5 +1,6 @@
 ---
 stylesheet: DimmedMonokai.css
+image: DimmedMonokai.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
