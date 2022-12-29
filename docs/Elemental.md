@@ -1,6 +1,7 @@
 ---
 stylesheet: Elemental.css
 image: Elemental.png
+description: Elemental color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
