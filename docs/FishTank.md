@@ -1,6 +1,7 @@
 ---
 stylesheet: FishTank.css
 image: FishTank.png
+description: FishTank color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
