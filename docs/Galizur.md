@@ -1,6 +1,7 @@
 ---
 stylesheet: Galizur.css
 image: Galizur.png
+description: Galizur color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
