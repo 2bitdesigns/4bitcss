@@ -1,6 +1,7 @@
 ---
 stylesheet: Floraverse.css
 image: Floraverse.png
+description: Floraverse color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
