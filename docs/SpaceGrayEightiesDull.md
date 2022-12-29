@@ -1,5 +1,6 @@
 ---
 stylesheet: SpaceGrayEightiesDull.css
+image: SpaceGrayEightiesDull.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
