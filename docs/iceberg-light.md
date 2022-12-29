@@ -1,6 +1,7 @@
 ---
 stylesheet: iceberg-light.css
 image: iceberg-light.png
+description: iceberg-light color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
