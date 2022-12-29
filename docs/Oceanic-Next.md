@@ -1,5 +1,6 @@
 ---
 stylesheet: Oceanic-Next.css
+image: Oceanic-Next.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
