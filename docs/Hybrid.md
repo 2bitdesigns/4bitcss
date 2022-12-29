@@ -1,6 +1,7 @@
 ---
 stylesheet: Hybrid.css
 image: Hybrid.png
+description: Hybrid color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
