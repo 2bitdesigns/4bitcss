@@ -1,6 +1,7 @@
 ---
 stylesheet: AppleClassic.css
 image: AppleClassic.png
+description: Apple Classic color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
