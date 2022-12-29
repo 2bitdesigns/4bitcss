@@ -1,6 +1,7 @@
 ---
 stylesheet: zenbones_dark.css
 image: zenbones_dark.png
+description: zenbones_dark color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
