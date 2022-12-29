@@ -1,5 +1,6 @@
 ---
 stylesheet: BuiltinTangoLight.css
+image: BuiltinTangoLight.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
