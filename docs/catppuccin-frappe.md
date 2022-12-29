@@ -1,6 +1,7 @@
 ---
 stylesheet: catppuccin-frappe.css
 image: catppuccin-frappe.png
+description: catppuccin-frappe color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
