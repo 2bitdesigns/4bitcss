@@ -1,5 +1,6 @@
 ---
 stylesheet: TangoAdapted.css
+image: TangoAdapted.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
