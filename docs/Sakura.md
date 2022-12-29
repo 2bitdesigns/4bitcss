@@ -1,6 +1,7 @@
 ---
 stylesheet: Sakura.css
 image: Sakura.png
+description: Sakura color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
