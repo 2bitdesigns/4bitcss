@@ -1,6 +1,7 @@
 ---
 stylesheet: Misterioso.css
 image: Misterioso.png
+description: Misterioso color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
