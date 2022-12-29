@@ -1,5 +1,6 @@
 ---
 stylesheet: Obsidian.css
+image: Obsidian.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
