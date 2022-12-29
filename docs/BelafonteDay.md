@@ -1,6 +1,7 @@
 ---
 stylesheet: BelafonteDay.css
 image: BelafonteDay.png
+description: Belafonte Day color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
