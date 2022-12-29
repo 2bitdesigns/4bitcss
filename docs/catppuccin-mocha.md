@@ -1,6 +1,7 @@
 ---
 stylesheet: catppuccin-mocha.css
 image: catppuccin-mocha.png
+description: catppuccin-mocha color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
