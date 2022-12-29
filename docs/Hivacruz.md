@@ -1,6 +1,7 @@
 ---
 stylesheet: Hivacruz.css
 image: Hivacruz.png
+description: Hivacruz color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
