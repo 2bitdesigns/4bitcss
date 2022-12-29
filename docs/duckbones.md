@@ -1,5 +1,6 @@
 ---
 stylesheet: duckbones.css
+image: duckbones.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
