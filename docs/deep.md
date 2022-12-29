@@ -1,6 +1,7 @@
 ---
 stylesheet: deep.css
 image: deep.png
+description: deep color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
