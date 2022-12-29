@@ -1,6 +1,7 @@
 ---
 stylesheet: SoftServer.css
 image: SoftServer.png
+description: SoftServer color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
