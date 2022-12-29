@@ -1,6 +1,7 @@
 ---
 stylesheet: DjangoRebornAgain.css
 image: DjangoRebornAgain.png
+description: DjangoRebornAgain color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
