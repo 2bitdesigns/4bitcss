@@ -1,5 +1,6 @@
 ---
 stylesheet: wilmersdorf.css
+image: wilmersdorf.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
