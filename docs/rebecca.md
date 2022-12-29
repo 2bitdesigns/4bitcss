@@ -1,6 +1,7 @@
 ---
 stylesheet: rebecca.css
 image: rebecca.png
+description: rebecca color scheme
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
