@@ -1,5 +1,6 @@
 ---
 stylesheet: iceberg-dark.css
+image: iceberg-dark.png
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
