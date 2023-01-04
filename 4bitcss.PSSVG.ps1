@@ -19,7 +19,6 @@ $fontSettings = [Ordered]@{
 }
 
 $assetFile = 
-
 =<svg> -ViewBox 400,400 @(
     =<svg.defs> @(
         =<svg.style> -Type 'text/css' @'
@@ -34,8 +33,6 @@ $assetFile =
     =<svg.text> -FontSize 28 -Content '⋅⋅⋅⋅'  -X 50% -Y 50% @fontSettings -Class foreground-fill -Fill '#4488ff'
     =<svg.text> -FontSize 28 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
-
-
 
 =<svg> -ViewBox 640, 640 @(
     foreach ($n in 16..1) {
