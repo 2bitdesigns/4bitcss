@@ -25,7 +25,7 @@
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
     <meta content="{{ page.title }}" property="og:title" />
-    {% elsif page.stylesheet % }
+    {% elsif page.stylesheet %}
     <meta content="{{ page.stylesheet }}" property="og:title" />
     {% else %}
     <meta content="{{ site.title }}" property="og:title" />
@@ -33,7 +33,7 @@
     {% if page.description %}
     <meta content="{{ page.description }}" property="og:description" />
     <meta name="description" content="{{ page.description }}" />    
-    {% elsif site.description % }
+    {% elsif site.description %}
     <meta content="{{ site.description }}" property="og:description" />
     {% if page.date %}
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
