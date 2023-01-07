@@ -26,11 +26,12 @@ $assetFile =
 '@
             
     )
-
-    
+        
     =<svg.ellipse> -StrokeWidth 1.25 -Fill transparent -Cx 50% -Cy 50% -Stroke '#4488ff' -Ry 75 -Rx 50 -Class foreground-stroke
     =<svg.text> -FontSize 28 -Content 4bit -X 50% -Y 45% @fontSettings -Class foreground-fill -Fill '#4488ff'
-    =<svg.text> -FontSize 28 -Content '⋅⋅⋅⋅'  -X 50% -Y 50% @fontSettings -Class foreground-fill -Fill '#4488ff'
+    foreach ($x in 48.5,49.5,50.5,51.5) {
+        =<svg.circle> -Class foreground-fill -Fill '#4488ff' -Cx "$x%" -Cy 50% -R 0.33%
+    }
     =<svg.text> -FontSize 28 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
 
