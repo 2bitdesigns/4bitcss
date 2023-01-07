@@ -29,7 +29,7 @@ $assetFile =
         
     =<svg.ellipse> -StrokeWidth 1.25 -Fill transparent -Cx 50% -Cy 50% -Stroke '#4488ff' -Ry 75 -Rx 50 -Class foreground-stroke
     =<svg.text> -FontSize 28 -Content 4bit -X 50% -Y 45% @fontSettings -Class foreground-fill -Fill '#4488ff'
-    $xPercent = 48.5,49.5,50.5,51.5
+    $xPercent = 45,47.5,52.5,55
     foreach ($n in 0..3) {
         $x = $xPercent[$n]
         =<svg.circle> -Class "ansi$($n+2)-fill" -Fill '#4488ff' -Cx "$x%" -Cy 50% -R 0.33%
