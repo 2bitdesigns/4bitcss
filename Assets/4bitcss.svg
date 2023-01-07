@@ -5,9 +5,9 @@
   </defs>
   <ellipse stroke-width="1.25" fill="transparent" cx="50%" cy="50%" stroke="#4488ff" ry="75" rx="50" class="foreground-stroke" />
   <text font-size="28" x="50%" y="45%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">4bit</text>
-  <circle class="ansi2-fill" fill="#4488ff" cx="45%" cy="50%" r="0.33%" />
-  <circle class="ansi3-fill" fill="#4488ff" cx="47.5%" cy="50%" r="0.33%" />
-  <circle class="ansi4-fill" fill="#4488ff" cx="52.5%" cy="50%" r="0.33%" />
-  <circle class="ansi5-fill" fill="#4488ff" cx="55%" cy="50%" r="0.33%" />
+  <circle class="ansi1-fill" fill="#4488ff" cx="45%" cy="50%" r="0.5%" />
+  <circle class="ansi2-fill" fill="#4488ff" cx="47.5%" cy="50%" r="0.5%" />
+  <circle class="ansi3-fill" fill="#4488ff" cx="52.5%" cy="50%" r="0.5%" />
+  <circle class="ansi4-fill" fill="#4488ff" cx="55%" cy="50%" r="0.5%" />
   <text font-size="28" x="50%" y="55%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">css</text>
 </svg>
