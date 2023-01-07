@@ -35,6 +35,7 @@
     <meta name="description" content="{{ page.description }}" />    
     {% elsif site.description %}
     <meta content="{{ site.description }}" property="og:description" />
+    {% endif %}
     {% if page.date %}
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
     {% endif %}
