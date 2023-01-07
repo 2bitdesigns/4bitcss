@@ -37,6 +37,9 @@ $assetFile =
     =<svg.text> -FontSize 28 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
 
+$assetFile
+$assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
+
 =<svg> -ViewBox 640, 640 @(
     foreach ($n in 16..1) {
         =<svg.rect> -X (
@@ -84,8 +87,5 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
         =<svg.rect> -X ($boxSize.Width * ($n - 8)) -Y 159 -Class "ansi$n-fill" @boxSize -Fill $($colors[$n])
     }
 ) -OutputPath (Join-Path $docsRoot .\4bitpreviewtemplate.svg) -Class background-fill
-
-$assetFile
-$assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg)
 
 Pop-Location
