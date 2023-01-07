@@ -32,7 +32,7 @@ $assetFile =
     $xPercent = 45,47.5,52.5,55
     foreach ($n in 0..3) {
         $x = $xPercent[$n]
-        =<svg.circle> -Class "ansi$($n+2)-fill" -Fill '#4488ff' -Cx "$x%" -Cy 50% -R 0.33%
+        =<svg.circle> -Class "ansi$($n+1)-fill" -Fill '#4488ff' -Cx "$x%" -Cy 50% -R 0.5%
     }    
     =<svg.text> -FontSize 28 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
