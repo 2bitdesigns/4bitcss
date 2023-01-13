@@ -21,10 +21,7 @@ $fontSettings = [Ordered]@{
 $assetFile = 
 =<svg> -ViewBox 400,400 @(
     =<svg.defs> @(
-        =<svg.style> -Type 'text/css' @'
-@import url('https://fonts.googleapis.com/css?family=Abel')
-'@
-            
+        SVG.GoogleFont -FontName Abel
     )
         
     =<svg.ellipse> -StrokeWidth 1.25 -Fill transparent -Cx 50% -Cy 50% -Stroke '#4488ff' -Ry 75 -Rx 50 -Class foreground-stroke
