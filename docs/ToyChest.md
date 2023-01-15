@@ -1,6 +1,7 @@
 ---
 stylesheet: ToyChest.css
 colorSchemeName: ToyChest
+colorSchemeFileName: ToyChest
 image: ToyChest.png
 description: ToyChest color scheme
 ---
