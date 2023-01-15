@@ -1,6 +1,7 @@
 ---
 stylesheet: SpaceGray.css
 colorSchemeName: SpaceGray
+colorSchemeFileName: SpaceGray
 image: SpaceGray.png
 description: SpaceGray color scheme
 ---
