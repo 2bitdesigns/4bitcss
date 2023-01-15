@@ -1,5 +1,6 @@
 ---
 stylesheet: catppuccin-frappe.css
+colorSchemeName: catppuccin-frappe
 image: catppuccin-frappe.png
 description: catppuccin-frappe color scheme
 ---
