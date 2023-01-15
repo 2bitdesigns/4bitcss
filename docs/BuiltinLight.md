@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinLight.css
 colorSchemeName: Builtin Light
+colorSchemeFileName: BuiltinLight
 image: BuiltinLight.png
 description: Builtin Light color scheme
 ---
