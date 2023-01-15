@@ -1,5 +1,6 @@
 ---
 stylesheet: AdventureTime.css
+colorSchemeName: AdventureTime
 image: AdventureTime.png
 description: AdventureTime color scheme
 ---
