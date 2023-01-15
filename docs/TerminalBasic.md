@@ -1,5 +1,6 @@
 ---
 stylesheet: TerminalBasic.css
+colorSchemeName: Terminal Basic
 image: TerminalBasic.png
 description: Terminal Basic color scheme
 ---
