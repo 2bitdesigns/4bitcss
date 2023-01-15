@@ -1,6 +1,7 @@
 ---
 stylesheet: Neon.css
 colorSchemeName: Neon
+colorSchemeFileName: Neon
 image: Neon.png
 description: Neon color scheme
 ---
