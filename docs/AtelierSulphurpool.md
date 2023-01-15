@@ -1,6 +1,7 @@
 ---
 stylesheet: AtelierSulphurpool.css
 colorSchemeName: AtelierSulphurpool
+colorSchemeFileName: AtelierSulphurpool
 image: AtelierSulphurpool.png
 description: AtelierSulphurpool color scheme
 ---
