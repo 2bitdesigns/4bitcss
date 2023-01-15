@@ -1,6 +1,7 @@
 ---
 stylesheet: SolarizedDarcula.css
 colorSchemeName: Solarized Darcula
+colorSchemeFileName: SolarizedDarcula
 image: SolarizedDarcula.png
 description: Solarized Darcula color scheme
 ---
