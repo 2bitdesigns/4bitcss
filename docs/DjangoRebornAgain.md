@@ -1,6 +1,7 @@
 ---
 stylesheet: DjangoRebornAgain.css
 colorSchemeName: DjangoRebornAgain
+colorSchemeFileName: DjangoRebornAgain
 image: DjangoRebornAgain.png
 description: DjangoRebornAgain color scheme
 ---
