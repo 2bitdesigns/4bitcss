@@ -1,6 +1,7 @@
 ---
 stylesheet: Calamity.css
 colorSchemeName: Calamity
+colorSchemeFileName: Calamity
 image: Calamity.png
 description: Calamity color scheme
 ---
