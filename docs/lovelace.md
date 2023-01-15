@@ -1,6 +1,7 @@
 ---
 stylesheet: lovelace.css
 colorSchemeName: lovelace
+colorSchemeFileName: lovelace
 image: lovelace.png
 description: lovelace color scheme
 ---
