@@ -1,5 +1,6 @@
 ---
 stylesheet: FrontEndDelight.css
+colorSchemeName: FrontEndDelight
 image: FrontEndDelight.png
 description: FrontEndDelight color scheme
 ---
