@@ -1,5 +1,6 @@
 ---
 stylesheet: Raycast_Light.css
+colorSchemeName: Raycast_Light
 image: Raycast_Light.png
 description: Raycast_Light color scheme
 ---
