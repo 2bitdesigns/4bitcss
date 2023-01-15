@@ -1,5 +1,6 @@
 ---
 stylesheet: BuiltinDark.css
+colorSchemeName: Builtin Dark
 image: BuiltinDark.png
 description: Builtin Dark color scheme
 ---
