@@ -1,6 +1,7 @@
 ---
 stylesheet: Smyck.css
 colorSchemeName: Smyck
+colorSchemeFileName: Smyck
 image: Smyck.png
 description: Smyck color scheme
 ---
