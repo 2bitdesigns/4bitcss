@@ -1,5 +1,6 @@
 ---
 stylesheet: MonaLisa.css
+colorSchemeName: MonaLisa
 image: MonaLisa.png
 description: MonaLisa color scheme
 ---
