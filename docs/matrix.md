@@ -1,6 +1,7 @@
 ---
 stylesheet: matrix.css
 colorSchemeName: matrix
+colorSchemeFileName: matrix
 image: matrix.png
 description: matrix color scheme
 ---
