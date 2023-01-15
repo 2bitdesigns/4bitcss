@@ -1,5 +1,6 @@
 ---
 stylesheet: Pro.css
+colorSchemeName: Pro
 image: Pro.png
 description: Pro color scheme
 ---
