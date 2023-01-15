@@ -1,6 +1,7 @@
 ---
 stylesheet: PiattoLight.css
 colorSchemeName: Piatto Light
+colorSchemeFileName: PiattoLight
 image: PiattoLight.png
 description: Piatto Light color scheme
 ---
