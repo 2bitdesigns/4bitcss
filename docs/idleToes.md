@@ -1,6 +1,7 @@
 ---
 stylesheet: idleToes.css
 colorSchemeName: idleToes
+colorSchemeFileName: idleToes
 image: idleToes.png
 description: idleToes color scheme
 ---
