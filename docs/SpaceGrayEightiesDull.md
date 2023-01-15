@@ -1,6 +1,7 @@
 ---
 stylesheet: SpaceGrayEightiesDull.css
 colorSchemeName: SpaceGray Eighties Dull
+colorSchemeFileName: SpaceGrayEightiesDull
 image: SpaceGrayEightiesDull.png
 description: SpaceGray Eighties Dull color scheme
 ---
