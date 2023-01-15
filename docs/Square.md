@@ -1,6 +1,7 @@
 ---
 stylesheet: Square.css
 colorSchemeName: Square
+colorSchemeFileName: Square
 image: Square.png
 description: Square color scheme
 ---
