@@ -1,6 +1,7 @@
 ---
 stylesheet: PoppingandLocking.css
 colorSchemeName: Popping and Locking
+colorSchemeFileName: PoppingandLocking
 image: PoppingandLocking.png
 description: Popping and Locking color scheme
 ---
