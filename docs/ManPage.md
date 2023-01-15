@@ -1,6 +1,7 @@
 ---
 stylesheet: ManPage.css
 colorSchemeName: Man Page
+colorSchemeFileName: ManPage
 image: ManPage.png
 description: Man Page color scheme
 ---
