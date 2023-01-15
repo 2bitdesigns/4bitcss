@@ -1,6 +1,7 @@
 ---
 stylesheet: zenwritten_light.css
 colorSchemeName: zenwritten_light
+colorSchemeFileName: zenwritten_light
 image: zenwritten_light.png
 description: zenwritten_light color scheme
 ---
