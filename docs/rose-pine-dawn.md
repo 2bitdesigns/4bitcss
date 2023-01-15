@@ -1,5 +1,6 @@
 ---
 stylesheet: rose-pine-dawn.css
+colorSchemeName: rose-pine-dawn
 image: rose-pine-dawn.png
 description: rose-pine-dawn color scheme
 ---
