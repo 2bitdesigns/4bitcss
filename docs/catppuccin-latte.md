@@ -1,5 +1,6 @@
 ---
 stylesheet: catppuccin-latte.css
+colorSchemeName: catppuccin-latte
 image: catppuccin-latte.png
 description: catppuccin-latte color scheme
 ---
