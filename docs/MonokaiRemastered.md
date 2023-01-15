@@ -1,6 +1,7 @@
 ---
 stylesheet: MonokaiRemastered.css
 colorSchemeName: Monokai Remastered
+colorSchemeFileName: MonokaiRemastered
 image: MonokaiRemastered.png
 description: Monokai Remastered color scheme
 ---
