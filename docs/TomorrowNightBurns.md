@@ -1,6 +1,7 @@
 ---
 stylesheet: TomorrowNightBurns.css
 colorSchemeName: Tomorrow Night Burns
+colorSchemeFileName: TomorrowNightBurns
 image: TomorrowNightBurns.png
 description: Tomorrow Night Burns color scheme
 ---
