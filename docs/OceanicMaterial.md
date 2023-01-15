@@ -1,6 +1,7 @@
 ---
 stylesheet: OceanicMaterial.css
 colorSchemeName: OceanicMaterial
+colorSchemeFileName: OceanicMaterial
 image: OceanicMaterial.png
 description: OceanicMaterial color scheme
 ---
