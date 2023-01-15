@@ -1,5 +1,6 @@
 ---
 stylesheet: wilmersdorf.css
+colorSchemeName: wilmersdorf
 image: wilmersdorf.png
 description: wilmersdorf color scheme
 ---
