@@ -1,5 +1,6 @@
 ---
 stylesheet: Argonaut.css
+colorSchemeName: Argonaut
 image: Argonaut.png
 description: Argonaut color scheme
 ---
