@@ -1,6 +1,7 @@
 ---
 stylesheet: RedPlanet.css
 colorSchemeName: Red Planet
+colorSchemeFileName: RedPlanet
 image: RedPlanet.png
 description: Red Planet color scheme
 ---
