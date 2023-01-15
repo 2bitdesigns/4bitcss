@@ -1,5 +1,6 @@
 ---
 stylesheet: tokyonight-storm.css
+colorSchemeName: tokyonight-storm
 image: tokyonight-storm.png
 description: tokyonight-storm color scheme
 ---
