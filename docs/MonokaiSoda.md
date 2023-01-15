@@ -1,5 +1,6 @@
 ---
 stylesheet: MonokaiSoda.css
+colorSchemeName: Monokai Soda
 image: MonokaiSoda.png
 description: Monokai Soda color scheme
 ---
