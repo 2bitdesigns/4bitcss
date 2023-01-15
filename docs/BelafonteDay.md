@@ -1,6 +1,7 @@
 ---
 stylesheet: BelafonteDay.css
 colorSchemeName: Belafonte Day
+colorSchemeFileName: BelafonteDay
 image: BelafonteDay.png
 description: Belafonte Day color scheme
 ---
