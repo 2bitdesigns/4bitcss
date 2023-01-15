@@ -1,5 +1,6 @@
 ---
 stylesheet: Chalkboard.css
+colorSchemeName: Chalkboard
 image: Chalkboard.png
 description: Chalkboard color scheme
 ---
