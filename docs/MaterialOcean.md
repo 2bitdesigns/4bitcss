@@ -1,5 +1,6 @@
 ---
 stylesheet: MaterialOcean.css
+colorSchemeName: MaterialOcean
 image: MaterialOcean.png
 description: MaterialOcean color scheme
 ---
