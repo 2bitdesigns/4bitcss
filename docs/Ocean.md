@@ -1,5 +1,6 @@
 ---
 stylesheet: Ocean.css
+colorSchemeName: Ocean
 image: Ocean.png
 description: Ocean color scheme
 ---
