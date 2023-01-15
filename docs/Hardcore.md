@@ -1,6 +1,7 @@
 ---
 stylesheet: Hardcore.css
 colorSchemeName: Hardcore
+colorSchemeFileName: Hardcore
 image: Hardcore.png
 description: Hardcore color scheme
 ---
