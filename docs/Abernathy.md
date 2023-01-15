@@ -1,6 +1,7 @@
 ---
 stylesheet: Abernathy.css
 colorSchemeName: Abernathy
+colorSchemeFileName: Abernathy
 image: Abernathy.png
 description: Abernathy color scheme
 ---
