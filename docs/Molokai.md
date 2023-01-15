@@ -1,6 +1,7 @@
 ---
 stylesheet: Molokai.css
 colorSchemeName: Molokai
+colorSchemeFileName: Molokai
 image: Molokai.png
 description: Molokai color scheme
 ---
