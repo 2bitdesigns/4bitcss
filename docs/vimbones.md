@@ -1,5 +1,6 @@
 ---
 stylesheet: vimbones.css
+colorSchemeName: vimbones
 image: vimbones.png
 description: vimbones color scheme
 ---
