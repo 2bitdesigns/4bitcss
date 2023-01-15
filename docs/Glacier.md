@@ -1,5 +1,6 @@
 ---
 stylesheet: Glacier.css
+colorSchemeName: Glacier
 image: Glacier.png
 description: Glacier color scheme
 ---
