@@ -1,6 +1,7 @@
 ---
 stylesheet: Spacedust.css
 colorSchemeName: Spacedust
+colorSchemeFileName: Spacedust
 image: Spacedust.png
 description: Spacedust color scheme
 ---
