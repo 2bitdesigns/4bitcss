@@ -1,5 +1,6 @@
 ---
 stylesheet: OperatorMonoDark.css
+colorSchemeName: Operator Mono Dark
 image: OperatorMonoDark.png
 description: Operator Mono Dark color scheme
 ---
