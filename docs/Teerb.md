@@ -1,6 +1,7 @@
 ---
 stylesheet: Teerb.css
 colorSchemeName: Teerb
+colorSchemeFileName: Teerb
 image: Teerb.png
 description: Teerb color scheme
 ---
