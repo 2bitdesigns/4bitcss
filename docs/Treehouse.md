@@ -1,5 +1,6 @@
 ---
 stylesheet: Treehouse.css
+colorSchemeName: Treehouse
 image: Treehouse.png
 description: Treehouse color scheme
 ---
