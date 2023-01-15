@@ -1,6 +1,7 @@
 ---
 stylesheet: CGA.css
 colorSchemeName: CGA
+colorSchemeFileName: CGA
 image: CGA.png
 description: CGA color scheme
 ---
