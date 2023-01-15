@@ -1,5 +1,6 @@
 ---
 stylesheet: WarmNeon.css
+colorSchemeName: WarmNeon
 image: WarmNeon.png
 description: WarmNeon color scheme
 ---
