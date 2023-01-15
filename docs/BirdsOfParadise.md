@@ -1,6 +1,7 @@
 ---
 stylesheet: BirdsOfParadise.css
 colorSchemeName: BirdsOfParadise
+colorSchemeFileName: BirdsOfParadise
 image: BirdsOfParadise.png
 description: BirdsOfParadise color scheme
 ---
