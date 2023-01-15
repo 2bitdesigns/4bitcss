@@ -1,6 +1,7 @@
 ---
 stylesheet: Shaman.css
 colorSchemeName: Shaman
+colorSchemeFileName: Shaman
 image: Shaman.png
 description: Shaman color scheme
 ---
