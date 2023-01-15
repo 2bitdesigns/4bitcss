@@ -1,6 +1,7 @@
 ---
 stylesheet: CrayonPonyFish.css
 colorSchemeName: CrayonPonyFish
+colorSchemeFileName: CrayonPonyFish
 image: CrayonPonyFish.png
 description: CrayonPonyFish color scheme
 ---
