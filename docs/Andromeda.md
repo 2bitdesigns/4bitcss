@@ -1,5 +1,6 @@
 ---
 stylesheet: Andromeda.css
+colorSchemeName: Andromeda
 image: Andromeda.png
 description: Andromeda color scheme
 ---
