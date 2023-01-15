@@ -1,6 +1,7 @@
 ---
 stylesheet: ayu.css
 colorSchemeName: ayu
+colorSchemeFileName: ayu
 image: ayu.png
 description: ayu color scheme
 ---
