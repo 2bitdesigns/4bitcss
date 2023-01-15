@@ -164,11 +164,13 @@
         {{ content }}
       </div>
     </div>
-    <div class="flexible centered centeredFlex wholeWidth" style="position:fixed;bottom:0;width:100%">
-      <div class="flexRow centered halfOrWholeWidth">        
-        Color Scheme :
+    <div class="flexible centered centeredFlex wholeWidth" style="position:fixed;bottom:10%;width:100%">
+      <div class="flexRow centered halfOrWholeWidth">
+        All Color Schemes :
         <select id="themeSelector" onchange="switchTheme(document.getElementById('themeSelector').value); ">
         </select>
+      </div>
+      <div class="flexRow centered halfOrWholeWidth">
         <input type="button" onclick="feelingLucky(document.getElementById('themeSelector'));" value="Feeling Lucky" />
         <input type="button" onclick="saveTheme();" value="Save Theme" />
         <input type="button" onclick="loadTheme(document.getElementById('themeSelector'));" value="Load Theme" />
