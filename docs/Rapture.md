@@ -1,5 +1,6 @@
 ---
 stylesheet: Rapture.css
+colorSchemeName: Rapture
 image: Rapture.png
 description: Rapture color scheme
 ---
