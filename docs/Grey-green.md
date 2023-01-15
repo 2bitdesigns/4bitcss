@@ -1,5 +1,6 @@
 ---
 stylesheet: Grey-green.css
+colorSchemeName: Grey-green
 image: Grey-green.png
 description: Grey-green color scheme
 ---
