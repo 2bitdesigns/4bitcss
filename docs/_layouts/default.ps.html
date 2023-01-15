@@ -184,11 +184,11 @@ Get-Content -Path $path -Raw
         </script>
         {% if page.stylesheet %}
         <script type="text/javascript" />
-        themeSelector.value = "{{page.stylesheet}}";
+        themeSelector[themeSelector.options.indexOf("{{page.stylesheet}}")].selected = true        
         </script>
         {% else %}
         <script type="text/javascript" />
-        themeSelector.value = "Konsolas";
+        themeSelector[themeSelector.options.indexOf("Konsolas")].selected = true        
         </script>
         {% endif %}
         <script type="text/javascript" />
