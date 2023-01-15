@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinPastelDark.css
 colorSchemeName: Builtin Pastel Dark
+colorSchemeFileName: BuiltinPastelDark
 image: BuiltinPastelDark.png
 description: Builtin Pastel Dark color scheme
 ---
