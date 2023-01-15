@@ -1,5 +1,6 @@
 ---
 stylesheet: Atom.css
+colorSchemeName: Atom
 image: Atom.png
 description: Atom color scheme
 ---
