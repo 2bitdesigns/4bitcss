@@ -1,6 +1,7 @@
 ---
 stylesheet: N0tch2k.css
 colorSchemeName: N0tch2k
+colorSchemeFileName: N0tch2k
 image: N0tch2k.png
 description: N0tch2k color scheme
 ---
