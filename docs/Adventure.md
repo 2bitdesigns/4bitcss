@@ -1,5 +1,6 @@
 ---
 stylesheet: Adventure.css
+colorSchemeName: Adventure
 image: Adventure.png
 description: Adventure color scheme
 ---
