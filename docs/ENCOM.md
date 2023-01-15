@@ -1,5 +1,6 @@
 ---
 stylesheet: ENCOM.css
+colorSchemeName: ENCOM
 image: ENCOM.png
 description: ENCOM color scheme
 ---
