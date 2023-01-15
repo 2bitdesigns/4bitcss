@@ -1,5 +1,6 @@
 ---
 stylesheet: Cobalt2.css
+colorSchemeName: Cobalt2
 image: Cobalt2.png
 description: Cobalt2 color scheme
 ---
