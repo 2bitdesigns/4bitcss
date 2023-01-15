@@ -1,5 +1,6 @@
 ---
 stylesheet: Retro.css
+colorSchemeName: Retro
 image: Retro.png
 description: Retro color scheme
 ---
