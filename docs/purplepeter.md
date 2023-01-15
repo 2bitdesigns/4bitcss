@@ -1,5 +1,6 @@
 ---
 stylesheet: purplepeter.css
+colorSchemeName: purplepeter
 image: purplepeter.png
 description: purplepeter color scheme
 ---
