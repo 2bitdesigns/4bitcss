@@ -1,6 +1,7 @@
 ---
 stylesheet: Rippedcasts.css
 colorSchemeName: Rippedcasts
+colorSchemeFileName: Rippedcasts
 image: Rippedcasts.png
 description: Rippedcasts color scheme
 ---
