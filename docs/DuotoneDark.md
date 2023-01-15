@@ -1,5 +1,6 @@
 ---
 stylesheet: DuotoneDark.css
+colorSchemeName: Duotone Dark
 image: DuotoneDark.png
 description: Duotone Dark color scheme
 ---
