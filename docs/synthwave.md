@@ -1,6 +1,7 @@
 ---
 stylesheet: synthwave.css
 colorSchemeName: synthwave
+colorSchemeFileName: synthwave
 image: synthwave.png
 description: synthwave color scheme
 ---
