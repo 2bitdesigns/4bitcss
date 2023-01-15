@@ -1,5 +1,6 @@
 ---
 stylesheet: TomorrowNightBlue.css
+colorSchemeName: Tomorrow Night Blue
 image: TomorrowNightBlue.png
 description: Tomorrow Night Blue color scheme
 ---
