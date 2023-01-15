@@ -1,5 +1,6 @@
 ---
 stylesheet: Github.css
+colorSchemeName: Github
 image: Github.png
 description: Github color scheme
 ---
