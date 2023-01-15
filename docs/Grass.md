@@ -1,6 +1,7 @@
 ---
 stylesheet: Grass.css
 colorSchemeName: Grass
+colorSchemeFileName: Grass
 image: Grass.png
 description: Grass color scheme
 ---
