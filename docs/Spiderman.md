@@ -1,5 +1,6 @@
 ---
 stylesheet: Spiderman.css
+colorSchemeName: Spiderman
 image: Spiderman.png
 description: Spiderman color scheme
 ---
