@@ -1,6 +1,7 @@
 ---
 stylesheet: deep.css
 colorSchemeName: deep
+colorSchemeFileName: deep
 image: deep.png
 description: deep color scheme
 ---
