@@ -1,6 +1,7 @@
 ---
 stylesheet: PaulMillr.css
 colorSchemeName: PaulMillr
+colorSchemeFileName: PaulMillr
 image: PaulMillr.png
 description: PaulMillr color scheme
 ---
