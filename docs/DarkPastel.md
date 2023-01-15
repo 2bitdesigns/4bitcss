@@ -1,6 +1,7 @@
 ---
 stylesheet: DarkPastel.css
 colorSchemeName: Dark Pastel
+colorSchemeFileName: DarkPastel
 image: DarkPastel.png
 description: Dark Pastel color scheme
 ---
