@@ -1,5 +1,6 @@
 ---
 stylesheet: Laser.css
+colorSchemeName: Laser
 image: Laser.png
 description: Laser color scheme
 ---
