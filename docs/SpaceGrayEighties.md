@@ -1,5 +1,6 @@
 ---
 stylesheet: SpaceGrayEighties.css
+colorSchemeName: SpaceGray Eighties
 image: SpaceGrayEighties.png
 description: SpaceGray Eighties color scheme
 ---
