@@ -1,6 +1,7 @@
 ---
 stylesheet: NightLionv1.css
 colorSchemeName: NightLion v1
+colorSchemeFileName: NightLionv1
 image: NightLionv1.png
 description: NightLion v1 color scheme
 ---
