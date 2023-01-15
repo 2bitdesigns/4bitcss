@@ -1,5 +1,6 @@
 ---
 stylesheet: Fairyfloss.css
+colorSchemeName: Fairyfloss
 image: Fairyfloss.png
 description: Fairyfloss color scheme
 ---
