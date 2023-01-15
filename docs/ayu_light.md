@@ -1,5 +1,6 @@
 ---
 stylesheet: ayu_light.css
+colorSchemeName: ayu_light
 image: ayu_light.png
 description: ayu_light color scheme
 ---
