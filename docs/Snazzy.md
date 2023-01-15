@@ -1,6 +1,7 @@
 ---
 stylesheet: Snazzy.css
 colorSchemeName: Snazzy
+colorSchemeFileName: Snazzy
 image: Snazzy.png
 description: Snazzy color scheme
 ---
