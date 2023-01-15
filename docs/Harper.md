@@ -1,5 +1,6 @@
 ---
 stylesheet: Harper.css
+colorSchemeName: Harper
 image: Harper.png
 description: Harper color scheme
 ---
