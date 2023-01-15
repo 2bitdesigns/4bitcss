@@ -1,5 +1,6 @@
 ---
 stylesheet: SoftServer.css
+colorSchemeName: SoftServer
 image: SoftServer.png
 description: SoftServer color scheme
 ---
