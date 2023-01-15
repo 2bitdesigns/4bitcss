@@ -1,6 +1,7 @@
 ---
 stylesheet: Chester.css
 colorSchemeName: Chester
+colorSchemeFileName: Chester
 image: Chester.png
 description: Chester color scheme
 ---
