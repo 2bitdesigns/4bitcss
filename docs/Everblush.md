@@ -1,5 +1,6 @@
 ---
 stylesheet: Everblush.css
+colorSchemeName: Everblush
 image: Everblush.png
 description: Everblush color scheme
 ---
