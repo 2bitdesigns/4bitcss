@@ -1,6 +1,7 @@
 ---
 stylesheet: IR_Black.css
 colorSchemeName: IR_Black
+colorSchemeFileName: IR_Black
 image: IR_Black.png
 description: IR_Black color scheme
 ---
