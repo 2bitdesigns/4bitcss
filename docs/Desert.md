@@ -1,5 +1,6 @@
 ---
 stylesheet: Desert.css
+colorSchemeName: Desert
 image: Desert.png
 description: Desert color scheme
 ---
