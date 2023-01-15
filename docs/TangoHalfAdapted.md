@@ -1,5 +1,6 @@
 ---
 stylesheet: TangoHalfAdapted.css
+colorSchemeName: Tango Half Adapted
 image: TangoHalfAdapted.png
 description: Tango Half Adapted color scheme
 ---
