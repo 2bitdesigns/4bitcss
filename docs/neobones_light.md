@@ -1,6 +1,7 @@
 ---
 stylesheet: neobones_light.css
 colorSchemeName: neobones_light
+colorSchemeFileName: neobones_light
 image: neobones_light.png
 description: neobones_light color scheme
 ---
