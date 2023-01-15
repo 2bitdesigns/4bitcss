@@ -1,6 +1,7 @@
 ---
 stylesheet: IC_Orange_PPL.css
 colorSchemeName: IC_Orange_PPL
+colorSchemeFileName: IC_Orange_PPL
 image: IC_Orange_PPL.png
 description: IC_Orange_PPL color scheme
 ---
