@@ -1,6 +1,7 @@
 ---
 stylesheet: midnight-in-mojave.css
 colorSchemeName: midnight-in-mojave
+colorSchemeFileName: midnight-in-mojave
 image: midnight-in-mojave.png
 description: midnight-in-mojave color scheme
 ---
