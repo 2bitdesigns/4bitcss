@@ -1,5 +1,6 @@
 ---
 stylesheet: Relaxed.css
+colorSchemeName: Relaxed
 image: Relaxed.png
 description: Relaxed color scheme
 ---
