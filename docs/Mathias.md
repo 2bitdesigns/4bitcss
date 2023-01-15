@@ -1,6 +1,7 @@
 ---
 stylesheet: Mathias.css
 colorSchemeName: Mathias
+colorSchemeFileName: Mathias
 image: Mathias.png
 description: Mathias color scheme
 ---
