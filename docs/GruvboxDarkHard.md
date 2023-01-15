@@ -1,6 +1,7 @@
 ---
 stylesheet: GruvboxDarkHard.css
 colorSchemeName: GruvboxDarkHard
+colorSchemeFileName: GruvboxDarkHard
 image: GruvboxDarkHard.png
 description: GruvboxDarkHard color scheme
 ---
