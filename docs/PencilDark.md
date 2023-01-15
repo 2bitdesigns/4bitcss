@@ -1,6 +1,7 @@
 ---
 stylesheet: PencilDark.css
 colorSchemeName: PencilDark
+colorSchemeFileName: PencilDark
 image: PencilDark.png
 description: PencilDark color scheme
 ---
