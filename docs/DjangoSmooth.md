@@ -1,5 +1,6 @@
 ---
 stylesheet: DjangoSmooth.css
+colorSchemeName: DjangoSmooth
 image: DjangoSmooth.png
 description: DjangoSmooth color scheme
 ---
