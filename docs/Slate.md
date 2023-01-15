@@ -1,5 +1,6 @@
 ---
 stylesheet: Slate.css
+colorSchemeName: Slate
 image: Slate.png
 description: Slate color scheme
 ---
