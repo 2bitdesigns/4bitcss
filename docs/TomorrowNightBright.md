@@ -1,6 +1,7 @@
 ---
 stylesheet: TomorrowNightBright.css
 colorSchemeName: Tomorrow Night Bright
+colorSchemeFileName: TomorrowNightBright
 image: TomorrowNightBright.png
 description: Tomorrow Night Bright color scheme
 ---
