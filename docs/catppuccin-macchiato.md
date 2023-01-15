@@ -1,5 +1,6 @@
 ---
 stylesheet: catppuccin-macchiato.css
+colorSchemeName: catppuccin-macchiato
 image: catppuccin-macchiato.png
 description: catppuccin-macchiato color scheme
 ---
