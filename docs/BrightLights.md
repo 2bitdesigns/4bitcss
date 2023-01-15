@@ -1,6 +1,7 @@
 ---
 stylesheet: BrightLights.css
 colorSchemeName: Bright Lights
+colorSchemeFileName: BrightLights
 image: BrightLights.png
 description: Bright Lights color scheme
 ---
