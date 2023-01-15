@@ -1,5 +1,6 @@
 ---
 stylesheet: Konsolas.css
+colorSchemeName: Konsolas
 image: Konsolas.png
 description: Konsolas color scheme
 ---
