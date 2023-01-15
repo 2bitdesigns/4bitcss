@@ -1,5 +1,6 @@
 ---
 stylesheet: ChallengerDeep.css
+colorSchemeName: ChallengerDeep
 image: ChallengerDeep.png
 description: ChallengerDeep color scheme
 ---
