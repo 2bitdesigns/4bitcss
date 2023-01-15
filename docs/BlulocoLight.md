@@ -1,5 +1,6 @@
 ---
 stylesheet: BlulocoLight.css
+colorSchemeName: BlulocoLight
 image: BlulocoLight.png
 description: BlulocoLight color scheme
 ---
