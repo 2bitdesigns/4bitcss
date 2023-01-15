@@ -1,6 +1,7 @@
 ---
 stylesheet: primary.css
 colorSchemeName: primary
+colorSchemeFileName: primary
 image: primary.png
 description: primary color scheme
 ---
