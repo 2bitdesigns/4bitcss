@@ -1,6 +1,7 @@
 ---
 stylesheet: Hivacruz.css
 colorSchemeName: Hivacruz
+colorSchemeFileName: Hivacruz
 image: Hivacruz.png
 description: Hivacruz color scheme
 ---
