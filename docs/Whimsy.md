@@ -1,5 +1,6 @@
 ---
 stylesheet: Whimsy.css
+colorSchemeName: Whimsy
 image: Whimsy.png
 description: Whimsy color scheme
 ---
