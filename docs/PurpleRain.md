@@ -1,6 +1,7 @@
 ---
 stylesheet: PurpleRain.css
 colorSchemeName: Purple Rain
+colorSchemeFileName: PurpleRain
 image: PurpleRain.png
 description: Purple Rain color scheme
 ---
