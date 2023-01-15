@@ -1,6 +1,7 @@
 ---
 stylesheet: Floraverse.css
 colorSchemeName: Floraverse
+colorSchemeFileName: Floraverse
 image: Floraverse.png
 description: Floraverse color scheme
 ---
