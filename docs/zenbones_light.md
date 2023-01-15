@@ -1,6 +1,7 @@
 ---
 stylesheet: zenbones_light.css
 colorSchemeName: zenbones_light
+colorSchemeFileName: zenbones_light
 image: zenbones_light.png
 description: zenbones_light color scheme
 ---
