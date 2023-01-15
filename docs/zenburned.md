@@ -1,5 +1,6 @@
 ---
 stylesheet: zenburned.css
+colorSchemeName: zenburned
 image: zenburned.png
 description: zenburned color scheme
 ---
