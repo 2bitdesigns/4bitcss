@@ -1,5 +1,6 @@
 ---
 stylesheet: ParaisoDark.css
+colorSchemeName: Paraiso Dark
 image: ParaisoDark.png
 description: Paraiso Dark color scheme
 ---
