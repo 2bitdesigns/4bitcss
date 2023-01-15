@@ -1,6 +1,7 @@
 ---
 stylesheet: iceberg-dark.css
 colorSchemeName: iceberg-dark
+colorSchemeFileName: iceberg-dark
 image: iceberg-dark.png
 description: iceberg-dark color scheme
 ---
