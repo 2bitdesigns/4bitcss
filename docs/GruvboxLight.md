@@ -1,5 +1,6 @@
 ---
 stylesheet: GruvboxLight.css
+colorSchemeName: Gruvbox Light
 image: GruvboxLight.png
 description: Gruvbox Light color scheme
 ---
