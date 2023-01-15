@@ -1,6 +1,7 @@
 ---
 stylesheet: Unikitty.css
 colorSchemeName: Unikitty
+colorSchemeFileName: Unikitty
 image: Unikitty.png
 description: Unikitty color scheme
 ---
