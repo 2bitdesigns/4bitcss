@@ -1,6 +1,7 @@
 ---
 stylesheet: Alabaster.css
 colorSchemeName: Alabaster
+colorSchemeFileName: Alabaster
 image: Alabaster.png
 description: Alabaster color scheme
 ---
