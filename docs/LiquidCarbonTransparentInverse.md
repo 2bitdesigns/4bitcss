@@ -1,6 +1,7 @@
 ---
 stylesheet: LiquidCarbonTransparentInverse.css
 colorSchemeName: LiquidCarbonTransparentInverse
+colorSchemeFileName: LiquidCarbonTransparentInverse
 image: LiquidCarbonTransparentInverse.png
 description: LiquidCarbonTransparentInverse color scheme
 ---
