@@ -1,5 +1,6 @@
 ---
 stylesheet: Urple.css
+colorSchemeName: Urple
 image: Urple.png
 description: Urple color scheme
 ---
