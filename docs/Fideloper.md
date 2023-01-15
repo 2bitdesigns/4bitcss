@@ -1,6 +1,7 @@
 ---
 stylesheet: Fideloper.css
 colorSchemeName: Fideloper
+colorSchemeFileName: Fideloper
 image: Fideloper.png
 description: Fideloper color scheme
 ---
