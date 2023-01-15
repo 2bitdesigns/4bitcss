@@ -1,6 +1,7 @@
 ---
 stylesheet: Fahrenheit.css
 colorSchemeName: Fahrenheit
+colorSchemeFileName: Fahrenheit
 image: Fahrenheit.png
 description: Fahrenheit color scheme
 ---
