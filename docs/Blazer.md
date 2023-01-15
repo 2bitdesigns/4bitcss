@@ -1,5 +1,6 @@
 ---
 stylesheet: Blazer.css
+colorSchemeName: Blazer
 image: Blazer.png
 description: Blazer color scheme
 ---
