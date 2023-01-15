@@ -1,5 +1,6 @@
 ---
 stylesheet: DotGov.css
+colorSchemeName: DotGov
 image: DotGov.png
 description: DotGov color scheme
 ---
