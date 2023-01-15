@@ -1,6 +1,7 @@
 ---
 stylesheet: OneHalfLight.css
 colorSchemeName: OneHalfLight
+colorSchemeFileName: OneHalfLight
 image: OneHalfLight.png
 description: OneHalfLight color scheme
 ---
