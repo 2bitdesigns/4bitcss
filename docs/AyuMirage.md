@@ -1,5 +1,6 @@
 ---
 stylesheet: AyuMirage.css
+colorSchemeName: Ayu Mirage
 image: AyuMirage.png
 description: Ayu Mirage color scheme
 ---
