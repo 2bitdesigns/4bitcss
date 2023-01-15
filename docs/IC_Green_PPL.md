@@ -1,6 +1,7 @@
 ---
 stylesheet: IC_Green_PPL.css
 colorSchemeName: IC_Green_PPL
+colorSchemeFileName: IC_Green_PPL
 image: IC_Green_PPL.png
 description: IC_Green_PPL color scheme
 ---
