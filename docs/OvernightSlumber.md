@@ -1,5 +1,6 @@
 ---
 stylesheet: OvernightSlumber.css
+colorSchemeName: Overnight Slumber
 image: OvernightSlumber.png
 description: Overnight Slumber color scheme
 ---
