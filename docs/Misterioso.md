@@ -1,6 +1,7 @@
 ---
 stylesheet: Misterioso.css
 colorSchemeName: Misterioso
+colorSchemeFileName: Misterioso
 image: Misterioso.png
 description: Misterioso color scheme
 ---
