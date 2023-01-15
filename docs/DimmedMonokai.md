@@ -1,5 +1,6 @@
 ---
 stylesheet: DimmedMonokai.css
+colorSchemeName: DimmedMonokai
 image: DimmedMonokai.png
 description: DimmedMonokai color scheme
 ---
