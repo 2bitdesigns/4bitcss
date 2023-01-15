@@ -1,6 +1,7 @@
 ---
 stylesheet: Sundried.css
 colorSchemeName: Sundried
+colorSchemeFileName: Sundried
 image: Sundried.png
 description: Sundried color scheme
 ---
