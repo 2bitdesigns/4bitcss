@@ -1,6 +1,7 @@
 ---
 stylesheet: Espresso.css
 colorSchemeName: Espresso
+colorSchemeFileName: Espresso
 image: Espresso.png
 description: Espresso color scheme
 ---
