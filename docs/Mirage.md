@@ -1,5 +1,6 @@
 ---
 stylesheet: Mirage.css
+colorSchemeName: Mirage
 image: Mirage.png
 description: Mirage color scheme
 ---
