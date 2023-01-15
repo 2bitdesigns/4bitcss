@@ -1,6 +1,7 @@
 ---
 stylesheet: BananaBlueberry.css
 colorSchemeName: Banana Blueberry
+colorSchemeFileName: BananaBlueberry
 image: BananaBlueberry.png
 description: Banana Blueberry color scheme
 ---
