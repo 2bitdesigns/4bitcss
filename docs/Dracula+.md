@@ -1,6 +1,7 @@
 ---
 stylesheet: Dracula+.css
 colorSchemeName: Dracula+
+colorSchemeFileName: Dracula+
 image: Dracula+.png
 description: Dracula+ color scheme
 ---
