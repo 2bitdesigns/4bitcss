@@ -1,6 +1,7 @@
 ---
 stylesheet: DoomPeacock.css
 colorSchemeName: Doom Peacock
+colorSchemeFileName: DoomPeacock
 image: DoomPeacock.png
 description: Doom Peacock color scheme
 ---
