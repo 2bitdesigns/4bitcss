@@ -1,6 +1,7 @@
 ---
 stylesheet: Broadcast.css
 colorSchemeName: Broadcast
+colorSchemeFileName: Broadcast
 image: Broadcast.png
 description: Broadcast color scheme
 ---
