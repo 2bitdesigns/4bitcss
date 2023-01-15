@@ -1,6 +1,7 @@
 ---
 stylesheet: Twilight.css
 colorSchemeName: Twilight
+colorSchemeFileName: Twilight
 image: Twilight.png
 description: Twilight color scheme
 ---
