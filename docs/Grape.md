@@ -1,6 +1,7 @@
 ---
 stylesheet: Grape.css
 colorSchemeName: Grape
+colorSchemeFileName: Grape
 image: Grape.png
 description: Grape color scheme
 ---
