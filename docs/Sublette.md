@@ -1,6 +1,7 @@
 ---
 stylesheet: Sublette.css
 colorSchemeName: Sublette
+colorSchemeFileName: Sublette
 image: Sublette.png
 description: Sublette color scheme
 ---
