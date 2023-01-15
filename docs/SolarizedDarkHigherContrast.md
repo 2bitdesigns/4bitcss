@@ -1,6 +1,7 @@
 ---
 stylesheet: SolarizedDarkHigherContrast.css
 colorSchemeName: Solarized Dark Higher Contrast
+colorSchemeFileName: SolarizedDarkHigherContrast
 image: SolarizedDarkHigherContrast.png
 description: Solarized Dark Higher Contrast color scheme
 ---
