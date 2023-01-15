@@ -1,6 +1,7 @@
 ---
 stylesheet: Ciapre.css
 colorSchemeName: Ciapre
+colorSchemeFileName: Ciapre
 image: Ciapre.png
 description: Ciapre color scheme
 ---
