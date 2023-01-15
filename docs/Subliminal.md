@@ -1,5 +1,6 @@
 ---
 stylesheet: Subliminal.css
+colorSchemeName: Subliminal
 image: Subliminal.png
 description: Subliminal color scheme
 ---
