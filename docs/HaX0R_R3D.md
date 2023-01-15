@@ -1,6 +1,7 @@
 ---
 stylesheet: HaX0R_R3D.css
 colorSchemeName: HaX0R_R3D
+colorSchemeFileName: HaX0R_R3D
 image: HaX0R_R3D.png
 description: HaX0R_R3D color scheme
 ---
