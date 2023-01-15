@@ -1,5 +1,6 @@
 ---
 stylesheet: Darkside.css
+colorSchemeName: Darkside
 image: Darkside.png
 description: Darkside color scheme
 ---
