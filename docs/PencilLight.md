@@ -1,6 +1,7 @@
 ---
 stylesheet: PencilLight.css
 colorSchemeName: PencilLight
+colorSchemeFileName: PencilLight
 image: PencilLight.png
 description: PencilLight color scheme
 ---
