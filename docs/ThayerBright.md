@@ -1,6 +1,7 @@
 ---
 stylesheet: ThayerBright.css
 colorSchemeName: Thayer Bright
+colorSchemeFileName: ThayerBright
 image: ThayerBright.png
 description: Thayer Bright color scheme
 ---
