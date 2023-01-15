@@ -1,6 +1,7 @@
 ---
 stylesheet: zenwritten_dark.css
 colorSchemeName: zenwritten_dark
+colorSchemeFileName: zenwritten_dark
 image: zenwritten_dark.png
 description: zenwritten_dark color scheme
 ---
