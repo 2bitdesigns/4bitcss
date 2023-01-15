@@ -1,6 +1,7 @@
 ---
 stylesheet: Elementary.css
 colorSchemeName: Elementary
+colorSchemeFileName: Elementary
 image: Elementary.png
 description: Elementary color scheme
 ---
