@@ -1,6 +1,7 @@
 ---
 stylesheet: Raycast_Dark.css
 colorSchemeName: Raycast_Dark
+colorSchemeFileName: Raycast_Dark
 image: Raycast_Dark.png
 description: Raycast_Dark color scheme
 ---
