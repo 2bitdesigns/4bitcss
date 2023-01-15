@@ -1,5 +1,6 @@
 ---
 stylesheet: Chalk.css
+colorSchemeName: Chalk
 image: Chalk.png
 description: Chalk color scheme
 ---
