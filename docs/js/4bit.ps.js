@@ -51,6 +51,11 @@ function switchTheme(themeName) {
     if (colorSchemeNameLink) {
         colorSchemeNameLink.href = "https://4bitcss.com/" + foundTheme;
     }
+
+    var themeSelector = document.getElementById("themeSelector");
+    if (themeSelector) {
+        themeSelector.value = themeName;
+    }
 }
 
 function getCSSVariable(name) {
