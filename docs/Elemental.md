@@ -1,6 +1,7 @@
 ---
 stylesheet: Elemental.css
 colorSchemeName: Elemental
+colorSchemeFileName: Elemental
 image: Elemental.png
 description: Elemental color scheme
 ---
