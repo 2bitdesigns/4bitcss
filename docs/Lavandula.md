@@ -1,6 +1,7 @@
 ---
 stylesheet: Lavandula.css
 colorSchemeName: Lavandula
+colorSchemeFileName: Lavandula
 image: Lavandula.png
 description: Lavandula color scheme
 ---
