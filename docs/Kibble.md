@@ -1,6 +1,7 @@
 ---
 stylesheet: Kibble.css
 colorSchemeName: Kibble
+colorSchemeFileName: Kibble
 image: Kibble.png
 description: Kibble color scheme
 ---
