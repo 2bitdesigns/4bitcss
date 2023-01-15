@@ -1,6 +1,7 @@
 ---
 stylesheet: Novel.css
 colorSchemeName: Novel
+colorSchemeFileName: Novel
 image: Novel.png
 description: Novel color scheme
 ---
