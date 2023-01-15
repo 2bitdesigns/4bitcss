@@ -1,5 +1,6 @@
 ---
 stylesheet: Zenburn.css
+colorSchemeName: Zenburn
 image: Zenburn.png
 description: Zenburn color scheme
 ---
