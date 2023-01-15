@@ -1,5 +1,6 @@
 ---
 stylesheet: EspressoLibre.css
+colorSchemeName: Espresso Libre
 image: EspressoLibre.png
 description: Espresso Libre color scheme
 ---
