@@ -1,5 +1,6 @@
 ---
 stylesheet: Jellybeans.css
+colorSchemeName: Jellybeans
 image: Jellybeans.png
 description: Jellybeans color scheme
 ---
