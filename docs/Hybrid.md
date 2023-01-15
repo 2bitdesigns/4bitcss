@@ -1,5 +1,6 @@
 ---
 stylesheet: Hybrid.css
+colorSchemeName: Hybrid
 image: Hybrid.png
 description: Hybrid color scheme
 ---
