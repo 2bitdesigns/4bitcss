@@ -1,5 +1,6 @@
 ---
 stylesheet: CobaltNeon.css
+colorSchemeName: Cobalt Neon
 image: CobaltNeon.png
 description: Cobalt Neon color scheme
 ---
