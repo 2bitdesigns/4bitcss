@@ -1,6 +1,7 @@
 ---
 stylesheet: Flatland.css
 colorSchemeName: Flatland
+colorSchemeFileName: Flatland
 image: Flatland.png
 description: Flatland color scheme
 ---
