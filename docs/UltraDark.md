@@ -1,5 +1,6 @@
 ---
 stylesheet: UltraDark.css
+colorSchemeName: UltraDark
 image: UltraDark.png
 description: UltraDark color scheme
 ---
