@@ -1,6 +1,7 @@
 ---
 stylesheet: MaterialDark.css
 colorSchemeName: MaterialDark
+colorSchemeFileName: MaterialDark
 image: MaterialDark.png
 description: MaterialDark color scheme
 ---
