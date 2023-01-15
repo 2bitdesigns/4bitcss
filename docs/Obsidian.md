@@ -1,5 +1,6 @@
 ---
 stylesheet: Obsidian.css
+colorSchemeName: Obsidian
 image: Obsidian.png
 description: Obsidian color scheme
 ---
