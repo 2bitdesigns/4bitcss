@@ -1,6 +1,7 @@
 ---
 stylesheet: Hopscotch.css
 colorSchemeName: Hopscotch
+colorSchemeFileName: Hopscotch
 image: Hopscotch.png
 description: Hopscotch color scheme
 ---
