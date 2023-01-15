@@ -1,6 +1,7 @@
 ---
 stylesheet: TinaciousDesign(Light).css
 colorSchemeName: Tinacious Design (Light)
+colorSchemeFileName: TinaciousDesign(Light)
 image: TinaciousDesign(Light).png
 description: Tinacious Design (Light) color scheme
 ---
