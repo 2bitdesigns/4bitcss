@@ -1,5 +1,6 @@
 ---
 stylesheet: tokyonight-day.css
+colorSchemeName: tokyonight-day
 image: tokyonight-day.png
 description: tokyonight-day color scheme
 ---
