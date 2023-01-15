@@ -1,5 +1,6 @@
 ---
 stylesheet: CLRS.css
+colorSchemeName: CLRS
 image: CLRS.png
 description: CLRS color scheme
 ---
