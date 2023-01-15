@@ -1,5 +1,6 @@
 ---
 stylesheet: Wez.css
+colorSchemeName: Wez
 image: Wez.png
 description: Wez color scheme
 ---
