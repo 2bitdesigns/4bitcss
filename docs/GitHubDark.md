@@ -1,5 +1,6 @@
 ---
 stylesheet: GitHubDark.css
+colorSchemeName: GitHub Dark
 image: GitHubDark.png
 description: GitHub Dark color scheme
 ---
