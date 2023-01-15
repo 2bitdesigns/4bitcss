@@ -1,5 +1,6 @@
 ---
 stylesheet: ForestBlue.css
+colorSchemeName: ForestBlue
 image: ForestBlue.png
 description: ForestBlue color scheme
 ---
