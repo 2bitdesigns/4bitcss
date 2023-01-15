@@ -1,6 +1,7 @@
 ---
 stylesheet: BlueDolphin.css
 colorSchemeName: BlueDolphin
+colorSchemeFileName: BlueDolphin
 image: BlueDolphin.png
 description: BlueDolphin color scheme
 ---
