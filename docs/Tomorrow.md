@@ -1,6 +1,7 @@
 ---
 stylesheet: Tomorrow.css
 colorSchemeName: Tomorrow
+colorSchemeFileName: Tomorrow
 image: Tomorrow.png
 description: Tomorrow color scheme
 ---
