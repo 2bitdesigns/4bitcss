@@ -1,6 +1,7 @@
 ---
 stylesheet: Homebrew.css
 colorSchemeName: Homebrew
+colorSchemeFileName: Homebrew
 image: Homebrew.png
 description: Homebrew color scheme
 ---
