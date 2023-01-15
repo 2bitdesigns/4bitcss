@@ -1,6 +1,7 @@
 ---
 stylesheet: PaleNightHC.css
 colorSchemeName: PaleNightHC
+colorSchemeFileName: PaleNightHC
 image: PaleNightHC.png
 description: PaleNightHC color scheme
 ---
