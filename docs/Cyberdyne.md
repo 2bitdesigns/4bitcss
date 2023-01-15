@@ -1,6 +1,7 @@
 ---
 stylesheet: Cyberdyne.css
 colorSchemeName: Cyberdyne
+colorSchemeFileName: Cyberdyne
 image: Cyberdyne.png
 description: Cyberdyne color scheme
 ---
