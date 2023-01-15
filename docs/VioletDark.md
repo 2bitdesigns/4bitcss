@@ -1,5 +1,6 @@
 ---
 stylesheet: VioletDark.css
+colorSchemeName: Violet Dark
 image: VioletDark.png
 description: Violet Dark color scheme
 ---
