@@ -171,6 +171,7 @@ Get-Content -Path $path -Raw
         <input type="button" onclick="feelingLucky(document.getElementById('themeSelector'));" value="Feeling Lucky" />
         <input type="button" onclick="saveTheme();" value="Save Theme" />
         <input type="button" onclick="loadTheme(document.getElementById('themeSelector'));" value="Load Theme" />
+        
         <script type="text/javascript">
           var themeSelector = document.getElementById("themeSelector");
           var themes = themeList();
@@ -179,9 +180,21 @@ Get-Content -Path $path -Raw
             opt.value = themes[theme];
             opt.innerHTML = themes[theme];
             themeSelector.append(opt);            
-          }      
-          loadTheme(document.getElementById('themeSelector'))
-        </script>        
+          }                
+        </script>
+        {% if page.stylesheet %}
+        <script type="text/javascript" />
+        themeSelector.value = "{{page.stylesheet}}";
+        </script>
+        {% else %}
+        <script type="text/javascript" />
+        themeSelector.value = "Konsolas";
+        </script>
+        <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
+        {% endif %}
+        <script type="text/javascript" />
+        loadTheme(document.getElementById('themeSelector'))
+        </script>
       </div>
     </div>
 </body>
