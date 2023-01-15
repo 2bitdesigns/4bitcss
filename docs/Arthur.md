@@ -1,5 +1,6 @@
 ---
 stylesheet: Arthur.css
+colorSchemeName: Arthur
 image: Arthur.png
 description: Arthur color scheme
 ---
