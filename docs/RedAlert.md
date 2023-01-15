@@ -1,5 +1,6 @@
 ---
 stylesheet: RedAlert.css
+colorSchemeName: Red Alert
 image: RedAlert.png
 description: Red Alert color scheme
 ---
