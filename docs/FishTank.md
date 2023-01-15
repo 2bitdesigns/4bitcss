@@ -1,5 +1,6 @@
 ---
 stylesheet: FishTank.css
+colorSchemeName: FishTank
 image: FishTank.png
 description: FishTank color scheme
 ---
