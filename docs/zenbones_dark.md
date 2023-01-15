@@ -1,5 +1,6 @@
 ---
 stylesheet: zenbones_dark.css
+colorSchemeName: zenbones_dark
 image: zenbones_dark.png
 description: zenbones_dark color scheme
 ---
