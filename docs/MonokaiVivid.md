@@ -1,5 +1,6 @@
 ---
 stylesheet: MonokaiVivid.css
+colorSchemeName: Monokai Vivid
 image: MonokaiVivid.png
 description: Monokai Vivid color scheme
 ---
