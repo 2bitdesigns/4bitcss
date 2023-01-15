@@ -1,6 +1,7 @@
 ---
 stylesheet: Spring.css
 colorSchemeName: Spring
+colorSchemeFileName: Spring
 image: Spring.png
 description: Spring color scheme
 ---
