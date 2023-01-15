@@ -1,5 +1,6 @@
 ---
 stylesheet: Hacktober.css
+colorSchemeName: Hacktober
 image: Hacktober.png
 description: Hacktober color scheme
 ---
