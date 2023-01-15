@@ -1,6 +1,7 @@
 ---
 stylesheet: Dark+.css
 colorSchemeName: Dark+
+colorSchemeFileName: Dark+
 image: Dark+.png
 description: Dark+ color scheme
 ---
