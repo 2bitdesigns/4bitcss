@@ -1,6 +1,7 @@
 ---
 stylesheet: kanagawabones.css
 colorSchemeName: kanagawabones
+colorSchemeFileName: kanagawabones
 image: kanagawabones.png
 description: kanagawabones color scheme
 ---
