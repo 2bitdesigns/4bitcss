@@ -1,5 +1,6 @@
 ---
 stylesheet: Borland.css
+colorSchemeName: Borland
 image: Borland.png
 description: Borland color scheme
 ---
