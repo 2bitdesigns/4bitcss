@@ -1,6 +1,7 @@
 ---
 stylesheet: SynthwaveAlpha.css
 colorSchemeName: SynthwaveAlpha
+colorSchemeFileName: SynthwaveAlpha
 image: SynthwaveAlpha.png
 description: SynthwaveAlpha color scheme
 ---
