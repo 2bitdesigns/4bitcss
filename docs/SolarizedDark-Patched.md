@@ -1,6 +1,7 @@
 ---
 stylesheet: SolarizedDark-Patched.css
 colorSchemeName: Solarized Dark - Patched
+colorSchemeFileName: SolarizedDark-Patched
 image: SolarizedDark-Patched.png
 description: Solarized Dark - Patched color scheme
 ---
