@@ -1,5 +1,6 @@
 ---
 stylesheet: arcoiris.css
+colorSchemeName: arcoiris
 image: arcoiris.png
 description: arcoiris color scheme
 ---
