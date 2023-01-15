@@ -1,6 +1,7 @@
 ---
 stylesheet: synthwave-everything.css
 colorSchemeName: synthwave-everything
+colorSchemeFileName: synthwave-everything
 image: synthwave-everything.png
 description: synthwave-everything color scheme
 ---
