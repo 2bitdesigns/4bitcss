@@ -1,5 +1,6 @@
 ---
 stylesheet: darkmatrix.css
+colorSchemeName: darkmatrix
 image: darkmatrix.png
 description: darkmatrix color scheme
 ---
