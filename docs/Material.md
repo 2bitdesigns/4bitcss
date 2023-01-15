@@ -1,5 +1,6 @@
 ---
 stylesheet: Material.css
+colorSchemeName: Material
 image: Material.png
 description: Material color scheme
 ---
