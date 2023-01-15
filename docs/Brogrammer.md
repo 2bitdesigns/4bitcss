@@ -1,6 +1,7 @@
 ---
 stylesheet: Brogrammer.css
 colorSchemeName: Brogrammer
+colorSchemeFileName: Brogrammer
 image: Brogrammer.png
 description: Brogrammer color scheme
 ---
