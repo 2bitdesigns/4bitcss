@@ -1,5 +1,6 @@
 ---
 stylesheet: Galizur.css
+colorSchemeName: Galizur
 image: Galizur.png
 description: Galizur color scheme
 ---
