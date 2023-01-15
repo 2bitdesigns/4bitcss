@@ -1,5 +1,6 @@
 ---
 stylesheet: JetBrainsDarcula.css
+colorSchemeName: JetBrains Darcula
 image: JetBrainsDarcula.png
 description: JetBrains Darcula color scheme
 ---
