@@ -1,5 +1,6 @@
 ---
 stylesheet: Oceanic-Next.css
+colorSchemeName: Oceanic-Next
 image: Oceanic-Next.png
 description: Oceanic-Next color scheme
 ---
