@@ -1,5 +1,6 @@
 ---
 stylesheet: LabFox.css
+colorSchemeName: Lab Fox
 image: LabFox.png
 description: Lab Fox color scheme
 ---
