@@ -1,5 +1,6 @@
 ---
 stylesheet: TinaciousDesign(Dark).css
+colorSchemeName: Tinacious Design (Dark)
 image: TinaciousDesign(Dark).png
 description: Tinacious Design (Dark) color scheme
 ---
