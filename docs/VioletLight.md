@@ -1,6 +1,7 @@
 ---
 stylesheet: VioletLight.css
 colorSchemeName: Violet Light
+colorSchemeFileName: VioletLight
 image: VioletLight.png
 description: Violet Light color scheme
 ---
