@@ -1,6 +1,7 @@
 ---
 stylesheet: Mariana.css
 colorSchemeName: Mariana
+colorSchemeFileName: Mariana
 image: Mariana.png
 description: Mariana color scheme
 ---
