@@ -1,6 +1,7 @@
 ---
 stylesheet: Peppermint.css
 colorSchemeName: Peppermint
+colorSchemeFileName: Peppermint
 image: Peppermint.png
 description: Peppermint color scheme
 ---
