@@ -1,5 +1,6 @@
 ---
 stylesheet: NightOwlishLight.css
+colorSchemeName: Night Owlish Light
 image: NightOwlishLight.png
 description: Night Owlish Light color scheme
 ---
