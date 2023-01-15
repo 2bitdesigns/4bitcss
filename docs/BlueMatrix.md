@@ -1,5 +1,6 @@
 ---
 stylesheet: BlueMatrix.css
+colorSchemeName: Blue Matrix
 image: BlueMatrix.png
 description: Blue Matrix color scheme
 ---
