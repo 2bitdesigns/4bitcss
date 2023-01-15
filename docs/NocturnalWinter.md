@@ -1,6 +1,7 @@
 ---
 stylesheet: NocturnalWinter.css
 colorSchemeName: Nocturnal Winter
+colorSchemeFileName: NocturnalWinter
 image: NocturnalWinter.png
 description: Nocturnal Winter color scheme
 ---
