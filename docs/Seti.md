@@ -1,6 +1,7 @@
 ---
 stylesheet: Seti.css
 colorSchemeName: Seti
+colorSchemeFileName: Seti
 image: Seti.png
 description: Seti color scheme
 ---
