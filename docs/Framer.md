@@ -1,6 +1,7 @@
 ---
 stylesheet: Framer.css
 colorSchemeName: Framer
+colorSchemeFileName: Framer
 image: Framer.png
 description: Framer color scheme
 ---
