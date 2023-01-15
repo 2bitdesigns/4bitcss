@@ -1,6 +1,7 @@
 ---
 stylesheet: SeafoamPastel.css
 colorSchemeName: Seafoam Pastel
+colorSchemeFileName: SeafoamPastel
 image: SeafoamPastel.png
 description: Seafoam Pastel color scheme
 ---
