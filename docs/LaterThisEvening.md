@@ -1,5 +1,6 @@
 ---
 stylesheet: LaterThisEvening.css
+colorSchemeName: Later This Evening
 image: LaterThisEvening.png
 description: Later This Evening color scheme
 ---
