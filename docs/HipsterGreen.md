@@ -1,5 +1,6 @@
 ---
 stylesheet: HipsterGreen.css
+colorSchemeName: Hipster Green
 image: HipsterGreen.png
 description: Hipster Green color scheme
 ---
