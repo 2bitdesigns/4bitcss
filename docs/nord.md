@@ -1,5 +1,6 @@
 ---
 stylesheet: nord.css
+colorSchemeName: nord
 image: nord.png
 description: nord color scheme
 ---
