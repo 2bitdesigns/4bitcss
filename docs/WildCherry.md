@@ -1,5 +1,6 @@
 ---
 stylesheet: WildCherry.css
+colorSchemeName: WildCherry
 image: WildCherry.png
 description: WildCherry color scheme
 ---
