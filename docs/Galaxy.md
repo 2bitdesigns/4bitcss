@@ -1,5 +1,6 @@
 ---
 stylesheet: Galaxy.css
+colorSchemeName: Galaxy
 image: Galaxy.png
 description: Galaxy color scheme
 ---
