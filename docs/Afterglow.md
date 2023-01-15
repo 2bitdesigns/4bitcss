@@ -1,5 +1,6 @@
 ---
 stylesheet: Afterglow.css
+colorSchemeName: Afterglow
 image: Afterglow.png
 description: Afterglow color scheme
 ---
