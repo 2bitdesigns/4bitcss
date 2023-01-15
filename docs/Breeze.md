@@ -1,6 +1,7 @@
 ---
 stylesheet: Breeze.css
 colorSchemeName: Breeze
+colorSchemeFileName: Breeze
 image: Breeze.png
 description: Breeze color scheme
 ---
