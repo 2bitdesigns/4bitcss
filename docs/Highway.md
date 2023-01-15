@@ -1,6 +1,7 @@
 ---
 stylesheet: Highway.css
 colorSchemeName: Highway
+colorSchemeFileName: Highway
 image: Highway.png
 description: Highway color scheme
 ---
