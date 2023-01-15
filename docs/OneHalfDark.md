@@ -1,5 +1,6 @@
 ---
 stylesheet: OneHalfDark.css
+colorSchemeName: OneHalfDark
 image: OneHalfDark.png
 description: OneHalfDark color scheme
 ---
