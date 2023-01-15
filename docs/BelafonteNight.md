@@ -1,6 +1,7 @@
 ---
 stylesheet: BelafonteNight.css
 colorSchemeName: Belafonte Night
+colorSchemeFileName: BelafonteNight
 image: BelafonteNight.png
 description: Belafonte Night color scheme
 ---
