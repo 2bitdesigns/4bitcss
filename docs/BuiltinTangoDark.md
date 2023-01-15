@@ -1,5 +1,6 @@
 ---
 stylesheet: BuiltinTangoDark.css
+colorSchemeName: Builtin Tango Dark
 image: BuiltinTangoDark.png
 description: Builtin Tango Dark color scheme
 ---
