@@ -1,5 +1,6 @@
 ---
 stylesheet: Ubuntu.css
+colorSchemeName: Ubuntu
 image: Ubuntu.png
 description: Ubuntu color scheme
 ---
