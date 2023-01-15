@@ -1,6 +1,7 @@
 ---
 stylesheet: BuiltinSolarizedDark.css
 colorSchemeName: Builtin Solarized Dark
+colorSchemeFileName: BuiltinSolarizedDark
 image: BuiltinSolarizedDark.png
 description: Builtin Solarized Dark color scheme
 ---
