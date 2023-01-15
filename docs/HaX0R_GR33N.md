@@ -1,5 +1,6 @@
 ---
 stylesheet: HaX0R_GR33N.css
+colorSchemeName: HaX0R_GR33N
 image: HaX0R_GR33N.png
 description: HaX0R_GR33N color scheme
 ---
