@@ -1,6 +1,7 @@
 ---
 stylesheet: neobones_dark.css
 colorSchemeName: neobones_dark
+colorSchemeFileName: neobones_dark
 image: neobones_dark.png
 description: neobones_dark color scheme
 ---
