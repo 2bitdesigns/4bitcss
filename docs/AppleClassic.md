@@ -1,6 +1,7 @@
 ---
 stylesheet: AppleClassic.css
 colorSchemeName: Apple Classic
+colorSchemeFileName: AppleClassic
 image: AppleClassic.png
 description: Apple Classic color scheme
 ---
