@@ -1,5 +1,6 @@
 ---
 stylesheet: LiquidCarbon.css
+colorSchemeName: LiquidCarbon
 image: LiquidCarbon.png
 description: LiquidCarbon color scheme
 ---
