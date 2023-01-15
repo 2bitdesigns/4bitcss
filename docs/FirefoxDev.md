@@ -1,5 +1,6 @@
 ---
 stylesheet: FirefoxDev.css
+colorSchemeName: FirefoxDev
 image: FirefoxDev.png
 description: FirefoxDev color scheme
 ---
