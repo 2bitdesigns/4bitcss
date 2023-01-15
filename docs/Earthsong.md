@@ -1,5 +1,6 @@
 ---
 stylesheet: Earthsong.css
+colorSchemeName: Earthsong
 image: Earthsong.png
 description: Earthsong color scheme
 ---
