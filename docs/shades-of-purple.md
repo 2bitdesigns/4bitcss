@@ -1,5 +1,6 @@
 ---
 stylesheet: shades-of-purple.css
+colorSchemeName: shades-of-purple
 image: shades-of-purple.png
 description: shades-of-purple color scheme
 ---
