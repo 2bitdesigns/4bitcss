@@ -1,6 +1,7 @@
 ---
 stylesheet: rose-pine.css
 colorSchemeName: rose-pine
+colorSchemeFileName: rose-pine
 image: rose-pine.png
 description: rose-pine color scheme
 ---
