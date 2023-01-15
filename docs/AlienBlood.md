@@ -1,6 +1,7 @@
 ---
 stylesheet: AlienBlood.css
 colorSchemeName: AlienBlood
+colorSchemeFileName: AlienBlood
 image: AlienBlood.png
 description: AlienBlood color scheme
 ---
