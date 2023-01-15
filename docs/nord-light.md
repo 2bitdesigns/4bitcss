@@ -1,5 +1,6 @@
 ---
 stylesheet: nord-light.css
+colorSchemeName: nord-light
 image: nord-light.png
 description: nord-light color scheme
 ---
