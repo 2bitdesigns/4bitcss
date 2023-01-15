@@ -1,6 +1,7 @@
 ---
 stylesheet: iceberg-light.css
 colorSchemeName: iceberg-light
+colorSchemeFileName: iceberg-light
 image: iceberg-light.png
 description: iceberg-light color scheme
 ---
