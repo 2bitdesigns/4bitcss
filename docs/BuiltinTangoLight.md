@@ -1,5 +1,6 @@
 ---
 stylesheet: BuiltinTangoLight.css
+colorSchemeName: Builtin Tango Light
 image: BuiltinTangoLight.png
 description: Builtin Tango Light color scheme
 ---
