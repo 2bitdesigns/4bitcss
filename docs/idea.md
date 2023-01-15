@@ -1,5 +1,6 @@
 ---
 stylesheet: idea.css
+colorSchemeName: idea
 image: idea.png
 description: idea color scheme
 ---
