@@ -138,10 +138,10 @@
 <body class="background foreground">    
     <div style="position: fixed; margin-top: 1%; margin-right: 1%; right:3%; top:3%">
     <!--{
-"<a href='https://github.com/2bitdesigns/4bitcss'>" + $(
-$path = Split-Path $pwd |
-  Join-Path -ChildPath 'github.svg'
-Get-Content -Path $path -Raw
+$gitHubIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg
+      "<a href='https://github.com/2bitdesigns/4bitcss'>" + $(
+$gitHubIcon.svg.path.SetAttribute("class", "foreground-stroke")
+$gitHubIcon.svg.OuterXML
 ) + "</a>"
       }-->
     </div>
