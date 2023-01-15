@@ -1,5 +1,6 @@
 ---
 stylesheet: MaterialDesignColors.css
+colorSchemeName: MaterialDesignColors
 image: MaterialDesignColors.png
 description: MaterialDesignColors color scheme
 ---
