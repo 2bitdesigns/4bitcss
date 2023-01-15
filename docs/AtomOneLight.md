@@ -1,5 +1,6 @@
 ---
 stylesheet: AtomOneLight.css
+colorSchemeName: AtomOneLight
 image: AtomOneLight.png
 description: AtomOneLight color scheme
 ---
