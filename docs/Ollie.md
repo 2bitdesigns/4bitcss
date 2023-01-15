@@ -1,5 +1,6 @@
 ---
 stylesheet: Ollie.css
+colorSchemeName: Ollie
 image: Ollie.png
 description: Ollie color scheme
 ---
