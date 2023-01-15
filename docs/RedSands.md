@@ -1,6 +1,7 @@
 ---
 stylesheet: RedSands.css
 colorSchemeName: Red Sands
+colorSchemeFileName: RedSands
 image: RedSands.png
 description: Red Sands color scheme
 ---
