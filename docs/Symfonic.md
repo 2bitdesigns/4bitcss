@@ -1,6 +1,7 @@
 ---
 stylesheet: Symfonic.css
 colorSchemeName: Symfonic
+colorSchemeFileName: Symfonic
 image: Symfonic.png
 description: Symfonic color scheme
 ---
