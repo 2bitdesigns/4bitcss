@@ -1,5 +1,6 @@
 ---
 stylesheet: coffee_theme.css
+colorSchemeName: coffee_theme
 image: coffee_theme.png
 description: coffee_theme color scheme
 ---
