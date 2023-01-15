@@ -1,5 +1,6 @@
 ---
 stylesheet: Aurora.css
+colorSchemeName: Aurora
 image: Aurora.png
 description: Aurora color scheme
 ---
