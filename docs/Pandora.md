@@ -1,6 +1,7 @@
 ---
 stylesheet: Pandora.css
 colorSchemeName: Pandora
+colorSchemeFileName: Pandora
 image: Pandora.png
 description: Pandora color scheme
 ---
