@@ -1,5 +1,6 @@
 ---
 stylesheet: Rouge2.css
+colorSchemeName: Rouge 2
 image: Rouge2.png
 description: Rouge 2 color scheme
 ---
