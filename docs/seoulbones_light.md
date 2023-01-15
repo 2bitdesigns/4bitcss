@@ -1,5 +1,6 @@
 ---
 stylesheet: seoulbones_light.css
+colorSchemeName: seoulbones_light
 image: seoulbones_light.png
 description: seoulbones_light color scheme
 ---
