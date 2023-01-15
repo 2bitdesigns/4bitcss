@@ -1,5 +1,6 @@
 ---
 stylesheet: jubi.css
+colorSchemeName: jubi
 image: jubi.png
 description: jubi color scheme
 ---
