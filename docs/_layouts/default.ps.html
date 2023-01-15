@@ -182,27 +182,13 @@ Get-Content -Path $path -Raw
             themeSelector.append(opt);            
           }                
         </script>
-        {% if page.stylesheet %}
+        {% if page.colorSchemeName %}
         <script type="text/javascript" />
-        switchTheme("{{page.stylesheet}}");
-        /*for (optIndex = 0 ; optIndex < themeSelector.length; optIndex++) {
-            if (themeSelector.options[optIndex].value == "{{page.stylesheet}}") {
-              themeSelector.options[optIndex].selected = true;
-              break;
-            }
-        }*/
-        //themeSelector[themeSelector.options.indexOf("{{page.stylesheet}}")].selected = true        
+        switchTheme("{{page.colorSchemeName}}");
         </script>
         {% else %}
         <script type="text/javascript" />
         switchTheme("Konsolas");
-        /*
-        for (optIndex = 0 ; optIndex < themeSelector.length; optIndex++) {
-            if (themeSelector.options[optIndex].value == "Konsolas") {
-              themeSelector.options[optIndex].selected = true;
-              break;
-            }
-        }*/
         </script>
         {% endif %}        
       </div>
