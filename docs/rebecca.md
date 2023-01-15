@@ -1,6 +1,7 @@
 ---
 stylesheet: rebecca.css
 colorSchemeName: rebecca
+colorSchemeFileName: rebecca
 image: rebecca.png
 description: rebecca color scheme
 ---
