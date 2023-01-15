@@ -1,6 +1,7 @@
 ---
 stylesheet: FunForrest.css
 colorSchemeName: FunForrest
+colorSchemeFileName: FunForrest
 image: FunForrest.png
 description: FunForrest color scheme
 ---
