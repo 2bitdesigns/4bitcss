@@ -1,5 +1,6 @@
 ---
 stylesheet: TomorrowNightEighties.css
+colorSchemeName: Tomorrow Night Eighties
 image: TomorrowNightEighties.png
 description: Tomorrow Night Eighties color scheme
 ---
