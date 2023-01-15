@@ -1,5 +1,6 @@
 ---
 stylesheet: JackieBrown.css
+colorSchemeName: Jackie Brown
 image: JackieBrown.png
 description: Jackie Brown color scheme
 ---
