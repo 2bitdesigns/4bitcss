@@ -1,6 +1,7 @@
 ---
 stylesheet: Royal.css
 colorSchemeName: Royal
+colorSchemeFileName: Royal
 image: Royal.png
 description: Royal color scheme
 ---
