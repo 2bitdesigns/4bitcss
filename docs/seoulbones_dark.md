@@ -1,5 +1,6 @@
 ---
 stylesheet: seoulbones_dark.css
+colorSchemeName: seoulbones_dark
 image: seoulbones_dark.png
 description: seoulbones_dark color scheme
 ---
