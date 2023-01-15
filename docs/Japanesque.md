@@ -1,6 +1,7 @@
 ---
 stylesheet: Japanesque.css
 colorSchemeName: Japanesque
+colorSchemeFileName: Japanesque
 image: Japanesque.png
 description: Japanesque color scheme
 ---
