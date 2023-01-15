@@ -1,5 +1,6 @@
 ---
 stylesheet: HaX0R_BLUE.css
+colorSchemeName: HaX0R_BLUE
 image: HaX0R_BLUE.png
 description: HaX0R_BLUE color scheme
 ---
