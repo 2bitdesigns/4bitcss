@@ -1,6 +1,7 @@
 ---
 stylesheet: UltraViolent.css
 colorSchemeName: UltraViolent
+colorSchemeFileName: UltraViolent
 image: UltraViolent.png
 description: UltraViolent color scheme
 ---
