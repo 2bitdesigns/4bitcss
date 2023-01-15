@@ -1,5 +1,6 @@
 ---
 stylesheet: zenbones.css
+colorSchemeName: zenbones
 image: zenbones.png
 description: zenbones color scheme
 ---
