@@ -1,5 +1,6 @@
 ---
 stylesheet: SeaShells.css
+colorSchemeName: SeaShells
 image: SeaShells.png
 description: SeaShells color scheme
 ---
