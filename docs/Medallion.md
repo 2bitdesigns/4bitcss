@@ -1,6 +1,7 @@
 ---
 stylesheet: Medallion.css
 colorSchemeName: Medallion
+colorSchemeFileName: Medallion
 image: Medallion.png
 description: Medallion color scheme
 ---
