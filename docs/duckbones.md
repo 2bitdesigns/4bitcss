@@ -1,6 +1,7 @@
 ---
 stylesheet: duckbones.css
 colorSchemeName: duckbones
+colorSchemeFileName: duckbones
 image: duckbones.png
 description: duckbones color scheme
 ---
