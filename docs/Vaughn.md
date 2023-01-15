@@ -1,6 +1,7 @@
 ---
 stylesheet: Vaughn.css
 colorSchemeName: Vaughn
+colorSchemeFileName: Vaughn
 image: Vaughn.png
 description: Vaughn color scheme
 ---
