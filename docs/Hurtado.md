@@ -1,5 +1,6 @@
 ---
 stylesheet: Hurtado.css
+colorSchemeName: Hurtado
 image: Hurtado.png
 description: Hurtado color scheme
 ---
