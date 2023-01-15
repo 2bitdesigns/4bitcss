@@ -1,5 +1,6 @@
 ---
 stylesheet: rose-pine-moon.css
+colorSchemeName: rose-pine-moon
 image: rose-pine-moon.png
 description: rose-pine-moon color scheme
 ---
