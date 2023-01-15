@@ -1,6 +1,7 @@
 ---
 stylesheet: Neopolitan.css
 colorSchemeName: Neopolitan
+colorSchemeFileName: Neopolitan
 image: Neopolitan.png
 description: Neopolitan color scheme
 ---
