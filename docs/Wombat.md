@@ -1,6 +1,7 @@
 ---
 stylesheet: Wombat.css
 colorSchemeName: Wombat
+colorSchemeFileName: Wombat
 image: Wombat.png
 description: Wombat color scheme
 ---
