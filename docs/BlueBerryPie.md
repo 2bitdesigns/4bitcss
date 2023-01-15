@@ -1,5 +1,6 @@
 ---
 stylesheet: BlueBerryPie.css
+colorSchemeName: BlueBerryPie
 image: BlueBerryPie.png
 description: BlueBerryPie color scheme
 ---
