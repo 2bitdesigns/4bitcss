@@ -1,6 +1,7 @@
 ---
 stylesheet: ScarletProtocol.css
 colorSchemeName: Scarlet Protocol
+colorSchemeFileName: ScarletProtocol
 image: ScarletProtocol.png
 description: Scarlet Protocol color scheme
 ---
