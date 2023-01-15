@@ -1,5 +1,6 @@
 ---
 stylesheet: Kolorit.css
+colorSchemeName: Kolorit
 image: Kolorit.png
 description: Kolorit color scheme
 ---
