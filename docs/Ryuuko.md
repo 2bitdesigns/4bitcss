@@ -1,5 +1,6 @@
 ---
 stylesheet: Ryuuko.css
+colorSchemeName: Ryuuko
 image: Ryuuko.png
 description: Ryuuko color scheme
 ---
