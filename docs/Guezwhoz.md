@@ -1,5 +1,6 @@
 ---
 stylesheet: Guezwhoz.css
+colorSchemeName: Guezwhoz
 image: Guezwhoz.png
 description: Guezwhoz color scheme
 ---
