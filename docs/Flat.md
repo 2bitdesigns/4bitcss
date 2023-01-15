@@ -1,5 +1,6 @@
 ---
 stylesheet: Flat.css
+colorSchemeName: Flat
 image: Flat.png
 description: Flat color scheme
 ---
