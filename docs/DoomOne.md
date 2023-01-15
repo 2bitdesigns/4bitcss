@@ -1,6 +1,7 @@
 ---
 stylesheet: DoomOne.css
 colorSchemeName: DoomOne
+colorSchemeFileName: DoomOne
 image: DoomOne.png
 description: DoomOne color scheme
 ---
