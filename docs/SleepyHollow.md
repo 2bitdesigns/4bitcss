@@ -1,6 +1,7 @@
 ---
 stylesheet: SleepyHollow.css
 colorSchemeName: SleepyHollow
+colorSchemeFileName: SleepyHollow
 image: SleepyHollow.png
 description: SleepyHollow color scheme
 ---
