@@ -1,6 +1,7 @@
 ---
 stylesheet: ProLight.css
 colorSchemeName: Pro Light
+colorSchemeFileName: ProLight
 image: ProLight.png
 description: Pro Light color scheme
 ---
