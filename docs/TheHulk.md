@@ -1,5 +1,6 @@
 ---
 stylesheet: TheHulk.css
+colorSchemeName: The Hulk
 image: TheHulk.png
 description: The Hulk color scheme
 ---
