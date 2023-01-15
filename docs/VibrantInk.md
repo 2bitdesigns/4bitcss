@@ -1,5 +1,6 @@
 ---
 stylesheet: VibrantInk.css
+colorSchemeName: VibrantInk
 image: VibrantInk.png
 description: VibrantInk color scheme
 ---
