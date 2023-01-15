@@ -1,6 +1,7 @@
 ---
 stylesheet: Firewatch.css
 colorSchemeName: Firewatch
+colorSchemeFileName: Firewatch
 image: Firewatch.png
 description: Firewatch color scheme
 ---
