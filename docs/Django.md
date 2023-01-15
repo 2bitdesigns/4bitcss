@@ -1,6 +1,7 @@
 ---
 stylesheet: Django.css
 colorSchemeName: Django
+colorSchemeFileName: Django
 image: Django.png
 description: Django color scheme
 ---
