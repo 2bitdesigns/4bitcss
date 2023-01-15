@@ -1,6 +1,7 @@
 ---
 stylesheet: Neutron.css
 colorSchemeName: Neutron
+colorSchemeFileName: Neutron
 image: Neutron.png
 description: Neutron color scheme
 ---
