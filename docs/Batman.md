@@ -1,6 +1,7 @@
 ---
 stylesheet: Batman.css
 colorSchemeName: Batman
+colorSchemeFileName: Batman
 image: Batman.png
 description: Batman color scheme
 ---
