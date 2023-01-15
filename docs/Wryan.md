@@ -1,6 +1,7 @@
 ---
 stylesheet: Wryan.css
 colorSchemeName: Wryan
+colorSchemeFileName: Wryan
 image: Wryan.png
 description: Wryan color scheme
 ---
