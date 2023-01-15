@@ -1,6 +1,7 @@
 ---
 stylesheet: Pnevma.css
 colorSchemeName: Pnevma
+colorSchemeFileName: Pnevma
 image: Pnevma.png
 description: Pnevma color scheme
 ---
