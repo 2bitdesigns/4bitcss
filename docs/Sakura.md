@@ -1,5 +1,6 @@
 ---
 stylesheet: Sakura.css
+colorSchemeName: Sakura
 image: Sakura.png
 description: Sakura color scheme
 ---
