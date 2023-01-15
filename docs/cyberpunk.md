@@ -1,5 +1,6 @@
 ---
 stylesheet: cyberpunk.css
+colorSchemeName: cyberpunk
 image: cyberpunk.png
 description: cyberpunk color scheme
 ---
