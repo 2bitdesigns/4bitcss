@@ -1,5 +1,6 @@
 ---
 stylesheet: UnderTheSea.css
+colorSchemeName: UnderTheSea
 image: UnderTheSea.png
 description: UnderTheSea color scheme
 ---
