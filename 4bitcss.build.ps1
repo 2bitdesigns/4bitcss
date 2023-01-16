@@ -52,6 +52,8 @@ foreach ($jsonFile in $jsonFiles) {
 @"
 ---
 stylesheet: $colorSchemeFileName.css
+colorSchemeName: $colorSchemeName
+colorSchemeFileName: $colorSchemeFileName
 image: $colorSchemeFileName.png
 description: $colorSchemeName color scheme
 ---

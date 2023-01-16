@@ -1,5 +1,5 @@
 @{
-    ModuleVersion = '0.1.1'
+    ModuleVersion = '0.1.2'
     RootModule = '4bitcss.psm1'
     Description = 'CSS3 Color Schemes'
     Guid = '93e1d6ab-ce88-4751-bb14-b21fbb9f66f3'
@@ -11,6 +11,19 @@
             ProjectURI = 'https://github.com/2bitdesigns'
             LicenseURI = 'https://github.com/2bitdesigns/4bitcss/blob/main/LICENSE'
             ReleaseNotes = @'
+## 0.1.2:
+
+Updating the Site:
+
+* 4bitcss logo updates:
+  * Now multicolor (Fixes #17)
+  * Lacks bullet points (Fixes #16)
+* Theme is now automatically selected
+* Links are now all iocns
+  * Download / Cloud Download (Fixes #20)
+  * FeelingLucky (Fixes #21)
+* Removing Save/Load theme (for now) (Fixes #22)
+
 ## 0.1.1:
 
 * Adding preview urls (e.g. https://4bitcss.com/Konsolas ) (Fixes #10)

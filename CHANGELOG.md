@@ -1,3 +1,16 @@
+## 0.1.2:
+
+Updating the Site:
+
+* 4bitcss logo updates:
+  * Now multicolor (Fixes #17)
+  * Lacks bullet points (Fixes #16)
+* Theme is now automatically selected
+* Links are now all iocns
+  * Download / Cloud Download (Fixes #20)
+  * FeelingLucky (Fixes #21)
+* Removing Save/Load theme (for now) (Fixes #22)
+
 ## 0.1.1:
 
 * Adding preview urls (e.g. https://4bitcss.com/Konsolas ) (Fixes #10)

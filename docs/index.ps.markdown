@@ -13,12 +13,31 @@ Get-Content .\4bitpreview.svg |
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink'>
-        CSS
+    <a id='downloadSchemeLink' class='padded'>
+~~~PipeScript{    
+$downloadIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg
+$downloadIcon.svg.SetAttribute("class", "ansi6-stroke")
+$downloadIcon.svg.OuterXML
+}
+~~~        
     </a>
-    <a id='cdnSchemeLink'>
-        @jsdeliver 
+    <a id='cdnSchemeLink' class='padded'>
+~~~PipeScript{    
+$downloadIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg
+$downloadIcon.svg.SetAttribute("class", "ansi6-stroke")
+$downloadIcon.svg.OuterXML
+}
+~~~
     </a>
+    <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
+~~~PipeScript{    
+$shuffleIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg
+$shuffleIcon.svg.SetAttribute("class", "ansi6-stroke")
+$shuffleIcon.svg.OuterXML
+}
+~~~
+    </a>
+
 </div>
 
 ~~~PipeScript{

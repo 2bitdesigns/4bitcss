@@ -25,7 +25,7 @@
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
     <meta content="{{ page.title }}" property="og:title" />
-    {% elsif page.stylesheet % }
+    {% elsif page.stylesheet %}
     <meta content="{{ page.stylesheet }}" property="og:title" />
     {% else %}
     <meta content="{{ site.title }}" property="og:title" />
@@ -33,8 +33,9 @@
     {% if page.description %}
     <meta content="{{ page.description }}" property="og:description" />
     <meta name="description" content="{{ page.description }}" />    
-    {% elsif site.description % }
+    {% elsif site.description %}
     <meta content="{{ site.description }}" property="og:description" />
+    {% endif %}
     {% if page.date %}
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" />
     {% endif %}
@@ -65,6 +66,10 @@
       .centered {
         margin-left: auto;
         margin-right: auto;
+      }
+      
+      .padded {
+        padding: 1em;
       }
 
       .centeredText {
@@ -135,17 +140,12 @@
     </style>
   </head>
 <body class="background foreground">    
-    {% if site.ghRepo %}
-      <div>
-        
-      </div>
-    {% endif %}
     <div style="position: fixed; margin-top: 1%; margin-right: 1%; right:3%; top:3%">
     <!--{
-"<a href='https://github.com/2bitdesigns/4bitcss'>" + $(
-$path = Split-Path $pwd |
-  Join-Path -ChildPath 'github.svg'
-Get-Content -Path $path -Raw
+$gitHubIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg
+      "<a href='https://github.com/2bitdesigns/4bitcss'>" + $(
+$gitHubIcon.svg.path.SetAttribute("class", "ansi6-stroke")
+$gitHubIcon.svg.OuterXML
 ) + "</a>"
       }-->
     </div>
@@ -167,26 +167,31 @@ Get-Content -Path $path -Raw
         {{ content }}
       </div>
     </div>
-    <div class="flexible centered centeredFlex wholeWidth" style="position:fixed;bottom:0;width:100%">
-      <div class="flexRow centered halfOrWholeWidth">        
-        Color Scheme :
+    <div class="flexible centered centeredFlex wholeWidth" style="position:fixed;bottom:5%;width:100%">
+      <div class="flexRow centered centeredText wholeWidth">
+        All Color Schemes :
         <select id="themeSelector" onchange="switchTheme(document.getElementById('themeSelector').value); ">
         </select>
-        <input type="button" onclick="feelingLucky(document.getElementById('themeSelector'));" value="Feeling Lucky" />
-        <input type="button" onclick="saveTheme();" value="Save Theme" />
-        <input type="button" onclick="loadTheme(document.getElementById('themeSelector'));" value="Load Theme" />
-        <script type="text/javascript">
-          var themeSelector = document.getElementById("themeSelector");
-          var themes = themeList();
-          for (theme in themes) {
-            var opt = document.createElement("option")
-            opt.value = themes[theme];
-            opt.innerHTML = themes[theme];
-            themeSelector.append(opt);            
-          }      
-          loadTheme(document.getElementById('themeSelector'))
-        </script>        
       </div>
+      <script type="text/javascript">
+        var themeSelector = document.getElementById("themeSelector");
+        var themes = themeList();
+        for (theme in themes) {
+          var opt = document.createElement("option")
+          opt.value = themes[theme];
+          opt.innerHTML = themes[theme];
+          themeSelector.append(opt);            
+        }                
+      </script>
+      {% if page.colorSchemeName %}
+      <script type="text/javascript" />
+      switchTheme("{{page.colorSchemeFileName}}");
+      </script>
+      {% else %}
+      <script type="text/javascript" />
+      switchTheme("Konsolas");
+      </script>
+      {% endif %}  
     </div>
 </body>
 </html>

@@ -21,18 +21,21 @@ $fontSettings = [Ordered]@{
 $assetFile = 
 =<svg> -ViewBox 400,400 @(
     =<svg.defs> @(
-        =<svg.style> -Type 'text/css' @'
-@import url('https://fonts.googleapis.com/css?family=Abel')
-'@
-            
+        SVG.GoogleFont -FontName Abel
     )
-
-    
+        
     =<svg.ellipse> -StrokeWidth 1.25 -Fill transparent -Cx 50% -Cy 50% -Stroke '#4488ff' -Ry 75 -Rx 50 -Class foreground-stroke
     =<svg.text> -FontSize 28 -Content 4bit -X 50% -Y 45% @fontSettings -Class foreground-fill -Fill '#4488ff'
-    =<svg.text> -FontSize 28 -Content '⋅⋅⋅⋅'  -X 50% -Y 50% @fontSettings -Class foreground-fill -Fill '#4488ff'
+    $xPercent = 47.5,48.75,51.25,52.55
+    foreach ($n in 0..3) {
+        $x = $xPercent[$n]
+        =<svg.circle> -Class "ansi$($n+1)-fill" -Fill '#4488ff' -Cx "$x%" -Cy 50% -R 0.5%
+    }    
     =<svg.text> -FontSize 28 -Content 'css' -X 50% -Y 55% @fontSettings -Class foreground-fill -Fill '#4488ff'
 ) -OutputPath (Join-Path $assetsRoot .\4bitcss.svg)
+
+$assetFile
+$assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
 
 =<svg> -ViewBox 640, 640 @(
     foreach ($n in 16..1) {
@@ -81,8 +84,5 @@ $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
         =<svg.rect> -X ($boxSize.Width * ($n - 8)) -Y 159 -Class "ansi$n-fill" @boxSize -Fill $($colors[$n])
     }
 ) -OutputPath (Join-Path $docsRoot .\4bitpreviewtemplate.svg) -Class background-fill
-
-$assetFile
-$assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg)
 
 Pop-Location

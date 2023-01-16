@@ -1,5 +1,7 @@
 ---
 stylesheet: GruvboxLight.css
+colorSchemeName: Gruvbox Light
+colorSchemeFileName: GruvboxLight
 image: GruvboxLight.png
 description: Gruvbox Light color scheme
 ---
@@ -14,12 +16,30 @@ description: Gruvbox Light color scheme
 </div>
 
 <div class='centeredText'>
-    <a id='downloadSchemeLink'>
-        CSS
+    <a id='downloadSchemeLink' class='padded'>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ansi6-stroke">
+  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+  <polyline points="7 10 12 15 17 10" />
+  <line x1="12" y1="15" x2="12" y2="3" />
+</svg>        
     </a>
-    <a id='cdnSchemeLink'>
-        @jsdeliver 
+    <a id='cdnSchemeLink' class='padded'>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ansi6-stroke">
+  <polyline points="8 17 12 21 16 17" />
+  <line x1="12" y1="12" x2="12" y2="21" />
+  <path d="M20.88 18.09A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.29" />
+</svg>
     </a>
+    <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ansi6-stroke">
+  <polyline points="16 3 21 3 21 8" />
+  <line x1="4" y1="20" x2="21" y2="3" />
+  <polyline points="21 16 21 21 16 21" />
+  <line x1="15" y1="15" x2="21" y2="21" />
+  <line x1="4" y1="4" x2="9" y2="9" />
+</svg>
+    </a>
+
 </div>
 
 
