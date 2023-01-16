@@ -29,6 +29,15 @@ $downloadIcon.svg.OuterXML
 }
 ~~~
     </a>
+    <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))">
+~~~PipeScript{    
+$shuffleIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg
+$shuffleIcon.svg.SetAttribute("class", "ansi6-stroke")
+$shuffleIcon.svg.OuterXML
+}
+~~~
+    </a>
+
 </div>
 
 ~~~PipeScript{
