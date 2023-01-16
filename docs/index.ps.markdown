@@ -16,21 +16,16 @@ Get-Content .\4bitpreview.svg |
     <a id='downloadSchemeLink'>
 ~~~PipeScript{    
 $downloadIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg
-      "<a href='https://github.com/2bitdesigns/4bitcss'>" + $(
 $downloadIcon.svg.SetAttribute("class", "ansi6-stroke")
 $downloadIcon.svg.OuterXML
-)
 }
-~~~
-        CSS
+~~~        
     </a>
     <a id='cdnSchemeLink'>
 ~~~PipeScript{    
 $downloadIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg
-      "<a href='https://github.com/2bitdesigns/4bitcss'>" + $(
 $downloadIcon.svg.SetAttribute("class", "ansi6-stroke")
 $downloadIcon.svg.OuterXML
-)
 }
 ~~~
     </a>
