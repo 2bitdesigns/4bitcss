@@ -175,7 +175,7 @@ Get-Content -Path $path -Raw
       </div>
       <script type="text/javascript">
         var schemeSelector = document.getElementById("schemeSelector");
-        var colorSchemes = schemeList();
+        var colorSchemes = GetColorSchemeList();
         for (colorScheme in colorSchemes) {
           var opt = document.createElement("option")
           opt.value = colorSchemes[colorScheme];

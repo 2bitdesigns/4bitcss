@@ -1,5 +1,5 @@
 var defaultTheme = "Konsolas";
-function colorSchemeList() {
+function GetColorSchemeList() {
     return [/*{
 "'$(
   @($pwd |
@@ -12,7 +12,7 @@ function colorSchemeList() {
 }
 
 function feelingLucky() {
-    var colorSchemes = colorSchemeList();
+    var colorSchemes = GetColorSchemeList();
     var randomNumber = Math.floor(Math.random() * themes.length);
     var fourBitCssLink = document.getElementById("4bitcss");
     if (! fourBitCssLink) {
@@ -32,7 +32,7 @@ function SetColorScheme(colorSchemeName) {
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    var foundScheme = colorSchemeList().find(element => element == colorSchemeName);
+    var foundScheme = GetColorSchemeList().find(element => element == colorSchemeName);
     if (! foundScheme) {
         throw ("Color Scheme '" + colorSchemeName + "' does not exist");
     }
