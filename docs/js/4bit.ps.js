@@ -13,7 +13,7 @@ function GetColorSchemeList() {
 
 function feelingLucky() {
     var colorSchemes = GetColorSchemeList();
-    var randomNumber = Math.floor(Math.random() * themes.length);
+    var randomNumber = Math.floor(Math.random() * colorSchemes.length);
     var fourBitCssLink = document.getElementById("4bitcss");
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
