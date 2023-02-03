@@ -8,7 +8,7 @@ function GetColorSchemeList() {
     % { $_.Name -replace '\.css$' }
   ) -join "','"
 )'"
-    }*/]    
+    }*/]
 }
 
 function feelingLucky() {
