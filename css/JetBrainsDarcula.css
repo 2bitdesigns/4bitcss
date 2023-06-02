@@ -20,6 +20,8 @@
   --red: #fa5355;
   --black: #000000;
   --name: 'JetBrains Darcula'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'JetBrains Darcula'; }
