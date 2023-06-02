@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #daf0ff;
+  --selectionBackground: #daf0ff;
   --cursorColor: #f32759;
   --foreground: #373a41;
   --background: #f9f9f9;
@@ -20,8 +20,8 @@
   --red: #d52753;
   --black: #373a41;
   --name: 'BlulocoLight'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlulocoLight'; }
