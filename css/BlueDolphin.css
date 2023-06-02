@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2baeca;
+  --selectionBackground: #2baeca;
   --cursorColor: #ffcc00;
   --foreground: #c5f2ff;
   --background: #006984;
@@ -20,8 +20,8 @@
   --red: #ff8288;
   --black: #292d3e;
   --name: 'BlueDolphin'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlueDolphin'; }
