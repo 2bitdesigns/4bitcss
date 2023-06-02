@@ -20,8 +20,8 @@
   --red: #a36666;
   --black: #2f2e2d;
   --name: 'Pnevma'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Pnevma'; }
