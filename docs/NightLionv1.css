@@ -20,6 +20,8 @@
   --red: #bb0000;
   --black: #4c4c4c;
   --name: 'NightLion v1'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'NightLion v1'; }
