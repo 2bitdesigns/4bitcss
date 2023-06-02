@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #c574dd;
   --foreground: #fdfdfd;
   --background: #1d1f28;
@@ -20,8 +20,8 @@
   --red: #f37f97;
   --black: #282a36;
   --name: 'lovelace'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'lovelace'; }
