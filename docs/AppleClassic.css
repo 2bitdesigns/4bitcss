@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #6b5b02;
+  --selectionBackground: #6b5b02;
   --cursorColor: #c7c7c7;
   --foreground: #d5a200;
   --background: #2c2b2b;
@@ -20,8 +20,8 @@
   --red: #c91b00;
   --black: #000000;
   --name: 'Apple Classic'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Apple Classic'; }
