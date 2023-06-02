@@ -21,7 +21,7 @@
   --black: #000000;
   --name: 'Builtin Tango Light'
     --IsBright: 0;
-    --IsDark: 1
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Tango Light'; }
