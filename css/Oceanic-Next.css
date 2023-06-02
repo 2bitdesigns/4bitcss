@@ -21,7 +21,7 @@
   --black: #121c21;
   --name: 'Oceanic-Next'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Oceanic-Next'; }
