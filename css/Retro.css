@@ -21,7 +21,7 @@
   --black: #13a10e;
   --name: 'Retro'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Retro'; }
