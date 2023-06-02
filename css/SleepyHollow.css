@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #575256;
+  --selectionBackground: #575256;
   --cursorColor: #af9a91;
   --foreground: #af9a91;
   --background: #121214;
@@ -20,8 +20,8 @@
   --red: #ba3934;
   --black: #572100;
   --name: 'SleepyHollow'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SleepyHollow'; }
