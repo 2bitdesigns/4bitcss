@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4e5a65;
+  --selectionBackground: #4e5a65;
   --cursorColor: #fcbb6a;
   --foreground: #d8dee9;
   --background: #343d46;
@@ -20,8 +20,8 @@
   --red: #ec5f66;
   --black: #000000;
   --name: 'Mariana'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Mariana'; }
