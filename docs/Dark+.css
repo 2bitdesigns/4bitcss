@@ -20,6 +20,8 @@
   --red: #cd3131;
   --black: #000000;
   --name: 'Dark+'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Dark+'; }
