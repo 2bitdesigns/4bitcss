@@ -233,7 +233,7 @@ function Export-4BitCSS
             ([float][byte](($rgb -band 0x00ff00) -shr 8)/255),
             ([float][byte]($rgb -band 0x0000ff)/255)
 
-        $Luma = 0.2126 * $R + 0.7152 * $G + '0.0722' * $B
+        $Luma = 0.2126 * $R + 0.7152 * $G + 0.0722 * $B
         $IsBright = $luma -le .5
 
         $cssFile    = (Join-Path $OutputPath "$($name -replace '\s').css")
@@ -250,7 +250,7 @@ function Export-4BitCSS
         }    
     }) -join (';' + [Environment]::NewLine + '  '))
     --IsBright: $($IsBright -as [int]);
-    --IsDark: $((-not $IsBright) -as [int])
+    --IsDark: $((-not $IsBright) -as [int]);
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: '$($name)'; }
