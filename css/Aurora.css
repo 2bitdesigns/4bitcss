@@ -19,7 +19,7 @@
   --green: #8fd46d;
   --red: #f0266f;
   --black: #23262e;
-  --name: 'Aurora'
+  --name: 'Aurora';
   --IsBright: 0;
   --IsDark: 1;
 }
