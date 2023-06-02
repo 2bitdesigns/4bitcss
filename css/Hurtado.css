@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #b5d5ff;
+  --selectionBackground: #b5d5ff;
   --cursorColor: #bbbbbb;
   --foreground: #dbdbdb;
   --background: #000000;
@@ -20,8 +20,8 @@
   --red: #ff1b00;
   --black: #575757;
   --name: 'Hurtado'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hurtado'; }
