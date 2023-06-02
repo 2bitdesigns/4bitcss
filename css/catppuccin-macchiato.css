@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5b6078;
+  --selectionBackground: #5b6078;
   --cursorColor: #f4dbd6;
   --foreground: #cad3f5;
   --background: #24273a;
@@ -20,8 +20,8 @@
   --red: #ed8796;
   --black: #494d64;
   --name: 'catppuccin-macchiato'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-macchiato'; }
