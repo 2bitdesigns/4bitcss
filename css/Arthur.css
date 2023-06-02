@@ -21,7 +21,7 @@
   --black: #3d352a;
   --name: 'Arthur'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Arthur'; }
