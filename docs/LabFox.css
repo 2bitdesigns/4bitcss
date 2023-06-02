@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #cb392e;
+  --selectionBackground: #cb392e;
   --cursorColor: #7f7f7f;
   --foreground: #ffffff;
   --background: #2e2e2e;
@@ -20,8 +20,8 @@
   --red: #fc6d26;
   --black: #2e2e2e;
   --name: 'Lab Fox'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Lab Fox'; }
