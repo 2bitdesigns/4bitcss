@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #0013ff;
+  --selectionBackground: #0013ff;
   --cursorColor: #c7c7c7;
   --foreground: #00fffc;
   --background: #14161a;
@@ -20,8 +20,8 @@
   --red: #ff3045;
   --black: #000000;
   --name: 'Neon'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Neon'; }
