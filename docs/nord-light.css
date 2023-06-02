@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #d8dee9;
+  --selectionBackground: #d8dee9;
   --cursorColor: #88c0d0;
   --foreground: #414858;
   --background: #e5e9f0;
@@ -20,8 +20,8 @@
   --red: #bf616a;
   --black: #3b4252;
   --name: 'nord-light'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'nord-light'; }
