@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #b362ff;
+  --selectionBackground: #b362ff;
   --cursorColor: #fad000;
   --foreground: #ffffff;
   --background: #1e1d40;
@@ -20,8 +20,8 @@
   --red: #d90429;
   --black: #000000;
   --name: 'shades-of-purple'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'shades-of-purple'; }
