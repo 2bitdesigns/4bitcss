@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ffffff;
+  --selectionBackground: #ffffff;
   --cursorColor: #13a10e;
   --foreground: #13a10e;
   --background: #000000;
@@ -20,8 +20,8 @@
   --red: #13a10e;
   --black: #13a10e;
   --name: 'Retro'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Retro'; }
