@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #070e50;
+  --selectionBackground: #070e50;
   --cursorColor: #2c3fff;
   --foreground: #e3e3e3;
   --background: #1b1d1e;
@@ -20,8 +20,8 @@
   --red: #e60813;
   --black: #1b1d1e;
   --name: 'Spiderman'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Spiderman'; }
