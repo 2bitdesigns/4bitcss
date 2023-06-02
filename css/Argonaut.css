@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #002a3b;
+  --selectionBackground: #002a3b;
   --cursorColor: #ff0018;
   --foreground: #fffaf4;
   --background: #0e1019;
@@ -20,8 +20,8 @@
   --red: #ff000f;
   --black: #232323;
   --name: 'Argonaut'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Argonaut'; }
