@@ -20,6 +20,8 @@
   --red: #c94922;
   --black: #202746;
   --name: 'Hivacruz'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hivacruz'; }
