@@ -19,7 +19,7 @@
   --green: #72c373;
   --red: #c37372;
   --black: #000000;
-  --name: 'Chalkboard'
+  --name: 'Chalkboard';
   --IsBright: 0;
   --IsDark: 1;
 }
