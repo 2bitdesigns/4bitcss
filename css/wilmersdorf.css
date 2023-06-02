@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1f2024;
+  --selectionBackground: #1f2024;
   --cursorColor: #7ebebd;
   --foreground: #c6c6c6;
   --background: #282b33;
@@ -20,8 +20,8 @@
   --red: #e06383;
   --black: #34373e;
   --name: 'wilmersdorf'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'wilmersdorf'; }
