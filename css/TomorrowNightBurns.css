@@ -21,7 +21,7 @@
   --black: #252525;
   --name: 'Tomorrow Night Burns'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night Burns'; }
