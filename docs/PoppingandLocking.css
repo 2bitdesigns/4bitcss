@@ -21,7 +21,7 @@
   --black: #1d2021;
   --name: 'Popping and Locking'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Popping and Locking'; }
