@@ -20,6 +20,8 @@
   --red: #d70005;
   --black: #000000;
   --name: 'deep'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'deep'; }
