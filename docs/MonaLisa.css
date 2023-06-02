@@ -20,8 +20,8 @@
   --red: #9b291c;
   --black: #351b0e;
   --name: 'MonaLisa'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MonaLisa'; }
