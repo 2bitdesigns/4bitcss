@@ -20,6 +20,8 @@
   --red: #fc644d;
   --black: #000000;
   --name: 'Rapture'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Rapture'; }
