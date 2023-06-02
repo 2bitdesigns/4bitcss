@@ -20,8 +20,8 @@
   --red: #825d4d;
   --black: #757575;
   --name: 'Seafoam Pastel'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Seafoam Pastel'; }
