@@ -21,7 +21,7 @@
   --black: #0a0520;
   --name: 'purplepeter'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'purplepeter'; }
