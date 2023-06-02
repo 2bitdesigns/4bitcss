@@ -20,6 +20,8 @@
   --red: #cf3f61;
   --black: #343935;
   --name: 'Japanesque'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Japanesque'; }
