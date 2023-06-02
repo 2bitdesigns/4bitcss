@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #175877;
+  --selectionBackground: #175877;
   --cursorColor: #edcf4f;
   --foreground: #f7f6ec;
   --background: #1e1e1e;
@@ -20,8 +20,8 @@
   --red: #cf3f61;
   --black: #343935;
   --name: 'Japanesque'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Japanesque'; }
