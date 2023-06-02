@@ -20,6 +20,8 @@
   --red: #fa2573;
   --black: #121212;
   --name: 'Molokai'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Molokai'; }
