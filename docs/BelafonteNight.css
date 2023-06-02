@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #45373c;
+  --selectionBackground: #45373c;
   --cursorColor: #968c83;
   --foreground: #968c83;
   --background: #20111b;
@@ -20,8 +20,8 @@
   --red: #be100e;
   --black: #20111b;
   --name: 'Belafonte Night'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Belafonte Night'; }
