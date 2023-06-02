@@ -19,7 +19,7 @@
   --green: #00ff9c;
   --red: #ff5680;
   --black: #101116;
-  --name: 'Blue Matrix'
+  --name: 'Blue Matrix';
   --IsBright: 0;
   --IsDark: 1;
 }
