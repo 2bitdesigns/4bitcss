@@ -19,7 +19,7 @@
   --green: #b7e876;
   --red: #ff355b;
   --black: #191919;
-  --name: 'Bright Lights'
+  --name: 'Bright Lights';
   --IsBright: 0;
   --IsDark: 1;
 }
