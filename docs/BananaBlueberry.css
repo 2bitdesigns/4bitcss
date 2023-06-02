@@ -21,7 +21,7 @@
   --black: #17141f;
   --name: 'Banana Blueberry'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Banana Blueberry'; }
