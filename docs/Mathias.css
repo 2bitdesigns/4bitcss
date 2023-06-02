@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #555555;
+  --selectionBackground: #555555;
   --cursorColor: #bbbbbb;
   --foreground: #bbbbbb;
   --background: #000000;
@@ -20,8 +20,8 @@
   --red: #e52222;
   --black: #000000;
   --name: 'Mathias'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Mathias'; }
