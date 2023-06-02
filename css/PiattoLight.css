@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #706b4e;
+  --selectionBackground: #706b4e;
   --cursorColor: #5e77c8;
   --foreground: #414141;
   --background: #ffffff;
@@ -20,8 +20,8 @@
   --red: #b23771;
   --black: #414141;
   --name: 'Piatto Light'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Piatto Light'; }
