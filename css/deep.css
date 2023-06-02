@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #780002;
+  --selectionBackground: #780002;
   --cursorColor: #d0d0d0;
   --foreground: #cdcdcd;
   --background: #090909;
@@ -20,8 +20,8 @@
   --red: #d70005;
   --black: #000000;
   --name: 'deep'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'deep'; }
