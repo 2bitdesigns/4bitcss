@@ -20,8 +20,8 @@
   --red: #f18339;
   --black: #1d1d19;
   --name: 'Flatland'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Flatland'; }
