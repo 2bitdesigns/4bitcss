@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #563c27;
+  --selectionBackground: #563c27;
   --cursorColor: #573d26;
   --foreground: #e0dbb7;
   --background: #2a1f1d;
@@ -20,8 +20,8 @@
   --red: #be2d26;
   --black: #573d26;
   --name: 'BirdsOfParadise'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BirdsOfParadise'; }
