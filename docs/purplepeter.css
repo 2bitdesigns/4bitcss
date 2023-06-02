@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #8689c2;
+  --selectionBackground: #8689c2;
   --cursorColor: #c7c7c7;
   --foreground: #ece7fa;
   --background: #2a1a4a;
@@ -20,8 +20,8 @@
   --red: #ff796d;
   --black: #0a0520;
   --name: 'purplepeter'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'purplepeter'; }
