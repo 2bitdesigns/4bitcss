@@ -20,8 +20,8 @@
   --red: #23755a;
   --black: #0f191c;
   --name: 'matrix'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'matrix'; }
