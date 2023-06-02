@@ -19,7 +19,7 @@
   --green: #68c256;
   --red: #e8341c;
   --black: #000000;
-  --name: 'Darkside'
+  --name: 'Darkside';
   --IsBright: 0;
   --IsDark: 1;
 }
