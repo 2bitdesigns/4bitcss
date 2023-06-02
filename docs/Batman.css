@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d504c;
+  --selectionBackground: #4d504c;
   --cursorColor: #fcef0c;
   --foreground: #6f6f6f;
   --background: #1b1d1e;
@@ -20,8 +20,8 @@
   --red: #e6dc44;
   --black: #1b1d1e;
   --name: 'Batman'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Batman'; }
