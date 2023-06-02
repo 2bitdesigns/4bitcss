@@ -19,7 +19,7 @@
   --green: #519f50;
   --red: #da4939;
   --black: #000000;
-  --name: 'Broadcast'
+  --name: 'Broadcast';
   --IsBright: 0;
   --IsDark: 1;
 }
