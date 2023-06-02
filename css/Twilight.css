@@ -20,6 +20,8 @@
   --red: #c06d44;
   --black: #141414;
   --name: 'Twilight'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Twilight'; }
