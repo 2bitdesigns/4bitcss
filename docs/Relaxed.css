@@ -20,6 +20,8 @@
   --red: #bc5653;
   --black: #151515;
   --name: 'Relaxed'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Relaxed'; }
