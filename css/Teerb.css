@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d4d4d;
+  --selectionBackground: #4d4d4d;
   --cursorColor: #e4c9af;
   --foreground: #d0d0d0;
   --background: #262626;
@@ -20,8 +20,8 @@
   --red: #d68686;
   --black: #1c1c1c;
   --name: 'Teerb'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Teerb'; }
