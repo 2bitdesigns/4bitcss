@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #302b2a;
+  --selectionBackground: #302b2a;
   --cursorColor: #ffffff;
   --foreground: #c9c9c9;
   --background: #1a1818;
@@ -20,8 +20,8 @@
   --red: #a7463d;
   --black: #302b2a;
   --name: 'Sundried'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sundried'; }
