@@ -20,8 +20,8 @@
   --red: #bf091d;
   --black: #191919;
   --name: 'DotGov'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DotGov'; }
