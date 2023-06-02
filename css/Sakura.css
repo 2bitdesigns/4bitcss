@@ -20,6 +20,8 @@
   --red: #d52370;
   --black: #000000;
   --name: 'Sakura'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sakura'; }
