@@ -20,6 +20,8 @@
   --red: #cc0000;
   --black: #000000;
   --name: 'Novel'
+    "--IsBright: 0"
+    "--IsDark: 1"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Novel'; }
