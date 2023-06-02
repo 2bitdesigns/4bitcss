@@ -19,7 +19,7 @@
   --green: #00bb00;
   --red: #bb0000;
   --black: #000000;
-  --name: 'Builtin Light'
+  --name: 'Builtin Light';
   --IsBright: 1;
   --IsDark: 0;
 }
