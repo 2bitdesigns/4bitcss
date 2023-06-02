@@ -241,7 +241,7 @@ function Export-4BitCSS
         $cssContent = @(
             @"
 :root {
-    $(@(
+  $(@(
     foreach ($prop in $jsonObject.psobject.properties) {
         if ($prop.Name -eq 'Name') {
             "--$($prop.Name): '$($prop.Value)'"            
@@ -249,8 +249,8 @@ function Export-4BitCSS
             "--$($prop.Name): $($prop.Value)"
         }    
     }) -join (';' + [Environment]::NewLine + '  '))
-    --IsBright: $($IsBright -as [int]);
-    --IsDark: $((-not $IsBright) -as [int]);
+  --IsBright: $($IsBright -as [int]);
+  --IsDark: $((-not $IsBright) -as [int]);
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: '$($name)'; }
