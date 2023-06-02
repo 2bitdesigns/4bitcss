@@ -19,7 +19,7 @@
   --green: #b4be82;
   --red: #e27878;
   --black: #1e2132;
-  --name: 'iceberg-dark'
+  --name: 'iceberg-dark';
   --IsBright: 0;
   --IsDark: 1;
 }
