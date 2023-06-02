@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #706b4e;
+  --selectionBackground: #706b4e;
   --cursorColor: #efbf38;
   --foreground: #f8dcc0;
   --background: #1f1d45;
@@ -20,8 +20,8 @@
   --red: #bd0013;
   --black: #050404;
   --name: 'AdventureTime'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AdventureTime'; }
