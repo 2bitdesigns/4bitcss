@@ -21,7 +21,7 @@
   --black: #191919;
   --name: 'zenwritten_dark'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenwritten_dark'; }
