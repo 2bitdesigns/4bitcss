@@ -248,7 +248,7 @@ function Export-4BitCSS
         } else {
             "--$($prop.Name): $($prop.Value)"
         }    
-    }) -join (';' + [Environment]::NewLine + '  '))
+    }) -join (';' + [Environment]::NewLine + '  '));
   --IsBright: $($IsBright -as [int]);
   --IsDark: $((-not $IsBright) -as [int]);
 }
