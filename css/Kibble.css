@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #9ba787;
+  --selectionBackground: #9ba787;
   --cursorColor: #9fda9c;
   --foreground: #f7f7f7;
   --background: #0e100a;
@@ -20,8 +20,8 @@
   --red: #c70031;
   --black: #4d4d4d;
   --name: 'Kibble'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Kibble'; }
