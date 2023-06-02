@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1a3272;
+  --selectionBackground: #1a3272;
   --cursorColor: #ffffff;
   --foreground: #adadad;
   --background: #202020;
@@ -20,8 +20,8 @@
   --red: #fa5355;
   --black: #000000;
   --name: 'JetBrains Darcula'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'JetBrains Darcula'; }
