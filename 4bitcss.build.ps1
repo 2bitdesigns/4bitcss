@@ -6,13 +6,13 @@ if ($env:GITHUB_WORKSPACE) {
 
     # and get all of the JSON files from it
     $jsonFiles = Get-ChildItem -Path iTerm2-Color-Schemes -Recurse -Filter *.json  |
-        Where-Object Fullname -like '*terminal*' | 
-        Select-Object -Skip 2    
+        Where-Object Fullname -like '*terminal*' |
+        Where-Object FullName -notlike '*templates*'
 } else {
     # Otherwise get them locally
     $jsonFiles = Get-ChildItem $home\documents\git\iTerm2-Color-Schemes -Recurse -Filter *.json  |
-        Where-Object Fullname -like '*terminal*' | 
-        Select-Object -Skip 2
+        Where-Object Fullname -like '*terminal*' |
+        Where-Object FullName -notlike '*templates*'         
 }
 
 
