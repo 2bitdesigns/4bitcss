@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #33374c;
+  --selectionBackground: #33374c;
   --cursorColor: #33374c;
   --foreground: #33374c;
   --background: #e8e9ec;
@@ -20,8 +20,8 @@
   --red: #cc517a;
   --black: #dcdfe7;
   --name: 'iceberg-light'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iceberg-light'; }
