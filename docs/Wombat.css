@@ -20,6 +20,8 @@
   --red: #ff615a;
   --black: #000000;
   --name: 'Wombat'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Wombat'; }
