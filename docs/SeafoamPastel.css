@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ffffff;
+  --selectionBackground: #ffffff;
   --cursorColor: #57647a;
   --foreground: #d4e7d4;
   --background: #243435;
@@ -20,8 +20,8 @@
   --red: #825d4d;
   --black: #757575;
   --name: 'Seafoam Pastel'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Seafoam Pastel'; }
