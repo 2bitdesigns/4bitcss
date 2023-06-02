@@ -20,8 +20,8 @@
   --red: #d84a33;
   --black: #040404;
   --name: 'Adventure'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Adventure'; }
