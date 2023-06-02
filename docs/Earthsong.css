@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #121418;
+  --selectionBackground: #121418;
   --cursorColor: #f6f7ec;
   --foreground: #e5c7a9;
   --background: #292520;
@@ -20,8 +20,8 @@
   --red: #c94234;
   --black: #121418;
   --name: 'Earthsong'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Earthsong'; }
