@@ -21,7 +21,7 @@
   --black: #002831;
   --name: 'FirefoxDev'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FirefoxDev'; }
