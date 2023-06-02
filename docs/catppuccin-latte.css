@@ -20,8 +20,8 @@
   --red: #d20f39;
   --black: #5c5f77;
   --name: 'catppuccin-latte'
-    --IsBright: 0;
-    --IsDark: 1;
+    --IsBright: 1;
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-latte'; }
