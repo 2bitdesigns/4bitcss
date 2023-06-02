@@ -21,7 +21,7 @@
   --black: #253045;
   --name: 'Sublette'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sublette'; }
