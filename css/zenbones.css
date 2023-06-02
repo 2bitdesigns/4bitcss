@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #cbd9e3;
+  --selectionBackground: #cbd9e3;
   --cursorColor: #2c363c;
   --foreground: #2c363c;
   --background: #f0edec;
@@ -20,8 +20,8 @@
   --red: #a8334c;
   --black: #f0edec;
   --name: 'zenbones'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenbones'; }
