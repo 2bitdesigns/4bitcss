@@ -20,6 +20,8 @@
   --red: #cc241d;
   --black: #1b1b1b;
   --name: 'GruvboxDarkHard'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'GruvboxDarkHard'; }
