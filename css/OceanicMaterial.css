@@ -20,6 +20,8 @@
   --red: #ee2b2a;
   --black: #000000;
   --name: 'OceanicMaterial'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'OceanicMaterial'; }
