@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #37382d;
+  --selectionBackground: #37382d;
   --cursorColor: #edf2c2;
   --foreground: #ebefc0;
   --background: #0e101a;
@@ -20,8 +20,8 @@
   --red: #e03600;
   --black: #0e101a;
   --name: 'duckbones'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'duckbones'; }
