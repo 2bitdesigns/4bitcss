@@ -20,6 +20,8 @@
   --red: #be3f48;
   --black: #3a3d43;
   --name: 'DimmedMonokai'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DimmedMonokai'; }
