@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #0f191c;
+  --selectionBackground: #0f191c;
   --cursorColor: #373a26;
   --foreground: #28380d;
   --background: #070c0e;
@@ -20,8 +20,8 @@
   --red: #002e18;
   --black: #091013;
   --name: 'darkermatrix'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'darkermatrix'; }
