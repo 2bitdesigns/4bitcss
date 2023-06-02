@@ -20,6 +20,8 @@
   --red: #ff0051;
   --black: #101116;
   --name: 'Scarlet Protocol'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Scarlet Protocol'; }
