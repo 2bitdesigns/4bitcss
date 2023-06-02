@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #e4e8ed;
+  --selectionBackground: #e4e8ed;
   --cursorColor: #708284;
   --foreground: #d2d8d9;
   --background: #2b2d2e;
@@ -20,8 +20,8 @@
   --red: #b23a52;
   --black: #7d8b8f;
   --name: 'Chalk'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Chalk'; }
