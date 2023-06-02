@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #002831;
+  --selectionBackground: #002831;
   --cursorColor: #708284;
   --foreground: #708284;
   --background: #001e27;
@@ -20,8 +20,8 @@
   --red: #d11c24;
   --black: #002831;
   --name: 'Solarized Dark - Patched'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Dark - Patched'; }
