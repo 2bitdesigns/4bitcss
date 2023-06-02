@@ -20,8 +20,8 @@
   --red: #ef5734;
   --black: #2c1d16;
   --name: 'Jackie Brown'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Jackie Brown'; }
