@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #eeffff;
+  --selectionBackground: #eeffff;
   --cursorColor: #ffffff;
   --foreground: #eeffff;
   --background: #212121;
@@ -20,8 +20,8 @@
   --red: #ff5370;
   --black: #000000;
   --name: 'MaterialDarker'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MaterialDarker'; }
