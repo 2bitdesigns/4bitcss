@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #364a82;
+  --selectionBackground: #364a82;
   --cursorColor: #c0caf5;
   --foreground: #c0caf5;
   --background: #24283b;
@@ -20,8 +20,8 @@
   --red: #f7768e;
   --black: #1d202f;
   --name: 'tokyonight-storm'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'tokyonight-storm'; }
