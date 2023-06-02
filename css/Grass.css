@@ -19,7 +19,7 @@
   --green: #00bb00;
   --red: #bb0000;
   --black: #000000;
-  --name: 'Grass'
+  --name: 'Grass';
   --IsBright: 0;
   --IsDark: 1;
 }
