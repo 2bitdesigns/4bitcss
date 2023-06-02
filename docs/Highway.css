@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #384564;
+  --selectionBackground: #384564;
   --cursorColor: #e0d9b9;
   --foreground: #ededed;
   --background: #222225;
@@ -20,8 +20,8 @@
   --red: #d00e18;
   --black: #000000;
   --name: 'Highway'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Highway'; }
