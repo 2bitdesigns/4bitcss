@@ -21,7 +21,7 @@
   --black: #000000;
   --name: 'FunForrest'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FunForrest'; }
