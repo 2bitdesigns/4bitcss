@@ -21,7 +21,7 @@
   --black: #1a1a1a;
   --name: 'Monokai Remastered'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Remastered'; }
