@@ -20,8 +20,8 @@
   --red: #ee5577;
   --black: #253045;
   --name: 'Sublette'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sublette'; }
