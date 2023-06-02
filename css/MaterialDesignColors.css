@@ -19,7 +19,7 @@
   --green: #5cf19e;
   --red: #fc3841;
   --black: #435b67;
-  --name: 'MaterialDesignColors'
+  --name: 'MaterialDesignColors';
   --IsBright: 0;
   --IsDark: 1;
 }
