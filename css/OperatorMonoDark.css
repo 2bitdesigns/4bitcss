@@ -20,8 +20,8 @@
   --red: #ca372d;
   --black: #5a5a5a;
   --name: 'Operator Mono Dark'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Operator Mono Dark'; }
