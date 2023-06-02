@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #bd2523;
+  --selectionBackground: #bd2523;
   --cursorColor: #6c6c6c;
   --foreground: #ffffff;
   --background: #0c1115;
@@ -20,8 +20,8 @@
   --red: #bd0f2f;
   --black: #2e343c;
   --name: 'Glacier'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Glacier'; }
