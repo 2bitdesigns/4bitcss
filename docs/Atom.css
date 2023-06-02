@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #444444;
+  --selectionBackground: #444444;
   --cursorColor: #d0d0d0;
   --foreground: #c5c8c6;
   --background: #161719;
@@ -20,8 +20,8 @@
   --red: #fd5ff1;
   --black: #000000;
   --name: 'Atom'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Atom'; }
