@@ -19,7 +19,7 @@
   --green: #32a548;
   --red: #a82320;
   --black: #222d3f;
-  --name: 'Flat'
+  --name: 'Flat';
   --IsBright: 0;
   --IsDark: 1;
 }
