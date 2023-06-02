@@ -19,7 +19,7 @@
   --green: #9e744d;
   --red: #cda074;
   --black: #1d1d1d;
-  --name: 'Fahrenheit'
+  --name: 'Fahrenheit';
   --IsBright: 0;
   --IsDark: 1;
 }
