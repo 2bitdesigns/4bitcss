@@ -19,7 +19,7 @@
   --green: #457b24;
   --red: #b7141f;
   --black: #212121;
-  --name: 'Material'
+  --name: 'Material';
   --IsBright: 1;
   --IsDark: 0;
 }
