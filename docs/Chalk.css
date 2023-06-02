@@ -19,7 +19,7 @@
   --green: #789b6a;
   --red: #b23a52;
   --black: #7d8b8f;
-  --name: 'Chalk'
+  --name: 'Chalk';
   --IsBright: 0;
   --IsDark: 1;
 }
