@@ -20,8 +20,8 @@
   --red: #ff5b82;
   --black: #1d1a1e;
   --name: 'Kolorit'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Kolorit'; }
