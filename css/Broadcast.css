@@ -20,6 +20,8 @@
   --red: #da4939;
   --black: #000000;
   --name: 'Broadcast'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Broadcast'; }
