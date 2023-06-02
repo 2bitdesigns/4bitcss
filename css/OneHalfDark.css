@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #474e5d;
+  --selectionBackground: #474e5d;
   --cursorColor: #a3b3cc;
   --foreground: #dcdfe4;
   --background: #282c34;
@@ -20,8 +20,8 @@
   --red: #e06c75;
   --black: #282c34;
   --name: 'OneHalfDark'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'OneHalfDark'; }
