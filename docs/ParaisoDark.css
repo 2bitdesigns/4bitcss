@@ -20,8 +20,8 @@
   --red: #ef6155;
   --black: #2f1e2e;
   --name: 'Paraiso Dark'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Paraiso Dark'; }
