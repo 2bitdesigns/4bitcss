@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #060606;
+  --selectionBackground: #060606;
   --cursorColor: #c8c1c1;
   --foreground: #c8c1c1;
   --background: #060606;
@@ -20,8 +20,8 @@
   --red: #aa1717;
   --black: #000000;
   --name: 'Konsolas'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Konsolas'; }
