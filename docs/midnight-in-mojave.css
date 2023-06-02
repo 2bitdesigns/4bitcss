@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4a504d;
+  --selectionBackground: #4a504d;
   --cursorColor: #32d74b;
   --foreground: #ffffff;
   --background: #1e1e1e;
@@ -20,8 +20,8 @@
   --red: #ff453a;
   --black: #1e1e1e;
   --name: 'midnight-in-mojave'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'midnight-in-mojave'; }
