@@ -20,6 +20,8 @@
   --red: #e15a60;
   --black: #7f7f7f;
   --name: 'Subliminal'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Subliminal'; }
