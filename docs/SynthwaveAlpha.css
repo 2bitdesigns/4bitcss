@@ -20,6 +20,8 @@
   --red: #e60a70;
   --black: #241b30;
   --name: 'SynthwaveAlpha'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SynthwaveAlpha'; }
