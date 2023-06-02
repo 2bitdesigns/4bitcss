@@ -20,7 +20,7 @@
   --red: #dc322f;
   --black: #073642;
   --name: 'Builtin Solarized Light'
-    --IsBright: 0
+    --IsBright: 0;
     --IsDark: 1
 }
 
