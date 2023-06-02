@@ -21,7 +21,7 @@
   --black: #546e7a;
   --name: 'MaterialOcean'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MaterialOcean'; }
