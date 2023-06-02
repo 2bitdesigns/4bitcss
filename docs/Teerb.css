@@ -20,6 +20,8 @@
   --red: #d68686;
   --black: #1c1c1c;
   --name: 'Teerb'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Teerb'; }
