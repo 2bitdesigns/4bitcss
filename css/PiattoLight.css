@@ -20,8 +20,8 @@
   --red: #b23771;
   --black: #414141;
   --name: 'Piatto Light'
-    --IsBright: 0;
-    --IsDark: 1;
+    --IsBright: 1;
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Piatto Light'; }
