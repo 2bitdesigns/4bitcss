@@ -20,8 +20,8 @@
   --red: #e60813;
   --black: #1b1d1e;
   --name: 'Spiderman'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Spiderman'; }
