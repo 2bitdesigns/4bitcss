@@ -20,8 +20,8 @@
   --red: #ff796d;
   --black: #0a0520;
   --name: 'purplepeter'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'purplepeter'; }
