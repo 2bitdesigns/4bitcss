@@ -20,8 +20,8 @@
   --red: #d11c24;
   --black: #002831;
   --name: 'Solarized Dark - Patched'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Dark - Patched'; }
