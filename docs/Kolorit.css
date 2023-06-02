@@ -21,7 +21,7 @@
   --black: #1d1a1e;
   --name: 'Kolorit'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Kolorit'; }
