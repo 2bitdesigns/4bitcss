@@ -19,7 +19,7 @@
   --green: #41a83e;
   --red: #fd6209;
   --black: #000000;
-  --name: 'DjangoRebornAgain'
+  --name: 'DjangoRebornAgain';
   --IsBright: 0;
   --IsDark: 1;
 }
