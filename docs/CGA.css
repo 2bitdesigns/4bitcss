@@ -19,7 +19,7 @@
   --green: #00aa00;
   --red: #aa0000;
   --black: #000000;
-  --name: 'CGA'
+  --name: 'CGA';
   --IsBright: 0;
   --IsDark: 1;
 }
