@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #363983;
+  --selectionBackground: #363983;
   --cursorColor: #ffa560;
   --foreground: #bbbbbb;
   --background: #000000;
@@ -20,8 +20,8 @@
   --red: #ff6c60;
   --black: #4f4f4f;
   --name: 'Builtin Pastel Dark'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Pastel Dark'; }
