@@ -20,6 +20,8 @@
   --red: #ff2736;
   --black: #014401;
   --name: 'IC_Green_PPL'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'IC_Green_PPL'; }
