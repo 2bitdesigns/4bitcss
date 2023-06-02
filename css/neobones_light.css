@@ -21,7 +21,7 @@
   --black: #e5ede6;
   --name: 'neobones_light'
     --IsBright: 0;
-    --IsDark: 1
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'neobones_light'; }
