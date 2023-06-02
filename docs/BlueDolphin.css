@@ -20,6 +20,8 @@
   --red: #ff8288;
   --black: #292d3e;
   --name: 'BlueDolphin'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlueDolphin'; }
