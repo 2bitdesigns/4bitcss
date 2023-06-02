@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #adbdd0;
+  --selectionBackground: #adbdd0;
   --cursorColor: #e6e5e5;
   --foreground: #e6e5e5;
   --background: #0d0d17;
@@ -20,8 +20,8 @@
   --red: #f12d52;
   --black: #4d4d4d;
   --name: 'Nocturnal Winter'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Nocturnal Winter'; }
