@@ -20,8 +20,8 @@
   --red: #cd5c5c;
   --black: #3d352a;
   --name: 'Arthur'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Arthur'; }
