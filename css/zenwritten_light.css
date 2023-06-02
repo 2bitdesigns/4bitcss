@@ -20,8 +20,8 @@
   --red: #a8334c;
   --black: #eeeeee;
   --name: 'zenwritten_light'
-    --IsBright: 0;
-    --IsDark: 1;
+    --IsBright: 1;
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenwritten_light'; }
