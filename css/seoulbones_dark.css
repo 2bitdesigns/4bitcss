@@ -20,6 +20,8 @@
   --red: #e388a3;
   --black: #4b4b4b;
   --name: 'seoulbones_dark'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'seoulbones_dark'; }
