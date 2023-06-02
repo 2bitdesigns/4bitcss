@@ -19,7 +19,7 @@
   --green: #55a049;
   --red: #883932;
   --black: #090300;
-  --name: 'C64'
+  --name: 'C64';
   --IsBright: 0;
   --IsDark: 1;
 }
