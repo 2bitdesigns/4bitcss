@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #a5a2a2;
+  --selectionBackground: #a5a2a2;
   --cursorColor: #4a4543;
   --foreground: #4a4543;
   --background: #f7f7f7;
@@ -20,8 +20,8 @@
   --red: #db2d20;
   --black: #090300;
   --name: '3024 Day'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: '3024 Day'; }
