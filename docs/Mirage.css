@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #273951;
+  --selectionBackground: #273951;
   --cursorColor: #ddb3ff;
   --foreground: #a6b2c0;
   --background: #1b2738;
@@ -20,8 +20,8 @@
   --red: #ff9999;
   --black: #011627;
   --name: 'Mirage'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Mirage'; }
