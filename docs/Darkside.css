@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #303333;
+  --selectionBackground: #303333;
   --cursorColor: #bbbbbb;
   --foreground: #bababa;
   --background: #222324;
@@ -20,8 +20,8 @@
   --red: #e8341c;
   --black: #000000;
   --name: 'Darkside'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Darkside'; }
