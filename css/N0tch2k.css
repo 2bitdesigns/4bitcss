@@ -21,7 +21,7 @@
   --black: #383838;
   --name: 'N0tch2k'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'N0tch2k'; }
