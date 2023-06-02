@@ -19,7 +19,7 @@
   --green: #98ec65;
   --red: #ff5555;
   --black: #141414;
-  --name: 'Framer'
+  --name: 'Framer';
   --IsBright: 0;
   --IsDark: 1;
 }
