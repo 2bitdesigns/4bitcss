@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #faf4ed;
+  --selectionBackground: #faf4ed;
   --cursorColor: #575279;
   --foreground: #575279;
   --background: #faf4ed;
@@ -20,8 +20,8 @@
   --red: #b4637a;
   --black: #f2e9e1;
   --name: 'rose-pine-dawn'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine-dawn'; }
