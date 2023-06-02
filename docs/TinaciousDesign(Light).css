@@ -21,7 +21,7 @@
   --black: #1d1d26;
   --name: 'Tinacious Design (Light)'
     --IsBright: 0;
-    --IsDark: 1
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tinacious Design (Light)'; }
