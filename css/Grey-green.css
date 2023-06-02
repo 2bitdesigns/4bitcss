@@ -20,8 +20,8 @@
   --red: #fe1414;
   --black: #000000;
   --name: 'Grey-green'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Grey-green'; }
