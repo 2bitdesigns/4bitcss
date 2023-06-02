@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #b5d5ff;
+  --selectionBackground: #b5d5ff;
   --cursorColor: #bbbbbb;
   --foreground: #ffffff;
   --background: #1d2837;
@@ -20,8 +20,8 @@
   --red: #f9555f;
   --black: #000000;
   --name: 'Galaxy'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Galaxy'; }
