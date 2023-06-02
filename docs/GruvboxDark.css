@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #665c54;
+  --selectionBackground: #665c54;
   --cursorColor: #ebdbb2;
   --foreground: #ebdbb2;
   --background: #282828;
@@ -20,8 +20,8 @@
   --red: #cc241d;
   --black: #282828;
   --name: 'GruvboxDark'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'GruvboxDark'; }
