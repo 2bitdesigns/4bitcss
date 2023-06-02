@@ -21,7 +21,7 @@
   --black: #1c1917;
   --name: 'zenbones_dark'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenbones_dark'; }
