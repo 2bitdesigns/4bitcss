@@ -21,7 +21,7 @@
   --black: #0f191c;
   --name: 'matrix'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'matrix'; }
