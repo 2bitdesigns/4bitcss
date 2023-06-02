@@ -21,7 +21,7 @@
   --black: #575757;
   --name: 'Hurtado'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hurtado'; }
