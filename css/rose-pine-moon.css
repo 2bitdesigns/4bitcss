@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #232136;
+  --selectionBackground: #232136;
   --cursorColor: #e0def4;
   --foreground: #e0def4;
   --background: #232136;
@@ -20,8 +20,8 @@
   --red: #eb6f92;
   --black: #393552;
   --name: 'rose-pine-moon'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine-moon'; }
