@@ -20,6 +20,8 @@
   --red: #e5492b;
   --black: #000000;
   --name: 'Pro Light'
+    "--IsBright: 0"
+    "--IsDark: 1"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Pro Light'; }
