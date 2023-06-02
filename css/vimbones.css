@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #d7d7d7;
+  --selectionBackground: #d7d7d7;
   --cursorColor: #353535;
   --foreground: #353535;
   --background: #f0f0ca;
@@ -20,8 +20,8 @@
   --red: #a8334c;
   --black: #f0f0ca;
   --name: 'vimbones'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'vimbones'; }
