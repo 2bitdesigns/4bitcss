@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #216dff;
+  --selectionBackground: #216dff;
   --cursorColor: #7f7f7f;
   --foreground: #ffffff;
   --background: #224fbc;
@@ -20,8 +20,8 @@
   --red: #990000;
   --black: #000000;
   --name: 'Ocean'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ocean'; }
