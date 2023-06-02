@@ -20,6 +20,8 @@
   --red: #cc517a;
   --black: #dcdfe7;
   --name: 'iceberg-light'
+    "--IsBright: 0"
+    "--IsDark: 1"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iceberg-light'; }
