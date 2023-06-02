@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5b5184;
+  --selectionBackground: #5b5184;
   --cursorColor: #c3d3de;
   --foreground: #c3d3de;
   --background: #262b33;
@@ -20,8 +20,8 @@
   --red: #cf7b98;
   --black: #3b3750;
   --name: 'jubi'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'jubi'; }
