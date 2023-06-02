@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #3ea9fe;
+  --selectionBackground: #3ea9fe;
   --cursorColor: #bafc8b;
   --foreground: #0b0b0b;
   --background: #ff8cd9;
@@ -20,8 +20,8 @@
   --red: #a80f20;
   --black: #0c0c0c;
   --name: 'Unikitty'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Unikitty'; }
