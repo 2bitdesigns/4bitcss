@@ -21,7 +21,7 @@
   --black: #2f2833;
   --name: 'Calamity'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Calamity'; }
