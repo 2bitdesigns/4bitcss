@@ -20,6 +20,8 @@
   --red: #ff8373;
   --black: #080808;
   --name: 'Cyberdyne'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cyberdyne'; }
