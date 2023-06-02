@@ -20,8 +20,8 @@
   --red: #d9393e;
   --black: #1f1d27;
   --name: 'Duotone Dark'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Duotone Dark'; }
