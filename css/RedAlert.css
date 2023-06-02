@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #073642;
+  --selectionBackground: #073642;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
   --background: #762423;
@@ -20,8 +20,8 @@
   --red: #d62e4e;
   --black: #000000;
   --name: 'Red Alert'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Red Alert'; }
