@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #203727;
+  --selectionBackground: #203727;
   --cursorColor: #ffcc00;
   --foreground: #dadedc;
   --background: #051f14;
@@ -20,8 +20,8 @@
   --red: #fd6209;
   --black: #000000;
   --name: 'DjangoRebornAgain'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DjangoRebornAgain'; }
