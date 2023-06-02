@@ -20,8 +20,8 @@
   --red: #b7141f;
   --black: #212121;
   --name: 'MaterialDark'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MaterialDark'; }
