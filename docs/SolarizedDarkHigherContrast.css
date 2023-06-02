@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #003748;
+  --selectionBackground: #003748;
   --cursorColor: #f34b00;
   --foreground: #9cc2c3;
   --background: #001e27;
@@ -20,8 +20,8 @@
   --red: #d11c24;
   --black: #002831;
   --name: 'Solarized Dark Higher Contrast'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Dark Higher Contrast'; }
