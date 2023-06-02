@@ -20,8 +20,8 @@
   --red: #810009;
   --black: #181818;
   --name: 'Ciapre'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ciapre'; }
