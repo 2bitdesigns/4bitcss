@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #f2f2f2;
+  --selectionBackground: #f2f2f2;
   --cursorColor: #403f53;
   --foreground: #403f53;
   --background: #ffffff;
@@ -20,8 +20,8 @@
   --red: #d3423e;
   --black: #011627;
   --name: 'Night Owlish Light'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Night Owlish Light'; }
