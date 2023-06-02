@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5f217a;
+  --selectionBackground: #5f217a;
   --cursorColor: #d5d5d5;
   --foreground: #31d07b;
   --background: #24364b;
@@ -20,8 +20,8 @@
   --red: #be2d26;
   --black: #2c3f58;
   --name: 'ToyChest'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ToyChest'; }
