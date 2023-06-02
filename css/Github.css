@@ -20,8 +20,8 @@
   --red: #970b16;
   --black: #3e3e3e;
   --name: 'Github'
-    --IsBright: 0;
-    --IsDark: 1;
+    --IsBright: 1;
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Github'; }
