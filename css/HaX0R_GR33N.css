@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #d4ffc1;
+  --selectionBackground: #d4ffc1;
   --cursorColor: #15d00d;
   --foreground: #16b10e;
   --background: #020f01;
@@ -20,8 +20,8 @@
   --red: #15d00d;
   --black: #001f0b;
   --name: 'HaX0R_GR33N'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_GR33N'; }
