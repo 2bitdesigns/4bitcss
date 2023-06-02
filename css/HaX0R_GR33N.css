@@ -20,6 +20,8 @@
   --red: #15d00d;
   --black: #001f0b;
   --name: 'HaX0R_GR33N'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_GR33N'; }
