@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ebdbb2;
+  --selectionBackground: #ebdbb2;
   --cursorColor: #c7c7c7;
   --foreground: #ebdbb2;
   --background: #181921;
@@ -20,8 +20,8 @@
   --red: #cc241d;
   --black: #1d2021;
   --name: 'Popping and Locking'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Popping and Locking'; }
