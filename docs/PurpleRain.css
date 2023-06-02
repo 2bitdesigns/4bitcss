@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #287691;
+  --selectionBackground: #287691;
   --cursorColor: #ff271d;
   --foreground: #fffbf6;
   --background: #21084a;
@@ -20,8 +20,8 @@
   --red: #ff260e;
   --black: #000000;
   --name: 'Purple Rain'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Purple Rain'; }
