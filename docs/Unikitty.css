@@ -21,7 +21,7 @@
   --black: #0c0c0c;
   --name: 'Unikitty'
     --IsBright: 0;
-    --IsDark: 1
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Unikitty'; }
