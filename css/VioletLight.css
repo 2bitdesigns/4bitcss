@@ -20,8 +20,8 @@
   --red: #c94c22;
   --black: #56595c;
   --name: 'Violet Light'
-    --IsBright: 0;
-    --IsDark: 1;
+    --IsBright: 1;
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Violet Light'; }
