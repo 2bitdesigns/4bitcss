@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #7e6c88;
+  --selectionBackground: #7e6c88;
   --cursorColor: #d5ced9;
   --foreground: #d5ced9;
   --background: #2f2833;
@@ -20,8 +20,8 @@
   --red: #fc644d;
   --black: #2f2833;
   --name: 'Calamity'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Calamity'; }
