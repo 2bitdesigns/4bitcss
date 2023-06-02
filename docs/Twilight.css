@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #313131;
+  --selectionBackground: #313131;
   --cursorColor: #ffffff;
   --foreground: #ffffd4;
   --background: #141414;
@@ -20,8 +20,8 @@
   --red: #c06d44;
   --black: #141414;
   --name: 'Twilight'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Twilight'; }
