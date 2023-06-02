@@ -19,7 +19,7 @@
   --green: #87c38a;
   --red: #fd5ff1;
   --black: #000000;
-  --name: 'Atom'
+  --name: 'Atom';
   --IsBright: 0;
   --IsDark: 1;
 }
