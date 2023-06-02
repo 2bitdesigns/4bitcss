@@ -21,7 +21,7 @@
   --black: #121418;
   --name: 'Earthsong'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Earthsong'; }
