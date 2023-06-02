@@ -20,6 +20,8 @@
   --red: #d71c15;
   --black: #242424;
   --name: 'Elementary'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Elementary'; }
