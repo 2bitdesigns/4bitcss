@@ -19,7 +19,7 @@
   --green: #82d967;
   --red: #23755a;
   --black: #0f191c;
-  --name: 'matrix'
+  --name: 'matrix';
   --IsBright: 0;
   --IsDark: 1;
 }
