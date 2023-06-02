@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #484e5b;
+  --selectionBackground: #484e5b;
   --cursorColor: #c7c7c7;
   --foreground: #d4d4d4;
   --background: #282c35;
@@ -20,8 +20,8 @@
   --red: #e15a60;
   --black: #7f7f7f;
   --name: 'Subliminal'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Subliminal'; }
