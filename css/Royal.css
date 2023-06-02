@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1f1d2b;
+  --selectionBackground: #1f1d2b;
   --cursorColor: #524966;
   --foreground: #514968;
   --background: #100815;
@@ -20,8 +20,8 @@
   --red: #91284c;
   --black: #241f2b;
   --name: 'Royal'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Royal'; }
