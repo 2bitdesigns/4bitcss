@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ea6154;
+  --selectionBackground: #ea6154;
   --cursorColor: #cdcdcd;
   --foreground: #adadad;
   --background: #1b1c1d;
@@ -20,8 +20,8 @@
   --red: #f8511b;
   --black: #242526;
   --name: 'FrontEndDelight'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FrontEndDelight'; }
