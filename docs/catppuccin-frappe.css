@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #626880;
+  --selectionBackground: #626880;
   --cursorColor: #f2d5cf;
   --foreground: #c6d0f5;
   --background: #303446;
@@ -20,8 +20,8 @@
   --red: #e78284;
   --black: #51576d;
   --name: 'catppuccin-frappe'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-frappe'; }
