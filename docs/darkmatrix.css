@@ -21,7 +21,7 @@
   --black: #091013;
   --name: 'darkmatrix'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'darkmatrix'; }
