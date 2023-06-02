@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2d37ff;
+  --selectionBackground: #2d37ff;
   --cursorColor: #000000;
   --foreground: #e1e1e0;
   --background: #2d3743;
@@ -20,8 +20,8 @@
   --red: #ff4242;
   --black: #000000;
   --name: 'Misterioso'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Misterioso'; }
