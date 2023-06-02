@@ -20,6 +20,8 @@
   --red: #d11c24;
   --black: #002831;
   --name: 'Solarized Dark Higher Contrast'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Dark Higher Contrast'; }
