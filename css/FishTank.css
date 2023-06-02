@@ -20,8 +20,8 @@
   --red: #c6004a;
   --black: #03073c;
   --name: 'FishTank'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FishTank'; }
