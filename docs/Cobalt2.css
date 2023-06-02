@@ -20,6 +20,8 @@
   --red: #ff0000;
   --black: #000000;
   --name: 'Cobalt2'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt2'; }
