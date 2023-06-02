@@ -21,7 +21,7 @@
   --black: #080808;
   --name: 'Guezwhoz'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Guezwhoz'; }
