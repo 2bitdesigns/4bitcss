@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #413829;
+  --selectionBackground: #413829;
   --cursorColor: #facb80;
   --foreground: #807a74;
   --background: #22211d;
@@ -20,8 +20,8 @@
   --red: #98290f;
   --black: #3c3c30;
   --name: 'Elemental'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Elemental'; }
