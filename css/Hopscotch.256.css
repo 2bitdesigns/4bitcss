@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5c545b;
+  --selectionBackground: #5c545b;
   --cursorColor: #b9b5b8;
   --foreground: #b9b5b8;
   --background: #322931;
@@ -20,8 +20,8 @@
   --red: #dd464c;
   --black: #322931;
   --name: 'Hopscotch.256'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hopscotch.256'; }
