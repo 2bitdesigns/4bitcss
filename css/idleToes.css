@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5b5b5b;
+  --selectionBackground: #5b5b5b;
   --cursorColor: #d6d6d6;
   --foreground: #ffffff;
   --background: #323232;
@@ -20,8 +20,8 @@
   --red: #d25252;
   --black: #323232;
   --name: 'idleToes'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'idleToes'; }
