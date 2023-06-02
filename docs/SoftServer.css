@@ -19,7 +19,7 @@
   --green: #9aa56a;
   --red: #a2686a;
   --black: #000000;
-  --name: 'SoftServer'
+  --name: 'SoftServer';
   --IsBright: 0;
   --IsDark: 1;
 }
