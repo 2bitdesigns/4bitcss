@@ -20,8 +20,8 @@
   --red: #fc6d26;
   --black: #2e2e2e;
   --name: 'Lab Fox'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Lab Fox'; }
