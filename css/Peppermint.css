@@ -21,7 +21,7 @@
   --black: #353535;
   --name: 'Peppermint'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Peppermint'; }
