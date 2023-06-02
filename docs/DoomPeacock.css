@@ -21,7 +21,7 @@
   --black: #1c1f24;
   --name: 'Doom Peacock'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Doom Peacock'; }
