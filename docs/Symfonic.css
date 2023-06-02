@@ -20,6 +20,8 @@
   --red: #dc322f;
   --black: #000000;
   --name: 'Symfonic'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Symfonic'; }
