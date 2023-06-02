@@ -19,7 +19,7 @@
   --green: #00a600;
   --red: #990000;
   --black: #000000;
-  --name: 'Terminal Basic'
+  --name: 'Terminal Basic';
   --IsBright: 1;
   --IsDark: 0;
 }
