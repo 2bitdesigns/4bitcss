@@ -19,7 +19,7 @@
   --green: #0f9d58;
   --red: #db4437;
   --black: #000000;
-  --name: 'primary'
+  --name: 'primary';
   --IsBright: 1;
   --IsDark: 0;
 }
