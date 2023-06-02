@@ -21,7 +21,7 @@
   --black: #322931;
   --name: 'Hopscotch'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hopscotch'; }
