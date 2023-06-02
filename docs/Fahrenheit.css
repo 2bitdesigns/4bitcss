@@ -21,7 +21,7 @@
   --black: #1d1d1d;
   --name: 'Fahrenheit'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Fahrenheit'; }
