@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #18354f;
+  --selectionBackground: #18354f;
   --cursorColor: #f0cc09;
   --foreground: #ffffff;
   --background: #132738;
@@ -20,8 +20,8 @@
   --red: #ff0000;
   --black: #000000;
   --name: 'Cobalt2'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt2'; }
