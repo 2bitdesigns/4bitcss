@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #7f8786;
+  --selectionBackground: #7f8786;
   --cursorColor: #d2e0de;
   --foreground: #99a3a2;
   --background: #242626;
@@ -20,8 +20,8 @@
   --red: #a2686a;
   --black: #000000;
   --name: 'SoftServer'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SoftServer'; }
