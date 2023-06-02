@@ -234,7 +234,7 @@ function Export-4BitCSS
             ([float][byte]($rgb -band 0x0000ff)/255)
 
         $Luma = 0.2126 * $R + 0.7152 * $G + 0.0722 * $B
-        $IsBright = $luma -le .5
+        $IsBright = $luma -gt .5
 
         $cssFile    = (Join-Path $OutputPath "$($name -replace '\s').css")
         $className  = $Name -replace '\s' -replace '^\d', '_$0'        
