@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #cbe1e7;
+  --selectionBackground: #cbe1e7;
   --cursorColor: #fbfcfc;
   --foreground: #cbe1e7;
   --background: #1e1c31;
@@ -20,8 +20,8 @@
   --red: #ff5458;
   --black: #141228;
   --name: 'ChallengerDeep'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ChallengerDeep'; }
