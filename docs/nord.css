@@ -19,7 +19,7 @@
   --green: #a3be8c;
   --red: #bf616a;
   --black: #3b4252;
-  --name: 'nord'
+  --name: 'nord';
   --IsBright: 0;
   --IsDark: 1;
 }
