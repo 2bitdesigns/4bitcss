@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #272e35;
+  --selectionBackground: #272e35;
   --cursorColor: #bbbbbb;
   --foreground: #bdbaae;
   --background: #222222;
@@ -20,8 +20,8 @@
   --red: #ec5f67;
   --black: #15171c;
   --name: 'SpaceGray Eighties'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SpaceGray Eighties'; }
