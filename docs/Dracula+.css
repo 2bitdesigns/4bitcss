@@ -20,6 +20,8 @@
   --red: #ff5555;
   --black: #21222c;
   --name: 'Dracula+'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Dracula+'; }
