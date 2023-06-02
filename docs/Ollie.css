@@ -20,6 +20,8 @@
   --red: #ac2e31;
   --black: #000000;
   --name: 'Ollie'
+    "--IsBright: 1"
+    "--IsDark: 0"
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ollie'; }
