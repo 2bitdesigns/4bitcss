@@ -21,7 +21,7 @@
   --black: #535178;
   --name: 'Whimsy'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Whimsy'; }
