@@ -20,8 +20,8 @@
   --red: #ff453a;
   --black: #1e1e1e;
   --name: 'midnight-in-mojave'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'midnight-in-mojave'; }
