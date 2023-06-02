@@ -21,7 +21,7 @@
   --black: #2a2a2a;
   --name: 'PaulMillr'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'PaulMillr'; }
