@@ -20,8 +20,8 @@
   --red: #fa2934;
   --black: #121212;
   --name: 'Monokai Vivid'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Vivid'; }
