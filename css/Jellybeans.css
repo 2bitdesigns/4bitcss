@@ -20,8 +20,8 @@
   --red: #e27373;
   --black: #929292;
   --name: 'Jellybeans'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Jellybeans'; }
