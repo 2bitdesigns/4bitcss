@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ade48c;
+  --selectionBackground: #ade48c;
   --cursorColor: #202e18;
   --foreground: #202e18;
   --background: #e5ede6;
@@ -20,8 +20,8 @@
   --red: #a8334c;
   --black: #e5ede6;
   --name: 'neobones_light'
-    --IsBright: 1;
-    --IsDark: 0;
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'neobones_light'; }
