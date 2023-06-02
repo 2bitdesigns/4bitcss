@@ -19,7 +19,7 @@
   --green: #81d778;
   --red: #e2a8bf;
   --black: #222222;
-  --name: 'Slate'
+  --name: 'Slate';
   --IsBright: 0;
   --IsDark: 1;
 }
