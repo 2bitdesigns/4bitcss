@@ -20,8 +20,8 @@
   --red: #f7768e;
   --black: #1d202f;
   --name: 'tokyonight-storm'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'tokyonight-storm'; }
