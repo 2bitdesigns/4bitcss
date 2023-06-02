@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #083905;
+  --selectionBackground: #083905;
   --cursorColor: #23ff18;
   --foreground: #00ff00;
   --background: #000000;
@@ -20,8 +20,8 @@
   --red: #990000;
   --black: #000000;
   --name: 'Homebrew'
-    --IsBright: 0;
-    --IsDark: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Homebrew'; }
