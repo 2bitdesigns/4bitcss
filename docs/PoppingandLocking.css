@@ -20,8 +20,8 @@
   --red: #cc241d;
   --black: #1d2021;
   --name: 'Popping and Locking'
-    --IsBright: 1;
-    --IsDark: 0;
+    --IsBright: 0;
+    --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Popping and Locking'; }
