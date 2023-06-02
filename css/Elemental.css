@@ -21,7 +21,7 @@
   --black: #3c3c30;
   --name: 'Elemental'
     --IsBright: 1;
-    --IsDark: 0
+    --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Elemental'; }
