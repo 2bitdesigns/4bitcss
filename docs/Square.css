@@ -19,7 +19,7 @@
   --green: #b6377d;
   --red: #e9897c;
   --black: #050505;
-  --name: 'Square'
+  --name: 'Square';
   --IsBright: 0;
   --IsDark: 1;
 }
