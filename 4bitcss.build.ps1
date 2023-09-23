@@ -48,17 +48,17 @@ foreach ($jsonFile in $jsonFiles) {
     if ($jsonObject.Name -match '^\{') { continue }
     $cssPath = (Join-Path $PSScriptRoot css)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
-    $jsonObject | Export-4BitCSS -OutputPath $cssPath
+    $jsonObject | Export-4BitCSS -OutputPath $cssPath -OutVariable colorSchemeCssFile
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $docsPath
     
     $allColorSchemes += $colorSchemeName
 
-    $wasBright = Get-Item $cssPath | Select-String "IsBright: 1"
+    $wasBright = $colorSchemeCssFile | Select-String "IsBright: 1"
     if ($wasBright) {
         $brightColorSchemes += $colorSchemeName
     }
-    $wasDark   = Get-Item $cssPath | Select-String "IsDark: 1"
+    $wasDark   = $colorSchemeCssFile | Select-String "IsDark: 1"
     if ($wasDark) {
         $darkColorSchemes += $colorSchemeName
     }
@@ -108,8 +108,8 @@ $brightColorSchemes |
 Get-Item -Path $allBrightSchemesPath
 
 $allDarkSchemesPath = Join-Path $docsPath "allDarkColorSchemes.json"
-$allColorSchemes |
+$darkColorSchemes |
     ConvertTo-Json |
-    Set-Content -Path $allSchemesPath
+    Set-Content -Path $allDarkSchemesPath
 
 Get-Item -Path $allSchemesPath
