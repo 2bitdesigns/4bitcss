@@ -1,3 +1,11 @@
+## 0.1.3:
+
+* Renaming Theme to ColorScheme (#24)
+* Adding IsBright/IsDark to color scheme (#25)
+* Exporting Color Scheme Names (#26)
+
+---
+
 ## 0.1.2:
 
 Updating the Site:
