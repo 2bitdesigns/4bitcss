@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #b6d6fd;
+  --selectionBackground: #b6d6fd;
   --cursorColor: #20bbfc;
   --foreground: #424242;
   --background: #f1f1f1;
@@ -19,7 +19,9 @@
   --green: #10a778;
   --red: #c30771;
   --black: #212121;
-  --name: 'PencilLight'
+  --name: 'PencilLight';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'PencilLight'; }

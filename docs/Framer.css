@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #666666;
+  --selectionBackground: #666666;
   --cursorColor: #fcdc08;
   --foreground: #777777;
   --background: #111111;
@@ -19,7 +19,9 @@
   --green: #98ec65;
   --red: #ff5555;
   --black: #141414;
-  --name: 'Framer'
+  --name: 'Framer';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Framer'; }

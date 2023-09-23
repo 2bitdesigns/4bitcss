@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #67747c;
+  --selectionBackground: #67747c;
   --cursorColor: #b4b1b1;
   --foreground: #ffffff;
   --background: #2c3643;
@@ -19,7 +19,9 @@
   --green: #16c98d;
   --red: #fa5e5b;
   --black: #080200;
-  --name: 'Chester'
+  --name: 'Chester';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Chester'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c6c8d1;
+  --selectionBackground: #c6c8d1;
   --cursorColor: #c6c8d1;
   --foreground: #c6c8d1;
   --background: #161821;
@@ -19,7 +19,9 @@
   --green: #b4be82;
   --red: #e27878;
   --black: #1e2132;
-  --name: 'iceberg-dark'
+  --name: 'iceberg-dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iceberg-dark'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5e6687;
+  --selectionBackground: #5e6687;
   --cursorColor: #979db4;
   --foreground: #979db4;
   --background: #202746;
@@ -19,7 +19,9 @@
   --green: #ac9739;
   --red: #c94922;
   --black: #202746;
-  --name: 'AtelierSulphurpool'
+  --name: 'AtelierSulphurpool';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AtelierSulphurpool'; }

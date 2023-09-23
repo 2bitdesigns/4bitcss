@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #7dbeff;
+  --selectionBackground: #7dbeff;
   --cursorColor: #ffffff;
   --foreground: #afc2c2;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #559a70;
   --red: #ff3030;
   --black: #bccccd;
-  --name: 'LiquidCarbonTransparentInverse'
+  --name: 'LiquidCarbonTransparentInverse';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'LiquidCarbonTransparentInverse'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #303030;
+  --selectionBackground: #303030;
   --cursorColor: #d0d0d0;
   --foreground: #d0d0d0;
   --background: #212121;
@@ -19,7 +19,9 @@
   --green: #7e8e50;
   --red: #ac4142;
   --black: #151515;
-  --name: 'Afterglow'
+  --name: 'Afterglow';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Afterglow'; }

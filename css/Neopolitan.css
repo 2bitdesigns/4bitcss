@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #253b76;
+  --selectionBackground: #253b76;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
   --background: #271f19;
@@ -19,7 +19,9 @@
   --green: #61ce3c;
   --red: #800000;
   --black: #000000;
-  --name: 'Neopolitan'
+  --name: 'Neopolitan';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Neopolitan'; }

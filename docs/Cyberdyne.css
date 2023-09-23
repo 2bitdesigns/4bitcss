@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #454d96;
+  --selectionBackground: #454d96;
   --cursorColor: #00ff9c;
   --foreground: #00ff92;
   --background: #151144;
@@ -19,7 +19,9 @@
   --green: #00c172;
   --red: #ff8373;
   --black: #080808;
-  --name: 'Cyberdyne'
+  --name: 'Cyberdyne';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cyberdyne'; }

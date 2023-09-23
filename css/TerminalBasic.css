@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #a4c9ff;
+  --selectionBackground: #a4c9ff;
   --cursorColor: #7f7f7f;
   --foreground: #000000;
   --background: #ffffff;
@@ -19,7 +19,9 @@
   --green: #00a600;
   --red: #990000;
   --black: #000000;
-  --name: 'Terminal Basic'
+  --name: 'Terminal Basic';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Terminal Basic'; }

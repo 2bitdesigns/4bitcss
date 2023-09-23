@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #083905;
+  --selectionBackground: #083905;
   --cursorColor: #23ff18;
   --foreground: #84c138;
   --background: #100b05;
@@ -19,7 +19,9 @@
   --green: #00a600;
   --red: #b6214a;
   --black: #000000;
-  --name: 'Hipster Green'
+  --name: 'Hipster Green';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hipster Green'; }

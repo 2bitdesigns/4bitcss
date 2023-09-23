@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #8077a8;
+  --selectionBackground: #8077a8;
   --cursorColor: #f8f8f0;
   --foreground: #f8f8f2;
   --background: #5a5475;
@@ -19,7 +19,9 @@
   --green: #c2ffdf;
   --red: #f92672;
   --black: #040303;
-  --name: 'Fairyfloss'
+  --name: 'Fairyfloss';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Fairyfloss'; }

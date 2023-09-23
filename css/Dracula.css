@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #44475a;
+  --selectionBackground: #44475a;
   --cursorColor: #bbbbbb;
   --foreground: #f8f8f2;
   --background: #1e1f29;
@@ -19,7 +19,9 @@
   --green: #50fa7b;
   --red: #ff5555;
   --black: #000000;
-  --name: 'Dracula'
+  --name: 'Dracula';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Dracula'; }

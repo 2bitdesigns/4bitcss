@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d4d4d;
+  --selectionBackground: #4d4d4d;
   --cursorColor: #9e9ecb;
   --foreground: #999993;
   --background: #101010;
@@ -19,7 +19,9 @@
   --green: #287373;
   --red: #8c4665;
   --black: #333333;
-  --name: 'Wryan'
+  --name: 'Wryan';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Wryan'; }

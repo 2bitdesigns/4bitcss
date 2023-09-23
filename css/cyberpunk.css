@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #21f6bc;
   --foreground: #e5e5e5;
   --background: #332a57;
@@ -19,7 +19,9 @@
   --green: #00fbac;
   --red: #ff7092;
   --black: #000000;
-  --name: 'cyberpunk'
+  --name: 'cyberpunk';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'cyberpunk'; }

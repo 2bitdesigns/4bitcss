@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1a4080;
+  --selectionBackground: #1a4080;
   --cursorColor: #d9002f;
   --foreground: #ebebeb;
   --background: #262c35;
@@ -19,7 +19,9 @@
   --green: #3d9751;
   --red: #bf091d;
   --black: #191919;
-  --name: 'DotGov'
+  --name: 'DotGov';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DotGov'; }

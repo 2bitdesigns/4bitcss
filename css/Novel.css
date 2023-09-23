@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #a4a390;
+  --selectionBackground: #a4a390;
   --cursorColor: #73635a;
   --foreground: #3b2322;
   --background: #dfdbc3;
@@ -19,7 +19,9 @@
   --green: #009600;
   --red: #cc0000;
   --black: #000000;
-  --name: 'Novel'
+  --name: 'Novel';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Novel'; }

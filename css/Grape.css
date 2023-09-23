@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #493d70;
+  --selectionBackground: #493d70;
   --cursorColor: #a288f7;
   --foreground: #9f9fa1;
   --background: #171423;
@@ -19,7 +19,9 @@
   --green: #1fa91b;
   --red: #ed2261;
   --black: #2d283f;
-  --name: 'Grape'
+  --name: 'Grape';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Grape'; }

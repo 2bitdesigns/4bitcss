@@ -227,20 +227,30 @@ function Export-4BitCSS
             $NoElement = $true
             $NoStroke = $true            
         }
+    
+        $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
+        $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
+            ([float][byte](($rgb -band 0x00ff00) -shr 8)/255),
+            ([float][byte]($rgb -band 0x0000ff)/255)
+
+        $Luma = 0.2126 * $R + 0.7152 * $G + 0.0722 * $B
+        $IsBright = $luma -gt .5
 
         $cssFile    = (Join-Path $OutputPath "$($name -replace '\s').css")
         $className  = $Name -replace '\s' -replace '^\d', '_$0'        
         $cssContent = @(
             @"
 :root {
-    $(@(
+  $(@(
     foreach ($prop in $jsonObject.psobject.properties) {
         if ($prop.Name -eq 'Name') {
             "--$($prop.Name): '$($prop.Value)'"            
         } else {
             "--$($prop.Name): $($prop.Value)"
         }    
-    }) -join (';' + [Environment]::NewLine + '  '))
+    }) -join (';' + [Environment]::NewLine + '  '));
+  --IsBright: $($IsBright -as [int]);
+  --IsDark: $((-not $IsBright) -as [int]);
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: '$($name)'; }

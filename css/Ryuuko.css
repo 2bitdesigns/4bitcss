@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #002831;
+  --selectionBackground: #002831;
   --cursorColor: #ececec;
   --foreground: #ececec;
   --background: #2c3941;
@@ -19,7 +19,9 @@
   --green: #66907d;
   --red: #865f5b;
   --black: #2c3941;
-  --name: 'Ryuuko'
+  --name: 'Ryuuko';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ryuuko'; }

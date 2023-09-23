@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #efb8ac;
+  --selectionBackground: #efb8ac;
   --cursorColor: #d4605a;
   --foreground: #dbdae0;
   --background: #292f33;
@@ -19,7 +19,9 @@
   --green: #edb8ac;
   --red: #cb1e2d;
   --black: #292f33;
-  --name: 'Fideloper'
+  --name: 'Fideloper';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Fideloper'; }

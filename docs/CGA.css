@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #b8b8b8;
   --foreground: #aaaaaa;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #00aa00;
   --red: #aa0000;
   --black: #000000;
-  --name: 'CGA'
+  --name: 'CGA';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'CGA'; }

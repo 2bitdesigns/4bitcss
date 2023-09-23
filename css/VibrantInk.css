@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #b5d5ff;
+  --selectionBackground: #b5d5ff;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #ccff04;
   --red: #ff6600;
   --black: #878787;
-  --name: 'VibrantInk'
+  --name: 'VibrantInk';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'VibrantInk'; }

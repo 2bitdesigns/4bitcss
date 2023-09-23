@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #000000;
   --foreground: #000000;
   --background: #ffffff;
@@ -19,7 +19,9 @@
   --green: #59d600;
   --red: #ff0000;
   --black: #000000;
-  --name: 'Tango Adapted'
+  --name: 'Tango Adapted';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tango Adapted'; }

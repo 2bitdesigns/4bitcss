@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2f363e;
+  --selectionBackground: #2f363e;
   --cursorColor: #f6f7ec;
   --foreground: #e6e8ef;
   --background: #1c1e22;
@@ -19,7 +19,9 @@
   --green: #5ab977;
   --red: #b54036;
   --black: #23252b;
-  --name: 'Neutron'
+  --name: 'Neutron';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Neutron'; }

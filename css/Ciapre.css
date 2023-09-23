@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #172539;
+  --selectionBackground: #172539;
   --cursorColor: #92805b;
   --foreground: #aea47a;
   --background: #191c27;
@@ -19,7 +19,9 @@
   --green: #48513b;
   --red: #810009;
   --black: #181818;
-  --name: 'Ciapre'
+  --name: 'Ciapre';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ciapre'; }

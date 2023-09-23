@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #094fb1;
+  --selectionBackground: #094fb1;
   --cursorColor: #c4206f;
   --foreground: #8ff586;
   --background: #142838;
@@ -19,7 +19,9 @@
   --green: #3ba5ff;
   --red: #ff2320;
   --black: #142631;
-  --name: 'Cobalt Neon'
+  --name: 'Cobalt Neon';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt Neon'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #595ab7;
+  --selectionBackground: #595ab7;
   --cursorColor: #708284;
   --foreground: #708284;
   --background: #1c1d1f;
@@ -19,7 +19,9 @@
   --green: #85981c;
   --red: #c94c22;
   --black: #56595c;
-  --name: 'Violet Dark'
+  --name: 'Violet Dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Violet Dark'; }

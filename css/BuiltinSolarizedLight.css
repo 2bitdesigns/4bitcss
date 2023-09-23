@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #eee8d5;
+  --selectionBackground: #eee8d5;
   --cursorColor: #657b83;
   --foreground: #657b83;
   --background: #fdf6e3;
@@ -19,7 +19,9 @@
   --green: #859900;
   --red: #dc322f;
   --black: #073642;
-  --name: 'Builtin Solarized Light'
+  --name: 'Builtin Solarized Light';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Solarized Light'; }

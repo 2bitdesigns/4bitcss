@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #792b9c;
+  --selectionBackground: #792b9c;
   --cursorColor: #e5be0c;
   --foreground: #2cc55d;
   --background: #002240;
@@ -19,7 +19,9 @@
   --green: #32a548;
   --red: #a82320;
   --black: #222d3f;
-  --name: 'Flat'
+  --name: 'Flat';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Flat'; }

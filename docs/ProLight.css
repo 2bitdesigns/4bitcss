@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1ddff;
+  --selectionBackground: #c1ddff;
   --cursorColor: #4d4d4d;
   --foreground: #191919;
   --background: #ffffff;
@@ -19,7 +19,9 @@
   --green: #50d148;
   --red: #e5492b;
   --black: #000000;
-  --name: 'Pro Light'
+  --name: 'Pro Light';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Pro Light'; }

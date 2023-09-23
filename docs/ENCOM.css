@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #00a48c;
+  --selectionBackground: #00a48c;
   --cursorColor: #bbbbbb;
   --foreground: #00a595;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #008b00;
   --red: #9f0000;
   --black: #000000;
-  --name: 'ENCOM'
+  --name: 'ENCOM';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ENCOM'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #220525;
+  --selectionBackground: #220525;
   --cursorColor: #e07d13;
   --foreground: #cccccc;
   --background: #191323;
@@ -19,7 +19,9 @@
   --green: #00bd9c;
   --red: #ff6b7f;
   --black: #17141f;
-  --name: 'Banana Blueberry'
+  --name: 'Banana Blueberry';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Banana Blueberry'; }

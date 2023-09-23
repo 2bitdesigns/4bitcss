@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2b1b1d;
+  --selectionBackground: #2b1b1d;
   --cursorColor: #68525a;
   --foreground: #68525a;
   --background: #150707;
@@ -19,7 +19,9 @@
   --green: #579524;
   --red: #91002b;
   --black: #2b1b1d;
-  --name: 'CrayonPonyFish'
+  --name: 'CrayonPonyFish';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'CrayonPonyFish'; }

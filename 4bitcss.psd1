@@ -1,16 +1,24 @@
 @{
-    ModuleVersion = '0.1.2'
+    ModuleVersion = '0.1.3'
     RootModule = '4bitcss.psm1'
     Description = 'CSS3 Color Schemes'
     Guid = '93e1d6ab-ce88-4751-bb14-b21fbb9f66f3'
     CompanyName = 'Start-Automating'
     Author = 'James Brundage'
-    Copyright = '2022 Start-Automating'
+    Copyright = '2022-2023 Start-Automating'
     PrivateData = @{
         PSData = @{
             ProjectURI = 'https://github.com/2bitdesigns'
             LicenseURI = 'https://github.com/2bitdesigns/4bitcss/blob/main/LICENSE'
             ReleaseNotes = @'
+## 0.1.3:
+
+* Renaming Theme to ColorScheme (#24)
+* Adding IsBright/IsDark to color scheme (#25)
+* Exporting Color Scheme Names (#26)
+
+---
+
 ## 0.1.2:
 
 Updating the Site:

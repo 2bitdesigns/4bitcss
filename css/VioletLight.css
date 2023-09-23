@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #595ab7;
+  --selectionBackground: #595ab7;
   --cursorColor: #536870;
   --foreground: #536870;
   --background: #fcf4dc;
@@ -19,7 +19,9 @@
   --green: #85981c;
   --red: #c94c22;
   --black: #56595c;
-  --name: 'Violet Light'
+  --name: 'Violet Light';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Violet Light'; }

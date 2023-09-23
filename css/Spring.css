@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #d6d6d6;
+  --selectionBackground: #d6d6d6;
   --cursorColor: #4d4d4c;
   --foreground: #4d4d4c;
   --background: #ffffff;
@@ -19,7 +19,9 @@
   --green: #1f8c3b;
   --red: #ff4d83;
   --black: #000000;
-  --name: 'Spring'
+  --name: 'Spring';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Spring'; }

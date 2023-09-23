@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4f424c;
+  --selectionBackground: #4f424c;
   --cursorColor: #a39e9b;
   --foreground: #a39e9b;
   --background: #2f1e2e;
@@ -19,7 +19,9 @@
   --green: #48b685;
   --red: #ef6155;
   --black: #2f1e2e;
-  --name: 'Paraiso Dark'
+  --name: 'Paraiso Dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Paraiso Dark'; }

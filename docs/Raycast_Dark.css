@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #333333;
+  --selectionBackground: #333333;
   --cursorColor: #cccccc;
   --foreground: #ffffff;
   --background: #1a1a1a;
@@ -19,7 +19,9 @@
   --green: #59d499;
   --red: #ff5360;
   --black: #000000;
-  --name: 'Raycast_Dark'
+  --name: 'Raycast_Dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Raycast_Dark'; }

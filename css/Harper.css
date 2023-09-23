@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5a5753;
+  --selectionBackground: #5a5753;
   --cursorColor: #a8a49d;
   --foreground: #a8a49d;
   --background: #010101;
@@ -19,7 +19,9 @@
   --green: #7fb5e1;
   --red: #f8b63f;
   --black: #010101;
-  --name: 'Harper'
+  --name: 'Harper';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Harper'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d4d4d;
+  --selectionBackground: #4d4d4d;
   --cursorColor: #aa9175;
   --foreground: #a0a0a0;
   --background: #222222;
@@ -19,7 +19,9 @@
   --green: #666666;
   --red: #a95551;
   --black: #383838;
-  --name: 'N0tch2k'
+  --name: 'N0tch2k';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'N0tch2k'; }

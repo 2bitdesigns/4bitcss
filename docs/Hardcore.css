@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #453b39;
+  --selectionBackground: #453b39;
   --cursorColor: #bbbbbb;
   --foreground: #a0a0a0;
   --background: #121212;
@@ -19,7 +19,9 @@
   --green: #a6e22e;
   --red: #f92672;
   --black: #1b1d1e;
-  --name: 'Hardcore'
+  --name: 'Hardcore';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hardcore'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #6a7985;
+  --selectionBackground: #6a7985;
   --cursorColor: #d9d9d9;
   --foreground: #d9d9d9;
   --background: #353a44;
@@ -19,7 +19,9 @@
   --green: #909d63;
   --red: #bc5653;
   --black: #151515;
-  --name: 'Relaxed'
+  --name: 'Relaxed';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Relaxed'; }

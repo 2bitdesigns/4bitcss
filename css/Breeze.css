@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #eff0f1;
+  --selectionBackground: #eff0f1;
   --cursorColor: #eff0f1;
   --foreground: #eff0f1;
   --background: #31363b;
@@ -19,7 +19,9 @@
   --green: #11d116;
   --red: #ed1515;
   --black: #31363b;
-  --name: 'Breeze'
+  --name: 'Breeze';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Breeze'; }

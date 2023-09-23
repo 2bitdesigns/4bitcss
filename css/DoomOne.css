@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #42444b;
+  --selectionBackground: #42444b;
   --cursorColor: #51afef;
   --foreground: #bbc2cf;
   --background: #282c34;
@@ -19,7 +19,9 @@
   --green: #98be65;
   --red: #ff6c6b;
   --black: #000000;
-  --name: 'DoomOne'
+  --name: 'DoomOne';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DoomOne'; }

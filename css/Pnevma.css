@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d4d4d;
+  --selectionBackground: #4d4d4d;
   --cursorColor: #e4c9af;
   --foreground: #d0d0d0;
   --background: #1c1c1c;
@@ -19,7 +19,9 @@
   --green: #90a57d;
   --red: #a36666;
   --black: #2f2e2d;
-  --name: 'Pnevma'
+  --name: 'Pnevma';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Pnevma'; }

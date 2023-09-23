@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #663399;
+  --selectionBackground: #663399;
   --cursorColor: #b89bf9;
   --foreground: #e8e6ed;
   --background: #292a44;
@@ -19,7 +19,9 @@
   --green: #04dbb5;
   --red: #dd7755;
   --black: #12131e;
-  --name: 'rebecca'
+  --name: 'rebecca';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rebecca'; }

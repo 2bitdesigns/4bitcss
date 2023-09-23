@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c05cbf;
+  --selectionBackground: #c05cbf;
   --cursorColor: #ff65fd;
   --foreground: #dd7bdc;
   --background: #18131e;
@@ -19,7 +19,9 @@
   --green: #41af1a;
   --red: #d52370;
   --black: #000000;
-  --name: 'Sakura'
+  --name: 'Sakura';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sakura'; }

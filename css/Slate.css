@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #0f3754;
+  --selectionBackground: #0f3754;
   --cursorColor: #87d3c4;
   --foreground: #35b1d2;
   --background: #222222;
@@ -19,7 +19,9 @@
   --green: #81d778;
   --red: #e2a8bf;
   --black: #222222;
-  --name: 'Slate'
+  --name: 'Slate';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Slate'; }

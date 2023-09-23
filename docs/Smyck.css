@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #207483;
+  --selectionBackground: #207483;
   --cursorColor: #bbbbbb;
   --foreground: #f7f7f7;
   --background: #1b1b1b;
@@ -19,7 +19,9 @@
   --green: #7da900;
   --red: #b84131;
   --black: #000000;
-  --name: 'Smyck'
+  --name: 'Smyck';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Smyck'; }

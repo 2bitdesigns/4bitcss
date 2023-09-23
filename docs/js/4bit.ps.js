@@ -1,5 +1,5 @@
 var defaultTheme = "Konsolas";
-function themeList() {
+function GetColorSchemeList() {
     return [/*{
 "'$(
   @($pwd |
@@ -8,57 +8,57 @@ function themeList() {
     % { $_.Name -replace '\.css$' }
   ) -join "','"
 )'"
-    }*/]    
+    }*/]
 }
 
 function feelingLucky() {
-    var themes = themeList();
-    var randomNumber = Math.floor(Math.random() * themes.length);
+    var colorSchemes = GetColorSchemeList();
+    var randomNumber = Math.floor(Math.random() * colorSchemes.length);
     var fourBitCssLink = document.getElementById("4bitcss");
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    switchTheme(themes[randomNumber])
+    SetColorScheme(colorSchemes[randomNumber])
 
     for (arg in arguments) {
         if (arguments[arg].value) {
-            arguments[arg].value = themes[randomNumber];
+            arguments[arg].value = colorSchemes[randomNumber];
         }
     }
 }
 
-function switchTheme(themeName) {
+function SetColorScheme(colorSchemeName) {
     var fourBitCssLink = document.getElementById("4bitcss");
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    var foundTheme = themeList().find(element => element == themeName);
-    if (! foundTheme) {
-        throw ("Theme '" + themeName + "' does not exist");
+    var foundScheme = GetColorSchemeList().find(element => element == colorSchemeName);
+    if (! foundScheme) {
+        throw ("Color Scheme '" + colorSchemeName + "' does not exist");
     }
-    fourBitCssLink.href = "/" + foundTheme + ".css";
-    fourBitCssLink.themeName = foundTheme;
+    fourBitCssLink.href = "/" + foundScheme + ".css";
+    fourBitCssLink.themeName = foundScheme;
     var downloadLink = document.getElementById("downloadSchemeLink");
     if (downloadLink) {
-        downloadLink.href = "/" + foundTheme + ".css";
+        downloadLink.href = "/" + foundScheme + ".css";
     }
     var cdnLink = document.getElementById("cdnSchemeLink")
     if (cdnLink) {
-        cdnLink.href = "https://cdn.jsdelivr.net/gh/2bitdesigns/4bitcss@latest/css/" + foundTheme + ".css";
+        cdnLink.href = "https://cdn.jsdelivr.net/gh/2bitdesigns/4bitcss@latest/css/" + foundScheme + ".css";
     }
 
     var colorSchemeNameLink = document.getElementById("colorSchemeNameLink")
     if (colorSchemeNameLink) {
-        colorSchemeNameLink.href = "https://4bitcss.com/" + foundTheme;
+        colorSchemeNameLink.href = "https://4bitcss.com/" + foundScheme;
     }
 
-    var themeSelector = document.getElementById("themeSelector");
-    if (themeSelector) {
-        themeSelector.value = themeName;
+    var schemeSelector = document.getElementById("schemeSelector");
+    if (schemeSelector) {
+        schemeSelector.value = foundScheme;
     }
 }
 
-function getCSSVariable(name) {
+function GetCSSVariable(name) {
     var root = document.querySelector(":root");
     var rootStyle = getComputedStyle(root);
     return rootStyle.getPropertyValue(name);
@@ -82,7 +82,7 @@ function loadTheme() {
     }
     var previouslySaved = localStorage.getItem("savedThemeLink");
     if (previouslySaved) {
-        switchTheme(previouslySaved);
+        SetColorScheme(previouslySaved);
     }
     for (arg in arguments) {
         if (arguments[arg].value) {

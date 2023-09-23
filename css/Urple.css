@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #a063eb;
+  --selectionBackground: #a063eb;
   --cursorColor: #a063eb;
   --foreground: #877a9b;
   --background: #1b1b23;
@@ -19,7 +19,9 @@
   --green: #37a415;
   --red: #b0425b;
   --black: #000000;
-  --name: 'Urple'
+  --name: 'Urple';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Urple'; }

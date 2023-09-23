@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2d37ff;
+  --selectionBackground: #2d37ff;
   --cursorColor: #43d58e;
   --foreground: #e1e1e1;
   --background: #141e43;
@@ -19,7 +19,9 @@
   --green: #74af68;
   --red: #ff4242;
   --black: #000000;
-  --name: 'Pandora'
+  --name: 'Pandora';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Pandora'; }

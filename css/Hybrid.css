@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1e1f22;
+  --selectionBackground: #1e1f22;
   --cursorColor: #b7bcba;
   --foreground: #b7bcba;
   --background: #161719;
@@ -19,7 +19,9 @@
   --green: #b3bf5a;
   --red: #b84d51;
   --black: #2a2e33;
-  --name: 'Hybrid'
+  --name: 'Hybrid';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hybrid'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #373b41;
+  --selectionBackground: #373b41;
   --cursorColor: #c5c8c6;
   --foreground: #c5c8c6;
   --background: #1d1f21;
@@ -19,7 +19,9 @@
   --green: #b5bd68;
   --red: #cc6666;
   --black: #000000;
-  --name: 'Tomorrow Night'
+  --name: 'Tomorrow Night';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tomorrow Night'; }

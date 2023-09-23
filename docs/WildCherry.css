@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #002831;
+  --selectionBackground: #002831;
   --cursorColor: #dd00ff;
   --foreground: #dafaff;
   --background: #1f1726;
@@ -19,7 +19,9 @@
   --green: #2ab250;
   --red: #d94085;
   --black: #000507;
-  --name: 'WildCherry'
+  --name: 'WildCherry';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'WildCherry'; }

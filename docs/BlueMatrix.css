@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #76ff9f;
   --foreground: #00a2ff;
   --background: #101116;
@@ -19,7 +19,9 @@
   --green: #00ff9c;
   --red: #ff5680;
   --black: #101116;
-  --name: 'Blue Matrix'
+  --name: 'Blue Matrix';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Blue Matrix'; }

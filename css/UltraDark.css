@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #222222;
+  --selectionBackground: #222222;
   --cursorColor: #fefefe;
   --foreground: #ffffff;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #c3e88d;
   --red: #f07178;
   --black: #000000;
-  --name: 'UltraDark'
+  --name: 'UltraDark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'UltraDark'; }

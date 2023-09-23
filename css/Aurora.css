@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #292e38;
+  --selectionBackground: #292e38;
   --cursorColor: #ee5d43;
   --foreground: #ffca28;
   --background: #23262e;
@@ -19,7 +19,9 @@
   --green: #8fd46d;
   --red: #f0266f;
   --black: #23262e;
-  --name: 'Aurora'
+  --name: 'Aurora';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Aurora'; }

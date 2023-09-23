@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #44475a;
+  --selectionBackground: #44475a;
   --cursorColor: #bbbbbb;
   --foreground: #adadad;
   --background: #202020;
@@ -19,7 +19,9 @@
   --green: #98b61c;
   --red: #fc5256;
   --black: #adadad;
-  --name: 'idea'
+  --name: 'idea';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'idea'; }

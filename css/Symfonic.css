@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #073642;
+  --selectionBackground: #073642;
   --cursorColor: #dc322f;
   --foreground: #ffffff;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #56db3a;
   --red: #dc322f;
   --black: #000000;
-  --name: 'Symfonic'
+  --name: 'Symfonic';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Symfonic'; }

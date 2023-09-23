@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c14020;
+  --selectionBackground: #c14020;
   --cursorColor: #fc531d;
   --foreground: #ffcb83;
   --background: #262626;
@@ -19,7 +19,9 @@
   --green: #a4a900;
   --red: #c13900;
   --black: #000000;
-  --name: 'IC_Orange_PPL'
+  --name: 'IC_Orange_PPL';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'IC_Orange_PPL'; }

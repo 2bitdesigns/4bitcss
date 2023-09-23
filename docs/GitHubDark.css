@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #3b5070;
+  --selectionBackground: #3b5070;
   --cursorColor: #c9d1d9;
   --foreground: #8b949e;
   --background: #101216;
@@ -19,7 +19,9 @@
   --green: #56d364;
   --red: #f78166;
   --black: #000000;
-  --name: 'GitHub Dark'
+  --name: 'GitHub Dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'GitHub Dark'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #a4a390;
+  --selectionBackground: #a4a390;
   --cursorColor: #ffffff;
   --foreground: #d7c9a7;
   --background: #7a251e;
@@ -19,7 +19,9 @@
   --green: #00bb00;
   --red: #ff3f00;
   --black: #000000;
-  --name: 'Red Sands'
+  --name: 'Red Sands';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Red Sands'; }

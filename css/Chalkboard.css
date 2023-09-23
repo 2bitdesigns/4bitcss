@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #073642;
+  --selectionBackground: #073642;
   --cursorColor: #d9e6f2;
   --foreground: #d9e6f2;
   --background: #29262f;
@@ -19,7 +19,9 @@
   --green: #72c373;
   --red: #c37372;
   --black: #000000;
-  --name: 'Chalkboard'
+  --name: 'Chalkboard';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Chalkboard'; }

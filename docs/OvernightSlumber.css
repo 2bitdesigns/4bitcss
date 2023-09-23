@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1f2b41;
+  --selectionBackground: #1f2b41;
   --cursorColor: #ffa7c4;
   --foreground: #ced2d6;
   --background: #0e1729;
@@ -19,7 +19,9 @@
   --green: #85cc95;
   --red: #ffa7c4;
   --black: #0a1222;
-  --name: 'Overnight Slumber'
+  --name: 'Overnight Slumber';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Overnight Slumber'; }

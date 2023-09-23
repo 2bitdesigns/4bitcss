@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2f363e;
+  --selectionBackground: #2f363e;
   --cursorColor: #f6f7ec;
   --foreground: #9ba2b2;
   --background: #1e2027;
@@ -19,7 +19,9 @@
   --green: #5ab977;
   --red: #d95360;
   --black: #585f6d;
-  --name: 'Firewatch'
+  --name: 'Firewatch';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Firewatch'; }

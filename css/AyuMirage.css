@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #33415e;
+  --selectionBackground: #33415e;
   --cursorColor: #ffcc66;
   --foreground: #cbccc6;
   --background: #1f2430;
@@ -19,7 +19,9 @@
   --green: #a6cc70;
   --red: #ed8274;
   --black: #191e2a;
-  --name: 'Ayu Mirage'
+  --name: 'Ayu Mirage';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Ayu Mirage'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #19cde6;
+  --selectionBackground: #19cde6;
   --cursorColor: #19cde6;
   --foreground: #dad9c7;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #1ebb2b;
   --red: #f6188f;
   --black: #000000;
-  --name: 'synthwave'
+  --name: 'synthwave';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'synthwave'; }

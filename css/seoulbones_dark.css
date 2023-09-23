@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #777777;
+  --selectionBackground: #777777;
   --cursorColor: #e2e2e2;
   --foreground: #dddddd;
   --background: #4b4b4b;
@@ -19,7 +19,9 @@
   --green: #98bd99;
   --red: #e388a3;
   --black: #4b4b4b;
-  --name: 'seoulbones_dark'
+  --name: 'seoulbones_dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'seoulbones_dark'; }

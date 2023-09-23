@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ccced0;
+  --selectionBackground: #ccced0;
   --cursorColor: #ccced0;
   --foreground: #ccced0;
   --background: #202535;
@@ -19,7 +19,9 @@
   --green: #55ee77;
   --red: #ee5577;
   --black: #253045;
-  --name: 'Sublette'
+  --name: 'Sublette';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Sublette'; }

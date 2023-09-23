@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #717cb4;
+  --selectionBackground: #717cb4;
   --cursorColor: #ffcb6b;
   --foreground: #cccccc;
   --background: #3e4251;
@@ -19,7 +19,9 @@
   --green: #c3e88d;
   --red: #f07178;
   --black: #000000;
-  --name: 'PaleNightHC'
+  --name: 'PaleNightHC';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'PaleNightHC'; }

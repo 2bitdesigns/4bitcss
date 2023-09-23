@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #336442;
+  --selectionBackground: #336442;
   --cursorColor: #336442;
   --foreground: #f8f8f8;
   --background: #245032;
@@ -19,7 +19,9 @@
   --green: #41a83e;
   --red: #fd6209;
   --black: #000000;
-  --name: 'DjangoSmooth'
+  --name: 'DjangoSmooth';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'DjangoSmooth'; }

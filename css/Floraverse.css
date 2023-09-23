@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #f3e0b8;
+  --selectionBackground: #f3e0b8;
   --cursorColor: #bbbbbb;
   --foreground: #dbd1b9;
   --background: #0e0d15;
@@ -19,7 +19,9 @@
   --green: #5d731a;
   --red: #64002c;
   --black: #08002e;
-  --name: 'Floraverse'
+  --name: 'Floraverse';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Floraverse'; }

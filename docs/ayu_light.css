@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #f0eee4;
+  --selectionBackground: #f0eee4;
   --cursorColor: #ff6a00;
   --foreground: #5c6773;
   --background: #fafafa;
@@ -19,7 +19,9 @@
   --green: #86b300;
   --red: #ff3333;
   --black: #000000;
-  --name: 'ayu_light'
+  --name: 'ayu_light';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ayu_light'; }

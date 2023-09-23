@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #c7c7c7;
   --foreground: #000000;
   --background: #f5deb3;
@@ -19,7 +19,9 @@
   --green: #00c200;
   --red: #c91b00;
   --black: #000000;
-  --name: 'coffee_theme'
+  --name: 'coffee_theme';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'coffee_theme'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1b324a;
+  --selectionBackground: #1b324a;
   --cursorColor: #c2b790;
   --foreground: #c2b790;
   --background: #222222;
@@ -19,7 +19,9 @@
   --green: #728271;
   --red: #8c3432;
   --black: #202020;
-  --name: 'Red Planet'
+  --name: 'Red Planet';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Red Planet'; }

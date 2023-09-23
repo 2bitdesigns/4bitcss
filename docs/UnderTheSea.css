@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #415555;
+  --selectionBackground: #415555;
   --cursorColor: #4afcd6;
   --foreground: #ffffff;
   --background: #011116;
@@ -19,7 +19,9 @@
   --green: #00a941;
   --red: #b2302d;
   --black: #022026;
-  --name: 'UnderTheSea'
+  --name: 'UnderTheSea';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'UnderTheSea'; }

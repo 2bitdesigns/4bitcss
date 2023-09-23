@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #304b66;
+  --selectionBackground: #304b66;
   --cursorColor: #ffffff;
   --foreground: #c0c9e5;
   --background: #111e2a;
@@ -19,7 +19,9 @@
   --green: #7afde1;
   --red: #fc644d;
   --black: #000000;
-  --name: 'Rapture'
+  --name: 'Rapture';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Rapture'; }

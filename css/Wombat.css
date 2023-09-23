@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #453b39;
+  --selectionBackground: #453b39;
   --cursorColor: #bbbbbb;
   --foreground: #dedacf;
   --background: #171717;
@@ -19,7 +19,9 @@
   --green: #b1e969;
   --red: #ff615a;
   --black: #000000;
-  --name: 'Wombat'
+  --name: 'Wombat';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Wombat'; }

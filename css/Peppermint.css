@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #e6e6e6;
+  --selectionBackground: #e6e6e6;
   --cursorColor: #bbbbbb;
   --foreground: #c8c8c8;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #89d287;
   --red: #e74669;
   --black: #353535;
-  --name: 'Peppermint'
+  --name: 'Peppermint';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Peppermint'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d4d4d;
+  --selectionBackground: #4d4d4d;
   --cursorColor: #fc971f;
   --foreground: #f8f8f8;
   --background: #1b1d1e;
@@ -19,7 +19,9 @@
   --green: #4df840;
   --red: #f92672;
   --black: #1b1d1e;
-  --name: 'Thayer Bright'
+  --name: 'Thayer Bright';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Thayer Bright'; }

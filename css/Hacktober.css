@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #141414;
+  --selectionBackground: #141414;
   --cursorColor: #c9c9c9;
   --foreground: #c9c9c9;
   --background: #141414;
@@ -19,7 +19,9 @@
   --green: #587744;
   --red: #b34538;
   --black: #191918;
-  --name: 'Hacktober'
+  --name: 'Hacktober';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hacktober'; }

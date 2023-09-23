@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d52f8;
+  --selectionBackground: #4d52f8;
   --cursorColor: #53ae71;
   --foreground: #b3b3b3;
   --background: #000000;
@@ -19,7 +19,9 @@
   --green: #55cc55;
   --red: #cc5555;
   --black: #000000;
-  --name: 'Wez'
+  --name: 'Wez';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Wez'; }

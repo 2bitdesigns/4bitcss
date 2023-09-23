@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #37323c;
+  --selectionBackground: #37323c;
   --cursorColor: #8c91fa;
   --foreground: #736e7d;
   --background: #050014;
@@ -19,7 +19,9 @@
   --green: #337e6f;
   --red: #7d1625;
   --black: #230046;
-  --name: 'Lavandula'
+  --name: 'Lavandula';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Lavandula'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1e4962;
+  --selectionBackground: #1e4962;
   --cursorColor: #fca02f;
   --foreground: #deb88d;
   --background: #09141b;
@@ -19,7 +19,9 @@
   --green: #027c9b;
   --red: #d15123;
   --black: #17384c;
-  --name: 'SeaShells'
+  --name: 'SeaShells';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'SeaShells'; }

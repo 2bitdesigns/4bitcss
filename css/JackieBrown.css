@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #af8d21;
+  --selectionBackground: #af8d21;
   --cursorColor: #23ff18;
   --foreground: #ffcc2f;
   --background: #2c1d16;
@@ -19,7 +19,9 @@
   --green: #2baf2b;
   --red: #ef5734;
   --black: #2c1d16;
-  --name: 'Jackie Brown'
+  --name: 'Jackie Brown';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Jackie Brown'; }

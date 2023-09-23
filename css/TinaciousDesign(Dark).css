@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #ff3399;
+  --selectionBackground: #ff3399;
   --cursorColor: #cbcbf0;
   --foreground: #cbcbf0;
   --background: #1d1d26;
@@ -19,7 +19,9 @@
   --green: #00d364;
   --red: #ff3399;
   --black: #1d1d26;
-  --name: 'Tinacious Design (Dark)'
+  --name: 'Tinacious Design (Dark)';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tinacious Design (Dark)'; }

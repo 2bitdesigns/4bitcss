@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #163c61;
+  --selectionBackground: #163c61;
   --cursorColor: #708284;
   --foreground: #7c8fa4;
   --background: #0e1011;
@@ -19,7 +19,9 @@
   --green: #5eb83c;
   --red: #e63853;
   --black: #002831;
-  --name: 'FirefoxDev'
+  --name: 'FirefoxDev';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FirefoxDev'; }

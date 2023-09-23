@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #585b70;
+  --selectionBackground: #585b70;
   --cursorColor: #f5e0dc;
   --foreground: #cdd6f4;
   --background: #1e1e2e;
@@ -19,7 +19,9 @@
   --green: #a6e3a1;
   --red: #f38ba8;
   --black: #45475a;
-  --name: 'catppuccin-mocha'
+  --name: 'catppuccin-mocha';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'catppuccin-mocha'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #5b5b5b;
+  --selectionBackground: #5b5b5b;
   --cursorColor: #d6d6d6;
   --foreground: #ffffff;
   --background: #323232;
@@ -19,7 +19,9 @@
   --green: #a5c261;
   --red: #d25252;
   --black: #353535;
-  --name: 'Espresso'
+  --name: 'Espresso';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Espresso'; }

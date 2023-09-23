@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #f7d66a;
+  --selectionBackground: #f7d66a;
   --cursorColor: #c46c32;
   --foreground: #f7d66a;
   --background: #120b0d;
@@ -19,7 +19,9 @@
   --green: #636232;
   --red: #9b291c;
   --black: #351b0e;
-  --name: 'MonaLisa'
+  --name: 'MonaLisa';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'MonaLisa'; }

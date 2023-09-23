@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #1d4125;
+  --selectionBackground: #1d4125;
   --cursorColor: #73fa91;
   --foreground: #637d75;
   --background: #0f1610;
@@ -19,7 +19,9 @@
   --green: #2f7e25;
   --red: #7f2b27;
   --black: #112616;
-  --name: 'AlienBlood'
+  --name: 'AlienBlood';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AlienBlood'; }

@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #7869c4;
+  --selectionBackground: #7869c4;
   --cursorColor: #7869c4;
   --foreground: #7869c4;
   --background: #40318d;
@@ -19,7 +19,9 @@
   --green: #55a049;
   --red: #883932;
   --black: #090300;
-  --name: 'C64'
+  --name: 'C64';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'C64'; }

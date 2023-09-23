@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #fcf7e9;
+  --selectionBackground: #fcf7e9;
   --cursorColor: #fecd5e;
   --foreground: #ecf0fe;
   --background: #232537;
@@ -19,7 +19,9 @@
   --green: #acf157;
   --red: #c6004a;
   --black: #03073c;
-  --name: 'FishTank'
+  --name: 'FishTank';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'FishTank'; }

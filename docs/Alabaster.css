@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #bfdbfe;
+  --selectionBackground: #bfdbfe;
   --cursorColor: #007acc;
   --foreground: #000000;
   --background: #f7f7f7;
@@ -19,7 +19,9 @@
   --green: #448c27;
   --red: #aa3731;
   --black: #000000;
-  --name: 'Alabaster'
+  --name: 'Alabaster';
+  --IsBright: 1;
+  --IsDark: 0;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Alabaster'; }

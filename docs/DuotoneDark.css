@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #353147;
+  --selectionBackground: #353147;
   --cursorColor: #ff9839;
   --foreground: #b7a1ff;
   --background: #1f1d27;
@@ -19,7 +19,9 @@
   --green: #2dcd73;
   --red: #d9393e;
   --black: #1f1d27;
-  --name: 'Duotone Dark'
+  --name: 'Duotone Dark';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Duotone Dark'; }

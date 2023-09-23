@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #c1deff;
+  --selectionBackground: #c1deff;
   --cursorColor: #76ff9f;
   --foreground: #e41951;
   --background: #1c153d;
@@ -19,7 +19,9 @@
   --green: #00dc84;
   --red: #ff0051;
   --black: #101116;
-  --name: 'Scarlet Protocol'
+  --name: 'Scarlet Protocol';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Scarlet Protocol'; }

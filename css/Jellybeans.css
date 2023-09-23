@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #474e91;
+  --selectionBackground: #474e91;
   --cursorColor: #ffa560;
   --foreground: #dedede;
   --background: #121212;
@@ -19,7 +19,9 @@
   --green: #94b979;
   --red: #e27373;
   --black: #929292;
-  --name: 'Jellybeans'
+  --name: 'Jellybeans';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Jellybeans'; }

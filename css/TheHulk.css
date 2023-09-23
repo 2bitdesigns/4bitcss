@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #4d504c;
+  --selectionBackground: #4d504c;
   --cursorColor: #16b61b;
   --foreground: #b5b5b5;
   --background: #1b1d1e;
@@ -19,7 +19,9 @@
   --green: #13ce30;
   --red: #269d1b;
   --black: #1b1d1e;
-  --name: 'The Hulk'
+  --name: 'The Hulk';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'The Hulk'; }

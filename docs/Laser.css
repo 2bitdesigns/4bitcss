@@ -1,5 +1,5 @@
 :root {
-    --selectionBackground: #2e206a;
+  --selectionBackground: #2e206a;
   --cursorColor: #00ff9c;
   --foreground: #f106e3;
   --background: #030d18;
@@ -19,7 +19,9 @@
   --green: #b4fb73;
   --red: #ff8373;
   --black: #626262;
-  --name: 'Laser'
+  --name: 'Laser';
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Laser'; }
