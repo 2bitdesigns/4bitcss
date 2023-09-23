@@ -31,6 +31,10 @@ $previewSvg    = (Get-ChildItem -Path docs -Filter 4bitpreviewtemplate.svg | Get
 
 $docsPath = Join-Path $PSScriptRoot docs
 
+$allColorSchemes    = @()
+$brightColorSchemes = @()
+$darkColorSchemes   = @()
+
 # Walk thru each json file of a color scheme
 foreach ($jsonFile in $jsonFiles) {
     # convert the contents from JSON
@@ -42,10 +46,25 @@ foreach ($jsonFile in $jsonFiles) {
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
     if ($jsonObject.Name -match '^\{') { continue }
+    $cssPath = (Join-Path $PSScriptRoot css)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
-    $jsonObject | Export-4BitCSS -OutputPath (Join-Path $PSScriptRoot css)
+    $jsonObject | Export-4BitCSS -OutputPath $cssPath
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $docsPath
+    
+    $allColorSchemes += $colorSchemeName
+
+    $wasBright = Get-Item $cssPath | Select-String "IsBright: 1"
+    if ($wasBright) {
+        $brightColorSchemes += $colorSchemeName
+    }
+    $wasDark   = Get-Item $cssPath | Select-String "IsDark: 1"
+    if ($wasDark) {
+        $darkColorSchemes += $colorSchemeName
+    }
+
+
+    
 
     # Create a preview file.  All we need to change is the stylesheet.
     $previewFilePath = Join-Path $docsPath "$colorSchemeFileName.md"
@@ -71,5 +90,26 @@ $transpiledText
         Set-Content -Path $previewSvgPath
     
     # output the file so that PipeScript will check it in.
-    Get-Item -Path $previewSvgPath
+    Get-Item -Path $previewSvgPath    
 }
+
+$allSchemesPath = Join-Path $docsPath "allColorSchemes.json"
+$allColorSchemes |
+    ConvertTo-Json |
+    Set-Content -Path $allSchemesPath
+
+Get-Item -Path $allSchemesPath
+
+$allBrightSchemesPath = Join-Path $docsPath "allBrightColorSchemes.json"
+$brightColorSchemes |
+    ConvertTo-Json |
+    Set-Content -Path $allBrightSchemesPath
+
+Get-Item -Path $allBrightSchemesPath
+
+$allDarkSchemesPath = Join-Path $docsPath "allDarkColorSchemes.json"
+$allColorSchemes |
+    ConvertTo-Json |
+    Set-Content -Path $allSchemesPath
+
+Get-Item -Path $allSchemesPath
