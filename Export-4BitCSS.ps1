@@ -140,13 +140,13 @@ function Export-4BitCSS
     $Foreground,
 
     # The cursor color.
-    [Parameter(Mandatory,ValueFromPipelineByPropertyName)]
+    [Parameter(ValueFromPipelineByPropertyName)]
     [ComponentModel.DefaultBindingProperty("cursorColor")]
     [string]
     $CursorColor,
 
     # The selection background.
-    [Parameter(Mandatory,ValueFromPipelineByPropertyName)]
+    [Parameter(ValueFromPipelineByPropertyName)]
     [ComponentModel.DefaultBindingProperty("selectionBackground")]
     [string]
     $SelectionBackground,
