@@ -41,7 +41,8 @@ foreach ($jsonFile in $jsonFiles) {
     $jsonObject = [IO.File]::ReadAllText($jsonFile.FullName) | ConvertFrom-Json
     # and determine the name of the scheme and it's files.
     $colorSchemeName = $jsonObject.Name
-    $colorSchemeFileName = $jsonObject.Name -replace '\s'
+    $colorSchemeFileName =
+        $jsonObject.Name -replace '\s','_' -replace '\p{P}','-' -replace '-+','-' -replace '-$'
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
@@ -49,8 +50,13 @@ foreach ($jsonFile in $jsonFiles) {
     $cssPath = (Join-Path $PSScriptRoot css)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
     $jsonObject | Export-4BitCSS -OutputPath $cssPath -OutVariable colorSchemeCssFile
+    
+    $ColorSchemePath = Join-Path $docsPath $colorSchemeFileName
+    if (-not (Test-Path $ColorSchemePath)) {
+        $null = New-Item -ItemType Directory -Path $ColorSchemePath
+    }
     # Then export it again to /docs (so the GitHub page works)
-    $jsonObject | Export-4BitCSS -OutputPath $docsPath
+    $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
     
     $allColorSchemes += $colorSchemeName
 
@@ -63,11 +69,8 @@ foreach ($jsonFile in $jsonFiles) {
         $darkColorSchemes += $colorSchemeName
     }
 
-
-    
-
     # Create a preview file.  All we need to change is the stylesheet.
-    $previewFilePath = Join-Path $docsPath "$colorSchemeFileName.md"
+    $previewFilePath = Join-Path $ColorSchemePath "$colorSchemeFileName.md"
 @"
 ---
 stylesheet: $colorSchemeFileName.css
@@ -83,7 +86,7 @@ $transpiledText
     Get-Item -Path $previewFilePath
 
     # Now create a preview SVG
-    $previewSvgPath = Join-Path $docsPath "$colorSchemeFileName.svg"
+    $previewSvgPath = Join-Path $ColorSchemePath "$colorSchemeFileName.svg"
 
     # by expanding the string we have in $previewSVG (this will replace $ColorSchemeName)
     $executionContext.SessionState.InvokeCommand.ExpandString($previewSvg) |
