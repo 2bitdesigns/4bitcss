@@ -499,8 +499,11 @@ jobs:
         id: PSSVG
       - name: UseEZOut
         uses: StartAutomating/EZOut@master
-      - name: BuildPipeScript
+      - name: PipeScript
         uses: StartAutomating/PipeScript@main
+        id: PipeScript
+        with: 
+          serial: true
       - name: UseHelpOut
         uses: StartAutomating/HelpOut@master
 env: 
