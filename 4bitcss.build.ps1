@@ -20,7 +20,10 @@ if ($env:GITHUB_WORKSPACE) {
 Import-Module .\4bitcss.psd1 -Global
 
 # Build the index file.
-$transpiledPreview = Build-PipeScript -InputPath .\docs\index.ps.markdown
+$transpiledPreview = Build-PipeScript -InputPath (
+    Join-Path $PSScriptRoot "docs" | 
+    Join-Path -ChildPath "index.ps.markdown"
+)
 # (we'll slightly modify this for each preview)
 $transpiledText = [IO.File]::ReadAllText($transpiledPreview.FullName)
 
@@ -37,7 +40,7 @@ $darkColorSchemes   = @()
 
 # Walk thru each json file of a color scheme
 foreach ($jsonFile in $jsonFiles) {
-    # convert the contents from JSON
+    # convert the contents from JSON    
     $jsonObject = [IO.File]::ReadAllText($jsonFile.FullName) | ConvertFrom-Json
     # and determine the name of the scheme and it's files.
     $colorSchemeName = $jsonObject.Name
