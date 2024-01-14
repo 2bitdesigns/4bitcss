@@ -119,3 +119,10 @@ $darkColorSchemes |
     Set-Content -Path $allDarkSchemesPath
 
 Get-Item -Path $allSchemesPath
+
+$4bitJS = Export-4BitJS -ColorSchemeName $allColorSchemes -DarkColorSchemeName $darkColorSchemes -LightColorSchemeName $LightColorSchemeName
+
+$4bitJSDocsPath = Join-Path $docsPath "js" | Join-Path -ChildPath "4bit.js"
+New-Item -ItemType File -Path $4bitJSDocsPath -Force -Value $4bitJS
+
+New-Item -ItemType File -Path ".\4bit.js" -Force -Value $4bitJS

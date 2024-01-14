@@ -1,14 +1,50 @@
-var defaultTheme = "Konsolas";
+function Export-4BitJS {
+    <#
+    .SYNOPSIS
+        Exports 4bitJS
+    .DESCRIPTION        
+        Exports JavaScript to change 4bitCSS themes.
+    #>
+    [Alias('Template.4bit.js','Template.JavaScript.4bit')]
+    param(
+    # The names of all color schemes
+    [Alias('ColorSchemeNames')]
+    [string[]]
+    $ColorSchemeName,
+
+    # The names of all dark color schemes
+    [Alias('DarkColorSchemeNames')]
+    [string[]]
+    $DarkColorSchemeName,
+
+    # The names of all light color schemes
+    [Alias('LightColorSchemeNames')]
+    [string[]]
+    $LightColorSchemeName,
+
+    # The default color scheme to use.
+    [string]    
+    $DefaultColorScheme = 'Konsolas'
+    )
+
+@"
+var defaultTheme = "$DefaultColorScheme";
 function GetColorSchemeList() {
-    return [/*{
-"'$(
-  @($pwd |
-    Split-Path |
-    Get-ChildItem -Filter *.css |    
-    % { $_.Name -replace '\.css$' }
-  ) -join "','"
-)'"
-    }*/]
+    return [
+"'$($ColorSchemeName -join "','")'"
+    ]
+}
+
+function GetDarkColorSchemes() {
+    return [
+"'$($DarkColorSchemeName -join "','")'"
+]
+}
+
+function GetLightColorSchemes() {
+    return [
+"'$($LightColorSchemeName -join "','")'"
+]
 }
 
 function feelingLucky() {
@@ -89,4 +125,6 @@ function loadTheme() {
             arguments[arg].value = previouslySaved;
         }
     }
+}
+"@    
 }
