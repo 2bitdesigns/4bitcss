@@ -30,21 +30,21 @@ function Export-4BitJS {
 @"
 var defaultTheme = "$DefaultColorScheme";
 function GetColorSchemeList() {
-    return [
-"'$($ColorSchemeName -join "','")'"
-    ]
+  return [
+"$($ColorSchemeName -join '","')"
+  ]
 }
 
 function GetDarkColorSchemes() {
-    return [
-"'$($DarkColorSchemeName -join "','")'"
-]
+  return [
+    "$($DarkColorSchemeName -join '","')"
+  ]
 }
 
 function GetLightColorSchemes() {
-    return [
-"'$($LightColorSchemeName -join "','")'"
-]
+  return [
+"$($LightColorSchemeName -join '","')"
+  ]
 }
 
 function feelingLucky() {
