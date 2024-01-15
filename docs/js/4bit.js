@@ -43,7 +43,6 @@ function SetColorScheme(colorSchemeName) {
         throw ("Color Scheme '" + colorSchemeName + "' does not exist");
     }
     fourBitCssLink.href = "/" + foundScheme + "/" + foundScheme + ".css";
-    fourBitCssLink.href = "/" + foundScheme + ".css";
     fourBitCssLink.themeName = foundScheme;
     var downloadLink = document.getElementById("downloadSchemeLink");
     if (downloadLink) {
