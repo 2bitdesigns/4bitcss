@@ -42,11 +42,12 @@ function SetColorScheme(colorSchemeName) {
     if (! foundScheme) {
         throw ("Color Scheme '" + colorSchemeName + "' does not exist");
     }
+    fourBitCssLink.href = "/" + foundScheme + "/" + foundScheme + ".css";
     fourBitCssLink.href = "/" + foundScheme + ".css";
     fourBitCssLink.themeName = foundScheme;
     var downloadLink = document.getElementById("downloadSchemeLink");
     if (downloadLink) {
-        downloadLink.href = "/" + foundScheme + ".css";
+            downloadLink.href = "/" + foundScheme + "/" + foundScheme + ".css";
     }
     var cdnLink = document.getElementById("cdnSchemeLink")
     if (cdnLink) {
