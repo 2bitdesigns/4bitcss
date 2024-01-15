@@ -6,6 +6,7 @@ function Export-4BitCSS
     .DESCRIPTION        
         Converts a color scheme into 4bitCSS and outputs a .CSS file.
     #>
+    [Alias('Template.CSS.4Bit','Template.4bit.css')]
     param(
     # The name of the color scheme.
     [Parameter(Mandatory,ValueFromPipelineByPropertyName)]
@@ -236,7 +237,7 @@ function Export-4BitCSS
         $Luma = 0.2126 * $R + 0.7152 * $G + 0.0722 * $B
         $IsBright = $luma -gt .5
 
-        $cssFile    = (Join-Path $OutputPath "$($name -replace '\s').css")
+        $cssFile    = (Join-Path $OutputPath "$($name -replace '\s','-' -replace '\p{P}','-' -replace '-+','-' -replace '-$').css")
         $className  = $Name -replace '\s' -replace '^\d', '_$0'        
         $cssContent = @(
             @"
