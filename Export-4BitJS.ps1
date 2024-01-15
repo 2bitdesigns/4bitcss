@@ -94,7 +94,6 @@ fourBitCssLink.href = "$StyleSheetRoot" + foundScheme + ".css";
 "@
         }        
     )
-    fourBitCssLink.href = "/" + foundScheme + ".css";
     fourBitCssLink.themeName = foundScheme;
     var downloadLink = document.getElementById("downloadSchemeLink");
     if (downloadLink) {
