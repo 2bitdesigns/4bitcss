@@ -45,7 +45,7 @@ foreach ($jsonFile in $jsonFiles) {
     # and determine the name of the scheme and it's files.
     $colorSchemeName = $jsonObject.Name
     $colorSchemeFileName =
-        $jsonObject.Name -replace '\s','_' -replace '\p{P}','-' -replace '-+','-' -replace '-$'
+        $jsonObject.Name -replace '\s','-' -replace '\p{P}','-' -replace '-+','-' -replace '-$'
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
@@ -76,11 +76,12 @@ foreach ($jsonFile in $jsonFiles) {
     $previewFilePath = Join-Path $ColorSchemePath "$colorSchemeFileName.md"
 @"
 ---
-stylesheet: $colorSchemeFileName.css
+stylesheet: /$colorSchemeFileName/$colorSchemeFileName.css
 colorSchemeName: $colorSchemeName
 colorSchemeFileName: $colorSchemeFileName
-image: $colorSchemeFileName.png
+image: /$colorSchemeFileName/$colorSchemeFileName.png
 description: $colorSchemeName color scheme
+permalink: /$colorSchemeFileName/
 ---
 $transpiledText
 "@ |
