@@ -24,7 +24,18 @@ function Export-4BitJS {
 
     # The default color scheme to use.
     [string]    
-    $DefaultColorScheme = 'Konsolas'
+    $DefaultColorScheme = 'Konsolas',
+
+    # The stylesheet root.  By default, slash.  This can also be set to a CDN
+    [uri]
+    $StylesheetRoot = "/",
+    
+    # If set, will link directly to the StyleSheetRoot.
+    # Without passing this switch, 4bitJS will look for a stylesheet in a named subdirectory.
+    # e.g. `AdventureTime/AdventureTime.css`.
+    [Alias('InStyleSheetRoot')]
+    [switch]
+    $InRoot
     )
 
 @"
@@ -72,11 +83,32 @@ function SetColorScheme(colorSchemeName) {
     if (! foundScheme) {
         throw ("Color Scheme '" + colorSchemeName + "' does not exist");
     }
+    $(
+        if (-not $InRoot) {
+            @"
+fourBitCssLink.href = "$StyleSheetRoot" + foundScheme + "/" + foundScheme + ".css";
+"@
+        } else {
+            @"
+fourBitCssLink.href = "$StyleSheetRoot" + foundScheme + ".css";
+"@
+        }        
+    )
     fourBitCssLink.href = "/" + foundScheme + ".css";
     fourBitCssLink.themeName = foundScheme;
     var downloadLink = document.getElementById("downloadSchemeLink");
     if (downloadLink) {
-        downloadLink.href = "/" + foundScheme + ".css";
+    $(
+        if (-not $InRoot) {
+            @"
+        downloadLink.href = "$StyleSheetRoot" + foundScheme + "/" + foundScheme + ".css";
+"@
+        } else {
+            @"
+        downloadLink.href = "$StyleSheetRoot" + foundScheme + ".css";
+"@
+        }        
+    )
     }
     var cdnLink = document.getElementById("cdnSchemeLink")
     if (cdnLink) {
