@@ -61,15 +61,15 @@ foreach ($jsonFile in $jsonFiles) {
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
     
-    $allColorSchemes += $colorSchemeName
+    $allColorSchemes += $colorSchemeFileName
 
     $wasBright = $colorSchemeCssFile | Select-String "IsBright: 1"
     if ($wasBright) {
-        $brightColorSchemes += $colorSchemeName
+        $brightColorSchemes += $colorSchemeFileName
     }
     $wasDark   = $colorSchemeCssFile | Select-String "IsDark: 1"
     if ($wasDark) {
-        $darkColorSchemes += $colorSchemeName
+        $darkColorSchemes += $colorSchemeFileName
     }
 
     # Create a preview file.  All we need to change is the stylesheet.
