@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Red Sands'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'RedSands.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Red-Sands.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
