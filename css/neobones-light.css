@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'neobones_light'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'neobones_light.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'neobones-light.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
