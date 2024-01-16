@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Red Alert'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'RedAlert.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Red-Alert.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
