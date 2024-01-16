@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'ayu_light'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'ayu_light.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'ayu-light.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
