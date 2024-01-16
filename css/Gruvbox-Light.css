@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Gruvbox Light'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'GruvboxLight.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Gruvbox-Light.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
