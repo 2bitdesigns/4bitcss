@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iTerm2 Tango Dark'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'iTerm2TangoDark.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'iTerm2-Tango-Dark.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
