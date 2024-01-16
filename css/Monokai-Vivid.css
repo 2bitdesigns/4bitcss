@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Monokai Vivid'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'MonokaiVivid.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Monokai-Vivid.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
