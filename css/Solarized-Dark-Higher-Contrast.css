@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Solarized Dark Higher Contrast'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'SolarizedDarkHigherContrast.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Solarized-Dark-Higher-Contrast.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
