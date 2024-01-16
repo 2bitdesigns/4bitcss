@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'IR_Black'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'IR_Black.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'IR-Black.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
