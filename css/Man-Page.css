@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Man Page'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'ManPage.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Man-Page.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
