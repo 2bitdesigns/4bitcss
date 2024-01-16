@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Banana Blueberry'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'BananaBlueberry.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Banana-Blueberry.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
