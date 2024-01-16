@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Dark'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'BuiltinDark.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Builtin-Dark.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
