@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Hipster Green'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'HipsterGreen.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Hipster-Green.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
