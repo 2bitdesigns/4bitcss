@@ -116,7 +116,7 @@ fourBitCssLink.href = "$StyleSheetRoot" + foundScheme + ".css";
 
     var colorSchemeNameLink = document.getElementById("colorSchemeNameLink")
     if (colorSchemeNameLink) {
-        colorSchemeNameLink.href = "https://4bitcss.com/" + foundScheme;
+        colorSchemeNameLink.href = "/" + foundScheme;
     }
 
     var schemeSelector = document.getElementById("schemeSelector");

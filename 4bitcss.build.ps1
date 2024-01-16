@@ -45,7 +45,7 @@ foreach ($jsonFile in $jsonFiles) {
     # and determine the name of the scheme and it's files.
     $colorSchemeName = $jsonObject.Name
     $colorSchemeFileName =
-        $jsonObject.Name -replace '\s','-' -replace '\p{P}','-' -replace '-+','-' -replace '-$'
+        $jsonObject.Name | Convert-4BitName
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
