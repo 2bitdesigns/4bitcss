@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Tango Dark'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'BuiltinTangoDark.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Builtin-Tango-Dark.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
