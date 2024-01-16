@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'HaX0R_R3D'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'HaX0R_R3D.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'HaX0R-R3D.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
