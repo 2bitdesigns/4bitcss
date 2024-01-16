@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Aardvark Blue'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'AardvarkBlue.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Aardvark-Blue.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
