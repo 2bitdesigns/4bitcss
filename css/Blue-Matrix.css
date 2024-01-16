@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Blue Matrix'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'BlueMatrix.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Blue-Matrix.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
