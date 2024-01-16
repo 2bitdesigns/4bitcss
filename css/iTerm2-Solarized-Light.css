@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iTerm2 Solarized Light'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'iTerm2SolarizedLight.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'iTerm2-Solarized-Light.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
