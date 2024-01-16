@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Dark Pastel'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'DarkPastel.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Dark-Pastel.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
