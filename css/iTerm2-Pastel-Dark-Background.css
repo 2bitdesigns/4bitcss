@@ -25,7 +25,7 @@
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'iTerm2 Pastel Dark Background'; }
-.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'iTerm2PastelDarkBackground.css'; }
+.colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'iTerm2-Pastel-Dark-Background.css'; }
 
 .foreground, .Foreground { color: var(--foreground);            }
 .background, .Background { background-color: var(--background); }
