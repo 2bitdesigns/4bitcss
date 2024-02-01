@@ -26,8 +26,9 @@ permalink: /Solarized-Dark-Patched/
     <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
 {% include shuffle-icon.svg %}
     </a>
-
 </div>
+
+{% include ColorTable.md %}
 
 
 |CSS Class|Color       |Sample                       |
