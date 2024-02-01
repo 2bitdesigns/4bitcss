@@ -139,4 +139,10 @@ Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/maste
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-cloud-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "shuffle-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "help-circle-icon.svg")
+
+Get-Module 4bitcss | 
+    Split-Path | 
+    Join-Path Assets | 
+    Get-ChildItem -Path 4bitpreview.svg |
+    Copy-Item -Destination (Join-Path $IncludesPath "4bitpreview.svg") -Force -PassThru
 #endregion Icons 

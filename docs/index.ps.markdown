@@ -5,11 +5,7 @@
 </h2>
 
 <div class='centeredText'>
-~~~PipeScript{
-Get-Content .\4bitpreview.svg |
-    Select-Object -Skip 1
-}
-~~~
+{% include 4bitpreview.svg %}
 </div>
 
 <div class='centeredText'>
