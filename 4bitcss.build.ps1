@@ -138,4 +138,5 @@ if (-not (Test-Path $IncludesPath)) {
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-cloud-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "shuffle-icon.svg")
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "help-circle-icon.svg")
 #endregion Icons 
