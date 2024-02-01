@@ -127,3 +127,15 @@ $4bitJSDocsPath = Join-Path $docsPath "js" | Join-Path -ChildPath "4bit.js"
 New-Item -ItemType File -Path $4bitJSDocsPath -Force -Value $4bitJS
 
 New-Item -ItemType File -Path ".\4bit.js" -Force -Value $4bitJS
+
+
+#region Icons
+$IncludesPath = Join-Path $docsPath "_includes"
+if (-not (Test-Path $IncludesPath)) {
+    $null = New-Item -ItemType Directory -Path $IncludesPath
+}
+
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-icon.svg")
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-cloud-icon.svg")
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "shuffle-icon.svg")
+#endregion Icons 
