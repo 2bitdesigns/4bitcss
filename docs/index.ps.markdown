@@ -22,8 +22,9 @@ Get-Content .\4bitpreview.svg |
     <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
 {% include shuffle-icon.svg %}
     </a>
-
 </div>
+
+{% include ColorTable.md %}
 
 ~~~PipeScript{
 $colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
