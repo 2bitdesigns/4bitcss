@@ -119,6 +119,7 @@ $darkColorSchemes |
     ConvertTo-Json |
     Set-Content -Path $allDarkSchemesPath
 
+Get-Item -Path $allDarkSchemesPath
 Get-Item -Path $allSchemesPath
 
 $4bitJS = Export-4BitJS -ColorSchemeName $allColorSchemes -DarkColorSchemeName $darkColorSchemes -LightColorSchemeName $LightColorSchemeName
