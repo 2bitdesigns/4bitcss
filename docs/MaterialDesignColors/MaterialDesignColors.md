@@ -6,6 +6,7 @@ image: /MaterialDesignColors/MaterialDesignColors.png
 description: MaterialDesignColors color scheme
 permalink: /MaterialDesignColors/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
