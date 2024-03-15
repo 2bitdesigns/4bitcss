@@ -6,6 +6,7 @@ image: /Red-Sands/Red-Sands.png
 description: Red Sands color scheme
 permalink: /Red-Sands/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
