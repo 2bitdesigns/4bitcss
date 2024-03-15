@@ -6,6 +6,7 @@ image: /Oceanic-Next/Oceanic-Next.png
 description: Oceanic-Next color scheme
 permalink: /Oceanic-Next/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
