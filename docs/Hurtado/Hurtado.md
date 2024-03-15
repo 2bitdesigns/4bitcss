@@ -6,6 +6,7 @@ image: /Hurtado/Hurtado.png
 description: Hurtado color scheme
 permalink: /Hurtado/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
