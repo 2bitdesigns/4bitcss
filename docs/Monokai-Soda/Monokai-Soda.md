@@ -6,6 +6,7 @@ image: /Monokai-Soda/Monokai-Soda.png
 description: Monokai Soda color scheme
 permalink: /Monokai-Soda/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
