@@ -6,6 +6,7 @@ image: /Abernathy/Abernathy.png
 description: Abernathy color scheme
 permalink: /Abernathy/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
