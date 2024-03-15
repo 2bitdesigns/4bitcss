@@ -6,6 +6,7 @@ image: /Purple-Rain/Purple-Rain.png
 description: Purple Rain color scheme
 permalink: /Purple-Rain/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
