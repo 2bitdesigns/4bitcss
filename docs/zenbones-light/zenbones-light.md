@@ -6,6 +6,7 @@ image: /zenbones-light/zenbones-light.png
 description: zenbones_light color scheme
 permalink: /zenbones-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
