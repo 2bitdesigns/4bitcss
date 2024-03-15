@@ -6,6 +6,7 @@ image: /Tango-Half-Adapted/Tango-Half-Adapted.png
 description: Tango Half Adapted color scheme
 permalink: /Tango-Half-Adapted/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
