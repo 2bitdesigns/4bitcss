@@ -6,6 +6,7 @@ image: /idea/idea.png
 description: idea color scheme
 permalink: /idea/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
