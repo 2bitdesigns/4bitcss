@@ -6,6 +6,7 @@ image: /Hardcore/Hardcore.png
 description: Hardcore color scheme
 permalink: /Hardcore/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
