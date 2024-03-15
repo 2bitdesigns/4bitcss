@@ -6,6 +6,7 @@ image: /FirefoxDev/FirefoxDev.png
 description: FirefoxDev color scheme
 permalink: /FirefoxDev/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
