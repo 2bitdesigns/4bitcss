@@ -6,6 +6,7 @@ image: /Raycast-Light/Raycast-Light.png
 description: Raycast_Light color scheme
 permalink: /Raycast-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
