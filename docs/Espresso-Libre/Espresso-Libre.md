@@ -6,6 +6,7 @@ image: /Espresso-Libre/Espresso-Libre.png
 description: Espresso Libre color scheme
 permalink: /Espresso-Libre/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
