@@ -6,6 +6,7 @@ image: /VibrantInk/VibrantInk.png
 description: VibrantInk color scheme
 permalink: /VibrantInk/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
