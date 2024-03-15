@@ -6,6 +6,7 @@ image: /ChallengerDeep/ChallengerDeep.png
 description: ChallengerDeep color scheme
 permalink: /ChallengerDeep/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
