@@ -6,6 +6,7 @@ image: /Batman/Batman.png
 description: Batman color scheme
 permalink: /Batman/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
