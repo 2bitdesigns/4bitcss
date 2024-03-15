@@ -6,6 +6,7 @@ image: /Sublette/Sublette.png
 description: Sublette color scheme
 permalink: /Sublette/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
