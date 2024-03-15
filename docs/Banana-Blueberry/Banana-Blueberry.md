@@ -6,6 +6,7 @@ image: /Banana-Blueberry/Banana-Blueberry.png
 description: Banana Blueberry color scheme
 permalink: /Banana-Blueberry/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
