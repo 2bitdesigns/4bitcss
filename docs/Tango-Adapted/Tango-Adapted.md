@@ -6,6 +6,7 @@ image: /Tango-Adapted/Tango-Adapted.png
 description: Tango Adapted color scheme
 permalink: /Tango-Adapted/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
