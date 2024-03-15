@@ -6,6 +6,7 @@ image: /Rippedcasts/Rippedcasts.png
 description: Rippedcasts color scheme
 permalink: /Rippedcasts/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
