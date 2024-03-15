@@ -6,6 +6,7 @@ image: /Slate/Slate.png
 description: Slate color scheme
 permalink: /Slate/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
