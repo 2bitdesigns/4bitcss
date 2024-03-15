@@ -6,6 +6,7 @@ image: /zenwritten-light/zenwritten-light.png
 description: zenwritten_light color scheme
 permalink: /zenwritten-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
