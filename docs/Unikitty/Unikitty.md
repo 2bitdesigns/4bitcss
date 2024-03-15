@@ -6,6 +6,7 @@ image: /Unikitty/Unikitty.png
 description: Unikitty color scheme
 permalink: /Unikitty/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
