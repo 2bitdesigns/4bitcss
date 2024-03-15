@@ -6,6 +6,7 @@ image: /Afterglow/Afterglow.png
 description: Afterglow color scheme
 permalink: /Afterglow/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
