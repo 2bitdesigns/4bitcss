@@ -6,6 +6,7 @@ image: /rebecca/rebecca.png
 description: rebecca color scheme
 permalink: /rebecca/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
