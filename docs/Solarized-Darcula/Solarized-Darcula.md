@@ -6,6 +6,7 @@ image: /Solarized-Darcula/Solarized-Darcula.png
 description: Solarized Darcula color scheme
 permalink: /Solarized-Darcula/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
