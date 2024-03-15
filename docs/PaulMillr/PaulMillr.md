@@ -6,6 +6,7 @@ image: /PaulMillr/PaulMillr.png
 description: PaulMillr color scheme
 permalink: /PaulMillr/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
