@@ -6,6 +6,7 @@ image: /ToyChest/ToyChest.png
 description: ToyChest color scheme
 permalink: /ToyChest/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
