@@ -6,6 +6,7 @@ image: /Flat/Flat.png
 description: Flat color scheme
 permalink: /Flat/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
