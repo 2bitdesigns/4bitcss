@@ -6,6 +6,7 @@ image: /purplepeter/purplepeter.png
 description: purplepeter color scheme
 permalink: /purplepeter/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
