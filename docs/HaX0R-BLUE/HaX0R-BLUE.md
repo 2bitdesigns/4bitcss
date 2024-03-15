@@ -6,6 +6,7 @@ image: /HaX0R-BLUE/HaX0R-BLUE.png
 description: HaX0R_BLUE color scheme
 permalink: /HaX0R-BLUE/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
