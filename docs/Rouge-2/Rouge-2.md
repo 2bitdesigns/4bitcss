@@ -6,6 +6,7 @@ image: /Rouge-2/Rouge-2.png
 description: Rouge 2 color scheme
 permalink: /Rouge-2/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
