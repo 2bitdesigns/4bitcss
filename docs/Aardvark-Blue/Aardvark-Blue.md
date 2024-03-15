@@ -6,6 +6,7 @@ image: /Aardvark-Blue/Aardvark-Blue.png
 description: Aardvark Blue color scheme
 permalink: /Aardvark-Blue/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
