@@ -6,6 +6,7 @@ image: /LiquidCarbonTransparentInverse/LiquidCarbonTransparentInverse.png
 description: LiquidCarbonTransparentInverse color scheme
 permalink: /LiquidCarbonTransparentInverse/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
