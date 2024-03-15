@@ -6,6 +6,7 @@ image: /Scarlet-Protocol/Scarlet-Protocol.png
 description: Scarlet Protocol color scheme
 permalink: /Scarlet-Protocol/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
