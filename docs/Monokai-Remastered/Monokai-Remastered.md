@@ -6,6 +6,7 @@ image: /Monokai-Remastered/Monokai-Remastered.png
 description: Monokai Remastered color scheme
 permalink: /Monokai-Remastered/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
