@@ -6,6 +6,7 @@ image: /darkermatrix/darkermatrix.png
 description: darkermatrix color scheme
 permalink: /darkermatrix/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
