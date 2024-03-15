@@ -6,6 +6,7 @@ image: /Everblush/Everblush.png
 description: Everblush color scheme
 permalink: /Everblush/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
