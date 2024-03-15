@@ -6,6 +6,7 @@ image: /Earthsong/Earthsong.png
 description: Earthsong color scheme
 permalink: /Earthsong/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
