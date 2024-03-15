@@ -6,6 +6,7 @@ image: /Builtin-Dark/Builtin-Dark.png
 description: Builtin Dark color scheme
 permalink: /Builtin-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
