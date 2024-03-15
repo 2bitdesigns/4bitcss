@@ -6,6 +6,7 @@ image: /Kolorit/Kolorit.png
 description: Kolorit color scheme
 permalink: /Kolorit/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
