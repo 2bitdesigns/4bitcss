@@ -6,6 +6,7 @@ image: /Belafonte-Night/Belafonte-Night.png
 description: Belafonte Night color scheme
 permalink: /Belafonte-Night/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
