@@ -6,6 +6,7 @@ image: /Hacktober/Hacktober.png
 description: Hacktober color scheme
 permalink: /Hacktober/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
