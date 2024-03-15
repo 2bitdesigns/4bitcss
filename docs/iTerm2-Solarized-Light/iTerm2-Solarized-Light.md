@@ -6,6 +6,7 @@ image: /iTerm2-Solarized-Light/iTerm2-Solarized-Light.png
 description: iTerm2 Solarized Light color scheme
 permalink: /iTerm2-Solarized-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
