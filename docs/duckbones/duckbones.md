@@ -6,6 +6,7 @@ image: /duckbones/duckbones.png
 description: duckbones color scheme
 permalink: /duckbones/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
