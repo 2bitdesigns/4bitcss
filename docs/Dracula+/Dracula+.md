@@ -6,6 +6,7 @@ image: /Dracula+/Dracula+.png
 description: Dracula+ color scheme
 permalink: /Dracula+/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
