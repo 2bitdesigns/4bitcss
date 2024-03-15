@@ -6,6 +6,7 @@ image: /Firefly-Traditional/Firefly-Traditional.png
 description: Firefly Traditional color scheme
 permalink: /Firefly-Traditional/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
