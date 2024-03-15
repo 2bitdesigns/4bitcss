@@ -6,6 +6,7 @@ image: /iTerm2-Light-Background/iTerm2-Light-Background.png
 description: iTerm2 Light Background color scheme
 permalink: /iTerm2-Light-Background/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
