@@ -6,6 +6,7 @@ image: /Blue-Matrix/Blue-Matrix.png
 description: Blue Matrix color scheme
 permalink: /Blue-Matrix/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
