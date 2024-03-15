@@ -6,6 +6,7 @@ image: /Cobalt-Neon/Cobalt-Neon.png
 description: Cobalt Neon color scheme
 permalink: /Cobalt-Neon/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
