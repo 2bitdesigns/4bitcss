@@ -6,6 +6,7 @@ image: /Breeze/Breeze.png
 description: Breeze color scheme
 permalink: /Breeze/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
