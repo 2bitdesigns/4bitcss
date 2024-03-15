@@ -6,6 +6,7 @@ image: /Terminal-Basic/Terminal-Basic.png
 description: Terminal Basic color scheme
 permalink: /Terminal-Basic/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
