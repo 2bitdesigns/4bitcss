@@ -6,6 +6,7 @@ image: /nord-light/nord-light.png
 description: nord-light color scheme
 permalink: /nord-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
