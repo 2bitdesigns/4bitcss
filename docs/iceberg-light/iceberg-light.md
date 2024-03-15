@@ -6,6 +6,7 @@ image: /iceberg-light/iceberg-light.png
 description: iceberg-light color scheme
 permalink: /iceberg-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
