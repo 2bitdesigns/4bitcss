@@ -6,6 +6,7 @@ image: /Spacedust/Spacedust.png
 description: Spacedust color scheme
 permalink: /Spacedust/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
