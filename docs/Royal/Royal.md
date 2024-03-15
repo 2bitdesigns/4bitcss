@@ -6,6 +6,7 @@ image: /Royal/Royal.png
 description: Royal color scheme
 permalink: /Royal/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
