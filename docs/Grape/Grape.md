@@ -6,6 +6,7 @@ image: /Grape/Grape.png
 description: Grape color scheme
 permalink: /Grape/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
