@@ -6,6 +6,7 @@ image: /FrontEndDelight/FrontEndDelight.png
 description: FrontEndDelight color scheme
 permalink: /FrontEndDelight/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
