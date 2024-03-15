@@ -6,6 +6,7 @@ image: /BlueBerryPie/BlueBerryPie.png
 description: BlueBerryPie color scheme
 permalink: /BlueBerryPie/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
