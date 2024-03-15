@@ -6,6 +6,7 @@ image: /ENCOM/ENCOM.png
 description: ENCOM color scheme
 permalink: /ENCOM/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
