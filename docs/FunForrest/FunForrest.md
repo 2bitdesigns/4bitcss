@@ -6,6 +6,7 @@ image: /FunForrest/FunForrest.png
 description: FunForrest color scheme
 permalink: /FunForrest/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
