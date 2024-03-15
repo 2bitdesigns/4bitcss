@@ -6,6 +6,7 @@ image: /Wombat/Wombat.png
 description: Wombat color scheme
 permalink: /Wombat/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
