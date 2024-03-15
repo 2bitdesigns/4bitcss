@@ -6,6 +6,7 @@ image: /Mathias/Mathias.png
 description: Mathias color scheme
 permalink: /Mathias/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
