@@ -6,6 +6,7 @@ image: /catppuccin-mocha/catppuccin-mocha.png
 description: catppuccin-mocha color scheme
 permalink: /catppuccin-mocha/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
