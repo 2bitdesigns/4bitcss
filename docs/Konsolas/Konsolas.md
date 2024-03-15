@@ -6,6 +6,7 @@ image: /Konsolas/Konsolas.png
 description: Konsolas color scheme
 permalink: /Konsolas/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
