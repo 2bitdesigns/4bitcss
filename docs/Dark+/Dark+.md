@@ -6,6 +6,7 @@ image: /Dark+/Dark+.png
 description: Dark+ color scheme
 permalink: /Dark+/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
