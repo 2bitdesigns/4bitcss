@@ -6,6 +6,7 @@ image: /deep/deep.png
 description: deep color scheme
 permalink: /deep/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
