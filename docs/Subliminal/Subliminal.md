@@ -6,6 +6,7 @@ image: /Subliminal/Subliminal.png
 description: Subliminal color scheme
 permalink: /Subliminal/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
