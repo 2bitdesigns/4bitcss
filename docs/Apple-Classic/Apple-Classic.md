@@ -6,6 +6,7 @@ image: /Apple-Classic/Apple-Classic.png
 description: Apple Classic color scheme
 permalink: /Apple-Classic/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
