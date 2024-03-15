@@ -6,6 +6,7 @@ image: /Whimsy/Whimsy.png
 description: Whimsy color scheme
 permalink: /Whimsy/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
