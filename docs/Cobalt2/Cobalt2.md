@@ -6,6 +6,7 @@ image: /Cobalt2/Cobalt2.png
 description: Cobalt2 color scheme
 permalink: /Cobalt2/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
