@@ -6,6 +6,7 @@ image: /rose-pine-dawn/rose-pine-dawn.png
 description: rose-pine-dawn color scheme
 permalink: /rose-pine-dawn/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
