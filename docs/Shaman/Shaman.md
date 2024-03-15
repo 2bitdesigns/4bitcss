@@ -6,6 +6,7 @@ image: /Shaman/Shaman.png
 description: Shaman color scheme
 permalink: /Shaman/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
