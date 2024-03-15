@@ -6,6 +6,7 @@ image: /Popping-and-Locking/Popping-and-Locking.png
 description: Popping and Locking color scheme
 permalink: /Popping-and-Locking/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
