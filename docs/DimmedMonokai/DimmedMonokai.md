@@ -6,6 +6,7 @@ image: /DimmedMonokai/DimmedMonokai.png
 description: DimmedMonokai color scheme
 permalink: /DimmedMonokai/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
