@@ -6,6 +6,7 @@ image: /Peppermint/Peppermint.png
 description: Peppermint color scheme
 permalink: /Peppermint/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
