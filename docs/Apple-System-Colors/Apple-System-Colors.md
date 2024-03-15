@@ -6,6 +6,7 @@ image: /Apple-System-Colors/Apple-System-Colors.png
 description: Apple System Colors color scheme
 permalink: /Apple-System-Colors/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
