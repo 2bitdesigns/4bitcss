@@ -6,6 +6,7 @@ image: /HaX0R-GR33N/HaX0R-GR33N.png
 description: HaX0R_GR33N color scheme
 permalink: /HaX0R-GR33N/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
