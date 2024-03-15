@@ -6,6 +6,7 @@ image: /Red-Planet/Red-Planet.png
 description: Red Planet color scheme
 permalink: /Red-Planet/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
