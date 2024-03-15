@@ -6,6 +6,7 @@ image: /OceanicMaterial/OceanicMaterial.png
 description: OceanicMaterial color scheme
 permalink: /OceanicMaterial/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
