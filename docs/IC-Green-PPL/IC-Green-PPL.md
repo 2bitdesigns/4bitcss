@@ -6,6 +6,7 @@ image: /IC-Green-PPL/IC-Green-PPL.png
 description: IC_Green_PPL color scheme
 permalink: /IC-Green-PPL/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
