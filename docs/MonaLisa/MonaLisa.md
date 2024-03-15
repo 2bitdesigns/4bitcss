@@ -6,6 +6,7 @@ image: /MonaLisa/MonaLisa.png
 description: MonaLisa color scheme
 permalink: /MonaLisa/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
