@@ -6,6 +6,7 @@ image: /terafox/terafox.png
 description: terafox color scheme
 permalink: /terafox/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
