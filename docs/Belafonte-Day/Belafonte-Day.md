@@ -6,6 +6,7 @@ image: /Belafonte-Day/Belafonte-Day.png
 description: Belafonte Day color scheme
 permalink: /Belafonte-Day/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
