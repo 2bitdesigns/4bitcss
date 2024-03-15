@@ -6,6 +6,7 @@ image: /SynthwaveAlpha/SynthwaveAlpha.png
 description: SynthwaveAlpha color scheme
 permalink: /SynthwaveAlpha/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
