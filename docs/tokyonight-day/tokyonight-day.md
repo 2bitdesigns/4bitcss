@@ -6,6 +6,7 @@ image: /tokyonight-day/tokyonight-day.png
 description: tokyonight-day color scheme
 permalink: /tokyonight-day/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
