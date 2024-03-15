@@ -6,6 +6,7 @@ image: /midnight-in-mojave/midnight-in-mojave.png
 description: midnight-in-mojave color scheme
 permalink: /midnight-in-mojave/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
