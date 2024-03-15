@@ -6,6 +6,7 @@ image: /Vaughn/Vaughn.png
 description: Vaughn color scheme
 permalink: /Vaughn/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
