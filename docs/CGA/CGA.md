@@ -6,6 +6,7 @@ image: /CGA/CGA.png
 description: CGA color scheme
 permalink: /CGA/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
