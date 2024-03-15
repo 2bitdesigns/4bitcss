@@ -6,6 +6,7 @@ image: /Red-Alert/Red-Alert.png
 description: Red Alert color scheme
 permalink: /Red-Alert/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
