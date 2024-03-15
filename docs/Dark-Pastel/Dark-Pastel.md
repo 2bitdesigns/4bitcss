@@ -6,6 +6,7 @@ image: /Dark-Pastel/Dark-Pastel.png
 description: Dark Pastel color scheme
 permalink: /Dark-Pastel/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
