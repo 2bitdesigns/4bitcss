@@ -6,6 +6,7 @@ image: /Obsidian/Obsidian.png
 description: Obsidian color scheme
 permalink: /Obsidian/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
