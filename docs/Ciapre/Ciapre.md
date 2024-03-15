@@ -6,6 +6,7 @@ image: /Ciapre/Ciapre.png
 description: Ciapre color scheme
 permalink: /Ciapre/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
