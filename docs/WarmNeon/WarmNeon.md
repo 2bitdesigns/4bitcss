@@ -6,6 +6,7 @@ image: /WarmNeon/WarmNeon.png
 description: WarmNeon color scheme
 permalink: /WarmNeon/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
