@@ -6,6 +6,7 @@ image: /Fideloper/Fideloper.png
 description: Fideloper color scheme
 permalink: /Fideloper/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
