@@ -6,6 +6,7 @@ image: /Piatto-Light/Piatto-Light.png
 description: Piatto Light color scheme
 permalink: /Piatto-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
