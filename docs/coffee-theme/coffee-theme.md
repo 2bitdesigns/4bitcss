@@ -6,6 +6,7 @@ image: /coffee-theme/coffee-theme.png
 description: coffee_theme color scheme
 permalink: /coffee-theme/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
