@@ -6,6 +6,7 @@ image: /Cyberdyne/Cyberdyne.png
 description: Cyberdyne color scheme
 permalink: /Cyberdyne/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
