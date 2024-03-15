@@ -6,6 +6,7 @@ image: /Glacier/Glacier.png
 description: Glacier color scheme
 permalink: /Glacier/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
