@@ -6,6 +6,7 @@ image: /Symfonic/Symfonic.png
 description: Symfonic color scheme
 permalink: /Symfonic/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
