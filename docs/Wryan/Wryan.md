@@ -6,6 +6,7 @@ image: /Wryan/Wryan.png
 description: Wryan color scheme
 permalink: /Wryan/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
