@@ -6,6 +6,7 @@ image: /Hipster-Green/Hipster-Green.png
 description: Hipster Green color scheme
 permalink: /Hipster-Green/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
