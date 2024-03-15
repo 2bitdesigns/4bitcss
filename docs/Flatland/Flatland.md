@@ -6,6 +6,7 @@ image: /Flatland/Flatland.png
 description: Flatland color scheme
 permalink: /Flatland/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
