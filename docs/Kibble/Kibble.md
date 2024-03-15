@@ -6,6 +6,7 @@ image: /Kibble/Kibble.png
 description: Kibble color scheme
 permalink: /Kibble/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
