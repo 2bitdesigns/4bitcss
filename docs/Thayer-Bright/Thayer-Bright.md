@@ -6,6 +6,7 @@ image: /Thayer-Bright/Thayer-Bright.png
 description: Thayer Bright color scheme
 permalink: /Thayer-Bright/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
