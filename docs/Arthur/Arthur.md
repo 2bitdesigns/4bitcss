@@ -6,6 +6,7 @@ image: /Arthur/Arthur.png
 description: Arthur color scheme
 permalink: /Arthur/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
