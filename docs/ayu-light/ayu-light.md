@@ -6,6 +6,7 @@ image: /ayu-light/ayu-light.png
 description: ayu_light color scheme
 permalink: /ayu-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
