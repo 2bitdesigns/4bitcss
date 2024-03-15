@@ -6,6 +6,7 @@ image: /Mariana/Mariana.png
 description: Mariana color scheme
 permalink: /Mariana/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
