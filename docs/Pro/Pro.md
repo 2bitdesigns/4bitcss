@@ -6,6 +6,7 @@ image: /Pro/Pro.png
 description: Pro color scheme
 permalink: /Pro/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
