@@ -6,6 +6,7 @@ image: /Tomorrow-Night-Bright/Tomorrow-Night-Bright.png
 description: Tomorrow Night Bright color scheme
 permalink: /Tomorrow-Night-Bright/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
