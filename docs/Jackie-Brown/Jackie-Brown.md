@@ -6,6 +6,7 @@ image: /Jackie-Brown/Jackie-Brown.png
 description: Jackie Brown color scheme
 permalink: /Jackie-Brown/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
