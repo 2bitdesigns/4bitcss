@@ -6,6 +6,7 @@ image: /Tomorrow-Night-Eighties/Tomorrow-Night-Eighties.png
 description: Tomorrow Night Eighties color scheme
 permalink: /Tomorrow-Night-Eighties/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
