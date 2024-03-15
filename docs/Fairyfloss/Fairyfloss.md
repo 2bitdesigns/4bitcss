@@ -6,6 +6,7 @@ image: /Fairyfloss/Fairyfloss.png
 description: Fairyfloss color scheme
 permalink: /Fairyfloss/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
