@@ -6,6 +6,7 @@ image: /Harper/Harper.png
 description: Harper color scheme
 permalink: /Harper/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
