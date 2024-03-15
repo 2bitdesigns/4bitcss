@@ -6,6 +6,7 @@ image: /flexoki-light/flexoki-light.png
 description: flexoki-light color scheme
 permalink: /flexoki-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
