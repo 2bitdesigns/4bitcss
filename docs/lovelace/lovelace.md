@@ -6,6 +6,7 @@ image: /lovelace/lovelace.png
 description: lovelace color scheme
 permalink: /lovelace/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
