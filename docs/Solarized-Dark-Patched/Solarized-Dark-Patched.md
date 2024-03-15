@@ -6,6 +6,7 @@ image: /Solarized-Dark-Patched/Solarized-Dark-Patched.png
 description: Solarized Dark - Patched color scheme
 permalink: /Solarized-Dark-Patched/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
