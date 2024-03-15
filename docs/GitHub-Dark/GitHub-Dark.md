@@ -6,6 +6,7 @@ image: /GitHub-Dark/GitHub-Dark.png
 description: GitHub Dark color scheme
 permalink: /GitHub-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
