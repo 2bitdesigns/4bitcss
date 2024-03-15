@@ -6,6 +6,7 @@ image: /Grey-green/Grey-green.png
 description: Grey-green color scheme
 permalink: /Grey-green/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
