@@ -6,6 +6,7 @@ image: /CrayonPonyFish/CrayonPonyFish.png
 description: CrayonPonyFish color scheme
 permalink: /CrayonPonyFish/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
