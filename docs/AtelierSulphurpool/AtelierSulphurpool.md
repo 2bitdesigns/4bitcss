@@ -6,6 +6,7 @@ image: /AtelierSulphurpool/AtelierSulphurpool.png
 description: AtelierSulphurpool color scheme
 permalink: /AtelierSulphurpool/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
