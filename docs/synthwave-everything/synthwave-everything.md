@@ -6,6 +6,7 @@ image: /synthwave-everything/synthwave-everything.png
 description: synthwave-everything color scheme
 permalink: /synthwave-everything/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
