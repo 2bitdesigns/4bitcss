@@ -6,6 +6,7 @@ image: /OneHalfDark/OneHalfDark.png
 description: OneHalfDark color scheme
 permalink: /OneHalfDark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
