@@ -6,6 +6,7 @@ image: /catppuccin-macchiato/catppuccin-macchiato.png
 description: catppuccin-macchiato color scheme
 permalink: /catppuccin-macchiato/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
