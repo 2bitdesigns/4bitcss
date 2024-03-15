@@ -6,6 +6,7 @@ image: /Hopscotch-256/Hopscotch-256.png
 description: Hopscotch.256 color scheme
 permalink: /Hopscotch-256/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
