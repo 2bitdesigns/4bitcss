@@ -6,6 +6,7 @@ image: /nightfox/nightfox.png
 description: nightfox color scheme
 permalink: /nightfox/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
