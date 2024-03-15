@@ -6,6 +6,7 @@ image: /UltraViolent/UltraViolent.png
 description: UltraViolent color scheme
 permalink: /UltraViolent/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
