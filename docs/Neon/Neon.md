@@ -6,6 +6,7 @@ image: /Neon/Neon.png
 description: Neon color scheme
 permalink: /Neon/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
