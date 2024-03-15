@@ -6,6 +6,7 @@ image: /Chalkboard/Chalkboard.png
 description: Chalkboard color scheme
 permalink: /Chalkboard/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
