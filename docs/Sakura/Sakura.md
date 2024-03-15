@@ -6,6 +6,7 @@ image: /Sakura/Sakura.png
 description: Sakura color scheme
 permalink: /Sakura/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
