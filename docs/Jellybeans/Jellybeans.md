@@ -6,6 +6,7 @@ image: /Jellybeans/Jellybeans.png
 description: Jellybeans color scheme
 permalink: /Jellybeans/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
