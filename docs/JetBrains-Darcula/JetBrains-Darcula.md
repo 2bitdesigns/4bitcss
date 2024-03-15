@@ -6,6 +6,7 @@ image: /JetBrains-Darcula/JetBrains-Darcula.png
 description: JetBrains Darcula color scheme
 permalink: /JetBrains-Darcula/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
