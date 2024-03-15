@@ -6,6 +6,7 @@ image: /Hybrid/Hybrid.png
 description: Hybrid color scheme
 permalink: /Hybrid/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
