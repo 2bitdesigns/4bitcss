@@ -6,6 +6,7 @@ image: /Novel/Novel.png
 description: Novel color scheme
 permalink: /Novel/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
