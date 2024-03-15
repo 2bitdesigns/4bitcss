@@ -6,6 +6,7 @@ image: /Monokai-Vivid/Monokai-Vivid.png
 description: Monokai Vivid color scheme
 permalink: /Monokai-Vivid/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
