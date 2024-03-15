@@ -6,6 +6,7 @@ image: /3024-Night/3024-Night.png
 description: 3024 Night color scheme
 permalink: /3024-Night/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
