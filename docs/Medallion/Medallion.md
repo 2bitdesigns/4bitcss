@@ -6,6 +6,7 @@ image: /Medallion/Medallion.png
 description: Medallion color scheme
 permalink: /Medallion/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
