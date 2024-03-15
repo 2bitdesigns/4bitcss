@@ -6,6 +6,7 @@ image: /Violet-Light/Violet-Light.png
 description: Violet Light color scheme
 permalink: /Violet-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
