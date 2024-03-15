@@ -6,6 +6,7 @@ image: /BlulocoLight/BlulocoLight.png
 description: BlulocoLight color scheme
 permalink: /BlulocoLight/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
