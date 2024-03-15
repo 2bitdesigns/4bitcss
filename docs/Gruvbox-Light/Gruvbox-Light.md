@@ -6,6 +6,7 @@ image: /Gruvbox-Light/Gruvbox-Light.png
 description: Gruvbox Light color scheme
 permalink: /Gruvbox-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
