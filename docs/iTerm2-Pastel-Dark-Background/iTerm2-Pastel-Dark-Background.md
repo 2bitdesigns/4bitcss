@@ -6,6 +6,7 @@ image: /iTerm2-Pastel-Dark-Background/iTerm2-Pastel-Dark-Background.png
 description: iTerm2 Pastel Dark Background color scheme
 permalink: /iTerm2-Pastel-Dark-Background/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
