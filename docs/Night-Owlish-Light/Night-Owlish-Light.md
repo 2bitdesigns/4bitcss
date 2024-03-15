@@ -6,6 +6,7 @@ image: /Night-Owlish-Light/Night-Owlish-Light.png
 description: Night Owlish Light color scheme
 permalink: /Night-Owlish-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
