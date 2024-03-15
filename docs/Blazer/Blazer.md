@@ -6,6 +6,7 @@ image: /Blazer/Blazer.png
 description: Blazer color scheme
 permalink: /Blazer/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
