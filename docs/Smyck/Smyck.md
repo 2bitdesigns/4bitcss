@@ -6,6 +6,7 @@ image: /Smyck/Smyck.png
 description: Smyck color scheme
 permalink: /Smyck/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
