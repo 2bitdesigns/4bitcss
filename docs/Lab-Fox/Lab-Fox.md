@@ -6,6 +6,7 @@ image: /Lab-Fox/Lab-Fox.png
 description: Lab Fox color scheme
 permalink: /Lab-Fox/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
