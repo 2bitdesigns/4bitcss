@@ -6,6 +6,7 @@ image: /farmhouse-light/farmhouse-light.png
 description: farmhouse-light color scheme
 permalink: /farmhouse-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
