@@ -6,6 +6,7 @@ image: /shades-of-purple/shades-of-purple.png
 description: shades-of-purple color scheme
 permalink: /shades-of-purple/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
