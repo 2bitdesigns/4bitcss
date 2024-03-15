@@ -6,6 +6,7 @@ image: /Fahrenheit/Fahrenheit.png
 description: Fahrenheit color scheme
 permalink: /Fahrenheit/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
