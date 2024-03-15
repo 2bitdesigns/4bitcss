@@ -6,6 +6,7 @@ image: /WildCherry/WildCherry.png
 description: WildCherry color scheme
 permalink: /WildCherry/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
