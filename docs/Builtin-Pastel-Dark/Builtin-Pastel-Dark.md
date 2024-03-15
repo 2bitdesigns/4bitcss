@@ -6,6 +6,7 @@ image: /Builtin-Pastel-Dark/Builtin-Pastel-Dark.png
 description: Builtin Pastel Dark color scheme
 permalink: /Builtin-Pastel-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
