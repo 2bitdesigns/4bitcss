@@ -6,6 +6,7 @@ image: /Relaxed/Relaxed.png
 description: Relaxed color scheme
 permalink: /Relaxed/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
