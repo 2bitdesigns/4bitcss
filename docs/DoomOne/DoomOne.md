@@ -6,6 +6,7 @@ image: /DoomOne/DoomOne.png
 description: DoomOne color scheme
 permalink: /DoomOne/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
