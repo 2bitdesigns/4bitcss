@@ -6,6 +6,7 @@ image: /Doom-Peacock/Doom-Peacock.png
 description: Doom Peacock color scheme
 permalink: /Doom-Peacock/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
