@@ -6,6 +6,7 @@ image: /Solarized-Dark-Higher-Contrast/Solarized-Dark-Higher-Contrast.png
 description: Solarized Dark Higher Contrast color scheme
 permalink: /Solarized-Dark-Higher-Contrast/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
