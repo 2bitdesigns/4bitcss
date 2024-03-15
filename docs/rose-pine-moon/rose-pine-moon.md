@@ -6,6 +6,7 @@ image: /rose-pine-moon/rose-pine-moon.png
 description: rose-pine-moon color scheme
 permalink: /rose-pine-moon/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
