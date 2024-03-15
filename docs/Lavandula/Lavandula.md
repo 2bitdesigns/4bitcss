@@ -6,6 +6,7 @@ image: /Lavandula/Lavandula.png
 description: Lavandula color scheme
 permalink: /Lavandula/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
