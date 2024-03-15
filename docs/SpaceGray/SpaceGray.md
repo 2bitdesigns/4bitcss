@@ -6,6 +6,7 @@ image: /SpaceGray/SpaceGray.png
 description: SpaceGray color scheme
 permalink: /SpaceGray/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
