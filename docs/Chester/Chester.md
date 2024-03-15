@@ -6,6 +6,7 @@ image: /Chester/Chester.png
 description: Chester color scheme
 permalink: /Chester/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
