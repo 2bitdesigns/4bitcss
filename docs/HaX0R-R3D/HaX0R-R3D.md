@@ -6,6 +6,7 @@ image: /HaX0R-R3D/HaX0R-R3D.png
 description: HaX0R_R3D color scheme
 permalink: /HaX0R-R3D/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
