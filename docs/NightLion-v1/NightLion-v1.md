@@ -6,6 +6,7 @@ image: /NightLion-v1/NightLion-v1.png
 description: NightLion v1 color scheme
 permalink: /NightLion-v1/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
