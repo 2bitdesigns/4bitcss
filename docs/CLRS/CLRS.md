@@ -6,6 +6,7 @@ image: /CLRS/CLRS.png
 description: CLRS color scheme
 permalink: /CLRS/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
