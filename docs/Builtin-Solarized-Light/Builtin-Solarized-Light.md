@@ -6,6 +6,7 @@ image: /Builtin-Solarized-Light/Builtin-Solarized-Light.png
 description: Builtin Solarized Light color scheme
 permalink: /Builtin-Solarized-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
