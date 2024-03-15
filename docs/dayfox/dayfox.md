@@ -6,6 +6,7 @@ image: /dayfox/dayfox.png
 description: dayfox color scheme
 permalink: /dayfox/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
