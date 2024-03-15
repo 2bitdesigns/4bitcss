@@ -6,6 +6,7 @@ image: /The-Hulk/The-Hulk.png
 description: The Hulk color scheme
 permalink: /The-Hulk/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
