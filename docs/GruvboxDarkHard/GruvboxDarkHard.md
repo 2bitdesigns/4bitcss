@@ -6,6 +6,7 @@ image: /GruvboxDarkHard/GruvboxDarkHard.png
 description: GruvboxDarkHard color scheme
 permalink: /GruvboxDarkHard/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
