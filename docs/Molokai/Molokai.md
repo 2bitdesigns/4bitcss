@@ -6,6 +6,7 @@ image: /Molokai/Molokai.png
 description: Molokai color scheme
 permalink: /Molokai/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
