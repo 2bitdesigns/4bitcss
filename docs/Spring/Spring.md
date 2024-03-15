@@ -6,6 +6,7 @@ image: /Spring/Spring.png
 description: Spring color scheme
 permalink: /Spring/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
