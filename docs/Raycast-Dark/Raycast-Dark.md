@@ -6,6 +6,7 @@ image: /Raycast-Dark/Raycast-Dark.png
 description: Raycast_Dark color scheme
 permalink: /Raycast-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
