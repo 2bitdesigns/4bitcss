@@ -6,6 +6,7 @@ image: /IR-Black/IR-Black.png
 description: IR_Black color scheme
 permalink: /IR-Black/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
