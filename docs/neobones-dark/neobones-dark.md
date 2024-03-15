@@ -6,6 +6,7 @@ image: /neobones-dark/neobones-dark.png
 description: neobones_dark color scheme
 permalink: /neobones-dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
