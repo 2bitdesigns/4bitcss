@@ -6,6 +6,7 @@ image: /Sundried/Sundried.png
 description: Sundried color scheme
 permalink: /Sundried/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
