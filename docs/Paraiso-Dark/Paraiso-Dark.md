@@ -6,6 +6,7 @@ image: /Paraiso-Dark/Paraiso-Dark.png
 description: Paraiso Dark color scheme
 permalink: /Paraiso-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
