@@ -6,6 +6,7 @@ image: /Elemental/Elemental.png
 description: Elemental color scheme
 permalink: /Elemental/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
