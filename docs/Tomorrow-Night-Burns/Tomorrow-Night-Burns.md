@@ -6,6 +6,7 @@ image: /Tomorrow-Night-Burns/Tomorrow-Night-Burns.png
 description: Tomorrow Night Burns color scheme
 permalink: /Tomorrow-Night-Burns/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
