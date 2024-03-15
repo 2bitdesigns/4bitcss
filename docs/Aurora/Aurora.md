@@ -6,6 +6,7 @@ image: /Aurora/Aurora.png
 description: Aurora color scheme
 permalink: /Aurora/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
