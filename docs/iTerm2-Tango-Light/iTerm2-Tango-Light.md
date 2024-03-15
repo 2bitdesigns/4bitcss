@@ -6,6 +6,7 @@ image: /iTerm2-Tango-Light/iTerm2-Tango-Light.png
 description: iTerm2 Tango Light color scheme
 permalink: /iTerm2-Tango-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
