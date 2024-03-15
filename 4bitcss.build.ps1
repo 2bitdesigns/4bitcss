@@ -26,6 +26,7 @@ $transpiledPreview = Build-PipeScript -InputPath (
 )
 # (we'll slightly modify this for each preview)
 $transpiledText = [IO.File]::ReadAllText($transpiledPreview.FullName)
+$yamlHeader, $transpiledText = $transpiledText -split '---' -ne ''
 
 # Also, get the preview template.
 $previewSvg    = (Get-ChildItem -Path docs -Filter 4bitpreviewtemplate.svg | Get-Content -raw)
@@ -143,7 +144,22 @@ Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/maste
 
 Get-Module 4bitcss | 
     Split-Path | 
-    Join-Path Assets | 
-    Get-ChildItem -Path 4bitpreview.svg |
+    Join-Path -ChildPath Assets | 
+    Get-ChildItem -Filter 4bitpreview.svg |
     Copy-Item -Destination (Join-Path $IncludesPath "4bitpreview.svg") -Force -PassThru
+
+$defaultColorScheme = 'Konsolas'
+@"
+---
+stylesheet: /$defaultColorScheme/$defaultColorScheme.css
+colorSchemeName: $defaultColorScheme
+colorSchemeFileName: $defaultColorScheme
+image: /$defaultColorScheme/$defaultColorScheme.png
+description: $defaultColorScheme color scheme
+permalink: /
+---
+$transpiledText
+"@ |
+    Set-Content (Join-Path $docsPath "index.md") -Encoding utf8
+Get-item -Path (Join-Path $docsPath "index.md")
 #endregion Icons 
