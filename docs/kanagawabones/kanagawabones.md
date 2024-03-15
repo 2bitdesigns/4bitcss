@@ -6,6 +6,7 @@ image: /kanagawabones/kanagawabones.png
 description: kanagawabones color scheme
 permalink: /kanagawabones/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
