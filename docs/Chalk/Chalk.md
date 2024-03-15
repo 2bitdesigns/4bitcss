@@ -6,6 +6,7 @@ image: /Chalk/Chalk.png
 description: Chalk color scheme
 permalink: /Chalk/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
