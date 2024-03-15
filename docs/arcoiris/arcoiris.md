@@ -6,6 +6,7 @@ image: /arcoiris/arcoiris.png
 description: arcoiris color scheme
 permalink: /arcoiris/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
