@@ -6,6 +6,7 @@ image: /niji/niji.png
 description: niji color scheme
 permalink: /niji/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
