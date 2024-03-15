@@ -6,6 +6,7 @@ image: /catppuccin-latte/catppuccin-latte.png
 description: catppuccin-latte color scheme
 permalink: /catppuccin-latte/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
