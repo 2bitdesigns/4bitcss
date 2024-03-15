@@ -6,6 +6,7 @@ image: /Borland/Borland.png
 description: Borland color scheme
 permalink: /Borland/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
