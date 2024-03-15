@@ -6,6 +6,7 @@ image: /jubi/jubi.png
 description: jubi color scheme
 permalink: /jubi/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
