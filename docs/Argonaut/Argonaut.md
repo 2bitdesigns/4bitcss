@@ -6,6 +6,7 @@ image: /Argonaut/Argonaut.png
 description: Argonaut color scheme
 permalink: /Argonaut/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
