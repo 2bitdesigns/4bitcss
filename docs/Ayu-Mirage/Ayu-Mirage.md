@@ -6,6 +6,7 @@ image: /Ayu-Mirage/Ayu-Mirage.png
 description: Ayu Mirage color scheme
 permalink: /Ayu-Mirage/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
