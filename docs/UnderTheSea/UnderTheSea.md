@@ -6,6 +6,7 @@ image: /UnderTheSea/UnderTheSea.png
 description: UnderTheSea color scheme
 permalink: /UnderTheSea/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
