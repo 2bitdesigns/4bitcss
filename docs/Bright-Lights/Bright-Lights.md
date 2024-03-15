@@ -6,6 +6,7 @@ image: /Bright-Lights/Bright-Lights.png
 description: Bright Lights color scheme
 permalink: /Bright-Lights/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
