@@ -6,6 +6,7 @@ image: /Desert/Desert.png
 description: Desert color scheme
 permalink: /Desert/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
