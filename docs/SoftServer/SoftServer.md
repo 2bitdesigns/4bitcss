@@ -6,6 +6,7 @@ image: /SoftServer/SoftServer.png
 description: SoftServer color scheme
 permalink: /SoftServer/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
