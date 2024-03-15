@@ -6,6 +6,7 @@ image: /BirdsOfParadise/BirdsOfParadise.png
 description: BirdsOfParadise color scheme
 permalink: /BirdsOfParadise/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
