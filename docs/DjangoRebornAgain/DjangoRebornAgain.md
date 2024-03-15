@@ -6,6 +6,7 @@ image: /DjangoRebornAgain/DjangoRebornAgain.png
 description: DjangoRebornAgain color scheme
 permalink: /DjangoRebornAgain/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
