@@ -6,6 +6,7 @@ image: /Builtin-Light/Builtin-Light.png
 description: Builtin Light color scheme
 permalink: /Builtin-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
