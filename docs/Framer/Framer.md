@@ -6,6 +6,7 @@ image: /Framer/Framer.png
 description: Framer color scheme
 permalink: /Framer/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
