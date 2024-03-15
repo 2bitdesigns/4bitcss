@@ -6,6 +6,7 @@ image: /catppuccin-frappe/catppuccin-frappe.png
 description: catppuccin-frappe color scheme
 permalink: /catppuccin-frappe/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
