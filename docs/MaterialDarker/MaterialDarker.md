@@ -6,6 +6,7 @@ image: /MaterialDarker/MaterialDarker.png
 description: MaterialDarker color scheme
 permalink: /MaterialDarker/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
