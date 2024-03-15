@@ -6,6 +6,7 @@ image: /AlienBlood/AlienBlood.png
 description: AlienBlood color scheme
 permalink: /AlienBlood/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
