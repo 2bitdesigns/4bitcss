@@ -6,6 +6,7 @@ image: /SleepyHollow/SleepyHollow.png
 description: SleepyHollow color scheme
 permalink: /SleepyHollow/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
