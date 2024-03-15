@@ -6,6 +6,7 @@ image: /NvimLight/NvimLight.png
 description: NvimLight color scheme
 permalink: /NvimLight/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
