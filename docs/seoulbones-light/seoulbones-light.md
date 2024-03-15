@@ -6,6 +6,7 @@ image: /seoulbones-light/seoulbones-light.png
 description: seoulbones_light color scheme
 permalink: /seoulbones-light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
