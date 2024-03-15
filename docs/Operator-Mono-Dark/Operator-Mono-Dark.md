@@ -6,6 +6,7 @@ image: /Operator-Mono-Dark/Operator-Mono-Dark.png
 description: Operator Mono Dark color scheme
 permalink: /Operator-Mono-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
