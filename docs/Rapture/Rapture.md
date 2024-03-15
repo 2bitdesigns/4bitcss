@@ -6,6 +6,7 @@ image: /Rapture/Rapture.png
 description: Rapture color scheme
 permalink: /Rapture/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
