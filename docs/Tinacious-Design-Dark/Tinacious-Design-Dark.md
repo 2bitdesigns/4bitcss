@@ -6,6 +6,7 @@ image: /Tinacious-Design-Dark/Tinacious-Design-Dark.png
 description: Tinacious Design (Dark) color scheme
 permalink: /Tinacious-Design-Dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
