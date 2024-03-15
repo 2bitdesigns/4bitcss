@@ -6,6 +6,7 @@ image: /Calamity/Calamity.png
 description: Calamity color scheme
 permalink: /Calamity/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
