@@ -6,6 +6,7 @@ image: /farmhouse-dark/farmhouse-dark.png
 description: farmhouse-dark color scheme
 permalink: /farmhouse-dark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
