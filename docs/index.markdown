@@ -1,3 +1,11 @@
+---
+stylesheet: /Konsolas/Konsolas.css
+colorSchemeName: Konsolas
+colorSchemeFileName: Konsolas
+image: /Konsolas/Konsolas.png
+description: 4bit css
+permalink: /
+---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
