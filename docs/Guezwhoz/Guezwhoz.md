@@ -6,6 +6,7 @@ image: /Guezwhoz/Guezwhoz.png
 description: Guezwhoz color scheme
 permalink: /Guezwhoz/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
