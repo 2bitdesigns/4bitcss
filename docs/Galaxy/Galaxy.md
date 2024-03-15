@@ -6,6 +6,7 @@ image: /Galaxy/Galaxy.png
 description: Galaxy color scheme
 permalink: /Galaxy/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
