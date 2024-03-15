@@ -6,6 +6,7 @@ image: /UltraDark/UltraDark.png
 description: UltraDark color scheme
 permalink: /UltraDark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
