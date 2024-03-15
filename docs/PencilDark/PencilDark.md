@@ -6,6 +6,7 @@ image: /PencilDark/PencilDark.png
 description: PencilDark color scheme
 permalink: /PencilDark/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
