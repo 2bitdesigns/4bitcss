@@ -6,6 +6,7 @@ image: /Builtin-Tango-Light/Builtin-Tango-Light.png
 description: Builtin Tango Light color scheme
 permalink: /Builtin-Tango-Light/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
