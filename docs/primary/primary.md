@@ -6,6 +6,7 @@ image: /primary/primary.png
 description: primary color scheme
 permalink: /primary/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
