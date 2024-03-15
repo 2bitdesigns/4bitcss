@@ -6,6 +6,7 @@ image: /AdventureTime/AdventureTime.png
 description: AdventureTime color scheme
 permalink: /AdventureTime/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
