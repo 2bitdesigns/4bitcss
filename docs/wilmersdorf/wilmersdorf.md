@@ -6,6 +6,7 @@ image: /wilmersdorf/wilmersdorf.png
 description: wilmersdorf color scheme
 permalink: /wilmersdorf/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
