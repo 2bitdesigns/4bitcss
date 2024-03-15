@@ -6,6 +6,7 @@ image: /Treehouse/Treehouse.png
 description: Treehouse color scheme
 permalink: /Treehouse/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
