@@ -6,6 +6,7 @@ image: /Grass/Grass.png
 description: Grass color scheme
 permalink: /Grass/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
