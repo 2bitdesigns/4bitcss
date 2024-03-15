@@ -6,6 +6,7 @@ image: /BlueDolphin/BlueDolphin.png
 description: BlueDolphin color scheme
 permalink: /BlueDolphin/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
