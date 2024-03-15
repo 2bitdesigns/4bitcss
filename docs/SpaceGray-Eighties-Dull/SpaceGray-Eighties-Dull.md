@@ -6,6 +6,7 @@ image: /SpaceGray-Eighties-Dull/SpaceGray-Eighties-Dull.png
 description: SpaceGray Eighties Dull color scheme
 permalink: /SpaceGray-Eighties-Dull/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
