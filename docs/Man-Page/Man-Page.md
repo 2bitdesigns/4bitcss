@@ -6,6 +6,7 @@ image: /Man-Page/Man-Page.png
 description: Man Page color scheme
 permalink: /Man-Page/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
