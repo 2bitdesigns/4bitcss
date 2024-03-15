@@ -6,6 +6,7 @@ image: /DjangoSmooth/DjangoSmooth.png
 description: DjangoSmooth color scheme
 permalink: /DjangoSmooth/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
