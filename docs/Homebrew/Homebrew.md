@@ -6,6 +6,7 @@ image: /Homebrew/Homebrew.png
 description: Homebrew color scheme
 permalink: /Homebrew/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
