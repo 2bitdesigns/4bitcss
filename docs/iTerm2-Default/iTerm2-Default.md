@@ -6,6 +6,7 @@ image: /iTerm2-Default/iTerm2-Default.png
 description: iTerm2 Default color scheme
 permalink: /iTerm2-Default/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
