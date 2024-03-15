@@ -6,6 +6,7 @@ image: /Spiderman/Spiderman.png
 description: Spiderman color scheme
 permalink: /Spiderman/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
