@@ -6,6 +6,7 @@ image: /Atom/Atom.png
 description: Atom color scheme
 permalink: /Atom/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
