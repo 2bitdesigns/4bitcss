@@ -6,6 +6,7 @@ image: /Highway/Highway.png
 description: Highway color scheme
 permalink: /Highway/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
