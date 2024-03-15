@@ -6,6 +6,7 @@ image: /Nocturnal-Winter/Nocturnal-Winter.png
 description: Nocturnal Winter color scheme
 permalink: /Nocturnal-Winter/
 ---
+
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
