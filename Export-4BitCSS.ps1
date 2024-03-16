@@ -393,7 +393,7 @@ form input[type="text"], form input[type="checkbox"], input[type="button"], text
     background-color: var(--background);
 }
 
-select option {
+option {
     color: var(--foreground);
     background: var(--background);
 }
