@@ -393,6 +393,11 @@ form input[type="text"], form input[type="checkbox"], input[type="button"], text
     background-color: var(--background);
 }
 
+select option {
+    color: var(--foreground);
+    background: var(--background);
+}
+
 form input[type="text"], textarea, select {
     border : 1px solid var(--foreground);
     outline: 1px solid var(--foreground);
