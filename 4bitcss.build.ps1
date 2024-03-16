@@ -142,6 +142,7 @@ Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/maste
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "shuffle-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "help-circle-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/save.svg -OutputPath (Join-Path $IncludesPath "save-icon.svg")
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/skip-back.svg -OutputPath (Join-Path $IncludesPath "skip-back-icon.svg")
 
 Get-Module 4bitcss | 
     Split-Path | 
