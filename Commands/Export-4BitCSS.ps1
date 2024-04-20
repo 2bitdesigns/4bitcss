@@ -181,16 +181,21 @@ function Export-4BitCSS
     [switch]
     $NoBackgroundColor,
 
+    # If set, will not generate css classes that correspond to `$psStyle`.
+    [Alias('NoStyles','NoPSStyle','NoPSStyles')]
+    [switch]
+    $NoStyle,
+
     # If set, will not include CSS for common page elements
     [Alias('NoElements')]
     [switch]
-    $NoElement,
+    $NoElement,    
 
     # If set, will generate minimal css (not minimized) 
     # Implies all other -No* switches
     [Alias('VariablesOnly')]
     [switch]
-    $Minimal
+    $Minimal    
     )
 
     process {
@@ -237,7 +242,8 @@ function Export-4BitCSS
             $NoFill = $true
             $NoElement = $true
             $NoStroke = $true
-            $NoBackgroundColor = $true            
+            $NoBackgroundColor = $true
+            $NoStyle = $true
         }
     
         $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
@@ -249,7 +255,8 @@ function Export-4BitCSS
         $IsBright = $luma -gt .5
         
         $cssFile    = (Join-Path $OutputPath "$($name | Convert-4BitName).css")
-        $className  = $Name -replace '\s' -replace '^\d', '_$0'        
+        $className  = $Name -replace '\s' -replace '^\d', '_$0'
+
         $cssContent = @(
             @"
 :root {
@@ -405,6 +412,12 @@ if (-not $NoStroke) {
 "@
 }
 
+if (-not $NoStyle) {
+@"
+
+"@
+}
+
 if (-not $NoElement) {
 @"
 
@@ -438,6 +451,12 @@ form input[type="text"], textarea, select {
 hr {
     color: var(--foreground)
 }
+"@
+}
+
+if (-not $NoStyle) {
+@"
+.dim, .Dim { opacity: .5; }
 "@
 }
         ) -join [Environment]::NewLine
