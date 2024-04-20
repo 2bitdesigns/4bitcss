@@ -190,7 +190,12 @@ function Export-4BitCSS
 
     process {
         if (-not $OutputPath) {
-            $OutputPath = $PSScriptRoot
+            $OutputPath = 
+                if ($MyInvocation.MyCommand.ScriptBlock.Module) {
+                    $MyInvocation.MyCommand.ScriptBlock.Module
+                } else {
+                    $PSScriptRoot | Split-Path
+                }
         }
 
         if (-not (Test-Path $OutputPath)) {
@@ -236,8 +241,8 @@ function Export-4BitCSS
 
         $Luma = 0.2126 * $R + 0.7152 * $G + 0.0722 * $B
         $IsBright = $luma -gt .5
-
-        $cssFile    = (Join-Path $OutputPath "$($name -replace '\s','-' -replace '\p{P}','-' -replace '-+','-' -replace '-$').css")
+        
+        $cssFile    = (Join-Path $OutputPath "$($name | Convert-4BitName).css")
         $className  = $Name -replace '\s' -replace '^\d', '_$0'        
         $cssContent = @(
             @"
@@ -262,7 +267,7 @@ function Export-4BitCSS
 # Foreground and background colors
 
 @"
-.foreground, .Foreground { color: var(--foreground);            }
+.foreground, .Foreground { color: var(--foreground); }
 .background, .Background { background-color: var(--background); }
 
 .foreground-border , .Foreground-Border   { border-color: var(--foreground)  }
