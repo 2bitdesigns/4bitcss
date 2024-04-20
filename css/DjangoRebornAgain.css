@@ -132,6 +132,7 @@
 .brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { stroke: var(--brightCyan)  }
 .brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { stroke: var(--brightWhite)     }
 
+
 body {
     color: var(--foreground);
     background-color: var(--background);
@@ -162,3 +163,4 @@ form input[type="text"], textarea, select {
 hr {
     color: var(--foreground)
 }
+.dim, .Dim { opacity: .5; }
