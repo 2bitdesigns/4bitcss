@@ -1,4 +1,4 @@
-
+Push-Location ($PSScriptRoot | Split-Path)
 # If running in a github workflow
 if ($env:GITHUB_WORKSPACE) {
     # clone the iTermColorSchemes repo
@@ -21,7 +21,7 @@ Import-Module .\4bitcss.psd1 -Global
 
 # Build the index file.
 $transpiledPreview = Build-PipeScript -InputPath (
-    Join-Path $PSScriptRoot "docs" | 
+    Join-Path $pwd "docs" | 
     Join-Path -ChildPath "index.ps.markdown"
 )
 # (we'll slightly modify this for each preview)
@@ -33,7 +33,7 @@ $previewSvg    = (Get-ChildItem -Path docs -Filter 4bitpreviewtemplate.svg | Get
 
 # The ./docs directory is our destination for most file.
 
-$docsPath = Join-Path $PSScriptRoot docs
+$docsPath = Join-Path $pwd docs
 
 $allColorSchemes    = @()
 $brightColorSchemes = @()
@@ -51,7 +51,7 @@ foreach ($jsonFile in $jsonFiles) {
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
     if ($jsonObject.Name -match '^\{') { continue }
-    $cssPath = (Join-Path $PSScriptRoot css)
+    $cssPath = (Join-Path $pwd css)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
     $jsonObject | Export-4BitCSS -OutputPath $cssPath -OutVariable colorSchemeCssFile
     
