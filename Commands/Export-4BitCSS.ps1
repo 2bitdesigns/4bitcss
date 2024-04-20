@@ -176,6 +176,11 @@ function Export-4BitCSS
     [switch]
     $NoStroke,
 
+    # If set, will not generate css classes for each background-color stroke.
+    [Alias('NoBackgrounColors')]
+    [switch]
+    $NoBackgroundColor,
+
     # If set, will not include CSS for common page elements
     [Alias('NoElements')]
     [switch]
@@ -231,7 +236,8 @@ function Export-4BitCSS
             $NoColorName = $true
             $NoFill = $true
             $NoElement = $true
-            $NoStroke = $true            
+            $NoStroke = $true
+            $NoBackgroundColor = $true            
         }
     
         $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
@@ -329,6 +335,27 @@ if (-not $NoColorName) {
 .purple       ,  .Purple  { color: var(--purple) }
 
 .brightpurple ,  .bright-purple , .BrightPurple  { color: var(--brightPurple) }
+"@
+}
+
+if (-not $NoBackgroundColor) {
+@"
+.black-background, .BlackBackground, .ANSI0-Background, .ansi0-background { background-color: var(--black)  }
+.red-background, .RedBackground, .ANSI1-Background, .ansi1-background { background-color: var(--red)  }
+.green-background, .GreenBackground, .ANSI2-Background, .ansi2-background { background-color: var(--green)  }
+.yellow-background, .YellowBackground, .ANSI3-Background, .ansi3-background { background-color: var(--yellow)  }
+.blue-background, .BlueBackground, .ANSI4-Background, .ansi4-background { background-color: var(--blue)  }
+.magenta-background, .MagentaBackground, .ANSI5-Background, .ansi5-background { background-color: var(--purple)  }
+.cyan-background, .CyanBackground, .ANSI6-Background, .ansi6-background { background-color: var(--cyan)  }
+.white-background, .WhiteBackground, .ANSI7-Background, .ansi7-background { background-color: var(--white)  }
+.brightblack-background, .bright-black-background, .BrightBlackBackground, .ANSI8-Background, .ansi8-background { background-color: var(--brightBlack)  }
+.brightred-background, .bright-red-background, .BrightRedBackground, .ANSI9-Background, .ansi9-background { background-color: var(--brightRed)  }
+.brightgreen-background, .bright-green-background, .BrightGreenBackground, .ANSI10-Background, .ansi10-background { background-color: var(--brightGreen)  }
+.brightyellow-background, .bright-yellow-background, .BrightYellowBackground, .ANSI11-Background, .ansi11-background { background-color: var(--brightYellow)  }
+.brightblue-background, .bright-blue-background, .BrightBlueBackground, .ANSI12-Background, .ansi12-background { background-color: var(--brightBlue)  }
+.brightmagenta-background, .bright-magenta-background, .BrightMagentaBackground, .ANSI13-Background, .ansi13-background { background-color: var(--brightPurple)  }
+.brightcyan-background, .bright-cyan-background, .BrightCyanBackground, .ANSI14-Background, .ansi14-background { background-color: var(--brightCyan)  }
+.brightwhite-background, .bright-white-background, .BrightWhiteBackground, .ANSI15-Background, .ansi15-background { background-color: var(--brightWhite)  }
 "@
 }
 
