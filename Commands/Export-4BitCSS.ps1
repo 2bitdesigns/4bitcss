@@ -414,7 +414,8 @@ if (-not $NoStroke) {
 
 if (-not $NoStyle) {
 @"
-
+.dim, .Dim { opacity: .5; }
+.hidden, .Hidden { opacity: 0; }
 "@
 }
 
@@ -425,6 +426,8 @@ body {
     color: var(--foreground);
     background-color: var(--background);
 }
+
+
 
 a, a:visited, a:hover  { color: var(--cyan); }
 
@@ -454,11 +457,6 @@ hr {
 "@
 }
 
-if (-not $NoStyle) {
-@"
-.dim, .Dim { opacity: .5; }
-"@
-}
         ) -join [Environment]::NewLine
         $cssContent | Set-Content -Path $cssFile
         Get-Item -Path $cssFile
