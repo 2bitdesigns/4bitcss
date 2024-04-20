@@ -131,12 +131,15 @@
 .brightpurple-stroke    , .bright-purple-stroke, .BrightPurpleStroke { fill: var(--brightPuple)  }
 .brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { stroke: var(--brightCyan)  }
 .brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { stroke: var(--brightWhite)     }
-
+.dim, .Dim { opacity: .5; }
+.hidden, .Hidden { opacity: 0; }
 
 body {
     color: var(--foreground);
     background-color: var(--background);
 }
+
+
 
 a, a:visited, a:hover  { color: var(--cyan); }
 
@@ -163,4 +166,3 @@ form input[type="text"], textarea, select {
 hr {
     color: var(--foreground)
 }
-.dim, .Dim { opacity: .5; }
