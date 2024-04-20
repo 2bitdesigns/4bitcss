@@ -27,7 +27,7 @@
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Cobalt Neon'; }
 .colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Cobalt-Neon.css'; }
 
-.foreground, .Foreground { color: var(--foreground);            }
+.foreground, .Foreground { color: var(--foreground); }
 .background, .Background { background-color: var(--background); }
 
 .foreground-border , .Foreground-Border   { border-color: var(--foreground)  }
