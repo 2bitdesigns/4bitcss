@@ -416,6 +416,14 @@ if (-not $NoStyle) {
 @"
 .dim, .Dim { opacity: .5; }
 .hidden, .Hidden { opacity: 0; }
+b, bold, .bold, .Bold { font-weight: bold; }
+.boldOff, .BoldOff { font-weight: normal; }
+i, italic, .italic, .Italic { font-style: italic; }
+.italicOff, .ItalicOff { font-style: normal; }
+u, underline, .underline, .Underline { text-decoration: underline; }
+.underlineOff, .UnderlineOff { text-decoration: none; }
+s, strike, .strike, .Strike { text-decoration: line-through; }
+.strikeOff, .StrikeOff { text-decoration: none; }
 "@
 }
 
