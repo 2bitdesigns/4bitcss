@@ -27,7 +27,7 @@
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Snazzy'; }
 .colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'Snazzy.css'; }
 
-.foreground, .Foreground { color: var(--foreground);            }
+.foreground, .Foreground { color: var(--foreground); }
 .background, .Background { background-color: var(--background); }
 
 .foreground-border , .Foreground-Border   { border-color: var(--foreground)  }
