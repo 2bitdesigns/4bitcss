@@ -1,13 +1,13 @@
 #requires -Module PSSVG
-Push-Location $PSScriptRoot
+Push-Location ($PSScriptRoot | Split-Path)
 
 
-$assetsRoot = Join-Path $PSScriptRoot "Assets"
+$assetsRoot = Join-Path $pwd "Assets"
 if (-not (Test-Path $assetsRoot)) {
     $null = New-Item -ItemType Directory -Path $assetsRoot
 }
 
-$docsRoot = Join-Path $PSScriptRoot "docs"
+$docsRoot = Join-Path $pwd "docs"
 if (-not (Test-Path $docsRoot)) {
     $null = New-Item -ItemType Directory -Path $docsRoot
 }
@@ -24,8 +24,8 @@ $fontSettings = [Ordered]@{
 }
 
 $assetFile = 
-=<svg> -ViewBox 400,400 @(
-    =<svg.defs> @(
+svg -ViewBox 400,400 @(
+    svg.defs @(
         SVG.GoogleFont -FontName Abel
     )
         
@@ -42,9 +42,9 @@ $assetFile =
 $assetFile
 $assetFile | Copy-Item -Destination (Join-Path $docsRoot .\4bitcss.svg) -PassThru
 
-=<svg> -ViewBox 640, 640 @(
+svg -ViewBox 640, 640 @(
     foreach ($n in 16..1) {
-        =<svg.rect> -X (
+        svg.rect -X (
             ((16 - $n - 1 ) * 20)
         ) -Y (
             ((16 - $n - 1 ) * 20)            
