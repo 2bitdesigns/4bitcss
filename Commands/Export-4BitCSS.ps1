@@ -245,6 +245,10 @@ function Export-4BitCSS
             $NoBackgroundColor = $true
             $NoStyle = $true
         }
+
+        $ColorOrder = @(
+            'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White'
+        )
     
         $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
         $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
@@ -422,9 +426,53 @@ i, italic, .italic, .Italic { font-style: italic; }
 .italicOff, .ItalicOff { font-style: normal; }
 u, underline, .underline, .Underline { text-decoration: underline; }
 .underlineOff, .UnderlineOff { text-decoration: none; }
-s, strike, .strike, .Strike { text-decoration: line-through; }
-.strikeOff, .StrikeOff { text-decoration: none; }
+s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: line-through; }
+.strikeOff, .StrikeOff, .strikethroughOff, .StrikethroughOff { text-decoration: none; }
 "@
+
+foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
+    foreach ($styleProperty in $PSStyle.$subproperty.psobject.properties) {
+        if ($styleProperty.Value -notmatch '\e') { continue }
+        $null = $styleProperty.Value -match '\e\[(?<n>[\d;]+)m'
+        $styleBytes = $matches.n -split ';' -as [byte[]]
+        $cssProperties = @(
+            switch ($styleBytes) {
+                1 { 'font-weight: bold;' }
+                3 { 'font-style: italic;' }
+                4 { 'text-decoration: underline;' }
+                9 { 'text-decoration: line-through;' }
+                22 { 'font-weight: normal;' }
+                23 { 'font-style: normal;' }
+                24 { 'text-decoration: none;' }
+                default {
+                    if ($_ -in 30..37) {
+                        $colorName = $ColorOrder[$_ - 30]
+                        $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
+                        "color: var(--$colorName);"
+                    } elseif ($_ -in 40..47) {
+                        $colorName = $ColorOrder[$_ - 30]
+                        $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
+                        "background-color: var(--$colorName);"
+                    } elseif ($_ -eq 38) {                
+                        "color: var(--foreground);"
+                    } elseif ($_ -eq 48) {                
+                        "background-color: var(--background);"
+                    }
+                    elseif ($_ -in 90..97) {
+                        $colorName = "bright$($ColorOrder[$_ - 90])"
+                        "color: var(--$colorName);"
+                    } elseif ($_ -in 100..107) {
+                        $colorName = "bright$($ColorOrder[$_ - 100])"
+                        "background-color: var(--$colorName);"
+                    }
+                }
+            }
+        )
+
+        $className = ".$subproperty-$($styleProperty.Name)"
+        "$className { $($cssProperties -join ';') }"
+    }
+}
 }
 
 if (-not $NoElement) {
