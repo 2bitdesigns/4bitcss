@@ -26,8 +26,10 @@ permalink: /Belafonte-Day/
     </a>
     <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
 {% include shuffle-icon.svg %}
-    </a>
+    </a>    
 </div>
 
 {% include ColorTable.md %}
+
+{% include HowTo.md %}
 
