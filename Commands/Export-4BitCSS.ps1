@@ -401,18 +401,18 @@ if (-not $NoStroke) {
 .yellow-stroke ,  .YellowStroke , .ANSI3-Stroke, .ansi3-stroke { stroke: var(--yellow)  }
 .blue-stroke ,  .BlueStroke , .ANSI4-Stroke, .ansi4-stroke { stroke: var(--blue)  }
 .magenta-stroke ,  .MagentaStroke , .ANSI5-Stroke, .ansi5-stroke { stroke: var(--purple)  }
-.purple-stroke, .PurpleStroke { fill: var(--purple) }
+.purple-stroke, .PurpleStroke { stroke: var(--purple) }
 .cyan-stroke ,  .CyanStroke , .ANSI6-Stroke, .ansi6-stroke { stroke: var(--cyan)  }
 .white-stroke ,  .WhiteStroke , .ANSI7-Stroke, .ansi7-stroke { stroke: var(--white)  }
-.brightblack-stroke ,  .bright-black-stroke , .BrightBlackFill   , .ANSI8-Fill, .ansi8-fill   { stroke: var(--brightBlack)  }
-.brightred-stroke ,  .bright-red-stroke , .BrightRedFill   , .ANSI9-Fill, .ansi9-fill   { stroke: var(--brightRed)  }
-.brightgreen-stroke ,  .bright-green-stroke , .BrightGreenFill   , .ANSI10-Fill, .ansi10-fill   { stroke: var(--brightGreen)     }
-.brightyellow-stroke ,  .bright-yellow-stroke , .BrightYellowFill   , .ANSI11-Fill, .ansi11-fill   { stroke: var(--brightYellow) }
-.brightblue-stroke ,  .bright-blue-stroke , .BrightBlueFill   , .ANSI12-Fill, .ansi12-fill   { stroke: var(--brightBlue)  }
-.brightmagneta-stroke ,  .bright-magneta-stroke , .BrightMagnetaFill   , .ANSI13-Fill, .ansi13-fill   { stroke: var(--brightPuple)  }
-.brightpurple-stroke    , .bright-purple-stroke, .BrightPurpleStroke { fill: var(--brightPuple)  }
-.brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { stroke: var(--brightCyan)  }
-.brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { stroke: var(--brightWhite)     }
+.brightblack-stroke ,  .bright-black-stroke , .BrightBlackStroke   , .ANSI8-Stroke, .ansi8-stroke   { stroke: var(--brightBlack)  }
+.brightred-stroke ,  .bright-red-stroke , .BrightRedStroke   , .ANSI9-stroke, .ansi9-stroke   { stroke: var(--brightRed)  }
+.brightgreen-stroke ,  .bright-green-stroke , .BrightGreenStroke   , .ANSI10-Stroke, .ansi10-stroke   { stroke: var(--brightGreen)     }
+.brightyellow-stroke ,  .bright-yellow-stroke , .BrightYellowStroke, .ANSI11-Stroke, .ansi11-stroke   { stroke: var(--brightYellow) }
+.brightblue-stroke ,  .bright-blue-stroke , .BrightBlueStroke   , .ANSI12-Stroke, .ansi12-stroke   { stroke: var(--brightBlue)  }
+.brightmagneta-stroke ,  .bright-magneta-stroke , .BrightMagnetaStroke   , .ANSI13-Stroke, .ansi13-stroke   { stroke: var(--brightPuple)  }
+.brightpurple-stroke    , .bright-purple-stroke, .BrightPurpleStroke { stroke: var(--brightPuple)  }
+.brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanStroke   , .ANSI14-Stroke, .ansi14-stroke   { stroke: var(--brightCyan)  }
+.brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteStroke   , .ANSI15-Stroke, .ansi15-stroke   { stroke: var(--brightWhite)     }
 "@
 }
 
@@ -498,8 +498,6 @@ body {
     color: var(--foreground);
     background-color: var(--background);
 }
-
-
 
 a, a:visited, a:hover  { color: var(--cyan); }
 
