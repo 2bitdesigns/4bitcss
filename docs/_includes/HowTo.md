@@ -1,14 +1,29 @@
+---
+
+~~~html
+<span class='Black White-Background'>
+    Black / White
+</span>
+~~~
+
+<div style='text-align:center'>
+    <span class='Black White-Background'>Black/White</span>
+</div>
 
 ---
-<div style='text-align:center'>
-    <span class='Black'>Black</span> <span class='Red'>Red</span> <span class='Green'>Green</span><span class='Yellow'>Yellow</span>
-    <br/>
-    <span class='Blue'>Blue</span> <span class='Purple'>Purple</span> <span class='Cyan'>Cyan</span><span class='White'>White</span>
-    <br/>
-    <span class='BrightBlack'>BrightBlack</span> <span class='BrightRed'>BrightRed</span> <span class='BrightGreen'>BrightGreen</span><span class='BrightYellow'>BrightYellow</span>
-    <br/>
-    <span class='BrightBlue'>BrightBlue</span> <span class='BrightPurple'>BrightPurple</span> <span class='BrightCyan'>BrightCyan</span><span class='BrightWhite'>BrightWhite</span>
-</div>
+
+~~~svg
+<svg viewBox="0 0 1 1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="50%">
+    <rect width="100%" height="100%" class="purple-stroke blue-fill" />
+    <circle r="1" class="red-stroke green-fill"/>
+</svg>
+~~~
+
+<svg viewBox="0 0 1 1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" class="purple-stroke blue-fill" />
+    <circle r="1" class="red-stroke green-fill"/>
+</svg>
+
 ---
 
 ## Instructions:
