@@ -430,7 +430,7 @@ s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: l
 .strikeOff, .StrikeOff, .strikethroughOff, .StrikethroughOff { text-decoration: none; }
 "@
 
-foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
+foreach ($subproperty in 'Formatting', 'Progress') {
     :nextStyleProperty foreach ($styleProperty in $PSStyle.$subproperty.psobject.properties) {
         if ($styleProperty.Value -notmatch '\e') { continue }
         $null = $styleProperty.Value -match '\e\[(?<n>[\d;]+)m'
@@ -454,7 +454,7 @@ foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
                         $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
                         "color: var(--$colorName);"
                     } elseif ($_ -in 40..47) {
-                        $colorName = $ColorOrder[$_ - 30]
+                        $colorName = $ColorOrder[$_ - 40]
                         if (-not $colorName) {
                             Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
                             continue nextStyleProperty
@@ -486,7 +486,7 @@ foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
         )
 
         $className = ".$subproperty-$($styleProperty.Name)"
-        "$className { $($cssProperties -join ';') }"
+        "$className { $($cssProperties -ne '' -join ';') }"
     }
 }
 }
