@@ -4,7 +4,6 @@ colorSchemeName: Konsolas
 colorSchemeFileName: Konsolas
 image: /Konsolas/Konsolas.png
 description: 4bit css
-permalink: /
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
@@ -25,7 +24,9 @@ permalink: /
     </a>
     <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
 {% include shuffle-icon.svg %}
-    </a>
+    </a>    
 </div>
 
 {% include ColorTable.md %}
+
+{% include HowTo.md %}
