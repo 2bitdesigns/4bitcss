@@ -152,8 +152,6 @@ s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: l
 .Formatting-FeedbackName { color: var(--yellow); }
 .Formatting-FeedbackText { color: var(--brightCyan); }
 .Formatting-FeedbackAction { color: var(--brightWhite); }
-.FileInfo-SymbolicLink { color: var(--cyan);;font-weight: bold; }
-.FileInfo-Executable { color: var(--green);;font-weight: bold; }
 .Progress-Style { color: var(--yellow);;font-weight: bold; }
 
 body {
