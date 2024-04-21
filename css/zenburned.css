@@ -141,18 +141,18 @@ u, underline, .underline, .Underline { text-decoration: underline; }
 .underlineOff, .UnderlineOff { text-decoration: none; }
 s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: line-through; }
 .strikeOff, .StrikeOff, .strikethroughOff, .StrikethroughOff { text-decoration: none; }
-.Formatting-FormatAccent { color: var(--green);;font-weight: bold; }
-.Formatting-TableHeader { color: var(--green);;font-weight: bold; }
-.Formatting-CustomTableHeaderLabel { color: var(--green);;font-weight: bold;;font-style: italic; }
-.Formatting-ErrorAccent { color: var(--cyan);;font-weight: bold; }
-.Formatting-Error { color: var(--red);;font-weight: bold; }
-.Formatting-Warning { color: var(--yellow);;font-weight: bold; }
-.Formatting-Verbose { color: var(--yellow);;font-weight: bold; }
-.Formatting-Debug { color: var(--yellow);;font-weight: bold; }
-.Formatting-FeedbackName { color: var(--yellow); }
-.Formatting-FeedbackText { color: var(--brightCyan); }
-.Formatting-FeedbackAction { color: var(--brightWhite); }
-.Progress-Style { color: var(--yellow);;font-weight: bold; }
+.Formatting-FormatAccent { color: var(--green);font-weight: bold }
+.Formatting-TableHeader { color: var(--green);font-weight: bold }
+.Formatting-CustomTableHeaderLabel { color: var(--green);font-weight: bold;font-style: italic }
+.Formatting-ErrorAccent { color: var(--cyan);font-weight: bold }
+.Formatting-Error { color: var(--red);font-weight: bold }
+.Formatting-Warning { color: var(--yellow);font-weight: bold }
+.Formatting-Verbose { color: var(--yellow);font-weight: bold }
+.Formatting-Debug { color: var(--yellow);font-weight: bold }
+.Formatting-FeedbackName { color: var(--yellow) }
+.Formatting-FeedbackText { color: var(--brightCyan) }
+.Formatting-FeedbackAction { color: var(--brightWhite) }
+.Progress-Style { color: var(--yellow);font-weight: bold }
 
 body {
     color: var(--foreground);
