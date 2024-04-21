@@ -216,6 +216,10 @@ function Export-4BitCSS
         $myCmd = $MyInvocation.MyCommand
 
         $jsonObject = [Ordered]@{}
+        
+        $ColorOrder = @(
+            'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White'
+        )
 
         # Walk over each parameter
         :nextParam foreach ($keyValue in $PSBoundParameters.GetEnumerator()) {
@@ -245,10 +249,6 @@ function Export-4BitCSS
             $NoBackgroundColor = $true
             $NoStyle = $true
         }
-
-        $ColorOrder = @(
-            'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White'
-        )
     
         $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
         $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
@@ -431,7 +431,7 @@ s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: l
 "@
 
 foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
-    foreach ($styleProperty in $PSStyle.$subproperty.psobject.properties) {
+    :nextStyleProperty foreach ($styleProperty in $PSStyle.$subproperty.psobject.properties) {
         if ($styleProperty.Value -notmatch '\e') { continue }
         $null = $styleProperty.Value -match '\e\[(?<n>[\d;]+)m'
         $styleBytes = $matches.n -split ';' -as [byte[]]
@@ -447,10 +447,18 @@ foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
                 default {
                     if ($_ -in 30..37) {
                         $colorName = $ColorOrder[$_ - 30]
+                        if (-not $colorName) {
+                            Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
+                            continue nextStyleProperty
+                        }
                         $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
                         "color: var(--$colorName);"
                     } elseif ($_ -in 40..47) {
                         $colorName = $ColorOrder[$_ - 30]
+                        if (-not $colorName) {
+                            Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
+                            continue nextStyleProperty
+                        }
                         $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
                         "background-color: var(--$colorName);"
                     } elseif ($_ -eq 38) {                
@@ -460,9 +468,17 @@ foreach ($subproperty in 'Formatting', 'FileInfo','Progress') {
                     }
                     elseif ($_ -in 90..97) {
                         $colorName = "bright$($ColorOrder[$_ - 90])"
+                        if (-not $colorName) {
+                            Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
+                            continue nextStyleProperty
+                        }
                         "color: var(--$colorName);"
                     } elseif ($_ -in 100..107) {
                         $colorName = "bright$($ColorOrder[$_ - 100])"
+                        if (-not $colorName) {
+                            Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
+                            continue nextStyleProperty
+                        }
                         "background-color: var(--$colorName);"
                     }
                 }
