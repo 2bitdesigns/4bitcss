@@ -437,13 +437,13 @@ foreach ($subproperty in 'Formatting', 'Progress') {
         $styleBytes = $matches.n -split ';' -as [byte[]]
         $cssProperties = @(
             switch ($styleBytes) {
-                1 { 'font-weight: bold;' }
-                3 { 'font-style: italic;' }
-                4 { 'text-decoration: underline;' }
-                9 { 'text-decoration: line-through;' }
-                22 { 'font-weight: normal;' }
-                23 { 'font-style: normal;' }
-                24 { 'text-decoration: none;' }
+                1 { 'font-weight: bold' }
+                3 { 'font-style: italic' }
+                4 { 'text-decoration: underline' }
+                9 { 'text-decoration: line-through' }
+                22 { 'font-weight: normal' }
+                23 { 'font-style: normal' }
+                24 { 'text-decoration: none' }
                 default {
                     if ($_ -in 30..37) {
                         $colorName = $ColorOrder[$_ - 30]
@@ -452,7 +452,7 @@ foreach ($subproperty in 'Formatting', 'Progress') {
                             continue nextStyleProperty
                         }
                         $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
-                        "color: var(--$colorName);"
+                        "color: var(--$colorName)"
                     } elseif ($_ -in 40..47) {
                         $colorName = $ColorOrder[$_ - 40]
                         if (-not $colorName) {
@@ -460,11 +460,11 @@ foreach ($subproperty in 'Formatting', 'Progress') {
                             continue nextStyleProperty
                         }
                         $colorName = $colorName.Substring(0, 1).ToLower() + $colorName.Substring(1)
-                        "background-color: var(--$colorName);"
+                        "background-color: var(--$colorName)"
                     } elseif ($_ -eq 38) {                
-                        "color: var(--foreground);"
+                        "color: var(--foreground)"
                     } elseif ($_ -eq 48) {                
-                        "background-color: var(--background);"
+                        "background-color: var(--background)"
                     }
                     elseif ($_ -in 90..97) {
                         $colorName = "bright$($ColorOrder[$_ - 90])"
@@ -472,14 +472,14 @@ foreach ($subproperty in 'Formatting', 'Progress') {
                             Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
                             continue nextStyleProperty
                         }
-                        "color: var(--$colorName);"
+                        "color: var(--$colorName)"
                     } elseif ($_ -in 100..107) {
                         $colorName = "bright$($ColorOrder[$_ - 100])"
                         if (-not $colorName) {
                             Write-Warning "Could not translate `$psStyle.$($subproperty).$($styleProperty.Name) to a color."
                             continue nextStyleProperty
                         }
-                        "background-color: var(--$colorName);"
+                        "background-color: var(--$colorName)"
                     }
                 }
             }
