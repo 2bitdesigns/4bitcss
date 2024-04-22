@@ -1,9 +1,1 @@
-#010921
-#10b6ff
-#fafafa
-#080117
-#00b3f7
-#fefefe
-#010515
-#11b7ff
-#c1e4ff
+#010921;#10b6ff;#fafafa;#080117;#00b3f7;#fefefe;#010515;#11b7ff;#c1e4ff
