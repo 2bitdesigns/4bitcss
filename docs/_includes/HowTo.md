@@ -1,16 +1,20 @@
 <h3 style='text-align:center'>HTML</h3>
 
 ~~~html
-<div style='text-align:center'>
-    <span class='ANSI9 ANSI0-background'>BrightRed on Black</span>
-    <br/>
-    <span class='black white-background'>Black on White</span>
-</div>
+    <div style='text-align:center'>
+        <span class='ANSI9 ANSI0-background'>
+            BrightRed on Black
+        </span>
+        <br/>
+        <span class='black white-background'>
+            Black on White
+        </span>
+    </div>
 ~~~
 
 <h3 style='text-align:center'>SVG</h3>
 
-<code language="svg" style='width:50%'>
+~~~svg
     <svg
         xmlns:xlink="http://www.w3.org/1999/xlink"
         xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +31,7 @@
             x1="0%" x2="100%" y1="50%" y2="50%"
             class="purple-stroke" />
     </svg>
-</code>
+~~~
 
 <div style='text-align:center'>
     <span class='ANSI9 ANSI0-background'>BrightRed on Black</span>
