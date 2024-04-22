@@ -1,11 +1,1 @@
-#1d1a1e
-#ff5b82
-#47d7a1
-#e8e562
-#5db4ee
-#da6cda
-#57e9eb
-#ededed
-#efecec
-#c7c7c7
-#e1925c
+#1d1a1e;#ff5b82;#47d7a1;#e8e562;#5db4ee;#da6cda;#57e9eb;#ededed;#efecec;#c7c7c7;#e1925c
