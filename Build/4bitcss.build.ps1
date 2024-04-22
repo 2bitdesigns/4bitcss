@@ -50,6 +50,7 @@ foreach ($jsonFile in $jsonFiles) {
     $colorSchemeFileName =
         $jsonObject.Name | Convert-4BitName
 
+    if (-not $colorSchemeFileName) { continue }
     $allPalletes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
