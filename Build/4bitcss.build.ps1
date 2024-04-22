@@ -69,7 +69,7 @@ foreach ($jsonFile in $jsonFiles) {
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
     $dotTextPath = Join-Path $ColorSchemePath "$colorSchemeFileName.txt"
-    $distinctColors | Set-Content -Path $dotTextPath -Encoding utf8
+    $distinctColors -join ';' | Set-Content -Path $dotTextPath -Encoding utf8
     Get-Item -Path $dotTextPath
     $allColorSchemes += $colorSchemeFileName
 
