@@ -325,6 +325,7 @@ if (-not $NoStream) {
 
 if (-not $NoColorName) {
 @"
+/* colors */
 .black   ,  .Black   , .ANSI0  { color: var(--black)  }
 .red     ,  .Red     , .ANSI1  { color: var(--red)    }
 .green   ,  .Green   , .ANSI2  { color: var(--green)  }
@@ -351,6 +352,7 @@ if (-not $NoColorName) {
 
 if (-not $NoBackgroundColor) {
 @"
+/* background colors */
 .black-background, .BlackBackground, .ANSI0-Background, .ansi0-background { background-color: var(--black)  }
 .red-background, .RedBackground, .ANSI1-Background, .ansi1-background { background-color: var(--red)  }
 .green-background, .GreenBackground, .ANSI2-Background, .ansi2-background { background-color: var(--green)  }
@@ -372,6 +374,7 @@ if (-not $NoBackgroundColor) {
 
 if (-not $NoFill) {
 @"
+/* fills */
 .black-fill   ,  .BlackFill   , .ANSI0-Fill,   .ansi0-fill   { fill: var(--black)  }
 .red-fill   ,  .RedFill   , .ANSI1-Fill,   .ansi1-fill   { fill: var(--red)  }
 .green-fill   ,  .GreenFill   , .ANSI2-Fill,   .ansi2-fill   { fill: var(--green)  }
@@ -395,6 +398,7 @@ if (-not $NoFill) {
 
 if (-not $NoStroke) {
 @"
+/* strokes */
 .black-stroke ,  .BlackStroke , .ANSI0-Stroke, .ansi0-stroke { stroke: var(--black)  }
 .red-stroke ,  .RedStroke , .ANSI1-Stroke, .ansi1-stroke { stroke: var(--red)  }
 .green-stroke ,  .GreenStroke , .ANSI2-Stroke, .ansi2-stroke { stroke: var(--green)  }
@@ -418,6 +422,7 @@ if (-not $NoStroke) {
 
 if (-not $NoStyle) {
 @"
+/* psStyles */
 .dim, .Dim { opacity: .5; }
 .hidden, .Hidden { opacity: 0; }
 b, bold, .bold, .Bold { font-weight: bold; }
