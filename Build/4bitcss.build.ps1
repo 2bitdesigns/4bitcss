@@ -106,33 +106,48 @@ $transpiledText
     Get-Item -Path $previewSvgPath    
 }
 
-$allSchemesPath = Join-Path $docsPath "allColorSchemes.json"
+$DataPath = Join-Path $docsPath "_data"
+if (-not (Test-Path $DataPath)) {
+    $null = New-Item -ItemType Directory -Path $DataPath
+}
+
+$allSchemesPath = Join-Path $docsPath "Palette-List.json"
+
 $allColorSchemes |
-    ConvertTo-Json |
+    ConvertTo-Json -Compress |
     Set-Content -Path $allSchemesPath
 
 Get-Item -Path $allSchemesPath
+Get-Item -Path $allSchemesPath |
+    Copy-Item -Destination $DataPath -Force -PassThru
 
-$allBrightSchemesPath = Join-Path $docsPath "allBrightColorSchemes.json"
+$allBrightSchemesPath = Join-Path $docsPath "Bright-Palette-List.json"
 $brightColorSchemes |
-    ConvertTo-Json |
+    ConvertTo-Json -Compress |
     Set-Content -Path $allBrightSchemesPath
 
 Get-Item -Path $allBrightSchemesPath
+Get-Item -Path $allBrightSchemesPath |
+    Copy-Item -Destination $DataPath -Force -PassThru
 
-$allDarkSchemesPath = Join-Path $docsPath "allDarkColorSchemes.json"
+$allDarkSchemesPath = Join-Path $docsPath "Dark-Palette-List.json"
+    
 $darkColorSchemes |
-    ConvertTo-Json |
+    ConvertTo-Json -Compress |
     Set-Content -Path $allDarkSchemesPath
+
+Get-Item -Path $allDarkSchemesPath
+Get-Item -Path $allDarkSchemesPath |
+    Copy-Item -Destination $DataPath -Force -PassThru
 
 $allPalletesPath = Join-Path $docsPath "Palletes.json"
 $allPalletes |
-    ConvertTo-Json -Depth 4 |
+    ConvertTo-Json -Depth 4 -Compress |
     Set-Content -Path $allPalletesPath
 
 Get-Item -Path $allPalletesPath
-Get-Item -Path $allDarkSchemesPath
-Get-Item -Path $allSchemesPath
+Get-Item -Path $allPalletesPath  |
+    Copy-Item -Destination $DataPath -Force -PassThru
 
 $4bitJS = Export-4BitJS -ColorSchemeName $allColorSchemes -DarkColorSchemeName $darkColorSchemes -LightColorSchemeName $LightColorSchemeName
 
