@@ -1,14 +1,1 @@
-#000000
-#fd5ff1
-#87c38a
-#ffd7b1
-#85befd
-#b9b6fc
-#e0e0e0
-#94fa36
-#f5ffa8
-#96cbfe
-#161719
-#c5c8c6
-#d0d0d0
-#444444
+#000000;#fd5ff1;#87c38a;#ffd7b1;#85befd;#b9b6fc;#e0e0e0;#94fa36;#f5ffa8;#96cbfe;#161719;#c5c8c6;#d0d0d0;#444444
