@@ -1,6 +1,12 @@
 # Thank you Microsoft!  Thank you PowerShell!  Thank you Docker!
 FROM mcr.microsoft.com/powershell
 
+# InstallAptPackages determines additional packages to install
+ARG InstallAptPackages=git curl ca-certificates libc6 libgcc1
+
+# Install additional packages
+RUN apt-get update && apt-get install -y $InstallAptPackages
+
 # Set the module name to the name of the module we are building
 ARG ModuleName=4bitcss
 # Copy the module into the container
