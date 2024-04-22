@@ -1,4 +1,4 @@
-<code language='html'>
+<code language='html' style='font-size:.8em'>
 &lt;link rel="stylesheet"
     type="text/css"
     href="https://cdn.jsdelivr.net/gh/2bitdesigns/4bitcss@latest/css/<span class='ColorSchemeFileName' />"
@@ -23,9 +23,16 @@
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 100 100"
     height="20%" width="20%">
-    <rect width="50%" height="50%" x="25%" y="25%" class="purple-stroke blue-fill" />
-    <circle r="25%" cx="50%" cy="50%" class="red-stroke green-fill" />
-    <line x1="0%" x2="100%" y1="50%" y2="50%" class="purple-stroke" />
+    <rect
+        width="50%" height="50%"
+        x="25%" y="25%"
+        class="purple-stroke blue-fill" />
+    <circle 
+        r="25%" cx="50%" cy="50%" 
+        class="red-stroke green-fill" />
+    <line 
+        x1="0%" x2="100%" y1="50%" y2="50%"
+        class="purple-stroke" />
 </svg>
 ~~~
 
