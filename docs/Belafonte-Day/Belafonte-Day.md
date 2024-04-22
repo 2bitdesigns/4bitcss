@@ -13,7 +13,7 @@ permalink: /Belafonte-Day/
     </a>
 </h2>
 
-<div class='centeredText'>
+<div class='centeredText' style='margin-bottom:1%'>
 {% include PaletteSelector.html %}
 </div>
 
