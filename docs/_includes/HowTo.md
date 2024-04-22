@@ -1,4 +1,4 @@
-### HTML
+<h3 style='text-align:center'>HTML</h3>
 
 ~~~html
 <div style='text-align:center'>
@@ -8,7 +8,7 @@
 </div>
 ~~~
 
-### SVG
+<h3 style='text-align:center'>SVG</h3>
 
 ~~~svg
 <svg
