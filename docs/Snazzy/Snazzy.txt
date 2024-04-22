@@ -1,13 +1,1 @@
-#000000
-#fc4346
-#50fb7c
-#f0fb8c
-#49baff
-#fc4cb4
-#8be9fe
-#ededec
-#555555
-#1e1f29
-#ebece6
-#e4e4e4
-#81aec6
+#000000;#fc4346;#50fb7c;#f0fb8c;#49baff;#fc4cb4;#8be9fe;#ededec;#555555;#1e1f29;#ebece6;#e4e4e4;#81aec6
