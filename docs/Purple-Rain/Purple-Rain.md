@@ -14,6 +14,10 @@ permalink: /Purple-Rain/
 </h2>
 
 <div class='centeredText'>
+{% include PaletteSelector.html %}
+</div>
+
+<div class='centeredText'>
 {% include 4bitpreview.svg %}
 </div>
 
