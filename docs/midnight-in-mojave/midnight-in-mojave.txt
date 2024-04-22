@@ -1,9 +1,1 @@
-#1e1e1e
-#ff453a
-#32d74b
-#ffd60a
-#0a84ff
-#bf5af2
-#5ac8fa
-#ffffff
-#4a504d
+#1e1e1e;#ff453a;#32d74b;#ffd60a;#0a84ff;#bf5af2;#5ac8fa;#ffffff;#4a504d
