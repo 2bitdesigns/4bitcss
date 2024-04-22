@@ -1,6 +1,6 @@
 Push-Location ($PSScriptRoot | Split-Path)
-# If running in a github workflow
-if ($env:GITHUB_WORKSPACE) {
+# If running in a github workflow or not on C: drive, clone the repo.
+if ($env:GITHUB_WORKSPACE -or ($home -notmatch '^C:')) {
     # clone the iTermColorSchemes repo
     git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git | Out-Host
 
