@@ -1,57 +1,36 @@
+---
+stylesheet: /Konsolas/Konsolas.css
+colorSchemeName: Konsolas
+colorSchemeFileName: Konsolas
+image: /Konsolas/Konsolas.png
+description: 4bit css
+---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
         <span class='ColorSchemeFileName' />
     </a>
 </h2>
 
+<div class='centeredText' style='margin-bottom:1%'>
+{% include PaletteSelector.html %}
+</div>
+
 <div class='centeredText'>
-~~~PipeScript{
-Get-Content .\4bitpreview.svg |
-    Select-Object -Skip 1
-}
-~~~
+{% include 4bitpreview.svg %}
 </div>
 
 <div class='centeredText'>
     <a id='downloadSchemeLink' class='padded'>
-~~~PipeScript{    
-$downloadIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg
-$downloadIcon.svg.SetAttribute("class", "ansi6-stroke")
-$downloadIcon.svg.OuterXML
-}
-~~~        
+{% include download-icon.svg %}
     </a>
     <a id='cdnSchemeLink' class='padded'>
-~~~PipeScript{    
-$downloadIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg
-$downloadIcon.svg.SetAttribute("class", "ansi6-stroke")
-$downloadIcon.svg.OuterXML
-}
-~~~
+{% include download-cloud-icon.svg %}
     </a>
     <a id='feelingLucky' href="javascript:feelingLucky(document.getElementById('themeSelector'))" class='padded'>
-~~~PipeScript{    
-$shuffleIcon = Invoke-RestMethod -Uri https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg
-$shuffleIcon.svg.SetAttribute("class", "ansi6-stroke")
-$shuffleIcon.svg.OuterXML
-}
-~~~
-    </a>
-
+{% include shuffle-icon.svg %}
+    </a>    
 </div>
 
-~~~PipeScript{
-$colors = 'Black', 'Red', 'Green', 'Yellow', 'Blue', 'Purple', 'Cyan', 'White',
-    'BrightBlack', 'BrightRed', 'BrightGreen', 'BrightYellow', 'BrightBlue', 'BrightPurple', 'BrightCyan', 'BrightWhite'
-[PSCustomObject]@{    
-    Table = @(foreach ($n in 0..15) {
-        [PSCustomObject]@{
-            "CSS Class"  = "ANSI$n"
-            Color        = $colors[$n]
-            Sample       = "<span class='ANSI$n'>*</span>"
-        }
-    })
-}
+{% include ColorTable.md %}
 
-}
-~~~
+{% include HowTo.md %}

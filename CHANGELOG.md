@@ -1,3 +1,28 @@
+## 0.1.4:
+
+* So many more new palettes!
+* `-background` classes (#42)
+* `$psStyle` compatibility (#43, #52, #53, #54, #55, #56, #57, #58)
+* Producing additional files:
+  * A .txt file per palette (#61)
+  * Palettes.json (#60)
+  * Palette-List.json, Dark-Palette-List.json, Bright-Palette-List.json
+* `<select>` support (#39)
+* Fixing strokes (#59)
+* Adding Docker Image (#49, #50, #51)
+* Module Improvements
+  * Mounting 4bitcss (#48)
+  * Exporting `$4bitcss` (#47)
+  * Repository Cleanup (#44, #45, #46)
+* New Commands   
+  * Convert-4bitName (#33)
+  * Export-4bitJS (#32)
+  * Export-4bitSVG (#34)
+* Allowing color palettes without `selectioncolor` or `cursorcolor` (#31)
+* Putting Palettes into directories (#30)
+
+---
+
 ## 0.1.3:
 
 * Renaming Theme to ColorScheme (#24)

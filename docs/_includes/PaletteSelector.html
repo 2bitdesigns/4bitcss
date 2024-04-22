@@ -1,0 +1,23 @@
+<div class="flexRow centered centeredText wholeWidth">        
+    <select id="schemeSelector" onchange="SetColorScheme(document.getElementById('schemeSelector').value); ">
+    </select>
+  </div>
+  <script type="text/javascript">
+    var schemeSelector = document.getElementById("schemeSelector");
+    var colorSchemes = GetColorSchemeList();
+    for (colorScheme in colorSchemes) {
+      var opt = document.createElement("option")
+      opt.value = colorSchemes[colorScheme];
+      opt.innerHTML = colorSchemes[colorScheme];
+      schemeSelector.append(opt);            
+    }                
+  </script>
+  {% if page.colorSchemeName %}
+  <script type="text/javascript" />
+  SetColorScheme("{{page.colorSchemeFileName}}");
+  </script>
+  {% else %}
+  <script type="text/javascript" />
+  SetColorScheme("Konsolas");
+  </script>
+  {% endif %}  
