@@ -14,6 +14,10 @@ permalink: /iTerm2-Default/
 </h2>
 
 <div class='centeredText'>
+{% include PaletteSelector.html %}
+</div>
+
+<div class='centeredText'>
 {% include 4bitpreview.svg %}
 </div>
 
