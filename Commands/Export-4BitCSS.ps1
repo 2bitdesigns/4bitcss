@@ -176,10 +176,15 @@ function Export-4BitCSS
     [switch]
     $NoStroke,
 
-    # If set, will not generate css classes for each background-color stroke.
+    # If set, will not generate css classes for each background-color.
     [Alias('NoBackgrounColors')]
     [switch]
     $NoBackgroundColor,
+
+    # If set, will not generate css classes for each stop-color.
+    [Alias('NoGradientStop','NoGradientStops','NoStops')]
+    [switch]
+    $NoStop,
 
     # If set, will not generate css classes that correspond to `$psStyle`.
     [Alias('NoStyles','NoPSStyle','NoPSStyles')]
@@ -248,6 +253,7 @@ function Export-4BitCSS
             $NoStroke = $true
             $NoBackgroundColor = $true
             $NoStyle = $true
+            $NoStop = $true
         }
     
         $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
@@ -418,6 +424,27 @@ if (-not $NoStroke) {
 .brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanStroke   , .ANSI14-Stroke, .ansi14-stroke   { stroke: var(--brightCyan)  }
 .brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteStroke   , .ANSI15-Stroke, .ansi15-stroke   { stroke: var(--brightWhite)     }
 "@
+}
+
+if (-not $noStop) {
+@"
+.stop-black, .Stop-Black, .ANSI0-Stop, .ansi0-stop { stop-color: var(--black) }
+.stop-red, .Stop-Red, .ANSI1-Stop, .ansi1-stop { stop-color: var(--red) }
+.stop-green, .Stop-Green, .ANSI2-Stop, .ansi2-stop { stop-color: var(--green) }
+.stop-yellow, .Stop-Yellow, .ANSI3-Stop, .ansi3-stop { stop-color: var(--yellow) }
+.stop-blue, .Stop-Blue, .ANSI4-Stop, .ansi4-stop { stop-color: var(--blue) }
+.stop-purple, .Stop-Purple, .ANSI5-Stop, .ansi5-stop { stop-color: var(--purple) }
+.stop-cyan, .Stop-Cyan, .ANSI6-Stop, .ansi6-stop { stop-color: var(--cyan) }
+.stop-white, .Stop-White, .ANSI7-Stop, .ansi7-stop { stop-color: var(--white) }
+.stop-brightblack, .Stop-BrightBlack, .BrightBlack-Stop, .ANSI8-Stop, .ansi8-stop { stop-color: var(--brightBlack) }
+.stop-brightred, .Stop-BrightRed, .BrightRed-Stop, .ANSI9-Stop, .ansi9-stop { stop-color: var(--brightRed) }
+.stop-brightgreen, .Stop-BrightGreen, .BrightGreen-Stop, .ANSI10-Stop, .ansi10-stop { stop-color: var(--brightGreen) }
+.stop-brightyellow, .Stop-BrightYellow, .BrightYellow-Stop, .ANSI11-Stop, .ansi11-stop { stop-color: var(--brightYellow) }
+.stop-brightblue, .Stop-BrightBlue, .BrightBlue-Stop, .ANSI12-Stop, .ansi12-stop { stop-color: var(--brightBlue) }
+.stop-brightpurple, .Stop-BrightPurple, .BrightPurple-Stop, .ANSI13-Stop, .ansi13-stop { stop-color: var(--brightPurple) }
+.stop-brightcyan, .Stop-BrightCyan, .BrightCyan-Stop, .ANSI14-Stop, .ansi14-stop { stop-color: var(--brightCyan) }
+.stop-brightwhite, .Stop-BrightWhite, .BrightWhite-Stop, .ANSI15-Stop, .ansi15-stop { stop-color: var(--brightWhite) }
+"@    
 }
 
 if (-not $NoStyle) {
