@@ -51,6 +51,8 @@ foreach ($jsonFile in $jsonFiles) {
         $jsonObject.Name | Convert-4BitName
 
     if (-not $colorSchemeFileName) { continue }
+    $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
+
     $allPalletes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
@@ -66,7 +68,9 @@ foreach ($jsonFile in $jsonFiles) {
     }
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
-    
+    $dotTextPath = Join-Path $ColorSchemePath "$colorSchemeFileName.txt"
+    $distinctColors | Set-Content -Path $dotTextPath -Encoding utf8
+    Get-Item -Path $dotTextPath
     $allColorSchemes += $colorSchemeFileName
 
     $wasBright = $colorSchemeCssFile | Select-String "IsBright: 1"
