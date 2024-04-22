@@ -24,13 +24,7 @@ function feelingLucky() {
     if (! fourBitCssLink) {
         throw "Must have a stylesheet link with the id '4bitcss'"
     }
-    SetColorScheme(colorSchemes[randomNumber])
-
-    for (arg in arguments) {
-        if (arguments[arg].value) {
-            arguments[arg].value = colorSchemes[randomNumber];
-        }
-    }
+    SetColorScheme(colorSchemes[randomNumber])    
 }
 
 function SetColorScheme(colorSchemeName) {
