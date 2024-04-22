@@ -39,6 +39,8 @@ $allColorSchemes    = @()
 $brightColorSchemes = @()
 $darkColorSchemes   = @()
 
+$allPalletes = [Ordered]@{}
+
 # Walk thru each json file of a color scheme
 foreach ($jsonFile in $jsonFiles) {
     # convert the contents from JSON    
@@ -47,6 +49,8 @@ foreach ($jsonFile in $jsonFiles) {
     $colorSchemeName = $jsonObject.Name
     $colorSchemeFileName =
         $jsonObject.Name | Convert-4BitName
+
+    $allPalletes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
@@ -120,6 +124,12 @@ $darkColorSchemes |
     ConvertTo-Json |
     Set-Content -Path $allDarkSchemesPath
 
+$allPalletesPath = Join-Path $docsPath "Palletes.json"
+$allPalletes |
+    ConvertTo-Json -Depth 4 |
+    Set-Content -Path $allPalletesPath
+
+Get-Item -Path $allPalletesPath
 Get-Item -Path $allDarkSchemesPath
 Get-Item -Path $allSchemesPath
 
