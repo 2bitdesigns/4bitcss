@@ -1,11 +1,1 @@
-#7f7f7f
-#e15a60
-#a9cfa4
-#ffe2a9
-#6699cc
-#f1a5ab
-#5fb3b3
-#d4d4d4
-#282c35
-#c7c7c7
-#484e5b
+#7f7f7f;#e15a60;#a9cfa4;#ffe2a9;#6699cc;#f1a5ab;#5fb3b3;#d4d4d4;#282c35;#c7c7c7;#484e5b
