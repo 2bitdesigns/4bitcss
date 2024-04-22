@@ -14,6 +14,10 @@ permalink: /iTerm2-Pastel-Dark-Background/
 </h2>
 
 <div class='centeredText'>
+{% include PaletteSelector.html %}
+</div>
+
+<div class='centeredText'>
 {% include 4bitpreview.svg %}
 </div>
 
