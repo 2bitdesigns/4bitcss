@@ -1,28 +1,35 @@
 ---
 
 ~~~html
-<span class='Black White-Background'>
-    Black / White
-</span>
+<div style='text-align:center'>
+    <span class='black white-background'>Black/White</span>
+</div>
 ~~~
 
+---
+
 <div style='text-align:center'>
-    <span class='Black White-Background'>Black/White</span>
+    <span class='black white-background'>Black/White</span>
 </div>
 
 ---
 
 ~~~svg
-<svg viewBox="0 0 1 1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="50%">
-    <rect width="100%" height="100%" class="purple-stroke blue-fill" />
-    <circle r="1" class="red-stroke green-fill"/>
+<svg viewBox="0 0 100 100" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="15%" width="15%" >
+    <line x1="0%" x2="100%" y1="25%" y2="25%" class="purple-stroke" />
+    <rect width="25%" height="25%" x="75%" y="50%" class="blue-fill" />
+    <circle r="25%" cx="50%" cy="50%" class="red-stroke green-fill" />
 </svg>
 ~~~
 
-<svg viewBox="0 0 1 1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" class="purple-stroke blue-fill" />
-    <circle r="1" class="red-stroke green-fill"/>
-</svg>
+---
+<div style='text-align:center'>
+    <svg viewBox="0 0 100 100" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="15%" width="15%" >
+        <line x1="0%" x2="100%" y1="25%" y2="25%" class="purple-stroke" />
+        <rect width="25%" height="25%" x="75%" y="50%" class="blue-fill" />
+        <circle r="25%" cx="50%" cy="50%" class="red-stroke green-fill" />
+    </svg>
+</div>
 
 ---
 
