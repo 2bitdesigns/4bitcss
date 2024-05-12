@@ -13,16 +13,15 @@
     }
   </script>
   {% if page.colorSchemeName %}
-  <script type="text/javascript" />
+  <script type="text/javascript" >
   SetColorScheme("{{page.colorSchemeFileName}}");
   </script>
   {% else %}
   <script type="text/javascript">
     function InitOnDomLoad() {
         // ensure download links have valid initial values
+        // alternatively, calling random also works:  feelingLucky(document.getElementById('themeSelector'))
         SetColorScheme("Konsolas")
-        // alternatively, calling random also works
-        // feelingLucky(document.getElementById('themeSelector'))
     }
     if (document.readyState === "loading") {
         document.addEventListener("DOMContentLoaded", InitOnDomLoad)
