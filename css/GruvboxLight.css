@@ -19,15 +19,15 @@
   --green: #79740e;
   --red: #9d0006;
   --black: #fbf1c7;
-  --name: 'Gruvbox Light';
+  --name: 'GruvboxLight';
   --IsBright: 1;
   --IsDark: 0;
 }
 
-.colorSchemeName::before, .ColorSchemeName::before { content: 'Gruvbox Light'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: 'GruvboxLight'; }
 .colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'GruvboxLight.css'; }
 
-.foreground, .Foreground { color: var(--foreground);            }
+.foreground, .Foreground { color: var(--foreground); }
 .background, .Background { background-color: var(--background); }
 
 .foreground-border , .Foreground-Border   { border-color: var(--foreground)  }
@@ -58,6 +58,7 @@
 .warning-border    , .Warning-Border     { border-color: var(--brightYellow) }
 .warning-fill      , .Warning-Fill       { fill: var(--brightYellow)         }
 .warning-stroke    , .Warning-Stroke     { stroke: var(--brightYellow)       }
+/* colors */
 .black   ,  .Black   , .ANSI0  { color: var(--black)  }
 .red     ,  .Red     , .ANSI1  { color: var(--red)    }
 .green   ,  .Green   , .ANSI2  { color: var(--green)  }
@@ -79,6 +80,24 @@
 .purple       ,  .Purple  { color: var(--purple) }
 
 .brightpurple ,  .bright-purple , .BrightPurple  { color: var(--brightPurple) }
+/* background colors */
+.black-background, .BlackBackground, .ANSI0-Background, .ansi0-background { background-color: var(--black)  }
+.red-background, .RedBackground, .ANSI1-Background, .ansi1-background { background-color: var(--red)  }
+.green-background, .GreenBackground, .ANSI2-Background, .ansi2-background { background-color: var(--green)  }
+.yellow-background, .YellowBackground, .ANSI3-Background, .ansi3-background { background-color: var(--yellow)  }
+.blue-background, .BlueBackground, .ANSI4-Background, .ansi4-background { background-color: var(--blue)  }
+.magenta-background, .MagentaBackground, .ANSI5-Background, .ansi5-background { background-color: var(--purple)  }
+.cyan-background, .CyanBackground, .ANSI6-Background, .ansi6-background { background-color: var(--cyan)  }
+.white-background, .WhiteBackground, .ANSI7-Background, .ansi7-background { background-color: var(--white)  }
+.brightblack-background, .bright-black-background, .BrightBlackBackground, .ANSI8-Background, .ansi8-background { background-color: var(--brightBlack)  }
+.brightred-background, .bright-red-background, .BrightRedBackground, .ANSI9-Background, .ansi9-background { background-color: var(--brightRed)  }
+.brightgreen-background, .bright-green-background, .BrightGreenBackground, .ANSI10-Background, .ansi10-background { background-color: var(--brightGreen)  }
+.brightyellow-background, .bright-yellow-background, .BrightYellowBackground, .ANSI11-Background, .ansi11-background { background-color: var(--brightYellow)  }
+.brightblue-background, .bright-blue-background, .BrightBlueBackground, .ANSI12-Background, .ansi12-background { background-color: var(--brightBlue)  }
+.brightmagenta-background, .bright-magenta-background, .BrightMagentaBackground, .ANSI13-Background, .ansi13-background { background-color: var(--brightPurple)  }
+.brightcyan-background, .bright-cyan-background, .BrightCyanBackground, .ANSI14-Background, .ansi14-background { background-color: var(--brightCyan)  }
+.brightwhite-background, .bright-white-background, .BrightWhiteBackground, .ANSI15-Background, .ansi15-background { background-color: var(--brightWhite)  }
+/* fills */
 .black-fill   ,  .BlackFill   , .ANSI0-Fill,   .ansi0-fill   { fill: var(--black)  }
 .red-fill   ,  .RedFill   , .ANSI1-Fill,   .ansi1-fill   { fill: var(--red)  }
 .green-fill   ,  .GreenFill   , .ANSI2-Fill,   .ansi2-fill   { fill: var(--green)  }
@@ -97,24 +116,48 @@
 .brightpurple-fill      , .bright-purple-fill, .BrightPurpleFill { fill: var(--brightPuple)                                      }
 .brightcyan-fill   ,  .bright-cyan-fill   , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { fill: var(--brightCyan)           }
 .brightwhite-fill   ,  .bright-white-fill   , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { fill: var(--brightWhite)       }
+/* strokes */
 .black-stroke ,  .BlackStroke , .ANSI0-Stroke, .ansi0-stroke { stroke: var(--black)  }
 .red-stroke ,  .RedStroke , .ANSI1-Stroke, .ansi1-stroke { stroke: var(--red)  }
 .green-stroke ,  .GreenStroke , .ANSI2-Stroke, .ansi2-stroke { stroke: var(--green)  }
 .yellow-stroke ,  .YellowStroke , .ANSI3-Stroke, .ansi3-stroke { stroke: var(--yellow)  }
 .blue-stroke ,  .BlueStroke , .ANSI4-Stroke, .ansi4-stroke { stroke: var(--blue)  }
 .magenta-stroke ,  .MagentaStroke , .ANSI5-Stroke, .ansi5-stroke { stroke: var(--purple)  }
-.purple-stroke, .PurpleStroke { fill: var(--purple) }
+.purple-stroke, .PurpleStroke { stroke: var(--purple) }
 .cyan-stroke ,  .CyanStroke , .ANSI6-Stroke, .ansi6-stroke { stroke: var(--cyan)  }
 .white-stroke ,  .WhiteStroke , .ANSI7-Stroke, .ansi7-stroke { stroke: var(--white)  }
-.brightblack-stroke ,  .bright-black-stroke , .BrightBlackFill   , .ANSI8-Fill, .ansi8-fill   { stroke: var(--brightBlack)  }
-.brightred-stroke ,  .bright-red-stroke , .BrightRedFill   , .ANSI9-Fill, .ansi9-fill   { stroke: var(--brightRed)  }
-.brightgreen-stroke ,  .bright-green-stroke , .BrightGreenFill   , .ANSI10-Fill, .ansi10-fill   { stroke: var(--brightGreen)     }
-.brightyellow-stroke ,  .bright-yellow-stroke , .BrightYellowFill   , .ANSI11-Fill, .ansi11-fill   { stroke: var(--brightYellow) }
-.brightblue-stroke ,  .bright-blue-stroke , .BrightBlueFill   , .ANSI12-Fill, .ansi12-fill   { stroke: var(--brightBlue)  }
-.brightmagneta-stroke ,  .bright-magneta-stroke , .BrightMagnetaFill   , .ANSI13-Fill, .ansi13-fill   { stroke: var(--brightPuple)  }
-.brightpurple-stroke    , .bright-purple-stroke, .BrightPurpleStroke { fill: var(--brightPuple)  }
-.brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { stroke: var(--brightCyan)  }
-.brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { stroke: var(--brightWhite)     }
+.brightblack-stroke ,  .bright-black-stroke , .BrightBlackStroke   , .ANSI8-Stroke, .ansi8-stroke   { stroke: var(--brightBlack)  }
+.brightred-stroke ,  .bright-red-stroke , .BrightRedStroke   , .ANSI9-stroke, .ansi9-stroke   { stroke: var(--brightRed)  }
+.brightgreen-stroke ,  .bright-green-stroke , .BrightGreenStroke   , .ANSI10-Stroke, .ansi10-stroke   { stroke: var(--brightGreen)     }
+.brightyellow-stroke ,  .bright-yellow-stroke , .BrightYellowStroke, .ANSI11-Stroke, .ansi11-stroke   { stroke: var(--brightYellow) }
+.brightblue-stroke ,  .bright-blue-stroke , .BrightBlueStroke   , .ANSI12-Stroke, .ansi12-stroke   { stroke: var(--brightBlue)  }
+.brightmagneta-stroke ,  .bright-magneta-stroke , .BrightMagnetaStroke   , .ANSI13-Stroke, .ansi13-stroke   { stroke: var(--brightPuple)  }
+.brightpurple-stroke    , .bright-purple-stroke, .BrightPurpleStroke { stroke: var(--brightPuple)  }
+.brightcyan-stroke ,  .bright-cyan-stroke , .BrightCyanStroke   , .ANSI14-Stroke, .ansi14-stroke   { stroke: var(--brightCyan)  }
+.brightwhite-stroke ,  .bright-white-stroke , .BrightWhiteStroke   , .ANSI15-Stroke, .ansi15-stroke   { stroke: var(--brightWhite)     }
+/* psStyles */
+.dim, .Dim { opacity: .5; }
+.hidden, .Hidden { opacity: 0; }
+b, bold, .bold, .Bold { font-weight: bold; }
+.boldOff, .BoldOff { font-weight: normal; }
+i, italic, .italic, .Italic { font-style: italic; }
+.italicOff, .ItalicOff { font-style: normal; }
+u, underline, .underline, .Underline { text-decoration: underline; }
+.underlineOff, .UnderlineOff { text-decoration: none; }
+s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: line-through; }
+.strikeOff, .StrikeOff, .strikethroughOff, .StrikethroughOff { text-decoration: none; }
+.Formatting-FormatAccent { color: var(--green);font-weight: bold }
+.Formatting-TableHeader { color: var(--green);font-weight: bold }
+.Formatting-CustomTableHeaderLabel { color: var(--green);font-weight: bold;font-style: italic }
+.Formatting-ErrorAccent { color: var(--cyan);font-weight: bold }
+.Formatting-Error { color: var(--red);font-weight: bold }
+.Formatting-Warning { color: var(--yellow);font-weight: bold }
+.Formatting-Verbose { color: var(--yellow);font-weight: bold }
+.Formatting-Debug { color: var(--yellow);font-weight: bold }
+.Formatting-FeedbackName { color: var(--yellow) }
+.Formatting-FeedbackText { color: var(--brightCyan) }
+.Formatting-FeedbackAction { color: var(--brightWhite) }
+.Progress-Style { color: var(--yellow);font-weight: bold }
 
 body {
     color: var(--foreground);
@@ -131,6 +174,11 @@ a, a:visited, a:hover  { color: var(--cyan); }
 form input[type="text"], form input[type="checkbox"], input[type="button"], textarea, select, option {
     color: var(--foreground);
     background-color: var(--background);
+}
+
+option {
+    color: var(--foreground);
+    background: var(--background);
 }
 
 form input[type="text"], textarea, select {
