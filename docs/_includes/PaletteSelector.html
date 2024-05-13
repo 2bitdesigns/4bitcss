@@ -1,4 +1,4 @@
-<div class="flexRow centered centeredText wholeWidth">        
+<div class="flexRow centered centeredText wholeWidth">
     <select id="schemeSelector" onchange="SetColorScheme(document.getElementById('schemeSelector').value); ">
     </select>
   </div>
@@ -9,15 +9,36 @@
       var opt = document.createElement("option")
       opt.value = colorSchemes[colorScheme];
       opt.innerHTML = colorSchemes[colorScheme];
-      schemeSelector.append(opt);            
-    }                
+      schemeSelector.append(opt);
+    }
   </script>
   {% if page.colorSchemeName %}
-  <script type="text/javascript" />
-  SetColorScheme("{{page.colorSchemeFileName}}");
+  <script type="text/javascript" >
+
+    function InitOnDomLoad() {
+        // ensure download links have valid initial values
+        // alternatively, calling random also works:  feelingLucky(document.getElementById('themeSelector'))
+        SetColorScheme("{{page.colorSchemeFileName}}");
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", InitOnDomLoad)
+    } else {
+        InitOnDomLoad()
+    }
   </script>
   {% else %}
-  <script type="text/javascript" />
-  SetColorScheme("Konsolas");
-  </script>
-  {% endif %}  
+  <script type="text/javascript">
+
+    function InitOnDomLoad() {
+        // ensure download links have valid initial values
+        // alternatively, calling random also works:  feelingLucky(document.getElementById('themeSelector'))
+        SetColorScheme("Konsolas")
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", InitOnDomLoad)
+    } else {
+        InitOnDomLoad()
+    }
+</script>
+  {% endif %}
+
