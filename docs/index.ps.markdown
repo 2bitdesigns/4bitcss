@@ -7,7 +7,7 @@ description: 4bit css
 ---
 <h2 style='text-align:center'>
     <a id='colorSchemeNameLink' href='#'>
-        <span class='ColorSchemeFileName' />
+        <span class='ColorSchemeFileName'></span>
     </a>
 </h2>
 
