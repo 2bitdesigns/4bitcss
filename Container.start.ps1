@@ -52,6 +52,21 @@ if ($args) {
         # If there is a Microservice.ps1, run it.
         . ./Microservice.ps1
     }
+    #region Custom
+    else 
+    {
+        Start-ThreadJob -Name "${env:ModuleName}.Jekyll" -ScriptBlock {
+            Push-Location ./docs
+            jekyll serve --host "$(
+                if ($env:JEKYLL_HOST) { $env:JEKYLL_HOST }
+                else { '*' }
+            )" '--port' $(
+                if ($env:JEKYLL_PORT) { $env:JEKYLL_PORT }
+                else { 4000 }
+            )
+        }
+    }
+    #endregion Custom
 }
 
 # If you want to do something when the container is stopped, you can register an event.
