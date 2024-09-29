@@ -12,7 +12,7 @@ COPY --from=powershell /bin /bin
 COPY --from=powershell /opt /opt
 
 # Set the module name to the name of the module we are building
-ENV ModuleName=4bitcssb
+ENV ModuleName=4bitcss
 ENV InstallPackages="build-essential","git"
 
 SHELL ["/bin/pwsh", "-nologo", "-command"]
@@ -21,4 +21,4 @@ SHELL ["/bin/pwsh", "-nologo", "-command"]
 RUN --mount=type=bind,src=./,target=/Initialize /Initialize/Container.init.ps1
 
 # Set the entrypoint to the script we just created.
-ENTRYPOINT [ "/bin/pwsh" ]
+ENTRYPOINT [ "/bin/pwsh","-nologo","-noexit","-file","/Container.start.ps1" ]
