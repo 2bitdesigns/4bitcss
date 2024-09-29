@@ -15,10 +15,7 @@ COPY --from=powershell /opt /opt
 ENV ModuleName=4bitcss
 ENV InstallPackages="build-essential","git"
 
-SHELL ["/bin/pwsh", "-nologo", "-command"]
-
 # Copy the module into the container
-RUN --mount=type=bind,src=./,target=/Initialize /Initialize/Container.init.ps1
-
+RUN --mount=type=bind,src=./,target=/Initialize /bin/pwsh -nologo -command /Initialize/Container.init.ps1
 # Set the entrypoint to the script we just created.
 ENTRYPOINT [ "/bin/pwsh","-nologo","-noexit","-file","/Container.start.ps1" ]
