@@ -23,7 +23,6 @@
     (this does nothing, but most likely will be used in the future)
 #>
 using namespace 'mcr.microsoft.com/powershell AS powerShell'
-using namespace 'ruby:3.3.5-slim-bullseye AS jekyllrb'
 
 param(
 # The name of the module to be installed.
@@ -37,60 +36,76 @@ param(
     }
 ),
 # The packages to be installed.
-[string[]]$InstallPackages = @(
-    if ($env:InstallPackages) { $env:InstallPackages -split ',' }    
-),
+[string[]]$InstallAptGet = @($env:InstallAptGet -split ','),
 # The modules to be installed.
-[string[]]$InstallModules = @(
-    if ($env:InstallModules) { $env:InstallModules -split ',' }    
-    else {  }
+[string[]]$InstallModule = @($env:InstallModule -split ','),
+# The Ruby gems to be installed.
+[string[]]$InstallRubyGem = @($env:InstallRubyGem -split ','),
+
+# If set, will keep the .git directories.
+[switch]$KeepGit = $($env:KeepGit -match $true)
 )
-)
-
-
-# Get the root module directory
-$rootModuleDirectory = @($env:PSModulePath -split '[;:]')[0]
-
-# Determine the path to the module destination. 
-$moduleDestination = "$rootModuleDirectory/$ModuleName"
-# Copy the module to the destination
-# (this is being used instead of the COPY statement in Docker, to avoid additional layers).
-Copy-Item -Path "$psScriptRoot" -Destination $moduleDestination -Recurse -Force
 
 # Copy all container-related scripts to the root of the container.
 Get-ChildItem -Path $PSScriptRoot | 
     Where-Object Name -Match '^Container\..+?\.ps1$' | 
     Copy-Item -Destination /
 
-# If we have packages to install
-if ($InstallPackages) {
-    # install the packages
-    apt-get update && apt-get install -y @InstallPackages '--no-install-recommends' && apt-get clean | Out-Host
-}
+# Create a profile
+New-Item -Path $Profile -ItemType File -Force | Out-Null
 
-# Create a new profile
-New-Item -Path $Profile -ItemType File -Force |
+if ($ModuleName) {
+    # Get the root module directory
+    $rootModuleDirectory = @($env:PSModulePath -split '[;:]')[0]
+
+    # Determine the path to the module destination. 
+    $moduleDestination = "$rootModuleDirectory/$ModuleName"
+    # Copy the module to the destination
+    # (this is being used instead of the COPY statement in Docker, to avoid additional layers).
+    Copy-Item -Path "$psScriptRoot" -Destination $moduleDestination -Recurse -Force
+
     # and import this module in the profile
-    Add-Content -Value "Import-Module $ModuleName" -Force
-# If we have modules to install
-if ($InstallModules) { 
-    # Install the modules
-    Install-Module -Name $InstallModules -Force -AcceptLicense -Scope CurrentUser 
-    # and import them in the profile
-    Add-Content -Path $Profile -Value "Import-Module '$($InstallModules -join "','")'" -Force
+    Add-Content -Path $profile -Value "Import-Module $ModuleName" -Force
 }
-# In our profile, push into the module's directory
-Add-Content -Path $Profile -Value "Get-Module $ModuleName | Split-Path | Push-Location" -Force
 
-# Remove the .git directories from any modules
-Get-ChildItem -Path $rootModuleDirectory -Directory -Force -Recurse |
-    Where-Object Name -eq '.git' |
-    Remove-Item -Recurse -Force
+# If we have modules to install
+if ($InstallModule) { 
+    # Install the modules
+    Install-Module -Name $InstallModule -Force -AcceptLicense -Scope CurrentUser
+    # and import them in the profile
+    Add-Content -Path $Profile -Value "Import-Module '$($InstallModule -join "','")'" -Force
+}
+
+# If we have packages to install
+if ($InstallAptGet) {
+    # install the packages
+    apt-get update && 
+        apt-get install -y @InstallAptGet '--no-install-recommends' && 
+            apt-get clean |
+                Out-Host
+}
+
+if ($InstallRubyGem) {
+    # Install the Ruby gems
+    gem install @InstallRubyGem
+}
+
+if ($ModuleName) {
+    # In our profile, push into the module's directory
+    Add-Content -Path $Profile -Value "Get-Module $ModuleName | Split-Path | Push-Location" -Force
+}
+
+if (-not $KeepGit) {
+    # Remove the .git directories from any modules
+    Get-ChildItem -Path $rootModuleDirectory -Directory -Force -Recurse |
+        Where-Object Name -eq '.git' |
+        Remove-Item -Recurse -Force
+}
 
 # Congratulations! You have successfully initialized the container image.
 # This script should work in about any module, with minor adjustments.
 # If you have any adjustments, please put them below here, in the `#region Custom`
 
 #region Custom
-gem install jekyll
+bundle config --global silence_root_warning true
 #endregion Custom
