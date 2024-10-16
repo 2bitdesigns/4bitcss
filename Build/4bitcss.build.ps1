@@ -1,20 +1,31 @@
 Push-Location ($PSScriptRoot | Split-Path)
-# If running in a github workflow or not on C: drive, clone the repo.
-if ($env:GITHUB_WORKSPACE -or ($home -notmatch '^C:')) {
-    # clone the iTermColorSchemes repo
-    git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git | Out-Host
+# clone the iTermColorSchemes repo
+git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git | Out-Host
 
-    # and get all of the JSON files from it
-    $jsonFiles = Get-ChildItem -Path iTerm2-Color-Schemes -Recurse -Filter *.json  |
-        Where-Object Fullname -like '*terminal*' |
-        Where-Object FullName -notlike '*templates*'
-} else {
-    # Otherwise get them locally
-    $jsonFiles = Get-ChildItem $home\documents\git\iTerm2-Color-Schemes -Recurse -Filter *.json  |
-        Where-Object Fullname -like '*terminal*' |
-        Where-Object FullName -notlike '*templates*'         
+# and get all of the JSON files from it
+$jsonFiles = Get-ChildItem -Path iTerm2-Color-Schemes -Recurse -Filter *.json  |
+    Where-Object Fullname -like '*terminal*' |
+    Where-Object FullName -notlike '*templates*'
+
+# Get the credits from the CREDITS.md file in the iTerm2-Color-Schemes repo
+$creditLines = Get-Content -Path (Join-Path iTerm2-Color-Schemes CREDITS.md)
+# and declare a small pattern to match markdown links
+$markdownLinkPattern = '\[(?<text>.+?)\]\((?<link>.+?)\)'
+# and a filter to get the credits from the CREDITS.md file
+filter GetCredits {
+    $colorSchemeName = $_
+    $colorSchemePattern = [Regex]::Escape($colorSchemeName) -replace '\\ ', '\s'    
+    foreach ($line in $creditLines) {
+        if (-not $line ) { continue }
+        if ($line -notmatch $colorSchemePattern) {
+            continue            
+        }
+        if ($line -notmatch $markdownLinkPattern) {
+            continue
+        }        
+        [Ordered]@{Name=$Matches.text; Url=$Matches.link}
+    }
 }
-
 
 # Import the module
 Import-Module .\4bitcss.psd1 -Global
@@ -49,9 +60,11 @@ foreach ($jsonFile in $jsonFiles) {
     $colorSchemeName = $jsonObject.Name
     $colorSchemeFileName =
         $jsonObject.Name | Convert-4BitName
+    
+    
 
     if (-not $colorSchemeFileName) { continue }
-    $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
+    $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique    
 
     $allPalletes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
@@ -195,3 +208,7 @@ $transpiledText
     Set-Content (Join-Path $docsPath "index.md") -Encoding utf8
 Get-item -Path (Join-Path $docsPath "index.md")
 #endregion Icons 
+
+if  ($env:GITHUB_WORKSPACE) {
+    Remove-Item -Path iTerm2-Color-Schemes -Recurse -Force
+}
