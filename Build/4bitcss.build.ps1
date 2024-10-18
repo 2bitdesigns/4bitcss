@@ -23,7 +23,7 @@ filter GetCredits {
         if ($line -notmatch $markdownLinkPattern) {
             continue
         }        
-        [Ordered]@{Credit=$Matches.text; Link=$Matches.link}
+        [Ordered]@{credit=$Matches.text; link=$Matches.link}
     }
 }
 
@@ -63,7 +63,7 @@ foreach ($jsonFile in $jsonFiles) {
         $jsonObject.Name | Convert-4BitName
         
     $jsonObject | 
-        Add-Member NoteProperty Credits -Force -PassThru -Value ($colorSchemeName | GetCredits)
+        Add-Member NoteProperty credits -Force -PassThru -Value @($colorSchemeName | GetCredits)
 
     if (-not $colorSchemeFileName) { continue }
     $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
