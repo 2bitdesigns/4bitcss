@@ -23,7 +23,7 @@ filter GetCredits {
         if ($line -notmatch $markdownLinkPattern) {
             continue
         }        
-        [Ordered]@{Name=$Matches.text; Url=$Matches.link}
+        [Ordered]@{Credit=$Matches.text; Link=$Matches.link}
     }
 }
 
@@ -54,17 +54,19 @@ $allPalletes = [Ordered]@{}
 
 # Walk thru each json file of a color scheme
 foreach ($jsonFile in $jsonFiles) {
-    # convert the contents from JSON    
-    $jsonObject = [IO.File]::ReadAllText($jsonFile.FullName) | ConvertFrom-Json
+    # convert the contents from JSON
+    $jsonContent = [IO.File]::ReadAllText($jsonFile.FullName)
+    $jsonObject = $jsonContent | ConvertFrom-Json
     # and determine the name of the scheme and it's files.
     $colorSchemeName = $jsonObject.Name
     $colorSchemeFileName =
         $jsonObject.Name | Convert-4BitName
-    
-    
+        
+    $jsonObject | 
+        Add-Member NoteProperty Credits -Force -PassThru -Value ($colorSchemeName | GetCredits)
 
     if (-not $colorSchemeFileName) { continue }
-    $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique    
+    $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
 
     $allPalletes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
@@ -72,15 +74,17 @@ foreach ($jsonFile in $jsonFiles) {
     # If it wasn't legal, continue.
     if ($jsonObject.Name -match '^\{') { continue }
     $cssPath = (Join-Path $pwd css)
+    $jsonPath = (Join-Path $pwd json)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
     $jsonObject | Export-4BitCSS -OutputPath $cssPath -OutVariable colorSchemeCssFile
-    
+    $jsonObject | Export-4BitJSON -OutputPath $jsonPath -OutVariable colorSchemeJsonFile
     $ColorSchemePath = Join-Path $docsPath $colorSchemeFileName
     if (-not (Test-Path $ColorSchemePath)) {
         $null = New-Item -ItemType Directory -Path $ColorSchemePath
     }
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
+    $jsonObject | Export-4BitJSON -OutputPath $jsonPath
     $dotTextPath = Join-Path $ColorSchemePath "$colorSchemeFileName.txt"
     $distinctColors -join ';' | Set-Content -Path $dotTextPath -Encoding utf8
     Get-Item -Path $dotTextPath
