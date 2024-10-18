@@ -27,6 +27,19 @@ filter GetCredits {
     }
 }
 
+filter GetLuma {
+    $colorString = $_
+    # Convert the background color to a uint32
+    $rgb = ($colorString -replace "#", "0x" -replace ';') -as [UInt32]
+    # then make it into a percentage red, green, and blue.
+    $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
+        ([float][byte](($rgb -band 0x00ff00) -shr 8)/255),
+        ([float][byte]($rgb -band 0x0000ff)/255)
+
+    # Calculate the luma of the background color
+    0.2126 * $R + 0.7152 * $G + 0.0722 * $B    
+}
+
 # Import the module
 Import-Module .\4bitcss.psd1 -Global
 
@@ -64,6 +77,23 @@ foreach ($jsonFile in $jsonFiles) {
         
     $jsonObject | 
         Add-Member NoteProperty credits -Force -PassThru -Value @($colorSchemeName | GetCredits)
+    
+    if ($jsonObject.background) {
+        $jsonObject | 
+            Add-Member NoteProperty luma -Force -PassThru -Value @($jsonObject.Background | GetLuma)
+    }
+
+    if ($jsonObject.foreground -and $jsonObject.background) {
+        $jsonObject | 
+            Add-Member NoteProperty contrast -Force -PassThru -Value @(
+                [Math]::Abs(
+                    ($jsonObject.background | GetLuma) - ($jsonObject.foreground | GetLuma)
+                )                
+            )
+    }
+    
+    $jsonObject | 
+        Add-Member NoteProperty contrast -Force -PassThru -Value @($jsonObject.Background | GetLuma)
 
     if (-not $colorSchemeFileName) { continue }
     $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
