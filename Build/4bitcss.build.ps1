@@ -77,14 +77,18 @@ foreach ($jsonFile in $jsonFiles) {
     $jsonPath = (Join-Path $pwd json)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
     $jsonObject | Export-4BitCSS -OutputPath $cssPath -OutVariable colorSchemeCssFile
-    $jsonObject | Export-4BitJSON -OutputPath $jsonPath -OutVariable colorSchemeJsonFile
+    $jsonObject | Export-4BitJSON -OutputPath (
+        Join-Path $jsonPath "$colorSchemeFileName.json"
+    ) -OutVariable colorSchemeJsonFile
     $ColorSchemePath = Join-Path $docsPath $colorSchemeFileName
     if (-not (Test-Path $ColorSchemePath)) {
         $null = New-Item -ItemType Directory -Path $ColorSchemePath
     }
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
-    $jsonObject | Export-4BitJSON -OutputPath $jsonPath
+    $jsonObject | Export-4BitJSON -OutputPath (
+        Join-Path $ColorSchemePath "$colorSchemeFileName.json"
+    ) -OutVariable colorSchemeJsonFile
     $dotTextPath = Join-Path $ColorSchemePath "$colorSchemeFileName.txt"
     $distinctColors -join ';' | Set-Content -Path $dotTextPath -Encoding utf8
     Get-Item -Path $dotTextPath
