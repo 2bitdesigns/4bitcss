@@ -80,12 +80,12 @@ foreach ($jsonFile in $jsonFiles) {
     
     if ($jsonObject.background) {
         $jsonObject | 
-            Add-Member NoteProperty luma -Force -PassThru -Value @($jsonObject.Background | GetLuma)
+            Add-Member NoteProperty luma -Force -PassThru -Value $($jsonObject.Background | GetLuma)
     }
 
     if ($jsonObject.foreground -and $jsonObject.background) {
         $jsonObject | 
-            Add-Member NoteProperty contrast -Force -PassThru -Value @(
+            Add-Member NoteProperty contrast -Force -PassThru -Value $(
                 [Math]::Abs(
                     ($jsonObject.background | GetLuma) - ($jsonObject.foreground | GetLuma)
                 )                
