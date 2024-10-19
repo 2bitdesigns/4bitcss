@@ -2,7 +2,7 @@
 stylesheet: /Piatto-Light/Piatto-Light.css
 colorSchemeName: Piatto Light
 colorSchemeFileName: Piatto-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/piatto_light.png
+image: /Piatto-Light/Piatto-Light.png
 description: Piatto Light color scheme
 permalink: /Piatto-Light/
 ---
