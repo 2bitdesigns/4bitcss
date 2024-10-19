@@ -2,7 +2,7 @@
 stylesheet: /Kolorit/Kolorit.css
 colorSchemeName: Kolorit
 colorSchemeFileName: Kolorit
-image: /Kolorit/Kolorit.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Kolorit.png
 description: Kolorit color scheme
 permalink: /Kolorit/
 ---
