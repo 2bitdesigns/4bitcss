@@ -2,7 +2,7 @@
 stylesheet: /purplepeter/purplepeter.css
 colorSchemeName: purplepeter
 colorSchemeFileName: purplepeter
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/purplepeter.png
+image: /purplepeter/purplepeter.png
 description: purplepeter color scheme
 permalink: /purplepeter/
 ---
