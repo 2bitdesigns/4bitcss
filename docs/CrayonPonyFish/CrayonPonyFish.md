@@ -2,7 +2,7 @@
 stylesheet: /CrayonPonyFish/CrayonPonyFish.css
 colorSchemeName: CrayonPonyFish
 colorSchemeFileName: CrayonPonyFish
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/CrayonPonyFish.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/CrayonPonyFish.png
 description: CrayonPonyFish color scheme
 permalink: /CrayonPonyFish/
 ---
