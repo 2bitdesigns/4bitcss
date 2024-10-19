@@ -2,7 +2,7 @@
 stylesheet: /niji/niji.css
 colorSchemeName: niji
 colorSchemeFileName: niji
-image: /niji/niji.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/niji.png
 description: niji color scheme
 permalink: /niji/
 ---
