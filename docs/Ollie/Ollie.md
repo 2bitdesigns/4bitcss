@@ -2,7 +2,7 @@
 stylesheet: /Ollie/Ollie.css
 colorSchemeName: Ollie
 colorSchemeFileName: Ollie
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ollie.png
+image: /Ollie/Ollie.png
 description: Ollie color scheme
 permalink: /Ollie/
 ---
