@@ -2,7 +2,7 @@
 stylesheet: /nord-light/nord-light.css
 colorSchemeName: nord-light
 colorSchemeFileName: nord-light
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/nord-light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/nord-light.png
 description: nord-light color scheme
 permalink: /nord-light/
 ---
