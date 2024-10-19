@@ -2,7 +2,7 @@
 stylesheet: /Grass/Grass.css
 colorSchemeName: Grass
 colorSchemeFileName: Grass
-image: /Grass/Grass.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Grass.png
 description: Grass color scheme
 permalink: /Grass/
 ---
