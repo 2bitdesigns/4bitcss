@@ -2,7 +2,7 @@
 stylesheet: /Argonaut/Argonaut.css
 colorSchemeName: Argonaut
 colorSchemeFileName: Argonaut
-image: /Argonaut/Argonaut.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Argonaut.png
 description: Argonaut color scheme
 permalink: /Argonaut/
 ---
