@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Tango-Dark/Builtin-Tango-Dark.css
 colorSchemeName: Builtin Tango Dark
 colorSchemeFileName: Builtin-Tango-Dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/builtin_tango_dark.png
+image: /Builtin-Tango-Dark/Builtin-Tango-Dark.png
 description: Builtin Tango Dark color scheme
 permalink: /Builtin-Tango-Dark/
 ---
