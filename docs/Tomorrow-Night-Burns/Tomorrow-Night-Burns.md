@@ -2,7 +2,7 @@
 stylesheet: /Tomorrow-Night-Burns/Tomorrow-Night-Burns.css
 colorSchemeName: Tomorrow Night Burns
 colorSchemeFileName: Tomorrow-Night-Burns
-image: /Tomorrow-Night-Burns/Tomorrow-Night-Burns.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Tomorrow_Night_Burns.png
 description: Tomorrow Night Burns color scheme
 permalink: /Tomorrow-Night-Burns/
 ---
