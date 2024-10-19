@@ -2,7 +2,7 @@
 stylesheet: /Novel/Novel.css
 colorSchemeName: Novel
 colorSchemeFileName: Novel
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Novel.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Novel.png
 description: Novel color scheme
 permalink: /Novel/
 ---
