@@ -2,7 +2,7 @@
 stylesheet: /Firewatch/Firewatch.css
 colorSchemeName: Firewatch
 colorSchemeFileName: Firewatch
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/firewatch.png
+image: /Firewatch/Firewatch.png
 description: Firewatch color scheme
 permalink: /Firewatch/
 ---
