@@ -2,7 +2,7 @@
 stylesheet: /Ciapre/Ciapre.css
 colorSchemeName: Ciapre
 colorSchemeFileName: Ciapre
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Ciapre.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ciapre.png
 description: Ciapre color scheme
 permalink: /Ciapre/
 ---
