@@ -2,7 +2,7 @@
 stylesheet: /Royal/Royal.css
 colorSchemeName: Royal
 colorSchemeFileName: Royal
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/royal.png
+image: /Royal/Royal.png
 description: Royal color scheme
 permalink: /Royal/
 ---
