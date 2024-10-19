@@ -2,7 +2,7 @@
 stylesheet: /Gruvbox-Light/Gruvbox-Light.css
 colorSchemeName: Gruvbox Light
 colorSchemeFileName: Gruvbox-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/gruvbox_light.png
+image: /Gruvbox-Light/Gruvbox-Light.png
 description: Gruvbox Light color scheme
 permalink: /Gruvbox-Light/
 ---
