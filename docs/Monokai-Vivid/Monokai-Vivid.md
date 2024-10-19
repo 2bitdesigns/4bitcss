@@ -2,7 +2,7 @@
 stylesheet: /Monokai-Vivid/Monokai-Vivid.css
 colorSchemeName: Monokai Vivid
 colorSchemeFileName: Monokai-Vivid
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Monokai_Vivid.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Monokai_Vivid.png
 description: Monokai Vivid color scheme
 permalink: /Monokai-Vivid/
 ---
