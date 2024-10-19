@@ -2,7 +2,7 @@
 stylesheet: /Cobalt-Neon/Cobalt-Neon.css
 colorSchemeName: Cobalt Neon
 colorSchemeFileName: Cobalt-Neon
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/cobalt_neon.png
+image: /Cobalt-Neon/Cobalt-Neon.png
 description: Cobalt Neon color scheme
 permalink: /Cobalt-Neon/
 ---
