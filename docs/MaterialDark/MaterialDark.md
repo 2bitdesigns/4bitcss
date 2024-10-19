@@ -2,7 +2,7 @@
 stylesheet: /MaterialDark/MaterialDark.css
 colorSchemeName: MaterialDark
 colorSchemeFileName: MaterialDark
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/MaterialDark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/MaterialDark.png
 description: MaterialDark color scheme
 permalink: /MaterialDark/
 ---
