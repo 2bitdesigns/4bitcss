@@ -2,7 +2,7 @@
 stylesheet: /iceberg-dark/iceberg-dark.css
 colorSchemeName: iceberg-dark
 colorSchemeFileName: iceberg-dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iceberg-dark.png
+image: /iceberg-dark/iceberg-dark.png
 description: iceberg-dark color scheme
 permalink: /iceberg-dark/
 ---
