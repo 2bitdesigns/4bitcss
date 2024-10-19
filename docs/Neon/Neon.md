@@ -2,7 +2,7 @@
 stylesheet: /Neon/Neon.css
 colorSchemeName: Neon
 colorSchemeFileName: Neon
-image: /Neon/Neon.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Neon.png
 description: Neon color scheme
 permalink: /Neon/
 ---
