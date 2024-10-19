@@ -2,7 +2,7 @@
 stylesheet: /CutiePro/CutiePro.css
 colorSchemeName: CutiePro
 colorSchemeFileName: CutiePro
-image: /CutiePro/CutiePro.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/CutiePro.png
 description: CutiePro color scheme
 permalink: /CutiePro/
 ---
