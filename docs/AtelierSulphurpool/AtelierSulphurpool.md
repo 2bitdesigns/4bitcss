@@ -2,7 +2,7 @@
 stylesheet: /AtelierSulphurpool/AtelierSulphurpool.css
 colorSchemeName: AtelierSulphurpool
 colorSchemeFileName: AtelierSulphurpool
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/AtelierSulphurpool.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/AtelierSulphurpool.png
 description: AtelierSulphurpool color scheme
 permalink: /AtelierSulphurpool/
 ---
