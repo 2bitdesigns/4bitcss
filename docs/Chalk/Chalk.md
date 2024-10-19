@@ -2,7 +2,7 @@
 stylesheet: /Chalk/Chalk.css
 colorSchemeName: Chalk
 colorSchemeFileName: Chalk
-image: /Chalk/Chalk.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Chalk.png
 description: Chalk color scheme
 permalink: /Chalk/
 ---
