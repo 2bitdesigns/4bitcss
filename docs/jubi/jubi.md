@@ -2,7 +2,7 @@
 stylesheet: /jubi/jubi.css
 colorSchemeName: jubi
 colorSchemeFileName: jubi
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/jubi.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/jubi.png
 description: jubi color scheme
 permalink: /jubi/
 ---
