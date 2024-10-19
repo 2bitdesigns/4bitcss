@@ -2,7 +2,7 @@
 stylesheet: /Later-This-Evening/Later-This-Evening.css
 colorSchemeName: Later This Evening
 colorSchemeFileName: Later-This-Evening
-image: /Later-This-Evening/Later-This-Evening.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Later_This_Evening.png
 description: Later This Evening color scheme
 permalink: /Later-This-Evening/
 ---
