@@ -2,7 +2,7 @@
 stylesheet: /Whimsy/Whimsy.css
 colorSchemeName: Whimsy
 colorSchemeFileName: Whimsy
-image: /Whimsy/Whimsy.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Whimsy.png
 description: Whimsy color scheme
 permalink: /Whimsy/
 ---
