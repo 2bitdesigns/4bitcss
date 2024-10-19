@@ -2,7 +2,7 @@
 stylesheet: /Seafoam-Pastel/Seafoam-Pastel.css
 colorSchemeName: Seafoam Pastel
 colorSchemeFileName: Seafoam-Pastel
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Seafoam_Pastel.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Seafoam_Pastel.png
 description: Seafoam Pastel color scheme
 permalink: /Seafoam-Pastel/
 ---
