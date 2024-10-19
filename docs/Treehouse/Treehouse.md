@@ -2,7 +2,7 @@
 stylesheet: /Treehouse/Treehouse.css
 colorSchemeName: Treehouse
 colorSchemeFileName: Treehouse
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/treehouse.png
+image: /Treehouse/Treehouse.png
 description: Treehouse color scheme
 permalink: /Treehouse/
 ---
