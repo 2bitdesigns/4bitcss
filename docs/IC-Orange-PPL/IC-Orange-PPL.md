@@ -2,7 +2,7 @@
 stylesheet: /IC-Orange-PPL/IC-Orange-PPL.css
 colorSchemeName: IC_Orange_PPL
 colorSchemeFileName: IC-Orange-PPL
-image: /IC-Orange-PPL/IC-Orange-PPL.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/IC_Orange_PPL.png
 description: IC_Orange_PPL color scheme
 permalink: /IC-Orange-PPL/
 ---
