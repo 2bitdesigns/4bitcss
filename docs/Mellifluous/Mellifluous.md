@@ -2,7 +2,7 @@
 stylesheet: /Mellifluous/Mellifluous.css
 colorSchemeName: Mellifluous
 colorSchemeFileName: Mellifluous
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Mellifluous.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Mellifluous.png
 description: Mellifluous color scheme
 permalink: /Mellifluous/
 ---
