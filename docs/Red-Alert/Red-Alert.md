@@ -2,7 +2,7 @@
 stylesheet: /Red-Alert/Red-Alert.css
 colorSchemeName: Red Alert
 colorSchemeFileName: Red-Alert
-image: /Red-Alert/Red-Alert.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Red_Alert.png
 description: Red Alert color scheme
 permalink: /Red-Alert/
 ---
