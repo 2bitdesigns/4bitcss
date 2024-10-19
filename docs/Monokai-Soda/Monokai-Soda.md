@@ -2,7 +2,7 @@
 stylesheet: /Monokai-Soda/Monokai-Soda.css
 colorSchemeName: Monokai Soda
 colorSchemeFileName: Monokai-Soda
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/monokai_soda.png
+image: /Monokai-Soda/Monokai-Soda.png
 description: Monokai Soda color scheme
 permalink: /Monokai-Soda/
 ---
