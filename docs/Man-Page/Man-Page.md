@@ -2,7 +2,7 @@
 stylesheet: /Man-Page/Man-Page.css
 colorSchemeName: Man Page
 colorSchemeFileName: Man-Page
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/man_page.png
+image: /Man-Page/Man-Page.png
 description: Man Page color scheme
 permalink: /Man-Page/
 ---
