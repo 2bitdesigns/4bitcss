@@ -2,7 +2,7 @@
 stylesheet: /Tomorrow-Night-Eighties/Tomorrow-Night-Eighties.css
 colorSchemeName: Tomorrow Night Eighties
 colorSchemeFileName: Tomorrow-Night-Eighties
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/tomorrow_night_eighties.png
+image: /Tomorrow-Night-Eighties/Tomorrow-Night-Eighties.png
 description: Tomorrow Night Eighties color scheme
 permalink: /Tomorrow-Night-Eighties/
 ---
