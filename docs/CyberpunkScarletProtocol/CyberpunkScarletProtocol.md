@@ -2,7 +2,7 @@
 stylesheet: /CyberpunkScarletProtocol/CyberpunkScarletProtocol.css
 colorSchemeName: CyberpunkScarletProtocol
 colorSchemeFileName: CyberpunkScarletProtocol
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/cyberpunkscarletprotocol.png
+image: /CyberpunkScarletProtocol/CyberpunkScarletProtocol.png
 description: CyberpunkScarletProtocol color scheme
 permalink: /CyberpunkScarletProtocol/
 ---
