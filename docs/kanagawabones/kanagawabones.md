@@ -2,7 +2,7 @@
 stylesheet: /kanagawabones/kanagawabones.css
 colorSchemeName: kanagawabones
 colorSchemeFileName: kanagawabones
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/kanagawabones.png
+image: /kanagawabones/kanagawabones.png
 description: kanagawabones color scheme
 permalink: /kanagawabones/
 ---
