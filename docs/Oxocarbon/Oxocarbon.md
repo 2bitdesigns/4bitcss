@@ -2,7 +2,7 @@
 stylesheet: /Oxocarbon/Oxocarbon.css
 colorSchemeName: Oxocarbon
 colorSchemeFileName: Oxocarbon
-image: /Oxocarbon/Oxocarbon.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Oxocarbon.png
 description: Oxocarbon color scheme
 permalink: /Oxocarbon/
 ---
