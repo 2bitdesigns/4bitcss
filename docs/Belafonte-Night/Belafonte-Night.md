@@ -2,7 +2,7 @@
 stylesheet: /Belafonte-Night/Belafonte-Night.css
 colorSchemeName: Belafonte Night
 colorSchemeFileName: Belafonte-Night
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Belafonte_Night.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Belafonte_Night.png
 description: Belafonte Night color scheme
 permalink: /Belafonte-Night/
 ---
