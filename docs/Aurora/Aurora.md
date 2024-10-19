@@ -2,7 +2,7 @@
 stylesheet: /Aurora/Aurora.css
 colorSchemeName: Aurora
 colorSchemeFileName: Aurora
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/aurora.png
+image: /Aurora/Aurora.png
 description: Aurora color scheme
 permalink: /Aurora/
 ---
