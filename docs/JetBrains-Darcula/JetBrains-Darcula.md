@@ -2,7 +2,7 @@
 stylesheet: /JetBrains-Darcula/JetBrains-Darcula.css
 colorSchemeName: JetBrains Darcula
 colorSchemeFileName: JetBrains-Darcula
-image: /JetBrains-Darcula/JetBrains-Darcula.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/JetBrains_Darcula.png
 description: JetBrains Darcula color scheme
 permalink: /JetBrains-Darcula/
 ---
