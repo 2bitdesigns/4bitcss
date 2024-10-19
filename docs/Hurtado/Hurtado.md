@@ -2,7 +2,7 @@
 stylesheet: /Hurtado/Hurtado.css
 colorSchemeName: Hurtado
 colorSchemeFileName: Hurtado
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Hurtado.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Hurtado.png
 description: Hurtado color scheme
 permalink: /Hurtado/
 ---
