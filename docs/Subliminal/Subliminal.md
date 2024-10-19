@@ -2,7 +2,7 @@
 stylesheet: /Subliminal/Subliminal.css
 colorSchemeName: Subliminal
 colorSchemeFileName: Subliminal
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Subliminal.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/subliminal.png
 description: Subliminal color scheme
 permalink: /Subliminal/
 ---
