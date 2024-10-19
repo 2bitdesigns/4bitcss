@@ -2,7 +2,7 @@
 stylesheet: /tokyonight-day/tokyonight-day.css
 colorSchemeName: tokyonight-day
 colorSchemeFileName: tokyonight-day
-image: /tokyonight-day/tokyonight-day.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/tokyonight-day.png
 description: tokyonight-day color scheme
 permalink: /tokyonight-day/
 ---
