@@ -2,7 +2,7 @@
 stylesheet: /Lab-Fox/Lab-Fox.css
 colorSchemeName: Lab Fox
 colorSchemeFileName: Lab-Fox
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Lab_Fox.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/lab_fox.png
 description: Lab Fox color scheme
 permalink: /Lab-Fox/
 ---
