@@ -2,7 +2,7 @@
 stylesheet: /deep/deep.css
 colorSchemeName: deep
 colorSchemeFileName: deep
-image: /deep/deep.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/deep.png
 description: deep color scheme
 permalink: /deep/
 ---
