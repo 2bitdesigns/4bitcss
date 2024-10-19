@@ -2,7 +2,7 @@
 stylesheet: /Rippedcasts/Rippedcasts.css
 colorSchemeName: Rippedcasts
 colorSchemeFileName: Rippedcasts
-image: /Rippedcasts/Rippedcasts.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Rippedcasts.png
 description: Rippedcasts color scheme
 permalink: /Rippedcasts/
 ---
