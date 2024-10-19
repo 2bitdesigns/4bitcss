@@ -2,7 +2,7 @@
 stylesheet: /Sundried/Sundried.css
 colorSchemeName: Sundried
 colorSchemeFileName: Sundried
-image: /Sundried/Sundried.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Sundried.png
 description: Sundried color scheme
 permalink: /Sundried/
 ---
