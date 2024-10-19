@@ -2,7 +2,7 @@
 stylesheet: /idea/idea.css
 colorSchemeName: idea
 colorSchemeFileName: idea
-image: /idea/idea.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/idea.png
 description: idea color scheme
 permalink: /idea/
 ---
