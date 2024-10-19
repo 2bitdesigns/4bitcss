@@ -135,12 +135,14 @@ foreach ($jsonFile in $jsonFiles) {
 
     # Create a preview file.  All we need to change is the stylesheet.
     $previewFilePath = Join-Path $ColorSchemePath "$colorSchemeFileName.md"
+    $colorSchemePreviewName = $colorSchemeName -replace '\s','_' -replace '\+','_plus' -replace '_$'
+    $imagePreviewUrl = "https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/$colorSchemePreviewName.png"
 @"
 ---
 stylesheet: /$colorSchemeFileName/$colorSchemeFileName.css
 colorSchemeName: $colorSchemeName
 colorSchemeFileName: $colorSchemeFileName
-image: /$colorSchemeFileName/$colorSchemeFileName.png
+image: $imagePreviewUrl
 description: $colorSchemeName color scheme
 permalink: /$colorSchemeFileName/
 ---
