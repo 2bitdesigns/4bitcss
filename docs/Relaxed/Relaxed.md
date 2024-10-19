@@ -2,7 +2,7 @@
 stylesheet: /Relaxed/Relaxed.css
 colorSchemeName: Relaxed
 colorSchemeFileName: Relaxed
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Relaxed.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Relaxed.png
 description: Relaxed color scheme
 permalink: /Relaxed/
 ---
