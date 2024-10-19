@@ -2,7 +2,7 @@
 stylesheet: /Grape/Grape.css
 colorSchemeName: Grape
 colorSchemeFileName: Grape
-image: /Grape/Grape.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Grape.png
 description: Grape color scheme
 permalink: /Grape/
 ---
