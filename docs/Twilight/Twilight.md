@@ -2,7 +2,7 @@
 stylesheet: /Twilight/Twilight.css
 colorSchemeName: Twilight
 colorSchemeFileName: Twilight
-image: /Twilight/Twilight.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Twilight.png
 description: Twilight color scheme
 permalink: /Twilight/
 ---
