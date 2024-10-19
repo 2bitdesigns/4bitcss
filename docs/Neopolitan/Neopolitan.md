@@ -2,7 +2,7 @@
 stylesheet: /Neopolitan/Neopolitan.css
 colorSchemeName: Neopolitan
 colorSchemeFileName: Neopolitan
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Neopolitan.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/neopolitan.png
 description: Neopolitan color scheme
 permalink: /Neopolitan/
 ---
