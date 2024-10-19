@@ -2,7 +2,7 @@
 stylesheet: /Banana-Blueberry/Banana-Blueberry.css
 colorSchemeName: Banana Blueberry
 colorSchemeFileName: Banana-Blueberry
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Banana_Blueberry.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Banana_Blueberry.png
 description: Banana Blueberry color scheme
 permalink: /Banana-Blueberry/
 ---
