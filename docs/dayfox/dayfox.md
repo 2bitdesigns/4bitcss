@@ -2,7 +2,7 @@
 stylesheet: /dayfox/dayfox.css
 colorSchemeName: dayfox
 colorSchemeFileName: dayfox
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/dayfox.png
+image: /dayfox/dayfox.png
 description: dayfox color scheme
 permalink: /dayfox/
 ---
