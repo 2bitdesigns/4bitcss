@@ -2,7 +2,7 @@
 stylesheet: /Hardcore/Hardcore.css
 colorSchemeName: Hardcore
 colorSchemeFileName: Hardcore
-image: /Hardcore/Hardcore.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Hardcore.png
 description: Hardcore color scheme
 permalink: /Hardcore/
 ---
