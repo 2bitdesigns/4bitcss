@@ -2,7 +2,7 @@
 stylesheet: /Tango-Adapted/Tango-Adapted.css
 colorSchemeName: Tango Adapted
 colorSchemeFileName: Tango-Adapted
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/tango_adapted.png
+image: /Tango-Adapted/Tango-Adapted.png
 description: Tango Adapted color scheme
 permalink: /Tango-Adapted/
 ---
