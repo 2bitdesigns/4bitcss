@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Dark/Builtin-Dark.css
 colorSchemeName: Builtin Dark
 colorSchemeFileName: Builtin-Dark
-image: /Builtin-Dark/Builtin-Dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Builtin_Dark.png
 description: Builtin Dark color scheme
 permalink: /Builtin-Dark/
 ---
