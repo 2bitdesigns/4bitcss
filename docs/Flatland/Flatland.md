@@ -2,7 +2,7 @@
 stylesheet: /Flatland/Flatland.css
 colorSchemeName: Flatland
 colorSchemeFileName: Flatland
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Flatland.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Flatland.png
 description: Flatland color scheme
 permalink: /Flatland/
 ---
