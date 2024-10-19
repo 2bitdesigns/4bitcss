@@ -2,7 +2,7 @@
 stylesheet: /Desert/Desert.css
 colorSchemeName: Desert
 colorSchemeFileName: Desert
-image: /Desert/Desert.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Desert.png
 description: Desert color scheme
 permalink: /Desert/
 ---
