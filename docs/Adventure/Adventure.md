@@ -2,7 +2,7 @@
 stylesheet: /Adventure/Adventure.css
 colorSchemeName: Adventure
 colorSchemeFileName: Adventure
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Adventure.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Adventure.png
 description: Adventure color scheme
 permalink: /Adventure/
 ---
