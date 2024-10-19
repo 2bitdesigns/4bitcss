@@ -2,7 +2,7 @@
 stylesheet: /MaterialOcean/MaterialOcean.css
 colorSchemeName: MaterialOcean
 colorSchemeFileName: MaterialOcean
-image: /MaterialOcean/MaterialOcean.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/MaterialOcean.png
 description: MaterialOcean color scheme
 permalink: /MaterialOcean/
 ---
