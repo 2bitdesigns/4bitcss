@@ -2,7 +2,7 @@
 stylesheet: /zenbones-light/zenbones-light.css
 colorSchemeName: zenbones_light
 colorSchemeFileName: zenbones-light
-image: /zenbones-light/zenbones-light.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/zenbones_light.png
 description: zenbones_light color scheme
 permalink: /zenbones-light/
 ---
