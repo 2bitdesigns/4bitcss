@@ -2,7 +2,7 @@
 stylesheet: /ENCOM/ENCOM.css
 colorSchemeName: ENCOM
 colorSchemeFileName: ENCOM
-image: /ENCOM/ENCOM.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/ENCOM.png
 description: ENCOM color scheme
 permalink: /ENCOM/
 ---
