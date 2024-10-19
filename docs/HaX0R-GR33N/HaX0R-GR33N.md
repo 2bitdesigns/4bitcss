@@ -2,7 +2,7 @@
 stylesheet: /HaX0R-GR33N/HaX0R-GR33N.css
 colorSchemeName: HaX0R_GR33N
 colorSchemeFileName: HaX0R-GR33N
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/HaX0R_GR33N.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/HaX0R_GR33N.png
 description: HaX0R_GR33N color scheme
 permalink: /HaX0R-GR33N/
 ---
