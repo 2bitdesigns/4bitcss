@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Dark-Background/iTerm2-Dark-Background.css
 colorSchemeName: iTerm2 Dark Background
 colorSchemeFileName: iTerm2-Dark-Background
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iterm2_dark_background.png
+image: /iTerm2-Dark-Background/iTerm2-Dark-Background.png
 description: iTerm2 Dark Background color scheme
 permalink: /iTerm2-Dark-Background/
 ---
