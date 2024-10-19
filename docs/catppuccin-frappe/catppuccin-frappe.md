@@ -2,7 +2,7 @@
 stylesheet: /catppuccin-frappe/catppuccin-frappe.css
 colorSchemeName: catppuccin-frappe
 colorSchemeFileName: catppuccin-frappe
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/catppuccin-frappe.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/catppuccin-frappe.png
 description: catppuccin-frappe color scheme
 permalink: /catppuccin-frappe/
 ---
