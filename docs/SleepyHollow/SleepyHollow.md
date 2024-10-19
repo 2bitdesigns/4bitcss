@@ -2,7 +2,7 @@
 stylesheet: /SleepyHollow/SleepyHollow.css
 colorSchemeName: SleepyHollow
 colorSchemeFileName: SleepyHollow
-image: /SleepyHollow/SleepyHollow.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/SleepyHollow.png
 description: SleepyHollow color scheme
 permalink: /SleepyHollow/
 ---
