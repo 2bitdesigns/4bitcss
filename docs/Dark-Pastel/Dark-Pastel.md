@@ -2,7 +2,7 @@
 stylesheet: /Dark-Pastel/Dark-Pastel.css
 colorSchemeName: Dark Pastel
 colorSchemeFileName: Dark-Pastel
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Dark_Pastel.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Dark_Pastel.png
 description: Dark Pastel color scheme
 permalink: /Dark-Pastel/
 ---
