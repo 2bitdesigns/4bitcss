@@ -2,7 +2,7 @@
 stylesheet: /Andromeda/Andromeda.css
 colorSchemeName: Andromeda
 colorSchemeFileName: Andromeda
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/andromeda.png
+image: /Andromeda/Andromeda.png
 description: Andromeda color scheme
 permalink: /Andromeda/
 ---
