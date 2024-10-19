@@ -2,7 +2,7 @@
 stylesheet: /Kibble/Kibble.css
 colorSchemeName: Kibble
 colorSchemeFileName: Kibble
-image: /Kibble/Kibble.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Kibble.png
 description: Kibble color scheme
 permalink: /Kibble/
 ---
