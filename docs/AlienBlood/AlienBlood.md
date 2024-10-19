@@ -2,7 +2,7 @@
 stylesheet: /AlienBlood/AlienBlood.css
 colorSchemeName: AlienBlood
 colorSchemeFileName: AlienBlood
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/alienblood.png
+image: /AlienBlood/AlienBlood.png
 description: AlienBlood color scheme
 permalink: /AlienBlood/
 ---
