@@ -2,7 +2,7 @@
 stylesheet: /BlulocoDark/BlulocoDark.css
 colorSchemeName: BlulocoDark
 colorSchemeFileName: BlulocoDark
-image: /BlulocoDark/BlulocoDark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/BlulocoDark.png
 description: BlulocoDark color scheme
 permalink: /BlulocoDark/
 ---
