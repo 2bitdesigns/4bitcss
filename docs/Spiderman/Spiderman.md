@@ -2,7 +2,7 @@
 stylesheet: /Spiderman/Spiderman.css
 colorSchemeName: Spiderman
 colorSchemeFileName: Spiderman
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Spiderman.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Spiderman.png
 description: Spiderman color scheme
 permalink: /Spiderman/
 ---
