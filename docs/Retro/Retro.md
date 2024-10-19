@@ -2,7 +2,7 @@
 stylesheet: /Retro/Retro.css
 colorSchemeName: Retro
 colorSchemeFileName: Retro
-image: /Retro/Retro.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Retro.png
 description: Retro color scheme
 permalink: /Retro/
 ---
