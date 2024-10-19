@@ -2,7 +2,7 @@
 stylesheet: /ChallengerDeep/ChallengerDeep.css
 colorSchemeName: ChallengerDeep
 colorSchemeFileName: ChallengerDeep
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/ChallengerDeep.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ChallengerDeep.png
 description: ChallengerDeep color scheme
 permalink: /ChallengerDeep/
 ---
