@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Light-Background/iTerm2-Light-Background.css
 colorSchemeName: iTerm2 Light Background
 colorSchemeFileName: iTerm2-Light-Background
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iterm2_light_background.png
+image: /iTerm2-Light-Background/iTerm2-Light-Background.png
 description: iTerm2 Light Background color scheme
 permalink: /iTerm2-Light-Background/
 ---
