@@ -2,7 +2,7 @@
 stylesheet: /WarmNeon/WarmNeon.css
 colorSchemeName: WarmNeon
 colorSchemeFileName: WarmNeon
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/WarmNeon.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/WarmNeon.png
 description: WarmNeon color scheme
 permalink: /WarmNeon/
 ---
