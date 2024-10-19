@@ -2,7 +2,7 @@
 stylesheet: /idleToes/idleToes.css
 colorSchemeName: idleToes
 colorSchemeFileName: idleToes
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/idleToes.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/idleToes.png
 description: idleToes color scheme
 permalink: /idleToes/
 ---
