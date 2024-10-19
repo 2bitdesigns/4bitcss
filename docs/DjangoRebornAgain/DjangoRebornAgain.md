@@ -2,7 +2,7 @@
 stylesheet: /DjangoRebornAgain/DjangoRebornAgain.css
 colorSchemeName: DjangoRebornAgain
 colorSchemeFileName: DjangoRebornAgain
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/djangorebornagain.png
+image: /DjangoRebornAgain/DjangoRebornAgain.png
 description: DjangoRebornAgain color scheme
 permalink: /DjangoRebornAgain/
 ---
