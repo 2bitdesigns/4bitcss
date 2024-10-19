@@ -2,7 +2,7 @@
 stylesheet: /Ubuntu/Ubuntu.css
 colorSchemeName: Ubuntu
 colorSchemeFileName: Ubuntu
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ubuntu.png
+image: /Ubuntu/Ubuntu.png
 description: Ubuntu color scheme
 permalink: /Ubuntu/
 ---
