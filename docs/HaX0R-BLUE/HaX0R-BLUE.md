@@ -2,7 +2,7 @@
 stylesheet: /HaX0R-BLUE/HaX0R-BLUE.css
 colorSchemeName: HaX0R_BLUE
 colorSchemeFileName: HaX0R-BLUE
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/HaX0R_BLUE.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/hax0r_blue.png
 description: HaX0R_BLUE color scheme
 permalink: /HaX0R-BLUE/
 ---
