@@ -2,7 +2,7 @@
 stylesheet: /Afterglow/Afterglow.css
 colorSchemeName: Afterglow
 colorSchemeFileName: Afterglow
-image: /Afterglow/Afterglow.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Afterglow.png
 description: Afterglow color scheme
 permalink: /Afterglow/
 ---
