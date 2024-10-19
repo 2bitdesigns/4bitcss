@@ -2,7 +2,7 @@
 stylesheet: /SynthwaveAlpha/SynthwaveAlpha.css
 colorSchemeName: SynthwaveAlpha
 colorSchemeFileName: SynthwaveAlpha
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/SynthwaveAlpha.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/SynthwaveAlpha.png
 description: SynthwaveAlpha color scheme
 permalink: /SynthwaveAlpha/
 ---
