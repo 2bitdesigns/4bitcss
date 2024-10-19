@@ -2,7 +2,7 @@
 stylesheet: /Mathias/Mathias.css
 colorSchemeName: Mathias
 colorSchemeFileName: Mathias
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/mathias.png
+image: /Mathias/Mathias.png
 description: Mathias color scheme
 permalink: /Mathias/
 ---
