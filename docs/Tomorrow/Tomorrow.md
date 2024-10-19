@@ -2,7 +2,7 @@
 stylesheet: /Tomorrow/Tomorrow.css
 colorSchemeName: Tomorrow
 colorSchemeFileName: Tomorrow
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Tomorrow.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Tomorrow.png
 description: Tomorrow color scheme
 permalink: /Tomorrow/
 ---
