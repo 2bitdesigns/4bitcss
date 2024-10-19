@@ -2,7 +2,7 @@
 stylesheet: /kurokula/kurokula.css
 colorSchemeName: kurokula
 colorSchemeFileName: kurokula
-image: /kurokula/kurokula.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/kurokula.png
 description: kurokula color scheme
 permalink: /kurokula/
 ---
