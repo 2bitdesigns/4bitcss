@@ -2,7 +2,7 @@
 stylesheet: /PaulMillr/PaulMillr.css
 colorSchemeName: PaulMillr
 colorSchemeFileName: PaulMillr
-image: /PaulMillr/PaulMillr.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/PaulMillr.png
 description: PaulMillr color scheme
 permalink: /PaulMillr/
 ---
