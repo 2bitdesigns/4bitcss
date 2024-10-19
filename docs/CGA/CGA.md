@@ -2,7 +2,7 @@
 stylesheet: /CGA/CGA.css
 colorSchemeName: CGA
 colorSchemeFileName: CGA
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/CGA.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/cga.png
 description: CGA color scheme
 permalink: /CGA/
 ---
