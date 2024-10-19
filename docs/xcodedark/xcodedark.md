@@ -2,7 +2,7 @@
 stylesheet: /xcodedark/xcodedark.css
 colorSchemeName: xcodedark
 colorSchemeFileName: xcodedark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/xcodedark.png
+image: /xcodedark/xcodedark.png
 description: xcodedark color scheme
 permalink: /xcodedark/
 ---
