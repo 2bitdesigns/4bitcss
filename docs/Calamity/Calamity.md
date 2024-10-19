@@ -2,7 +2,7 @@
 stylesheet: /Calamity/Calamity.css
 colorSchemeName: Calamity
 colorSchemeFileName: Calamity
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Calamity.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Calamity.png
 description: Calamity color scheme
 permalink: /Calamity/
 ---
