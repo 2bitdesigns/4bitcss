@@ -2,7 +2,7 @@
 stylesheet: /rose-pine/rose-pine.css
 colorSchemeName: rose-pine
 colorSchemeFileName: rose-pine
-image: /rose-pine/rose-pine.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/rose-pine.png
 description: rose-pine color scheme
 permalink: /rose-pine/
 ---
