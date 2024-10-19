@@ -2,7 +2,7 @@
 stylesheet: /Ryuuko/Ryuuko.css
 colorSchemeName: Ryuuko
 colorSchemeFileName: Ryuuko
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Ryuuko.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Ryuuko.png
 description: Ryuuko color scheme
 permalink: /Ryuuko/
 ---
