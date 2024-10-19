@@ -2,7 +2,7 @@
 stylesheet: /UltraDark/UltraDark.css
 colorSchemeName: UltraDark
 colorSchemeFileName: UltraDark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/UltraDark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ultradark.png
 description: UltraDark color scheme
 permalink: /UltraDark/
 ---
