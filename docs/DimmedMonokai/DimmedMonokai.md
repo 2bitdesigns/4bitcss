@@ -2,7 +2,7 @@
 stylesheet: /DimmedMonokai/DimmedMonokai.css
 colorSchemeName: DimmedMonokai
 colorSchemeFileName: DimmedMonokai
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/DimmedMonokai.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/dimmedmonokai.png
 description: DimmedMonokai color scheme
 permalink: /DimmedMonokai/
 ---
