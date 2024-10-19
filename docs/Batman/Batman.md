@@ -2,7 +2,7 @@
 stylesheet: /Batman/Batman.css
 colorSchemeName: Batman
 colorSchemeFileName: Batman
-image: /Batman/Batman.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Batman.png
 description: Batman color scheme
 permalink: /Batman/
 ---
