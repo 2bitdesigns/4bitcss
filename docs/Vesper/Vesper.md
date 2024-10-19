@@ -2,7 +2,7 @@
 stylesheet: /Vesper/Vesper.css
 colorSchemeName: Vesper
 colorSchemeFileName: Vesper
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Vesper.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Vesper.png
 description: Vesper color scheme
 permalink: /Vesper/
 ---
