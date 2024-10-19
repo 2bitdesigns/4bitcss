@@ -2,7 +2,7 @@
 stylesheet: /Rapture/Rapture.css
 colorSchemeName: Rapture
 colorSchemeFileName: Rapture
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/rapture.png
+image: /Rapture/Rapture.png
 description: Rapture color scheme
 permalink: /Rapture/
 ---
