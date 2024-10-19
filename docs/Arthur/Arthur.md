@@ -2,7 +2,7 @@
 stylesheet: /Arthur/Arthur.css
 colorSchemeName: Arthur
 colorSchemeFileName: Arthur
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Arthur.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Arthur.png
 description: Arthur color scheme
 permalink: /Arthur/
 ---
