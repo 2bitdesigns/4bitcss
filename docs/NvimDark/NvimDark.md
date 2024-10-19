@@ -2,7 +2,7 @@
 stylesheet: /NvimDark/NvimDark.css
 colorSchemeName: NvimDark
 colorSchemeFileName: NvimDark
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/NvimDark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/NvimDark.png
 description: NvimDark color scheme
 permalink: /NvimDark/
 ---
