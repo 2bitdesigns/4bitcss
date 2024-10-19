@@ -2,7 +2,7 @@
 stylesheet: /zenwritten-light/zenwritten-light.css
 colorSchemeName: zenwritten_light
 colorSchemeFileName: zenwritten-light
-image: /zenwritten-light/zenwritten-light.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/zenwritten_light.png
 description: zenwritten_light color scheme
 permalink: /zenwritten-light/
 ---
