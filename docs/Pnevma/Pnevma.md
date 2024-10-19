@@ -2,7 +2,7 @@
 stylesheet: /Pnevma/Pnevma.css
 colorSchemeName: Pnevma
 colorSchemeFileName: Pnevma
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Pnevma.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/pnevma.png
 description: Pnevma color scheme
 permalink: /Pnevma/
 ---
