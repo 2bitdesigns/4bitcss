@@ -2,7 +2,7 @@
 stylesheet: /Smyck/Smyck.css
 colorSchemeName: Smyck
 colorSchemeFileName: Smyck
-image: /Smyck/Smyck.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Smyck.png
 description: Smyck color scheme
 permalink: /Smyck/
 ---
