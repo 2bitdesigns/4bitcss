@@ -2,7 +2,7 @@
 stylesheet: /OceanicMaterial/OceanicMaterial.css
 colorSchemeName: OceanicMaterial
 colorSchemeFileName: OceanicMaterial
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/oceanicmaterial.png
+image: /OceanicMaterial/OceanicMaterial.png
 description: OceanicMaterial color scheme
 permalink: /OceanicMaterial/
 ---
