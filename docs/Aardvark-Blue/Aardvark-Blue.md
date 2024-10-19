@@ -2,7 +2,7 @@
 stylesheet: /Aardvark-Blue/Aardvark-Blue.css
 colorSchemeName: Aardvark Blue
 colorSchemeFileName: Aardvark-Blue
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Aardvark_Blue.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/aardvark_blue.png
 description: Aardvark Blue color scheme
 permalink: /Aardvark-Blue/
 ---
