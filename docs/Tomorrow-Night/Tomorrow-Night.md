@@ -2,7 +2,7 @@
 stylesheet: /Tomorrow-Night/Tomorrow-Night.css
 colorSchemeName: Tomorrow Night
 colorSchemeFileName: Tomorrow-Night
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/tomorrow_night.png
+image: /Tomorrow-Night/Tomorrow-Night.png
 description: Tomorrow Night color scheme
 permalink: /Tomorrow-Night/
 ---
