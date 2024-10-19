@@ -2,7 +2,7 @@
 stylesheet: /Galizur/Galizur.css
 colorSchemeName: Galizur
 colorSchemeFileName: Galizur
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Galizur.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Galizur.png
 description: Galizur color scheme
 permalink: /Galizur/
 ---
