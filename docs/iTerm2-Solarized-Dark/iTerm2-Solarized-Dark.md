@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Solarized-Dark/iTerm2-Solarized-Dark.css
 colorSchemeName: iTerm2 Solarized Dark
 colorSchemeFileName: iTerm2-Solarized-Dark
-image: /iTerm2-Solarized-Dark/iTerm2-Solarized-Dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/iTerm2_Solarized_Dark.png
 description: iTerm2 Solarized Dark color scheme
 permalink: /iTerm2-Solarized-Dark/
 ---
