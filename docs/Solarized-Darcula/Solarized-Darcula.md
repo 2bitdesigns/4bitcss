@@ -2,7 +2,7 @@
 stylesheet: /Solarized-Darcula/Solarized-Darcula.css
 colorSchemeName: Solarized Darcula
 colorSchemeFileName: Solarized-Darcula
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Solarized_Darcula.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Solarized_Darcula.png
 description: Solarized Darcula color scheme
 permalink: /Solarized-Darcula/
 ---
