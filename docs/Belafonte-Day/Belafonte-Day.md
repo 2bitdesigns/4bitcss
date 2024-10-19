@@ -2,7 +2,7 @@
 stylesheet: /Belafonte-Day/Belafonte-Day.css
 colorSchemeName: Belafonte Day
 colorSchemeFileName: Belafonte-Day
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Belafonte_Day.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Belafonte_Day.png
 description: Belafonte Day color scheme
 permalink: /Belafonte-Day/
 ---
