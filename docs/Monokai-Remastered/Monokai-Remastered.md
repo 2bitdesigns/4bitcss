@@ -2,7 +2,7 @@
 stylesheet: /Monokai-Remastered/Monokai-Remastered.css
 colorSchemeName: Monokai Remastered
 colorSchemeFileName: Monokai-Remastered
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Monokai_Remastered.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Monokai_Remastered.png
 description: Monokai Remastered color scheme
 permalink: /Monokai-Remastered/
 ---
