@@ -2,7 +2,7 @@
 stylesheet: /terafox/terafox.css
 colorSchemeName: terafox
 colorSchemeFileName: terafox
-image: /terafox/terafox.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/terafox.png
 description: terafox color scheme
 permalink: /terafox/
 ---
