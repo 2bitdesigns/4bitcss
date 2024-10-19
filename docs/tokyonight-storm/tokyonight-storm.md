@@ -2,7 +2,7 @@
 stylesheet: /tokyonight-storm/tokyonight-storm.css
 colorSchemeName: tokyonight-storm
 colorSchemeFileName: tokyonight-storm
-image: /tokyonight-storm/tokyonight-storm.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/tokyonight-storm.png
 description: tokyonight-storm color scheme
 permalink: /tokyonight-storm/
 ---
