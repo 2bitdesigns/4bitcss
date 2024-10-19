@@ -2,7 +2,7 @@
 stylesheet: /IC-Green-PPL/IC-Green-PPL.css
 colorSchemeName: IC_Green_PPL
 colorSchemeFileName: IC-Green-PPL
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ic_green_ppl.png
+image: /IC-Green-PPL/IC-Green-PPL.png
 description: IC_Green_PPL color scheme
 permalink: /IC-Green-PPL/
 ---
