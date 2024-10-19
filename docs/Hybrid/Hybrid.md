@@ -2,7 +2,7 @@
 stylesheet: /Hybrid/Hybrid.css
 colorSchemeName: Hybrid
 colorSchemeFileName: Hybrid
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Hybrid.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Hybrid.png
 description: Hybrid color scheme
 permalink: /Hybrid/
 ---
