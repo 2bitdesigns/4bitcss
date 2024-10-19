@@ -2,7 +2,7 @@
 stylesheet: /FishTank/FishTank.css
 colorSchemeName: FishTank
 colorSchemeFileName: FishTank
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/FishTank.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/fishtank.png
 description: FishTank color scheme
 permalink: /FishTank/
 ---
