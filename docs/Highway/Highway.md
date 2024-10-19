@@ -2,7 +2,7 @@
 stylesheet: /Highway/Highway.css
 colorSchemeName: Highway
 colorSchemeFileName: Highway
-image: /Highway/Highway.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Highway.png
 description: Highway color scheme
 permalink: /Highway/
 ---
