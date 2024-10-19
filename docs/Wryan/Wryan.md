@@ -2,7 +2,7 @@
 stylesheet: /Wryan/Wryan.css
 colorSchemeName: Wryan
 colorSchemeFileName: Wryan
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Wryan.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Wryan.png
 description: Wryan color scheme
 permalink: /Wryan/
 ---
