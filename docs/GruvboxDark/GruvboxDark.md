@@ -2,7 +2,7 @@
 stylesheet: /GruvboxDark/GruvboxDark.css
 colorSchemeName: GruvboxDark
 colorSchemeFileName: GruvboxDark
-image: /GruvboxDark/GruvboxDark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/GruvboxDark.png
 description: GruvboxDark color scheme
 permalink: /GruvboxDark/
 ---
