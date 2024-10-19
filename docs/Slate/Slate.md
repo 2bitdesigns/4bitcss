@@ -2,7 +2,7 @@
 stylesheet: /Slate/Slate.css
 colorSchemeName: Slate
 colorSchemeFileName: Slate
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/slate.png
+image: /Slate/Slate.png
 description: Slate color scheme
 permalink: /Slate/
 ---
