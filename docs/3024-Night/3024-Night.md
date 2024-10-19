@@ -2,7 +2,7 @@
 stylesheet: /3024-Night/3024-Night.css
 colorSchemeName: 3024 Night
 colorSchemeFileName: 3024-Night
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/3024_Night.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/3024_night.png
 description: 3024 Night color scheme
 permalink: /3024-Night/
 ---
