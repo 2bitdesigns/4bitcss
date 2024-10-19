@@ -2,7 +2,7 @@
 stylesheet: /Sakura/Sakura.css
 colorSchemeName: Sakura
 colorSchemeFileName: Sakura
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Sakura.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Sakura.png
 description: Sakura color scheme
 permalink: /Sakura/
 ---
