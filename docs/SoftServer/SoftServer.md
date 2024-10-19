@@ -2,7 +2,7 @@
 stylesheet: /SoftServer/SoftServer.css
 colorSchemeName: SoftServer
 colorSchemeFileName: SoftServer
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/SoftServer.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/SoftServer.png
 description: SoftServer color scheme
 permalink: /SoftServer/
 ---
