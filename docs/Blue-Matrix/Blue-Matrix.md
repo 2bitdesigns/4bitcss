@@ -2,7 +2,7 @@
 stylesheet: /Blue-Matrix/Blue-Matrix.css
 colorSchemeName: Blue Matrix
 colorSchemeFileName: Blue-Matrix
-image: /Blue-Matrix/Blue-Matrix.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Blue_Matrix.png
 description: Blue Matrix color scheme
 permalink: /Blue-Matrix/
 ---
