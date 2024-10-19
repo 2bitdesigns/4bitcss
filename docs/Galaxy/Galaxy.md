@@ -2,7 +2,7 @@
 stylesheet: /Galaxy/Galaxy.css
 colorSchemeName: Galaxy
 colorSchemeFileName: Galaxy
-image: /Galaxy/Galaxy.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Galaxy.png
 description: Galaxy color scheme
 permalink: /Galaxy/
 ---
