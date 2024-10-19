@@ -2,7 +2,7 @@
 stylesheet: /Jackie-Brown/Jackie-Brown.css
 colorSchemeName: Jackie Brown
 colorSchemeFileName: Jackie-Brown
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Jackie_Brown.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/jackie_brown.png
 description: Jackie Brown color scheme
 permalink: /Jackie-Brown/
 ---
