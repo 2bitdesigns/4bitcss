@@ -2,7 +2,7 @@
 stylesheet: /Neutron/Neutron.css
 colorSchemeName: Neutron
 colorSchemeFileName: Neutron
-image: /Neutron/Neutron.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Neutron.png
 description: Neutron color scheme
 permalink: /Neutron/
 ---
