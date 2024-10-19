@@ -2,7 +2,7 @@
 stylesheet: /Terminal-Basic/Terminal-Basic.css
 colorSchemeName: Terminal Basic
 colorSchemeFileName: Terminal-Basic
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Terminal_Basic.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Terminal_Basic.png
 description: Terminal Basic color scheme
 permalink: /Terminal-Basic/
 ---
