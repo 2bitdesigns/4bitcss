@@ -2,7 +2,7 @@
 stylesheet: /duckbones/duckbones.css
 colorSchemeName: duckbones
 colorSchemeFileName: duckbones
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/duckbones.png
+image: /duckbones/duckbones.png
 description: duckbones color scheme
 permalink: /duckbones/
 ---
