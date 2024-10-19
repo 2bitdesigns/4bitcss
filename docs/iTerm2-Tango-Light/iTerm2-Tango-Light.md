@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Tango-Light/iTerm2-Tango-Light.css
 colorSchemeName: iTerm2 Tango Light
 colorSchemeFileName: iTerm2-Tango-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iTerm2_Tango_Light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iterm2_tango_light.png
 description: iTerm2 Tango Light color scheme
 permalink: /iTerm2-Tango-Light/
 ---
