@@ -2,7 +2,7 @@
 stylesheet: /xcodewwdc/xcodewwdc.css
 colorSchemeName: xcodewwdc
 colorSchemeFileName: xcodewwdc
-image: /xcodewwdc/xcodewwdc.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/xcodewwdc.png
 description: xcodewwdc color scheme
 permalink: /xcodewwdc/
 ---
