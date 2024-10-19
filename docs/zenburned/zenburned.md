@@ -2,7 +2,7 @@
 stylesheet: /zenburned/zenburned.css
 colorSchemeName: zenburned
 colorSchemeFileName: zenburned
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/zenburned.png
+image: /zenburned/zenburned.png
 description: zenburned color scheme
 permalink: /zenburned/
 ---
