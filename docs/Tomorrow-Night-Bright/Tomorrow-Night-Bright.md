@@ -2,7 +2,7 @@
 stylesheet: /Tomorrow-Night-Bright/Tomorrow-Night-Bright.css
 colorSchemeName: Tomorrow Night Bright
 colorSchemeFileName: Tomorrow-Night-Bright
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/tomorrow_night_bright.png
+image: /Tomorrow-Night-Bright/Tomorrow-Night-Bright.png
 description: Tomorrow Night Bright color scheme
 permalink: /Tomorrow-Night-Bright/
 ---
