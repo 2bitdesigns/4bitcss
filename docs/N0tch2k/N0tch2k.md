@@ -2,7 +2,7 @@
 stylesheet: /N0tch2k/N0tch2k.css
 colorSchemeName: N0tch2k
 colorSchemeFileName: N0tch2k
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/N0tch2k.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/n0tch2k.png
 description: N0tch2k color scheme
 permalink: /N0tch2k/
 ---
