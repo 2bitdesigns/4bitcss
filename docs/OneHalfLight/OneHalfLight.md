@@ -2,7 +2,7 @@
 stylesheet: /OneHalfLight/OneHalfLight.css
 colorSchemeName: OneHalfLight
 colorSchemeFileName: OneHalfLight
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/OneHalfLight.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/OneHalfLight.png
 description: OneHalfLight color scheme
 permalink: /OneHalfLight/
 ---
