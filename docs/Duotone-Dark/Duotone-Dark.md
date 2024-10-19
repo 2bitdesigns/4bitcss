@@ -2,7 +2,7 @@
 stylesheet: /Duotone-Dark/Duotone-Dark.css
 colorSchemeName: Duotone Dark
 colorSchemeFileName: Duotone-Dark
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Duotone_Dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Duotone_Dark.png
 description: Duotone Dark color scheme
 permalink: /Duotone-Dark/
 ---
