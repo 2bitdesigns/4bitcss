@@ -2,7 +2,7 @@
 stylesheet: /Hacktober/Hacktober.css
 colorSchemeName: Hacktober
 colorSchemeFileName: Hacktober
-image: /Hacktober/Hacktober.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Hacktober.png
 description: Hacktober color scheme
 permalink: /Hacktober/
 ---
