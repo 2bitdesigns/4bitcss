@@ -2,7 +2,7 @@
 stylesheet: /Tinacious-Design-Dark/Tinacious-Design-Dark.css
 colorSchemeName: Tinacious Design (Dark)
 colorSchemeFileName: Tinacious-Design-Dark
-image: /Tinacious-Design-Dark/Tinacious-Design-Dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Tinacious_Design_(Dark).png
 description: Tinacious Design (Dark) color scheme
 permalink: /Tinacious-Design-Dark/
 ---
