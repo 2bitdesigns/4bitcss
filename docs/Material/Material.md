@@ -2,7 +2,7 @@
 stylesheet: /Material/Material.css
 colorSchemeName: Material
 colorSchemeFileName: Material
-image: /Material/Material.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Material.png
 description: Material color scheme
 permalink: /Material/
 ---
