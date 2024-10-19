@@ -2,7 +2,7 @@
 stylesheet: /SeaShells/SeaShells.css
 colorSchemeName: SeaShells
 colorSchemeFileName: SeaShells
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/SeaShells.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/SeaShells.png
 description: SeaShells color scheme
 permalink: /SeaShells/
 ---
