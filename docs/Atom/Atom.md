@@ -2,7 +2,7 @@
 stylesheet: /Atom/Atom.css
 colorSchemeName: Atom
 colorSchemeFileName: Atom
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Atom.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/atom.png
 description: Atom color scheme
 permalink: /Atom/
 ---
