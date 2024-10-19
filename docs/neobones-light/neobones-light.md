@@ -2,7 +2,7 @@
 stylesheet: /neobones-light/neobones-light.css
 colorSchemeName: neobones_light
 colorSchemeFileName: neobones-light
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/neobones_light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/neobones_light.png
 description: neobones_light color scheme
 permalink: /neobones-light/
 ---
