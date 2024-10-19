@@ -2,7 +2,7 @@
 stylesheet: /The-Hulk/The-Hulk.css
 colorSchemeName: The Hulk
 colorSchemeFileName: The-Hulk
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/The_Hulk.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/The_Hulk.png
 description: The Hulk color scheme
 permalink: /The-Hulk/
 ---
