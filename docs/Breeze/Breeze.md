@@ -2,7 +2,7 @@
 stylesheet: /Breeze/Breeze.css
 colorSchemeName: Breeze
 colorSchemeFileName: Breeze
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/breeze.png
+image: /Breeze/Breeze.png
 description: Breeze color scheme
 permalink: /Breeze/
 ---
