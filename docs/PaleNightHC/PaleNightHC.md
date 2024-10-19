@@ -2,7 +2,7 @@
 stylesheet: /PaleNightHC/PaleNightHC.css
 colorSchemeName: PaleNightHC
 colorSchemeFileName: PaleNightHC
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/palenighthc.png
+image: /PaleNightHC/PaleNightHC.png
 description: PaleNightHC color scheme
 permalink: /PaleNightHC/
 ---
