@@ -2,7 +2,7 @@
 stylesheet: /Sugarplum/Sugarplum.css
 colorSchemeName: Sugarplum
 colorSchemeFileName: Sugarplum
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/sugarplum.png
+image: /Sugarplum/Sugarplum.png
 description: Sugarplum color scheme
 permalink: /Sugarplum/
 ---
