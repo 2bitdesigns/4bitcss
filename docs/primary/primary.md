@@ -2,7 +2,7 @@
 stylesheet: /primary/primary.css
 colorSchemeName: primary
 colorSchemeFileName: primary
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/primary.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/primary.png
 description: primary color scheme
 permalink: /primary/
 ---
