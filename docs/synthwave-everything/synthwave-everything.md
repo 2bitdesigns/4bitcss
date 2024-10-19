@@ -2,7 +2,7 @@
 stylesheet: /synthwave-everything/synthwave-everything.css
 colorSchemeName: synthwave-everything
 colorSchemeFileName: synthwave-everything
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/synthwave-everything.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/synthwave-everything.png
 description: synthwave-everything color scheme
 permalink: /synthwave-everything/
 ---
