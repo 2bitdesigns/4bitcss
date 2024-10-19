@@ -2,7 +2,7 @@
 stylesheet: /Peppermint/Peppermint.css
 colorSchemeName: Peppermint
 colorSchemeFileName: Peppermint
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/peppermint.png
+image: /Peppermint/Peppermint.png
 description: Peppermint color scheme
 permalink: /Peppermint/
 ---
