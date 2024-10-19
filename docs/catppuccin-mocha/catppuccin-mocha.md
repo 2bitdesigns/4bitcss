@@ -2,7 +2,7 @@
 stylesheet: /catppuccin-mocha/catppuccin-mocha.css
 colorSchemeName: catppuccin-mocha
 colorSchemeFileName: catppuccin-mocha
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/catppuccin-mocha.png
+image: /catppuccin-mocha/catppuccin-mocha.png
 description: catppuccin-mocha color scheme
 permalink: /catppuccin-mocha/
 ---
