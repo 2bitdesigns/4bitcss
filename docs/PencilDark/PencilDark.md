@@ -2,7 +2,7 @@
 stylesheet: /PencilDark/PencilDark.css
 colorSchemeName: PencilDark
 colorSchemeFileName: PencilDark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/pencildark.png
+image: /PencilDark/PencilDark.png
 description: PencilDark color scheme
 permalink: /PencilDark/
 ---
