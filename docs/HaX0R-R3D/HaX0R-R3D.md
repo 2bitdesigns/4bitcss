@@ -2,7 +2,7 @@
 stylesheet: /HaX0R-R3D/HaX0R-R3D.css
 colorSchemeName: HaX0R_R3D
 colorSchemeFileName: HaX0R-R3D
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/hax0r_r3d.png
+image: /HaX0R-R3D/HaX0R-R3D.png
 description: HaX0R_R3D color scheme
 permalink: /HaX0R-R3D/
 ---
