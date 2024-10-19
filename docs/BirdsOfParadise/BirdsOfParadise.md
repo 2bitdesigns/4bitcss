@@ -2,7 +2,7 @@
 stylesheet: /BirdsOfParadise/BirdsOfParadise.css
 colorSchemeName: BirdsOfParadise
 colorSchemeFileName: BirdsOfParadise
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/BirdsOfParadise.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/BirdsOfParadise.png
 description: BirdsOfParadise color scheme
 permalink: /BirdsOfParadise/
 ---
