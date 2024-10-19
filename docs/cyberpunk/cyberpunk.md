@@ -2,7 +2,7 @@
 stylesheet: /cyberpunk/cyberpunk.css
 colorSchemeName: cyberpunk
 colorSchemeFileName: cyberpunk
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/cyberpunk.png
+image: /cyberpunk/cyberpunk.png
 description: cyberpunk color scheme
 permalink: /cyberpunk/
 ---
