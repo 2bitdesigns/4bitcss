@@ -2,7 +2,7 @@
 stylesheet: /catppuccin-macchiato/catppuccin-macchiato.css
 colorSchemeName: catppuccin-macchiato
 colorSchemeFileName: catppuccin-macchiato
-image: /catppuccin-macchiato/catppuccin-macchiato.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/catppuccin-macchiato.png
 description: catppuccin-macchiato color scheme
 permalink: /catppuccin-macchiato/
 ---
