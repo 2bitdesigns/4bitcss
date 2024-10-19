@@ -2,7 +2,7 @@
 stylesheet: /Grey-green/Grey-green.css
 colorSchemeName: Grey-green
 colorSchemeFileName: Grey-green
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Grey-green.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/grey-green.png
 description: Grey-green color scheme
 permalink: /Grey-green/
 ---
