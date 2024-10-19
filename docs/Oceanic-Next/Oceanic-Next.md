@@ -2,7 +2,7 @@
 stylesheet: /Oceanic-Next/Oceanic-Next.css
 colorSchemeName: Oceanic-Next
 colorSchemeFileName: Oceanic-Next
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/oceanic-next.png
+image: /Oceanic-Next/Oceanic-Next.png
 description: Oceanic-Next color scheme
 permalink: /Oceanic-Next/
 ---
