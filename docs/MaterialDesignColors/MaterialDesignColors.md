@@ -2,7 +2,7 @@
 stylesheet: /MaterialDesignColors/MaterialDesignColors.css
 colorSchemeName: MaterialDesignColors
 colorSchemeFileName: MaterialDesignColors
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/MaterialDesignColors.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/MaterialDesignColors.png
 description: MaterialDesignColors color scheme
 permalink: /MaterialDesignColors/
 ---
