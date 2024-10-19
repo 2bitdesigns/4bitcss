@@ -2,7 +2,7 @@
 stylesheet: /Chalkboard/Chalkboard.css
 colorSchemeName: Chalkboard
 colorSchemeFileName: Chalkboard
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Chalkboard.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/chalkboard.png
 description: Chalkboard color scheme
 permalink: /Chalkboard/
 ---
