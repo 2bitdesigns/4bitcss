@@ -2,7 +2,7 @@
 stylesheet: /NvimLight/NvimLight.css
 colorSchemeName: NvimLight
 colorSchemeFileName: NvimLight
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/NvimLight.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/nvimlight.png
 description: NvimLight color scheme
 permalink: /NvimLight/
 ---
