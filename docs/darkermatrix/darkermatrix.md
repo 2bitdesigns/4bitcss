@@ -2,7 +2,7 @@
 stylesheet: /darkermatrix/darkermatrix.css
 colorSchemeName: darkermatrix
 colorSchemeFileName: darkermatrix
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/darkermatrix.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/darkermatrix.png
 description: darkermatrix color scheme
 permalink: /darkermatrix/
 ---
