@@ -2,7 +2,7 @@
 stylesheet: /zenbones-dark/zenbones-dark.css
 colorSchemeName: zenbones_dark
 colorSchemeFileName: zenbones-dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/zenbones_dark.png
+image: /zenbones-dark/zenbones-dark.png
 description: zenbones_dark color scheme
 permalink: /zenbones-dark/
 ---
