@@ -2,7 +2,7 @@
 stylesheet: /LiquidCarbonTransparentInverse/LiquidCarbonTransparentInverse.css
 colorSchemeName: LiquidCarbonTransparentInverse
 colorSchemeFileName: LiquidCarbonTransparentInverse
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/LiquidCarbonTransparentInverse.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/liquidcarbontransparentinverse.png
 description: LiquidCarbonTransparentInverse color scheme
 permalink: /LiquidCarbonTransparentInverse/
 ---
