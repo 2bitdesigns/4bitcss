@@ -2,7 +2,7 @@
 stylesheet: /OneHalfDark/OneHalfDark.css
 colorSchemeName: OneHalfDark
 colorSchemeFileName: OneHalfDark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/OneHalfDark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/onehalfdark.png
 description: OneHalfDark color scheme
 permalink: /OneHalfDark/
 ---
