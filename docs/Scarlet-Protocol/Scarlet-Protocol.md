@@ -2,7 +2,7 @@
 stylesheet: /Scarlet-Protocol/Scarlet-Protocol.css
 colorSchemeName: Scarlet Protocol
 colorSchemeFileName: Scarlet-Protocol
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Scarlet_Protocol.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/scarlet_protocol.png
 description: Scarlet Protocol color scheme
 permalink: /Scarlet-Protocol/
 ---
