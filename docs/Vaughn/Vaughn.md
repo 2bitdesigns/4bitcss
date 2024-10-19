@@ -2,7 +2,7 @@
 stylesheet: /Vaughn/Vaughn.css
 colorSchemeName: Vaughn
 colorSchemeFileName: Vaughn
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Vaughn.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/vaughn.png
 description: Vaughn color scheme
 permalink: /Vaughn/
 ---
