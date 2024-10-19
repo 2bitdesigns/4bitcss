@@ -2,7 +2,7 @@
 stylesheet: /Broadcast/Broadcast.css
 colorSchemeName: Broadcast
 colorSchemeFileName: Broadcast
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Broadcast.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/broadcast.png
 description: Broadcast color scheme
 permalink: /Broadcast/
 ---
