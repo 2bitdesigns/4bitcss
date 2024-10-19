@@ -2,7 +2,7 @@
 stylesheet: /Nocturnal-Winter/Nocturnal-Winter.css
 colorSchemeName: Nocturnal Winter
 colorSchemeFileName: Nocturnal-Winter
-image: /Nocturnal-Winter/Nocturnal-Winter.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Nocturnal_Winter.png
 description: Nocturnal Winter color scheme
 permalink: /Nocturnal-Winter/
 ---
