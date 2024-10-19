@@ -2,7 +2,7 @@
 stylesheet: /Elementary/Elementary.css
 colorSchemeName: Elementary
 colorSchemeFileName: Elementary
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Elementary.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Elementary.png
 description: Elementary color scheme
 permalink: /Elementary/
 ---
