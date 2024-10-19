@@ -2,7 +2,7 @@
 stylesheet: /Flat/Flat.css
 colorSchemeName: Flat
 colorSchemeFileName: Flat
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Flat.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Flat.png
 description: Flat color scheme
 permalink: /Flat/
 ---
