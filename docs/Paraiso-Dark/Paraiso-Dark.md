@@ -2,7 +2,7 @@
 stylesheet: /Paraiso-Dark/Paraiso-Dark.css
 colorSchemeName: Paraiso Dark
 colorSchemeFileName: Paraiso-Dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Paraiso_Dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/paraiso_dark.png
 description: Paraiso Dark color scheme
 permalink: /Paraiso-Dark/
 ---
