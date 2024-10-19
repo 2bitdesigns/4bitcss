@@ -2,7 +2,7 @@
 stylesheet: /Medallion/Medallion.css
 colorSchemeName: Medallion
 colorSchemeFileName: Medallion
-image: /Medallion/Medallion.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Medallion.png
 description: Medallion color scheme
 permalink: /Medallion/
 ---
