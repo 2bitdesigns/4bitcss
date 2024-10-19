@@ -2,7 +2,7 @@
 stylesheet: /Fideloper/Fideloper.css
 colorSchemeName: Fideloper
 colorSchemeFileName: Fideloper
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Fideloper.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Fideloper.png
 description: Fideloper color scheme
 permalink: /Fideloper/
 ---
