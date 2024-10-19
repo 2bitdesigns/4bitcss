@@ -2,7 +2,7 @@
 stylesheet: /Molokai/Molokai.css
 colorSchemeName: Molokai
 colorSchemeFileName: Molokai
-image: /Molokai/Molokai.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Molokai.png
 description: Molokai color scheme
 permalink: /Molokai/
 ---
