@@ -2,7 +2,7 @@
 stylesheet: /Abernathy/Abernathy.css
 colorSchemeName: Abernathy
 colorSchemeFileName: Abernathy
-image: /Abernathy/Abernathy.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Abernathy.png
 description: Abernathy color scheme
 permalink: /Abernathy/
 ---
