@@ -2,7 +2,7 @@
 stylesheet: /Mariana/Mariana.css
 colorSchemeName: Mariana
 colorSchemeFileName: Mariana
-image: /Mariana/Mariana.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Mariana.png
 description: Mariana color scheme
 permalink: /Mariana/
 ---
