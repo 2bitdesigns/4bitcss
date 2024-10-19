@@ -2,7 +2,7 @@
 stylesheet: /Everblush/Everblush.css
 colorSchemeName: Everblush
 colorSchemeFileName: Everblush
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Everblush.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/everblush.png
 description: Everblush color scheme
 permalink: /Everblush/
 ---
