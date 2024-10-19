@@ -2,7 +2,7 @@
 stylesheet: /Overnight-Slumber/Overnight-Slumber.css
 colorSchemeName: Overnight Slumber
 colorSchemeFileName: Overnight-Slumber
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Overnight_Slumber.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Overnight_Slumber.png
 description: Overnight Slumber color scheme
 permalink: /Overnight-Slumber/
 ---
