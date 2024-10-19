@@ -2,7 +2,7 @@
 stylesheet: /midnight-in-mojave/midnight-in-mojave.css
 colorSchemeName: midnight-in-mojave
 colorSchemeFileName: midnight-in-mojave
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/midnight-in-mojave.png
+image: /midnight-in-mojave/midnight-in-mojave.png
 description: midnight-in-mojave color scheme
 permalink: /midnight-in-mojave/
 ---
