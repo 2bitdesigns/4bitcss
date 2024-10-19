@@ -2,7 +2,7 @@
 stylesheet: /Pro-Light/Pro-Light.css
 colorSchemeName: Pro Light
 colorSchemeFileName: Pro-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Pro_Light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/pro_light.png
 description: Pro Light color scheme
 permalink: /Pro-Light/
 ---
