@@ -2,7 +2,7 @@
 stylesheet: /Solarized-Dark-Patched/Solarized-Dark-Patched.css
 colorSchemeName: Solarized Dark - Patched
 colorSchemeFileName: Solarized-Dark-Patched
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/solarized_dark_-_patched.png
+image: /Solarized-Dark-Patched/Solarized-Dark-Patched.png
 description: Solarized Dark - Patched color scheme
 permalink: /Solarized-Dark-Patched/
 ---
