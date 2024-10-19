@@ -2,7 +2,7 @@
 stylesheet: /gruber-darker/gruber-darker.css
 colorSchemeName: gruber-darker
 colorSchemeFileName: gruber-darker
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/gruber-darker.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/gruber-darker.png
 description: gruber-darker color scheme
 permalink: /gruber-darker/
 ---
