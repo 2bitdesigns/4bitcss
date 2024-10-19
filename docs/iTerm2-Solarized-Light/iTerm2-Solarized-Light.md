@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Solarized-Light/iTerm2-Solarized-Light.css
 colorSchemeName: iTerm2 Solarized Light
 colorSchemeFileName: iTerm2-Solarized-Light
-image: /iTerm2-Solarized-Light/iTerm2-Solarized-Light.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/iTerm2_Solarized_Light.png
 description: iTerm2 Solarized Light color scheme
 permalink: /iTerm2-Solarized-Light/
 ---
