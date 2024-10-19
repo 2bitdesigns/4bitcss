@@ -2,7 +2,7 @@
 stylesheet: /Dark+/Dark+.css
 colorSchemeName: Dark+
 colorSchemeFileName: Dark+
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Dark_plus.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/dark_plus.png
 description: Dark+ color scheme
 permalink: /Dark+/
 ---
