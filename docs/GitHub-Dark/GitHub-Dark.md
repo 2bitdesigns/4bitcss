@@ -2,7 +2,7 @@
 stylesheet: /GitHub-Dark/GitHub-Dark.css
 colorSchemeName: GitHub Dark
 colorSchemeFileName: GitHub-Dark
-image: /GitHub-Dark/GitHub-Dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/GitHub_Dark.png
 description: GitHub Dark color scheme
 permalink: /GitHub-Dark/
 ---
