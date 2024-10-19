@@ -2,7 +2,7 @@
 stylesheet: /farmhouse-light/farmhouse-light.css
 colorSchemeName: farmhouse-light
 colorSchemeFileName: farmhouse-light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/farmhouse-light.png
+image: /farmhouse-light/farmhouse-light.png
 description: farmhouse-light color scheme
 permalink: /farmhouse-light/
 ---
