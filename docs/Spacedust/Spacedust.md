@@ -2,7 +2,7 @@
 stylesheet: /Spacedust/Spacedust.css
 colorSchemeName: Spacedust
 colorSchemeFileName: Spacedust
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Spacedust.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Spacedust.png
 description: Spacedust color scheme
 permalink: /Spacedust/
 ---
