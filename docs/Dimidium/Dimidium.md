@@ -2,7 +2,7 @@
 stylesheet: /Dimidium/Dimidium.css
 colorSchemeName: Dimidium
 colorSchemeFileName: Dimidium
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Dimidium.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Dimidium.png
 description: Dimidium color scheme
 permalink: /Dimidium/
 ---
