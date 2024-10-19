@@ -2,7 +2,7 @@
 stylesheet: /Night-Owlish-Light/Night-Owlish-Light.css
 colorSchemeName: Night Owlish Light
 colorSchemeFileName: Night-Owlish-Light
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Night_Owlish_Light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Night_Owlish_Light.png
 description: Night Owlish Light color scheme
 permalink: /Night-Owlish-Light/
 ---
