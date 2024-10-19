@@ -2,7 +2,7 @@
 stylesheet: /coffee-theme/coffee-theme.css
 colorSchemeName: coffee_theme
 colorSchemeFileName: coffee-theme
-image: /coffee-theme/coffee-theme.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/coffee_theme.png
 description: coffee_theme color scheme
 permalink: /coffee-theme/
 ---
