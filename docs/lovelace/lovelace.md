@@ -2,7 +2,7 @@
 stylesheet: /lovelace/lovelace.css
 colorSchemeName: lovelace
 colorSchemeFileName: lovelace
-image: /lovelace/lovelace.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/lovelace.png
 description: lovelace color scheme
 permalink: /lovelace/
 ---
