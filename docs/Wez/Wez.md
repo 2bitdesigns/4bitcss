@@ -2,7 +2,7 @@
 stylesheet: /Wez/Wez.css
 colorSchemeName: Wez
 colorSchemeFileName: Wez
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/wez.png
+image: /Wez/Wez.png
 description: Wez color scheme
 permalink: /Wez/
 ---
