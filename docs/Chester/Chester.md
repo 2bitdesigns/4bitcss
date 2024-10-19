@@ -2,7 +2,7 @@
 stylesheet: /Chester/Chester.css
 colorSchemeName: Chester
 colorSchemeFileName: Chester
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Chester.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Chester.png
 description: Chester color scheme
 permalink: /Chester/
 ---
