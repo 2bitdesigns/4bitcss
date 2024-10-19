@@ -2,7 +2,7 @@
 stylesheet: /Obsidian/Obsidian.css
 colorSchemeName: Obsidian
 colorSchemeFileName: Obsidian
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/obsidian.png
+image: /Obsidian/Obsidian.png
 description: Obsidian color scheme
 permalink: /Obsidian/
 ---
