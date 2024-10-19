@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Pastel-Dark/Builtin-Pastel-Dark.css
 colorSchemeName: Builtin Pastel Dark
 colorSchemeFileName: Builtin-Pastel-Dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Builtin_Pastel_Dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/builtin_pastel_dark.png
 description: Builtin Pastel Dark color scheme
 permalink: /Builtin-Pastel-Dark/
 ---
