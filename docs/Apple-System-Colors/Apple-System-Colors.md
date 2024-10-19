@@ -2,7 +2,7 @@
 stylesheet: /Apple-System-Colors/Apple-System-Colors.css
 colorSchemeName: Apple System Colors
 colorSchemeFileName: Apple-System-Colors
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/apple_system_colors.png
+image: /Apple-System-Colors/Apple-System-Colors.png
 description: Apple System Colors color scheme
 permalink: /Apple-System-Colors/
 ---
