@@ -2,7 +2,7 @@
 stylesheet: /Alabaster/Alabaster.css
 colorSchemeName: Alabaster
 colorSchemeFileName: Alabaster
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Alabaster.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/alabaster.png
 description: Alabaster color scheme
 permalink: /Alabaster/
 ---
