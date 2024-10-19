@@ -2,7 +2,7 @@
 stylesheet: /Earthsong/Earthsong.css
 colorSchemeName: Earthsong
 colorSchemeFileName: Earthsong
-image: /Earthsong/Earthsong.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Earthsong.png
 description: Earthsong color scheme
 permalink: /Earthsong/
 ---
