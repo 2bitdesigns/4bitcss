@@ -2,7 +2,7 @@
 stylesheet: /FunForrest/FunForrest.css
 colorSchemeName: FunForrest
 colorSchemeFileName: FunForrest
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/FunForrest.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/funforrest.png
 description: FunForrest color scheme
 permalink: /FunForrest/
 ---
