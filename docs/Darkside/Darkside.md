@@ -2,7 +2,7 @@
 stylesheet: /Darkside/Darkside.css
 colorSchemeName: Darkside
 colorSchemeFileName: Darkside
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Darkside.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/darkside.png
 description: Darkside color scheme
 permalink: /Darkside/
 ---
