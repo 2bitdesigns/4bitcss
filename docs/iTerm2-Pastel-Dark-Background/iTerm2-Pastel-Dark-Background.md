@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Pastel-Dark-Background/iTerm2-Pastel-Dark-Background.css
 colorSchemeName: iTerm2 Pastel Dark Background
 colorSchemeFileName: iTerm2-Pastel-Dark-Background
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iterm2_pastel_dark_background.png
+image: /iTerm2-Pastel-Dark-Background/iTerm2-Pastel-Dark-Background.png
 description: iTerm2 Pastel Dark Background color scheme
 permalink: /iTerm2-Pastel-Dark-Background/
 ---
