@@ -2,7 +2,7 @@
 stylesheet: /Hopscotch-256/Hopscotch-256.css
 colorSchemeName: Hopscotch.256
 colorSchemeFileName: Hopscotch-256
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Hopscotch.256.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Hopscotch.256.png
 description: Hopscotch.256 color scheme
 permalink: /Hopscotch-256/
 ---
