@@ -2,7 +2,7 @@
 stylesheet: /UnderTheSea/UnderTheSea.css
 colorSchemeName: UnderTheSea
 colorSchemeFileName: UnderTheSea
-image: /UnderTheSea/UnderTheSea.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/UnderTheSea.png
 description: UnderTheSea color scheme
 permalink: /UnderTheSea/
 ---
