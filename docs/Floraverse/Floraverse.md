@@ -2,7 +2,7 @@
 stylesheet: /Floraverse/Floraverse.css
 colorSchemeName: Floraverse
 colorSchemeFileName: Floraverse
-image: /Floraverse/Floraverse.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Floraverse.png
 description: Floraverse color scheme
 permalink: /Floraverse/
 ---
