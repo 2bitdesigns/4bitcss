@@ -2,7 +2,7 @@
 stylesheet: /MonaLisa/MonaLisa.css
 colorSchemeName: MonaLisa
 colorSchemeFileName: MonaLisa
-image: /MonaLisa/MonaLisa.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/MonaLisa.png
 description: MonaLisa color scheme
 permalink: /MonaLisa/
 ---
