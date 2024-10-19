@@ -2,7 +2,7 @@
 stylesheet: /WildCherry/WildCherry.css
 colorSchemeName: WildCherry
 colorSchemeFileName: WildCherry
-image: /WildCherry/WildCherry.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/WildCherry.png
 description: WildCherry color scheme
 permalink: /WildCherry/
 ---
