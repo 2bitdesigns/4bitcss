@@ -2,7 +2,7 @@
 stylesheet: /Guezwhoz/Guezwhoz.css
 colorSchemeName: Guezwhoz
 colorSchemeFileName: Guezwhoz
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/guezwhoz.png
+image: /Guezwhoz/Guezwhoz.png
 description: Guezwhoz color scheme
 permalink: /Guezwhoz/
 ---
