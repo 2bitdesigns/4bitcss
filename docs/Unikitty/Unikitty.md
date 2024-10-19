@@ -2,7 +2,7 @@
 stylesheet: /Unikitty/Unikitty.css
 colorSchemeName: Unikitty
 colorSchemeFileName: Unikitty
-image: /Unikitty/Unikitty.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Unikitty.png
 description: Unikitty color scheme
 permalink: /Unikitty/
 ---
