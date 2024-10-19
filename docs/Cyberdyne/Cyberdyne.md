@@ -2,7 +2,7 @@
 stylesheet: /Cyberdyne/Cyberdyne.css
 colorSchemeName: Cyberdyne
 colorSchemeFileName: Cyberdyne
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Cyberdyne.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Cyberdyne.png
 description: Cyberdyne color scheme
 permalink: /Cyberdyne/
 ---
