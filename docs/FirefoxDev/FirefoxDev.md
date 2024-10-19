@@ -2,7 +2,7 @@
 stylesheet: /FirefoxDev/FirefoxDev.css
 colorSchemeName: FirefoxDev
 colorSchemeFileName: FirefoxDev
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/firefoxdev.png
+image: /FirefoxDev/FirefoxDev.png
 description: FirefoxDev color scheme
 permalink: /FirefoxDev/
 ---
