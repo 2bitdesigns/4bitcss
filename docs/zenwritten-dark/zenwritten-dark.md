@@ -2,7 +2,7 @@
 stylesheet: /zenwritten-dark/zenwritten-dark.css
 colorSchemeName: zenwritten_dark
 colorSchemeFileName: zenwritten-dark
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/zenwritten_dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/zenwritten_dark.png
 description: zenwritten_dark color scheme
 permalink: /zenwritten-dark/
 ---
