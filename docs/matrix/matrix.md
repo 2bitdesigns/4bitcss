@@ -2,7 +2,7 @@
 stylesheet: /matrix/matrix.css
 colorSchemeName: matrix
 colorSchemeFileName: matrix
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/matrix.png
+image: /matrix/matrix.png
 description: matrix color scheme
 permalink: /matrix/
 ---
