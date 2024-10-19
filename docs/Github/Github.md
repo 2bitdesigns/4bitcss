@@ -2,7 +2,7 @@
 stylesheet: /Github/Github.css
 colorSchemeName: Github
 colorSchemeFileName: Github
-image: /Github/Github.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Github.png
 description: Github color scheme
 permalink: /Github/
 ---
