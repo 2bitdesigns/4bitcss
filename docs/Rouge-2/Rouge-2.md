@@ -2,7 +2,7 @@
 stylesheet: /Rouge-2/Rouge-2.css
 colorSchemeName: Rouge 2
 colorSchemeFileName: Rouge-2
-image: /Rouge-2/Rouge-2.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Rouge_2.png
 description: Rouge 2 color scheme
 permalink: /Rouge-2/
 ---
