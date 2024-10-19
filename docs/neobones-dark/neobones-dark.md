@@ -2,7 +2,7 @@
 stylesheet: /neobones-dark/neobones-dark.css
 colorSchemeName: neobones_dark
 colorSchemeFileName: neobones-dark
-image: /neobones-dark/neobones-dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/neobones_dark.png
 description: neobones_dark color scheme
 permalink: /neobones-dark/
 ---
