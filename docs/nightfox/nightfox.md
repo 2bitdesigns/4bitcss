@@ -2,7 +2,7 @@
 stylesheet: /nightfox/nightfox.css
 colorSchemeName: nightfox
 colorSchemeFileName: nightfox
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/nightfox.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/nightfox.png
 description: nightfox color scheme
 permalink: /nightfox/
 ---
