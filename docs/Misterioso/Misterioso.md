@@ -2,7 +2,7 @@
 stylesheet: /Misterioso/Misterioso.css
 colorSchemeName: Misterioso
 colorSchemeFileName: Misterioso
-image: /Misterioso/Misterioso.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Misterioso.png
 description: Misterioso color scheme
 permalink: /Misterioso/
 ---
