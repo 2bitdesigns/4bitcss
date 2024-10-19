@@ -2,7 +2,7 @@
 stylesheet: /ForestBlue/ForestBlue.css
 colorSchemeName: ForestBlue
 colorSchemeFileName: ForestBlue
-image: /ForestBlue/ForestBlue.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/ForestBlue.png
 description: ForestBlue color scheme
 permalink: /ForestBlue/
 ---
