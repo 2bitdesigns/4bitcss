@@ -2,7 +2,7 @@
 stylesheet: /Pro/Pro.css
 colorSchemeName: Pro
 colorSchemeFileName: Pro
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/pro.png
+image: /Pro/Pro.png
 description: Pro color scheme
 permalink: /Pro/
 ---
