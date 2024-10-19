@@ -2,7 +2,7 @@
 stylesheet: /seoulbones-light/seoulbones-light.css
 colorSchemeName: seoulbones_light
 colorSchemeFileName: seoulbones-light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/seoulbones_light.png
+image: /seoulbones-light/seoulbones-light.png
 description: seoulbones_light color scheme
 permalink: /seoulbones-light/
 ---
