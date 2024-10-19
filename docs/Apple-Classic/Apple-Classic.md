@@ -2,7 +2,7 @@
 stylesheet: /Apple-Classic/Apple-Classic.css
 colorSchemeName: Apple Classic
 colorSchemeFileName: Apple-Classic
-image: /Apple-Classic/Apple-Classic.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Apple_Classic.png
 description: Apple Classic color scheme
 permalink: /Apple-Classic/
 ---
