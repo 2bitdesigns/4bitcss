@@ -2,7 +2,7 @@
 stylesheet: /flexoki-dark/flexoki-dark.css
 colorSchemeName: flexoki-dark
 colorSchemeFileName: flexoki-dark
-image: /flexoki-dark/flexoki-dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/flexoki-dark.png
 description: flexoki-dark color scheme
 permalink: /flexoki-dark/
 ---
