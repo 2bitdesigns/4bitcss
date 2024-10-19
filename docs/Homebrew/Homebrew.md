@@ -2,7 +2,7 @@
 stylesheet: /Homebrew/Homebrew.css
 colorSchemeName: Homebrew
 colorSchemeFileName: Homebrew
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/homebrew.png
+image: /Homebrew/Homebrew.png
 description: Homebrew color scheme
 permalink: /Homebrew/
 ---
