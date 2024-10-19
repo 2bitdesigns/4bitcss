@@ -2,7 +2,7 @@
 stylesheet: /AdventureTime/AdventureTime.css
 colorSchemeName: AdventureTime
 colorSchemeFileName: AdventureTime
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/AdventureTime.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/adventuretime.png
 description: AdventureTime color scheme
 permalink: /AdventureTime/
 ---
