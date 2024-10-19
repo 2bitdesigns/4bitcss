@@ -2,7 +2,7 @@
 stylesheet: /NightLion-v1/NightLion-v1.css
 colorSchemeName: NightLion v1
 colorSchemeFileName: NightLion-v1
-image: /NightLion-v1/NightLion-v1.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/NightLion_v1.png
 description: NightLion v1 color scheme
 permalink: /NightLion-v1/
 ---
