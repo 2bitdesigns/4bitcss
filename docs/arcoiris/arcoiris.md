@@ -2,7 +2,7 @@
 stylesheet: /arcoiris/arcoiris.css
 colorSchemeName: arcoiris
 colorSchemeFileName: arcoiris
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/arcoiris.png
+image: /arcoiris/arcoiris.png
 description: arcoiris color scheme
 permalink: /arcoiris/
 ---
