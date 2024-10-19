@@ -2,7 +2,7 @@
 stylesheet: /Fairyfloss/Fairyfloss.css
 colorSchemeName: Fairyfloss
 colorSchemeFileName: Fairyfloss
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/fairyfloss.png
+image: /Fairyfloss/Fairyfloss.png
 description: Fairyfloss color scheme
 permalink: /Fairyfloss/
 ---
