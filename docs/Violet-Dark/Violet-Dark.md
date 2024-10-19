@@ -2,7 +2,7 @@
 stylesheet: /Violet-Dark/Violet-Dark.css
 colorSchemeName: Violet Dark
 colorSchemeFileName: Violet-Dark
-image: /Violet-Dark/Violet-Dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Violet_Dark.png
 description: Violet Dark color scheme
 permalink: /Violet-Dark/
 ---
