@@ -2,7 +2,7 @@
 stylesheet: /DoomOne/DoomOne.css
 colorSchemeName: DoomOne
 colorSchemeFileName: DoomOne
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/DoomOne.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/DoomOne.png
 description: DoomOne color scheme
 permalink: /DoomOne/
 ---
