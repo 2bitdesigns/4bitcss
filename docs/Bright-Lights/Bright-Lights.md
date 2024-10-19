@@ -2,7 +2,7 @@
 stylesheet: /Bright-Lights/Bright-Lights.css
 colorSchemeName: Bright Lights
 colorSchemeFileName: Bright-Lights
-image: /Bright-Lights/Bright-Lights.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Bright_Lights.png
 description: Bright Lights color scheme
 permalink: /Bright-Lights/
 ---
