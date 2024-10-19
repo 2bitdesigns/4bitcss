@@ -2,7 +2,7 @@
 stylesheet: /Hivacruz/Hivacruz.css
 colorSchemeName: Hivacruz
 colorSchemeFileName: Hivacruz
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/hivacruz.png
+image: /Hivacruz/Hivacruz.png
 description: Hivacruz color scheme
 permalink: /Hivacruz/
 ---
