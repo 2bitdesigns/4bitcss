@@ -2,7 +2,7 @@
 stylesheet: /rebecca/rebecca.css
 colorSchemeName: rebecca
 colorSchemeFileName: rebecca
-image: /rebecca/rebecca.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/rebecca.png
 description: rebecca color scheme
 permalink: /rebecca/
 ---
