@@ -2,7 +2,7 @@
 stylesheet: /BlulocoLight/BlulocoLight.css
 colorSchemeName: BlulocoLight
 colorSchemeFileName: BlulocoLight
-image: /BlulocoLight/BlulocoLight.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/BlulocoLight.png
 description: BlulocoLight color scheme
 permalink: /BlulocoLight/
 ---
