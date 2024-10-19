@@ -2,7 +2,7 @@
 stylesheet: /Snazzy/Snazzy.css
 colorSchemeName: Snazzy
 colorSchemeFileName: Snazzy
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/snazzy.png
+image: /Snazzy/Snazzy.png
 description: Snazzy color scheme
 permalink: /Snazzy/
 ---
