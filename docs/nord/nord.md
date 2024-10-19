@@ -2,7 +2,7 @@
 stylesheet: /nord/nord.css
 colorSchemeName: nord
 colorSchemeFileName: nord
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/nord.png
+image: /nord/nord.png
 description: nord color scheme
 permalink: /nord/
 ---
