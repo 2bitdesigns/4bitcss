@@ -2,7 +2,7 @@
 stylesheet: /Elemental/Elemental.css
 colorSchemeName: Elemental
 colorSchemeFileName: Elemental
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Elemental.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Elemental.png
 description: Elemental color scheme
 permalink: /Elemental/
 ---
