@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Smoooooth/iTerm2-Smoooooth.css
 colorSchemeName: iTerm2 Smoooooth
 colorSchemeFileName: iTerm2-Smoooooth
-image: /iTerm2-Smoooooth/iTerm2-Smoooooth.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/iTerm2_Smoooooth.png
 description: iTerm2 Smoooooth color scheme
 permalink: /iTerm2-Smoooooth/
 ---
