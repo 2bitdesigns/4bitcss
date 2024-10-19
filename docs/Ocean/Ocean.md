@@ -2,7 +2,7 @@
 stylesheet: /Ocean/Ocean.css
 colorSchemeName: Ocean
 colorSchemeFileName: Ocean
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Ocean.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Ocean.png
 description: Ocean color scheme
 permalink: /Ocean/
 ---
