@@ -2,7 +2,7 @@
 stylesheet: /Dracula+/Dracula+.css
 colorSchemeName: Dracula+
 colorSchemeFileName: Dracula+
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Dracula_plus.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Dracula_plus.png
 description: Dracula+ color scheme
 permalink: /Dracula+/
 ---
