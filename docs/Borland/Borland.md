@@ -2,7 +2,7 @@
 stylesheet: /Borland/Borland.css
 colorSchemeName: Borland
 colorSchemeFileName: Borland
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Borland.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Borland.png
 description: Borland color scheme
 permalink: /Borland/
 ---
