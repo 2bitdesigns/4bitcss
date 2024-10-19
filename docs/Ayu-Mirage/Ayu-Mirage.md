@@ -2,7 +2,7 @@
 stylesheet: /Ayu-Mirage/Ayu-Mirage.css
 colorSchemeName: Ayu Mirage
 colorSchemeFileName: Ayu-Mirage
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Ayu_Mirage.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ayu_mirage.png
 description: Ayu Mirage color scheme
 permalink: /Ayu-Mirage/
 ---
