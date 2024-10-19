@@ -2,7 +2,7 @@
 stylesheet: /Harper/Harper.css
 colorSchemeName: Harper
 colorSchemeFileName: Harper
-image: /Harper/Harper.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Harper.png
 description: Harper color scheme
 permalink: /Harper/
 ---
