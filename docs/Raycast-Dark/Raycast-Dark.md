@@ -2,7 +2,7 @@
 stylesheet: /Raycast-Dark/Raycast-Dark.css
 colorSchemeName: Raycast_Dark
 colorSchemeFileName: Raycast-Dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Raycast_Dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/raycast_dark.png
 description: Raycast_Dark color scheme
 permalink: /Raycast-Dark/
 ---
