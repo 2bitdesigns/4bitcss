@@ -2,7 +2,7 @@
 stylesheet: /Pandora/Pandora.css
 colorSchemeName: Pandora
 colorSchemeFileName: Pandora
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/pandora.png
+image: /Pandora/Pandora.png
 description: Pandora color scheme
 permalink: /Pandora/
 ---
