@@ -2,7 +2,7 @@
 stylesheet: /Violet-Light/Violet-Light.css
 colorSchemeName: Violet Light
 colorSchemeFileName: Violet-Light
-image: /Violet-Light/Violet-Light.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Violet_Light.png
 description: Violet Light color scheme
 permalink: /Violet-Light/
 ---
