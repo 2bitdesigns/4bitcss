@@ -2,7 +2,7 @@
 stylesheet: /Laser/Laser.css
 colorSchemeName: Laser
 colorSchemeFileName: Laser
-image: /Laser/Laser.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Laser.png
 description: Laser color scheme
 permalink: /Laser/
 ---
