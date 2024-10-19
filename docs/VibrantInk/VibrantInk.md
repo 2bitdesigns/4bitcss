@@ -2,7 +2,7 @@
 stylesheet: /VibrantInk/VibrantInk.css
 colorSchemeName: VibrantInk
 colorSchemeFileName: VibrantInk
-image: /VibrantInk/VibrantInk.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/VibrantInk.png
 description: VibrantInk color scheme
 permalink: /VibrantInk/
 ---
