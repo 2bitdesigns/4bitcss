@@ -2,7 +2,7 @@
 stylesheet: /Symfonic/Symfonic.css
 colorSchemeName: Symfonic
 colorSchemeFileName: Symfonic
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Symfonic.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/symfonic.png
 description: Symfonic color scheme
 permalink: /Symfonic/
 ---
