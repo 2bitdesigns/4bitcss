@@ -2,7 +2,7 @@
 stylesheet: /ToyChest/ToyChest.css
 colorSchemeName: ToyChest
 colorSchemeFileName: ToyChest
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/ToyChest.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ToyChest.png
 description: ToyChest color scheme
 permalink: /ToyChest/
 ---
