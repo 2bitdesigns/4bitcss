@@ -2,7 +2,7 @@
 stylesheet: /UltraViolent/UltraViolent.css
 colorSchemeName: UltraViolent
 colorSchemeFileName: UltraViolent
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/UltraViolent.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/UltraViolent.png
 description: UltraViolent color scheme
 permalink: /UltraViolent/
 ---
