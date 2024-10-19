@@ -2,7 +2,7 @@
 stylesheet: /Doom-Peacock/Doom-Peacock.css
 colorSchemeName: Doom Peacock
 colorSchemeFileName: Doom-Peacock
-image: /Doom-Peacock/Doom-Peacock.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Doom_Peacock.png
 description: Doom Peacock color scheme
 permalink: /Doom-Peacock/
 ---
