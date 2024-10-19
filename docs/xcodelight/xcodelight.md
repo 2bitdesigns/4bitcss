@@ -2,7 +2,7 @@
 stylesheet: /xcodelight/xcodelight.css
 colorSchemeName: xcodelight
 colorSchemeFileName: xcodelight
-image: /xcodelight/xcodelight.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/xcodelight.png
 description: xcodelight color scheme
 permalink: /xcodelight/
 ---
