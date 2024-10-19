@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Light/Builtin-Light.css
 colorSchemeName: Builtin Light
 colorSchemeFileName: Builtin-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/builtin_light.png
+image: /Builtin-Light/Builtin-Light.png
 description: Builtin Light color scheme
 permalink: /Builtin-Light/
 ---
