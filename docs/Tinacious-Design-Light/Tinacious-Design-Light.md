@@ -2,7 +2,7 @@
 stylesheet: /Tinacious-Design-Light/Tinacious-Design-Light.css
 colorSchemeName: Tinacious Design (Light)
 colorSchemeFileName: Tinacious-Design-Light
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Tinacious_Design_(Light).png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Tinacious_Design_(Light).png
 description: Tinacious Design (Light) color scheme
 permalink: /Tinacious-Design-Light/
 ---
