@@ -2,7 +2,7 @@
 stylesheet: /Konsolas/Konsolas.css
 colorSchemeName: Konsolas
 colorSchemeFileName: Konsolas
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Konsolas.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Konsolas.png
 description: Konsolas color scheme
 permalink: /Konsolas/
 ---
