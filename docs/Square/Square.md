@@ -2,7 +2,7 @@
 stylesheet: /Square/Square.css
 colorSchemeName: Square
 colorSchemeFileName: Square
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Square.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/square.png
 description: Square color scheme
 permalink: /Square/
 ---
