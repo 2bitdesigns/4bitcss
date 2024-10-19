@@ -2,7 +2,7 @@
 stylesheet: /PencilLight/PencilLight.css
 colorSchemeName: PencilLight
 colorSchemeFileName: PencilLight
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/PencilLight.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/pencillight.png
 description: PencilLight color scheme
 permalink: /PencilLight/
 ---
