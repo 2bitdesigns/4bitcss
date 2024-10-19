@@ -2,7 +2,7 @@
 stylesheet: /SpaceGray/SpaceGray.css
 colorSchemeName: SpaceGray
 colorSchemeFileName: SpaceGray
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/spacegray.png
+image: /SpaceGray/SpaceGray.png
 description: SpaceGray color scheme
 permalink: /SpaceGray/
 ---
