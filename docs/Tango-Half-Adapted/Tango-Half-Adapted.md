@@ -2,7 +2,7 @@
 stylesheet: /Tango-Half-Adapted/Tango-Half-Adapted.css
 colorSchemeName: Tango Half Adapted
 colorSchemeFileName: Tango-Half-Adapted
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Tango_Half_Adapted.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Tango_Half_Adapted.png
 description: Tango Half Adapted color scheme
 permalink: /Tango-Half-Adapted/
 ---
