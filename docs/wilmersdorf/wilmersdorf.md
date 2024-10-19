@@ -2,7 +2,7 @@
 stylesheet: /wilmersdorf/wilmersdorf.css
 colorSchemeName: wilmersdorf
 colorSchemeFileName: wilmersdorf
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/wilmersdorf.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/wilmersdorf.png
 description: wilmersdorf color scheme
 permalink: /wilmersdorf/
 ---
