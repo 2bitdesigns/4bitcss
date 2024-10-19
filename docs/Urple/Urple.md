@@ -2,7 +2,7 @@
 stylesheet: /Urple/Urple.css
 colorSchemeName: Urple
 colorSchemeFileName: Urple
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/urple.png
+image: /Urple/Urple.png
 description: Urple color scheme
 permalink: /Urple/
 ---
