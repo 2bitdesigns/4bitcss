@@ -2,7 +2,7 @@
 stylesheet: /FrontEndDelight/FrontEndDelight.css
 colorSchemeName: FrontEndDelight
 colorSchemeFileName: FrontEndDelight
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/FrontEndDelight.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/FrontEndDelight.png
 description: FrontEndDelight color scheme
 permalink: /FrontEndDelight/
 ---
