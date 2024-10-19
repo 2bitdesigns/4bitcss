@@ -2,7 +2,7 @@
 stylesheet: /Mirage/Mirage.css
 colorSchemeName: Mirage
 colorSchemeFileName: Mirage
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/mirage.png
+image: /Mirage/Mirage.png
 description: Mirage color scheme
 permalink: /Mirage/
 ---
