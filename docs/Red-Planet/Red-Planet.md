@@ -2,7 +2,7 @@
 stylesheet: /Red-Planet/Red-Planet.css
 colorSchemeName: Red Planet
 colorSchemeFileName: Red-Planet
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/red_planet.png
+image: /Red-Planet/Red-Planet.png
 description: Red Planet color scheme
 permalink: /Red-Planet/
 ---
