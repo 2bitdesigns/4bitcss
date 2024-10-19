@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Default/iTerm2-Default.css
 colorSchemeName: iTerm2 Default
 colorSchemeFileName: iTerm2-Default
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iTerm2_Default.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iterm2_default.png
 description: iTerm2 Default color scheme
 permalink: /iTerm2-Default/
 ---
