@@ -2,7 +2,7 @@
 stylesheet: /SpaceGray-Eighties/SpaceGray-Eighties.css
 colorSchemeName: SpaceGray Eighties
 colorSchemeFileName: SpaceGray-Eighties
-image: /SpaceGray-Eighties/SpaceGray-Eighties.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/SpaceGray_Eighties.png
 description: SpaceGray Eighties color scheme
 permalink: /SpaceGray-Eighties/
 ---
