@@ -2,7 +2,7 @@
 stylesheet: /Glacier/Glacier.css
 colorSchemeName: Glacier
 colorSchemeFileName: Glacier
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Glacier.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Glacier.png
 description: Glacier color scheme
 permalink: /Glacier/
 ---
