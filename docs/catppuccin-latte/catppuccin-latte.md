@@ -2,7 +2,7 @@
 stylesheet: /catppuccin-latte/catppuccin-latte.css
 colorSchemeName: catppuccin-latte
 colorSchemeFileName: catppuccin-latte
-image: /catppuccin-latte/catppuccin-latte.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/catppuccin-latte.png
 description: catppuccin-latte color scheme
 permalink: /catppuccin-latte/
 ---
