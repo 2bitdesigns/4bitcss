@@ -2,7 +2,7 @@
 stylesheet: /iceberg-light/iceberg-light.css
 colorSchemeName: iceberg-light
 colorSchemeFileName: iceberg-light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iceberg-light.png
+image: /iceberg-light/iceberg-light.png
 description: iceberg-light color scheme
 permalink: /iceberg-light/
 ---
