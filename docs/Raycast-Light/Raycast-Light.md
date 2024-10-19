@@ -2,7 +2,7 @@
 stylesheet: /Raycast-Light/Raycast-Light.css
 colorSchemeName: Raycast_Light
 colorSchemeFileName: Raycast-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/raycast_light.png
+image: /Raycast-Light/Raycast-Light.png
 description: Raycast_Light color scheme
 permalink: /Raycast-Light/
 ---
