@@ -2,7 +2,7 @@
 stylesheet: /flexoki-light/flexoki-light.css
 colorSchemeName: flexoki-light
 colorSchemeFileName: flexoki-light
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/flexoki-light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/flexoki-light.png
 description: flexoki-light color scheme
 permalink: /flexoki-light/
 ---
