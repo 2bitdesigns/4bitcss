@@ -2,7 +2,7 @@
 stylesheet: /rose-pine-moon/rose-pine-moon.css
 colorSchemeName: rose-pine-moon
 colorSchemeFileName: rose-pine-moon
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/rose-pine-moon.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/rose-pine-moon.png
 description: rose-pine-moon color scheme
 permalink: /rose-pine-moon/
 ---
