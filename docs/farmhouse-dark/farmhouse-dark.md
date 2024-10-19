@@ -2,7 +2,7 @@
 stylesheet: /farmhouse-dark/farmhouse-dark.css
 colorSchemeName: farmhouse-dark
 colorSchemeFileName: farmhouse-dark
-image: /farmhouse-dark/farmhouse-dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/farmhouse-dark.png
 description: farmhouse-dark color scheme
 permalink: /farmhouse-dark/
 ---
