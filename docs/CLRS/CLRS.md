@@ -2,7 +2,7 @@
 stylesheet: /CLRS/CLRS.css
 colorSchemeName: CLRS
 colorSchemeFileName: CLRS
-image: /CLRS/CLRS.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/CLRS.png
 description: CLRS color scheme
 permalink: /CLRS/
 ---
