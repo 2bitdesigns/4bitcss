@@ -2,7 +2,7 @@
 stylesheet: /Blazer/Blazer.css
 colorSchemeName: Blazer
 colorSchemeFileName: Blazer
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/blazer.png
+image: /Blazer/Blazer.png
 description: Blazer color scheme
 permalink: /Blazer/
 ---
