@@ -2,7 +2,7 @@
 stylesheet: /Thayer-Bright/Thayer-Bright.css
 colorSchemeName: Thayer Bright
 colorSchemeFileName: Thayer-Bright
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Thayer_Bright.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/thayer_bright.png
 description: Thayer Bright color scheme
 permalink: /Thayer-Bright/
 ---
