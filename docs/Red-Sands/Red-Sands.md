@@ -2,7 +2,7 @@
 stylesheet: /Red-Sands/Red-Sands.css
 colorSchemeName: Red Sands
 colorSchemeFileName: Red-Sands
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/red_sands.png
+image: /Red-Sands/Red-Sands.png
 description: Red Sands color scheme
 permalink: /Red-Sands/
 ---
