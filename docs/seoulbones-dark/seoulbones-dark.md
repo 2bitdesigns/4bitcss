@@ -2,7 +2,7 @@
 stylesheet: /seoulbones-dark/seoulbones-dark.css
 colorSchemeName: seoulbones_dark
 colorSchemeFileName: seoulbones-dark
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/seoulbones_dark.png
+image: /seoulbones-dark/seoulbones-dark.png
 description: seoulbones_dark color scheme
 permalink: /seoulbones-dark/
 ---
