@@ -2,7 +2,7 @@
 stylesheet: /Operator-Mono-Dark/Operator-Mono-Dark.css
 colorSchemeName: Operator Mono Dark
 colorSchemeFileName: Operator-Mono-Dark
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Operator_Mono_Dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Operator_Mono_Dark.png
 description: Operator Mono Dark color scheme
 permalink: /Operator-Mono-Dark/
 ---
