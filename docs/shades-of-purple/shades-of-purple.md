@@ -2,7 +2,7 @@
 stylesheet: /shades-of-purple/shades-of-purple.css
 colorSchemeName: shades-of-purple
 colorSchemeFileName: shades-of-purple
-image: /shades-of-purple/shades-of-purple.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/shades-of-purple.png
 description: shades-of-purple color scheme
 permalink: /shades-of-purple/
 ---
