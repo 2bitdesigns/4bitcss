@@ -2,7 +2,7 @@
 stylesheet: /IR-Black/IR-Black.css
 colorSchemeName: IR_Black
 colorSchemeFileName: IR-Black
-image: /IR-Black/IR-Black.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/IR_Black.png
 description: IR_Black color scheme
 permalink: /IR-Black/
 ---
