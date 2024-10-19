@@ -2,7 +2,7 @@
 stylesheet: /Lavandula/Lavandula.css
 colorSchemeName: Lavandula
 colorSchemeFileName: Lavandula
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Lavandula.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Lavandula.png
 description: Lavandula color scheme
 permalink: /Lavandula/
 ---
