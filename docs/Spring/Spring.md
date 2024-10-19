@@ -2,7 +2,7 @@
 stylesheet: /Spring/Spring.css
 colorSchemeName: Spring
 colorSchemeFileName: Spring
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Spring.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Spring.png
 description: Spring color scheme
 permalink: /Spring/
 ---
