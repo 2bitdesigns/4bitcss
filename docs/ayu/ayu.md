@@ -2,7 +2,7 @@
 stylesheet: /ayu/ayu.css
 colorSchemeName: ayu
 colorSchemeFileName: ayu
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/ayu.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/ayu.png
 description: ayu color scheme
 permalink: /ayu/
 ---
