@@ -2,7 +2,7 @@
 stylesheet: /iTerm2-Tango-Dark/iTerm2-Tango-Dark.css
 colorSchemeName: iTerm2 Tango Dark
 colorSchemeFileName: iTerm2-Tango-Dark
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/iTerm2_Tango_Dark.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/iTerm2_Tango_Dark.png
 description: iTerm2 Tango Dark color scheme
 permalink: /iTerm2-Tango-Dark/
 ---
