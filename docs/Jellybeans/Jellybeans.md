@@ -2,7 +2,7 @@
 stylesheet: /Jellybeans/Jellybeans.css
 colorSchemeName: Jellybeans
 colorSchemeFileName: Jellybeans
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/jellybeans.png
+image: /Jellybeans/Jellybeans.png
 description: Jellybeans color scheme
 permalink: /Jellybeans/
 ---
