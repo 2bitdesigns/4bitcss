@@ -2,7 +2,7 @@
 stylesheet: /Django/Django.css
 colorSchemeName: Django
 colorSchemeFileName: Django
-image: /Django/Django.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Django.png
 description: Django color scheme
 permalink: /Django/
 ---
