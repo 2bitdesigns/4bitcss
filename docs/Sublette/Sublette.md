@@ -2,7 +2,7 @@
 stylesheet: /Sublette/Sublette.css
 colorSchemeName: Sublette
 colorSchemeFileName: Sublette
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Sublette.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Sublette.png
 description: Sublette color scheme
 permalink: /Sublette/
 ---
