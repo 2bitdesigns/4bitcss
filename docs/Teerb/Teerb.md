@@ -2,7 +2,7 @@
 stylesheet: /Teerb/Teerb.css
 colorSchemeName: Teerb
 colorSchemeFileName: Teerb
-image: /Teerb/Teerb.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Teerb.png
 description: Teerb color scheme
 permalink: /Teerb/
 ---
