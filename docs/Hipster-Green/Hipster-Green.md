@@ -2,7 +2,7 @@
 stylesheet: /Hipster-Green/Hipster-Green.css
 colorSchemeName: Hipster Green
 colorSchemeFileName: Hipster-Green
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Hipster_Green.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Hipster_Green.png
 description: Hipster Green color scheme
 permalink: /Hipster-Green/
 ---
