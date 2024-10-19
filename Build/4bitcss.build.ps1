@@ -63,7 +63,7 @@ $allColorSchemes    = @()
 $brightColorSchemes = @()
 $darkColorSchemes   = @()
 
-$allPalletes = [Ordered]@{}
+$allPalettes = [Ordered]@{}
 
 # Walk thru each json file of a color scheme
 foreach ($jsonFile in $jsonFiles) {
@@ -98,7 +98,7 @@ foreach ($jsonFile in $jsonFiles) {
     if (-not $colorSchemeFileName) { continue }
     $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
 
-    $allPalletes[$colorSchemeFileName] = $jsonObject
+    $allPalettes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
@@ -196,13 +196,13 @@ Get-Item -Path $allDarkSchemesPath
 Get-Item -Path $allDarkSchemesPath |
     Copy-Item -Destination $DataPath -Force -PassThru
 
-$allPalletesPath = Join-Path $docsPath "Palletes.json"
-$allPalletes |
+$allPalettesPath = Join-Path $docsPath "Palettes.json"
+$allPalettes |
     ConvertTo-Json -Depth 4 -Compress |
-    Set-Content -Path $allPalletesPath
+    Set-Content -Path $allPalettesPath
 
-Get-Item -Path $allPalletesPath
-Get-Item -Path $allPalletesPath  |
+Get-Item -Path $allPalettesPath
+Get-Item -Path $allPalettesPath  |
     Copy-Item -Destination $DataPath -Force -PassThru
 
 $4bitJS = Export-4BitJS -ColorSchemeName $allColorSchemes -DarkColorSchemeName $darkColorSchemes -LightColorSchemeName $LightColorSchemeName
