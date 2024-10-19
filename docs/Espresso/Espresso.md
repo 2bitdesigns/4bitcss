@@ -2,7 +2,7 @@
 stylesheet: /Espresso/Espresso.css
 colorSchemeName: Espresso
 colorSchemeFileName: Espresso
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/espresso.png
+image: /Espresso/Espresso.png
 description: Espresso color scheme
 permalink: /Espresso/
 ---
