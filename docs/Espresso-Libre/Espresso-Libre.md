@@ -2,7 +2,7 @@
 stylesheet: /Espresso-Libre/Espresso-Libre.css
 colorSchemeName: Espresso Libre
 colorSchemeFileName: Espresso-Libre
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/espresso_libre.png
+image: /Espresso-Libre/Espresso-Libre.png
 description: Espresso Libre color scheme
 permalink: /Espresso-Libre/
 ---
