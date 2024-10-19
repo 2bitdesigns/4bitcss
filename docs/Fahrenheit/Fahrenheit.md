@@ -2,7 +2,7 @@
 stylesheet: /Fahrenheit/Fahrenheit.css
 colorSchemeName: Fahrenheit
 colorSchemeFileName: Fahrenheit
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/fahrenheit.png
+image: /Fahrenheit/Fahrenheit.png
 description: Fahrenheit color scheme
 permalink: /Fahrenheit/
 ---
