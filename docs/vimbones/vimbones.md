@@ -2,7 +2,7 @@
 stylesheet: /vimbones/vimbones.css
 colorSchemeName: vimbones
 colorSchemeFileName: vimbones
-image: /vimbones/vimbones.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/vimbones.png
 description: vimbones color scheme
 permalink: /vimbones/
 ---
