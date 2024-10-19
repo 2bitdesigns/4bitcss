@@ -2,7 +2,7 @@
 stylesheet: /Wombat/Wombat.css
 colorSchemeName: Wombat
 colorSchemeFileName: Wombat
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/wombat.png
+image: /Wombat/Wombat.png
 description: Wombat color scheme
 permalink: /Wombat/
 ---
