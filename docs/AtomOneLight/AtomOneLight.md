@@ -2,7 +2,7 @@
 stylesheet: /AtomOneLight/AtomOneLight.css
 colorSchemeName: AtomOneLight
 colorSchemeFileName: AtomOneLight
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/atomonelight.png
+image: /AtomOneLight/AtomOneLight.png
 description: AtomOneLight color scheme
 permalink: /AtomOneLight/
 ---
