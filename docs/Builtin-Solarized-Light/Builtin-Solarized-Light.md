@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Solarized-Light/Builtin-Solarized-Light.css
 colorSchemeName: Builtin Solarized Light
 colorSchemeFileName: Builtin-Solarized-Light
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/builtin_solarized_light.png
+image: /Builtin-Solarized-Light/Builtin-Solarized-Light.png
 description: Builtin Solarized Light color scheme
 permalink: /Builtin-Solarized-Light/
 ---
