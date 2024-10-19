@@ -2,7 +2,7 @@
 stylesheet: /synthwave/synthwave.css
 colorSchemeName: synthwave
 colorSchemeFileName: synthwave
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/synthwave.png
+image: /synthwave/synthwave.png
 description: synthwave color scheme
 permalink: /synthwave/
 ---
