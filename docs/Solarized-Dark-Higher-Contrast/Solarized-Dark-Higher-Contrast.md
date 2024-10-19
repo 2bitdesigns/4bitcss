@@ -2,7 +2,7 @@
 stylesheet: /Solarized-Dark-Higher-Contrast/Solarized-Dark-Higher-Contrast.css
 colorSchemeName: Solarized Dark Higher Contrast
 colorSchemeFileName: Solarized-Dark-Higher-Contrast
-image: /Solarized-Dark-Higher-Contrast/Solarized-Dark-Higher-Contrast.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Solarized_Dark_Higher_Contrast.png
 description: Solarized Dark Higher Contrast color scheme
 permalink: /Solarized-Dark-Higher-Contrast/
 ---
