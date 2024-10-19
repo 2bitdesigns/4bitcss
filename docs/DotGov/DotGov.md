@@ -2,7 +2,7 @@
 stylesheet: /DotGov/DotGov.css
 colorSchemeName: DotGov
 colorSchemeFileName: DotGov
-image: /DotGov/DotGov.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/DotGov.png
 description: DotGov color scheme
 permalink: /DotGov/
 ---
