@@ -2,7 +2,7 @@
 stylesheet: /Framer/Framer.css
 colorSchemeName: Framer
 colorSchemeFileName: Framer
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Framer.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/framer.png
 description: Framer color scheme
 permalink: /Framer/
 ---
