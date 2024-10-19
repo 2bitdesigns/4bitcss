@@ -2,7 +2,7 @@
 stylesheet: /Japanesque/Japanesque.css
 colorSchemeName: Japanesque
 colorSchemeFileName: Japanesque
-image: /Japanesque/Japanesque.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Japanesque.png
 description: Japanesque color scheme
 permalink: /Japanesque/
 ---
