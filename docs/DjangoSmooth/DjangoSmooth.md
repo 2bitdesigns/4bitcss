@@ -2,7 +2,7 @@
 stylesheet: /DjangoSmooth/DjangoSmooth.css
 colorSchemeName: DjangoSmooth
 colorSchemeFileName: DjangoSmooth
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/DjangoSmooth.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/DjangoSmooth.png
 description: DjangoSmooth color scheme
 permalink: /DjangoSmooth/
 ---
