@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Solarized-Dark/Builtin-Solarized-Dark.css
 colorSchemeName: Builtin Solarized Dark
 colorSchemeFileName: Builtin-Solarized-Dark
-image: /Builtin-Solarized-Dark/Builtin-Solarized-Dark.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Builtin_Solarized_Dark.png
 description: Builtin Solarized Dark color scheme
 permalink: /Builtin-Solarized-Dark/
 ---
