@@ -2,7 +2,7 @@
 stylesheet: /Popping-and-Locking/Popping-and-Locking.css
 colorSchemeName: Popping and Locking
 colorSchemeFileName: Popping-and-Locking
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/popping_and_locking.png
+image: /Popping-and-Locking/Popping-and-Locking.png
 description: Popping and Locking color scheme
 permalink: /Popping-and-Locking/
 ---
