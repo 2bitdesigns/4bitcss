@@ -2,7 +2,7 @@
 stylesheet: /Brogrammer/Brogrammer.css
 colorSchemeName: Brogrammer
 colorSchemeFileName: Brogrammer
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Brogrammer.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/brogrammer.png
 description: Brogrammer color scheme
 permalink: /Brogrammer/
 ---
