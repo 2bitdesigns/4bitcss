@@ -2,7 +2,7 @@
 stylesheet: /Tomorrow-Night-Blue/Tomorrow-Night-Blue.css
 colorSchemeName: Tomorrow Night Blue
 colorSchemeFileName: Tomorrow-Night-Blue
-image: /Tomorrow-Night-Blue/Tomorrow-Night-Blue.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Tomorrow_Night_Blue.png
 description: Tomorrow Night Blue color scheme
 permalink: /Tomorrow-Night-Blue/
 ---
