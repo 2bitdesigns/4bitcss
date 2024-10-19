@@ -2,7 +2,7 @@
 stylesheet: /Cobalt2/Cobalt2.css
 colorSchemeName: Cobalt2
 colorSchemeFileName: Cobalt2
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/cobalt2.png
+image: /Cobalt2/Cobalt2.png
 description: Cobalt2 color scheme
 permalink: /Cobalt2/
 ---
