@@ -2,7 +2,7 @@
 stylesheet: /BlueDolphin/BlueDolphin.css
 colorSchemeName: BlueDolphin
 colorSchemeFileName: BlueDolphin
-image: /BlueDolphin/BlueDolphin.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/BlueDolphin.png
 description: BlueDolphin color scheme
 permalink: /BlueDolphin/
 ---
