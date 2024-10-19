@@ -2,7 +2,7 @@
 stylesheet: /Shaman/Shaman.css
 colorSchemeName: Shaman
 colorSchemeFileName: Shaman
-image: /Shaman/Shaman.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Shaman.png
 description: Shaman color scheme
 permalink: /Shaman/
 ---
