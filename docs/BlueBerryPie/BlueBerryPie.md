@@ -2,7 +2,7 @@
 stylesheet: /BlueBerryPie/BlueBerryPie.css
 colorSchemeName: BlueBerryPie
 colorSchemeFileName: BlueBerryPie
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/BlueBerryPie.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/BlueBerryPie.png
 description: BlueBerryPie color scheme
 permalink: /BlueBerryPie/
 ---
