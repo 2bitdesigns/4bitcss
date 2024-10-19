@@ -2,7 +2,7 @@
 stylesheet: /Purple-Rain/Purple-Rain.css
 colorSchemeName: Purple Rain
 colorSchemeFileName: Purple-Rain
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/purple_rain.png
+image: /Purple-Rain/Purple-Rain.png
 description: Purple Rain color scheme
 permalink: /Purple-Rain/
 ---
