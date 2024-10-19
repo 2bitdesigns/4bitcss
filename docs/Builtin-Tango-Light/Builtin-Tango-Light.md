@@ -2,7 +2,7 @@
 stylesheet: /Builtin-Tango-Light/Builtin-Tango-Light.css
 colorSchemeName: Builtin Tango Light
 colorSchemeFileName: Builtin-Tango-Light
-image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Builtin_Tango_Light.png
+image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/Builtin_Tango_Light.png
 description: Builtin Tango Light color scheme
 permalink: /Builtin-Tango-Light/
 ---
