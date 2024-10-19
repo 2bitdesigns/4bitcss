@@ -2,7 +2,7 @@
 stylesheet: /Seti/Seti.css
 colorSchemeName: Seti
 colorSchemeFileName: Seti
-image: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/seti.png
+image: /Seti/Seti.png
 description: Seti color scheme
 permalink: /Seti/
 ---
