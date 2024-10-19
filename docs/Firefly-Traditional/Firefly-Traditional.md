@@ -2,7 +2,7 @@
 stylesheet: /Firefly-Traditional/Firefly-Traditional.css
 colorSchemeName: Firefly Traditional
 colorSchemeFileName: Firefly-Traditional
-image: /Firefly-Traditional/Firefly-Traditional.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/Firefly_Traditional.png
 description: Firefly Traditional color scheme
 permalink: /Firefly-Traditional/
 ---
