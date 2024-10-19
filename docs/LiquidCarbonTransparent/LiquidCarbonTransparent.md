@@ -2,7 +2,7 @@
 stylesheet: /LiquidCarbonTransparent/LiquidCarbonTransparent.css
 colorSchemeName: LiquidCarbonTransparent
 colorSchemeFileName: LiquidCarbonTransparent
-image: /LiquidCarbonTransparent/LiquidCarbonTransparent.png
+image: https://cdn.jsdelivr.net/gh/mbadolato/iTerm2-Color-Schemes@latest/screenshots/LiquidCarbonTransparent.png
 description: LiquidCarbonTransparent color scheme
 permalink: /LiquidCarbonTransparent/
 ---
