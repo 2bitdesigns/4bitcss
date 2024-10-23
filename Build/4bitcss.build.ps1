@@ -75,17 +75,19 @@ foreach ($jsonFile in $jsonFiles) {
     $colorSchemeFileName =
         $jsonObject.Name | Convert-4BitName
         
+    $creditInfo = @($colorSchemeName | GetCredits)[0]
     $jsonObject | 
-        Add-Member NoteProperty credits -Force -PassThru -Value @($colorSchemeName | GetCredits)
+        Add-Member NoteProperty creditTo -Force -PassThru -Value $creditInfo.credit |
+        Add-Member NoteProperty creditToLink -Force -Value $creditInfo.link
     
     if ($jsonObject.background) {
         $jsonObject | 
-            Add-Member NoteProperty luma -Force -PassThru -Value $($jsonObject.Background | GetLuma)
+            Add-Member NoteProperty luma -Force -Value $($jsonObject.Background | GetLuma)
     }
 
     if ($jsonObject.foreground -and $jsonObject.background) {
         $jsonObject | 
-            Add-Member NoteProperty contrast -Force -PassThru -Value $(
+            Add-Member NoteProperty contrast -Force -Value $(
                 [Math]::Abs(
                     ($jsonObject.background | GetLuma) - ($jsonObject.foreground | GetLuma)
                 )                
