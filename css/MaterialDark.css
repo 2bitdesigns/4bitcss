@@ -20,6 +20,8 @@
   --red: #b7141f;
   --black: #212121;
   --name: 'MaterialDark';
+  --Luma: 0.136971764705882;
+  --Contrast: 0.761067450980392;
   --IsBright: 0;
   --IsDark: 1;
 }
