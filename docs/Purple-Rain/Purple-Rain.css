@@ -20,6 +20,8 @@
   --red: #ff260e;
   --black: #000000;
   --name: 'Purple Rain';
+  --Luma: 0.0709027450980392;
+  --Contrast: 0.915330196078431;
   --IsBright: 0;
   --IsDark: 1;
 }
