@@ -20,6 +20,8 @@
   --red: #c70031;
   --black: #4d4d4d;
   --name: 'Kibble';
+  --Luma: 0.0593788235294118;
+  --Contrast: 0.90924862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
