@@ -20,6 +20,8 @@
   --red: #ff5555;
   --black: #000000;
   --name: 'Dark Pastel';
+  --Luma: 0;
+  --Contrast: 1;
   --IsBright: 0;
   --IsDark: 1;
 }
