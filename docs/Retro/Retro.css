@@ -20,6 +20,8 @@
   --red: #13a10e;
   --black: #13a10e;
   --name: 'Retro';
+  --Luma: 0;
+  --Contrast: 0.471362352941176;
   --IsBright: 0;
   --IsDark: 1;
 }
