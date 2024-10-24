@@ -20,8 +20,10 @@
   --red: #de3e35;
   --black: #000000;
   --name: 'AtomOneLight';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.976470588235294;
+  --Contrast: 0.803607058823529;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'AtomOneLight'; }
