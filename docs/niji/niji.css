@@ -20,6 +20,8 @@
   --red: #d23e08;
   --black: #333333;
   --name: 'niji';
+  --Luma: 0.0815192156862745;
+  --Contrast: 0.918480784313725;
   --IsBright: 0;
   --IsDark: 1;
 }
