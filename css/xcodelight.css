@@ -20,8 +20,10 @@
   --red: #d12f1b;
   --black: #b4d8fd;
   --name: 'xcodelight';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 1;
+  --Contrast: 0.850980392156863;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'xcodelight'; }
