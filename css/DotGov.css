@@ -20,6 +20,8 @@
   --red: #bf091d;
   --black: #191919;
   --name: 'DotGov';
+  --Luma: 0.170094901960784;
+  --Contrast: 0.751473725490196;
   --IsBright: 0;
   --IsDark: 1;
 }
