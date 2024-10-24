@@ -20,6 +20,8 @@
   --red: #cdaf95;
   --black: #000000;
   --name: 'Rippedcasts';
+  --Luma: 0.168627450980392;
+  --Contrast: 0.831372549019608;
   --IsBright: 0;
   --IsDark: 1;
 }
