@@ -20,6 +20,8 @@
   --red: #8c4665;
   --black: #333333;
   --name: 'Wryan';
+  --Luma: 0.0627450980392157;
+  --Contrast: 0.535556078431373;
   --IsBright: 0;
   --IsDark: 1;
 }
