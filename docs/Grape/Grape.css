@@ -20,6 +20,8 @@
   --red: #ed2261;
   --black: #2d283f;
   --name: 'Grape';
+  --Luma: 0.0851796078431372;
+  --Contrast: 0.538916078431373;
   --IsBright: 0;
   --IsDark: 1;
 }
