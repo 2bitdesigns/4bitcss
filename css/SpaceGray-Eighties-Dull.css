@@ -20,6 +20,8 @@
   --red: #b24a56;
   --black: #15171c;
   --name: 'SpaceGray Eighties Dull';
+  --Luma: 0.133333333333333;
+  --Contrast: 0.642807058823529;
   --IsBright: 0;
   --IsDark: 1;
 }
