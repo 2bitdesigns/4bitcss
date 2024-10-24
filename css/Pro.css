@@ -20,6 +20,8 @@
   --red: #990000;
   --black: #000000;
   --name: 'Pro';
+  --Luma: 0;
+  --Contrast: 0.949019607843137;
   --IsBright: 0;
   --IsDark: 1;
 }
