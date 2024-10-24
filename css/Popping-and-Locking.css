@@ -20,6 +20,8 @@
   --red: #cc241d;
   --black: #1d2021;
   --name: 'Popping and Locking';
+  --Luma: 0.0994705882352941;
+  --Contrast: 0.761083921568627;
   --IsBright: 0;
   --IsDark: 1;
 }
