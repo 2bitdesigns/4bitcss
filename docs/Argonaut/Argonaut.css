@@ -20,6 +20,8 @@
   --red: #ff000f;
   --black: #232323;
   --name: 'Argonaut';
+  --Luma: 0.0636258823529412;
+  --Contrast: 0.919236078431372;
   --IsBright: 0;
   --IsDark: 1;
 }
