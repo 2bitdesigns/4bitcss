@@ -20,6 +20,8 @@
   --red: #da2700;
   --black: #333333;
   --name: 'arcoiris';
+  --Luma: 0.122119215686274;
+  --Contrast: 0.777221176470588;
   --IsBright: 0;
   --IsDark: 1;
 }
