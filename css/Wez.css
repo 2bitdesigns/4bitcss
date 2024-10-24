@@ -20,6 +20,8 @@
   --red: #cc5555;
   --black: #000000;
   --name: 'Wez';
+  --Luma: 0;
+  --Contrast: 0.701960784313725;
   --IsBright: 0;
   --IsDark: 1;
 }
