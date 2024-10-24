@@ -20,6 +20,8 @@
   --red: #d25252;
   --black: #353535;
   --name: 'Espresso';
+  --Luma: 0.196078431372549;
+  --Contrast: 0.803921568627451;
   --IsBright: 0;
   --IsDark: 1;
 }
