@@ -20,6 +20,8 @@
   --red: #c91b00;
   --black: #000000;
   --name: 'iTerm2 Default';
+  --Luma: 0;
+  --Contrast: 1;
   --IsBright: 0;
   --IsDark: 1;
 }
