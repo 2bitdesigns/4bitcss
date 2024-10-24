@@ -20,6 +20,8 @@
   --red: #ef5734;
   --black: #2c1d16;
   --name: 'Jackie Brown';
+  --Luma: 0.124249411764706;
+  --Contrast: 0.673818039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
