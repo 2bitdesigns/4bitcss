@@ -20,6 +20,8 @@
   --red: #dd7755;
   --black: #12131e;
   --name: 'rebecca';
+  --Luma: 0.171233725490196;
+  --Contrast: 0.734376470588235;
   --IsBright: 0;
   --IsDark: 1;
 }
