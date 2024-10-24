@@ -20,6 +20,8 @@
   --red: #865f5b;
   --black: #2c3941;
   --name: 'Ryuuko';
+  --Luma: 0.214956078431373;
+  --Contrast: 0.710534117647059;
   --IsBright: 0;
   --IsDark: 1;
 }
