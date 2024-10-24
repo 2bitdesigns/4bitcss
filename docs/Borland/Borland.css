@@ -20,6 +20,8 @@
   --red: #ff6c60;
   --black: #4f4f4f;
   --name: 'Borland';
+  --Luma: 0.0464345098039216;
+  --Contrast: 0.903450196078431;
   --IsBright: 0;
   --IsDark: 1;
 }
