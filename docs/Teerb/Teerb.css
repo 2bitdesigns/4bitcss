@@ -20,6 +20,8 @@
   --red: #d68686;
   --black: #1c1c1c;
   --name: 'Teerb';
+  --Luma: 0.149019607843137;
+  --Contrast: 0.666666666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
