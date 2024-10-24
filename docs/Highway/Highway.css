@@ -20,6 +20,8 @@
   --red: #d00e18;
   --black: #000000;
   --name: 'Highway';
+  --Luma: 0.134182745098039;
+  --Contrast: 0.795229019607843;
   --IsBright: 0;
   --IsDark: 1;
 }
