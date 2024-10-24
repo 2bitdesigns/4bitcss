@@ -20,6 +20,8 @@
   --red: #ed8796;
   --black: #494d64;
   --name: 'catppuccin-macchiato';
+  --Luma: 0.155819607843137;
+  --Contrast: 0.673754509803921;
   --IsBright: 0;
   --IsDark: 1;
 }
