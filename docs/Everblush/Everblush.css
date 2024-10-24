@@ -20,6 +20,8 @@
   --red: #e57474;
   --black: #232a2d;
   --name: 'Everblush';
+  --Luma: 0.10089568627451;
+  --Contrast: 0.754006274509804;
   --IsBright: 0;
   --IsDark: 1;
 }
