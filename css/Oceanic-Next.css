@@ -20,6 +20,8 @@
   --red: #e44754;
   --black: #121c21;
   --name: 'Oceanic-Next';
+  --Luma: 0.100077647058824;
+  --Contrast: 0.620436862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
