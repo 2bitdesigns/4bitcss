@@ -20,6 +20,8 @@
   --red: #f81118;
   --black: #1f1f1f;
   --name: 'Brogrammer';
+  --Luma: 0.0745098039215686;
+  --Contrast: 0.782976470588235;
   --IsBright: 0;
   --IsDark: 1;
 }
