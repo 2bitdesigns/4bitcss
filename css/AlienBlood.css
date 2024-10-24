@@ -20,6 +20,8 @@
   --red: #7f2b27;
   --black: #112616;
   --name: 'AlienBlood';
+  --Luma: 0.0787396078431372;
+  --Contrast: 0.387514509803922;
   --IsBright: 0;
   --IsDark: 1;
 }
