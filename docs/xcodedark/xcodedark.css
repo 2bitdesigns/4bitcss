@@ -20,6 +20,8 @@
   --red: #ff8170;
   --black: #414453;
   --name: 'xcodedark';
+  --Luma: 0.165570980392157;
+  --Contrast: 0.709221960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
