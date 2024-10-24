@@ -20,6 +20,8 @@
   --red: #f9555f;
   --black: #000000;
   --name: 'Galaxy';
+  --Luma: 0.151938823529412;
+  --Contrast: 0.848061176470588;
   --IsBright: 0;
   --IsDark: 1;
 }
