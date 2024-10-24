@@ -20,6 +20,8 @@
   --red: #ff5555;
   --black: #141414;
   --name: 'Framer';
+  --Luma: 0.0666666666666667;
+  --Contrast: 0.4;
   --IsBright: 0;
   --IsDark: 1;
 }
