@@ -20,6 +20,8 @@
   --red: #aa342e;
   --black: #191919;
   --name: 'Aardvark Blue';
+  --Luma: 0.121210980392157;
+  --Contrast: 0.74545568627451;
   --IsBright: 0;
   --IsDark: 1;
 }
