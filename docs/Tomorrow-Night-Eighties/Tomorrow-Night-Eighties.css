@@ -20,6 +20,8 @@
   --red: #f2777a;
   --black: #000000;
   --name: 'Tomorrow Night Eighties';
+  --Luma: 0.176470588235294;
+  --Contrast: 0.623529411764706;
   --IsBright: 0;
   --IsDark: 1;
 }
