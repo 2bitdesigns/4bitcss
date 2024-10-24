@@ -20,6 +20,8 @@
   --red: #c6797e;
   --black: #5d5d6b;
   --name: 'Rouge 2';
+  --Luma: 0.0986635294117647;
+  --Contrast: 0.541700392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
