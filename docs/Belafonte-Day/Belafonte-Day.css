@@ -20,8 +20,10 @@
   --red: #be100e;
   --black: #20111b;
   --name: 'Belafonte Day';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.802407058823529;
+  --Contrast: 0.573632941176471;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Belafonte Day'; }
