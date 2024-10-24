@@ -20,6 +20,8 @@
   --red: #f92672;
   --black: #040303;
   --name: 'Fairyfloss';
+  --Luma: 0.343757647058824;
+  --Contrast: 0.627092549019608;
   --IsBright: 0;
   --IsDark: 1;
 }
