@@ -20,8 +20,10 @@
   --red: #a5222f;
   --black: #352c24;
   --name: 'dayfox';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.951221960784314;
+  --Contrast: 0.75428;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'dayfox'; }
