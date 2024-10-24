@@ -20,8 +20,10 @@
   --red: #aa3731;
   --black: #000000;
   --name: 'Alabaster';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.968627450980392;
+  --Contrast: 0.968627450980392;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Alabaster'; }
