@@ -20,6 +20,8 @@
   --red: #cd5c5c;
   --black: #3d352a;
   --name: 'Arthur';
+  --Luma: 0.109803921568627;
+  --Contrast: 0.804542745098039;
   --IsBright: 0;
   --IsDark: 1;
 }
