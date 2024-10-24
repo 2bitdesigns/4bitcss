@@ -20,6 +20,8 @@
   --red: #825d4d;
   --black: #757575;
   --name: 'Seafoam Pastel';
+  --Luma: 0.190865098039216;
+  --Contrast: 0.693796862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
