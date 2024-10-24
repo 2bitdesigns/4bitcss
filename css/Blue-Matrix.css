@@ -20,6 +20,8 @@
   --red: #ff5680;
   --black: #101116;
   --name: 'Blue Matrix';
+  --Luma: 0.0672486274509804;
+  --Contrast: 0.459313725490196;
   --IsBright: 0;
   --IsDark: 1;
 }
