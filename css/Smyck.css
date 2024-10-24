@@ -20,6 +20,8 @@
   --red: #b84131;
   --black: #000000;
   --name: 'Smyck';
+  --Luma: 0.105882352941176;
+  --Contrast: 0.862745098039216;
   --IsBright: 0;
   --IsDark: 1;
 }
