@@ -20,6 +20,8 @@
   --red: #ff6b7f;
   --black: #17141f;
   --name: 'Banana Blueberry';
+  --Luma: 0.0840423529411765;
+  --Contrast: 0.715957647058824;
   --IsBright: 0;
   --IsDark: 1;
 }
