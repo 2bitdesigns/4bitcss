@@ -20,6 +20,8 @@
   --red: #ff615a;
   --black: #000000;
   --name: 'Wombat';
+  --Luma: 0.0901960784313725;
+  --Contrast: 0.764926274509804;
   --IsBright: 0;
   --IsDark: 1;
 }
