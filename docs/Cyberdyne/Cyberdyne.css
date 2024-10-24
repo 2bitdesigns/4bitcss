@@ -20,6 +20,8 @@
   --red: #ff8373;
   --black: #080808;
   --name: 'Cyberdyne';
+  --Luma: 0.084441568627451;
+  --Contrast: 0.672096470588235;
   --IsBright: 0;
   --IsDark: 1;
 }
