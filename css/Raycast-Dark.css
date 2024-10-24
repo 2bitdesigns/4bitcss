@@ -20,6 +20,8 @@
   --red: #ff5360;
   --black: #000000;
   --name: 'Raycast_Dark';
+  --Luma: 0.101960784313725;
+  --Contrast: 0.898039215686275;
   --IsBright: 0;
   --IsDark: 1;
 }
