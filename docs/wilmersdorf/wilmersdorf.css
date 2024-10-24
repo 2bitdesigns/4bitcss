@@ -20,6 +20,8 @@
   --red: #e06383;
   --black: #34373e;
   --name: 'wilmersdorf';
+  --Luma: 0.16839137254902;
+  --Contrast: 0.608079215686275;
   --IsBright: 0;
   --IsDark: 1;
 }
