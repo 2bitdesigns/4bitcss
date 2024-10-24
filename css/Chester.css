@@ -20,6 +20,8 @@
   --red: #fa5e5b;
   --black: #080200;
   --name: 'Chester';
+  --Luma: 0.207108235294118;
+  --Contrast: 0.792891764705882;
   --IsBright: 0;
   --IsDark: 1;
 }
