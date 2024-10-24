@@ -20,6 +20,8 @@
   --red: #bb0000;
   --black: #4c4c4c;
   --name: 'NightLion v2';
+  --Luma: 0.0901960784313725;
+  --Contrast: 0.643137254901961;
   --IsBright: 0;
   --IsDark: 1;
 }
