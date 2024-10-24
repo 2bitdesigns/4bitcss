@@ -20,6 +20,8 @@
   --red: #ca372d;
   --black: #5a5a5a;
   --name: 'Operator Mono Dark';
+  --Luma: 0.0980392156862745;
+  --Contrast: 0.686016470588235;
   --IsBright: 0;
   --IsDark: 1;
 }
