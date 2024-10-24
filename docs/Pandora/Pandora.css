@@ -20,6 +20,8 @@
   --red: #ff4242;
   --black: #000000;
   --name: 'Pandora';
+  --Luma: 0.119785882352941;
+  --Contrast: 0.762567058823529;
   --IsBright: 0;
   --IsDark: 1;
 }
