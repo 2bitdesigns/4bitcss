@@ -20,6 +20,8 @@
   --red: #b04b57;
   --black: #000000;
   --name: 'SpaceGray';
+  --Luma: 0.140389803921569;
+  --Contrast: 0.580124705882353;
   --IsBright: 0;
   --IsDark: 1;
 }
