@@ -20,6 +20,8 @@
   --red: #ec5f66;
   --black: #000000;
   --name: 'Mariana';
+  --Luma: 0.234260392156863;
+  --Contrast: 0.63444;
   --IsBright: 0;
   --IsDark: 1;
 }
