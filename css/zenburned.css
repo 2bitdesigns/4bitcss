@@ -20,6 +20,8 @@
   --red: #e3716e;
   --black: #404040;
   --name: 'zenburned';
+  --Luma: 0.250980392156863;
+  --Contrast: 0.647196078431373;
   --IsBright: 0;
   --IsDark: 1;
 }
