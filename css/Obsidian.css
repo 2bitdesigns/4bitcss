@@ -20,6 +20,8 @@
   --red: #a60001;
   --black: #000000;
   --name: 'Obsidian';
+  --Luma: 0.182414901960784;
+  --Contrast: 0.621506666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
