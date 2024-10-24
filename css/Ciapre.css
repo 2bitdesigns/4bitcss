@@ -20,6 +20,8 @@
   --red: #810009;
   --black: #181818;
   --name: 'Ciapre';
+  --Luma: 0.110417254901961;
+  --Contrast: 0.529165490196079;
   --IsBright: 0;
   --IsDark: 1;
 }
