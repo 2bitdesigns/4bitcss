@@ -20,6 +20,8 @@
   --red: #be2d26;
   --black: #2c3f58;
   --name: 'ToyChest';
+  --Luma: 0.202703529411765;
+  --Contrast: 0.456353725490196;
   --IsBright: 0;
   --IsDark: 1;
 }
