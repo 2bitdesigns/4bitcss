@@ -20,6 +20,8 @@
   --red: #ef6487;
   --black: #535178;
   --name: 'Whimsy';
+  --Luma: 0.163076078431373;
+  --Contrast: 0.540380392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
