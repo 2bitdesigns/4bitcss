@@ -20,6 +20,8 @@
   --red: #f8b63f;
   --black: #010101;
   --name: 'Harper';
+  --Luma: 0.00392156862745098;
+  --Contrast: 0.64056862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
