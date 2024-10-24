@@ -20,6 +20,8 @@
   --red: #d9393e;
   --black: #1f1d27;
   --name: 'Duotone Dark';
+  --Luma: 0.11822431372549;
+  --Contrast: 0.558105098039216;
   --IsBright: 0;
   --IsDark: 1;
 }
