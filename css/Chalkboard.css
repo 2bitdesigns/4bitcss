@@ -20,6 +20,8 @@
   --red: #c37372;
   --black: #000000;
   --name: 'Chalkboard';
+  --Luma: 0.154069019607843;
+  --Contrast: 0.740450980392157;
   --IsBright: 0;
   --IsDark: 1;
 }
