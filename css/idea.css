@@ -20,6 +20,8 @@
   --red: #fc5256;
   --black: #adadad;
   --name: 'idea';
+  --Luma: 0.125490196078431;
+  --Contrast: 0.552941176470588;
   --IsBright: 0;
   --IsDark: 1;
 }
