@@ -20,6 +20,8 @@
   --red: #ba0004;
   --black: #1d2027;
   --name: 'farmhouse-dark';
+  --Luma: 0.124970980392157;
+  --Contrast: 0.771632156862745;
   --IsBright: 0;
   --IsDark: 1;
 }
