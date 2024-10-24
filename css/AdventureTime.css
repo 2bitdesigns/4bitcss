@@ -20,6 +20,8 @@
   --red: #bd0013;
   --black: #050404;
   --name: 'AdventureTime';
+  --Luma: 0.126718431372549;
+  --Contrast: 0.751443137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
