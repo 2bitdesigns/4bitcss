@@ -20,6 +20,8 @@
   --red: #3ddbd9;
   --black: #161616;
   --name: 'Oxocarbon';
+  --Luma: 0.0862745098039216;
+  --Contrast: 0.870053333333333;
   --IsBright: 0;
   --IsDark: 1;
 }
