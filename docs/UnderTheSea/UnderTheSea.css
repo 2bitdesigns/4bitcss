@@ -20,6 +20,8 @@
   --red: #b2302d;
   --black: #022026;
   --name: 'UnderTheSea';
+  --Luma: 0.0547427450980392;
+  --Contrast: 0.945257254901961;
   --IsBright: 0;
   --IsDark: 1;
 }
