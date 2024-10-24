@@ -20,6 +20,8 @@
   --red: #990000;
   --black: #000000;
   --name: 'Homebrew';
+  --Luma: 0;
+  --Contrast: 0.7152;
   --IsBright: 0;
   --IsDark: 1;
 }
