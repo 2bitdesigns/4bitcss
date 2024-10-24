@@ -20,6 +20,8 @@
   --red: #fc6d26;
   --black: #2e2e2e;
   --name: 'Lab Fox';
+  --Luma: 0.180392156862745;
+  --Contrast: 0.819607843137255;
   --IsBright: 0;
   --IsDark: 1;
 }
