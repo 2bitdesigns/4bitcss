@@ -20,6 +20,8 @@
   --red: #b54036;
   --black: #23252b;
   --name: 'Neutron';
+  --Luma: 0.117112156862745;
+  --Contrast: 0.793006274509804;
   --IsBright: 0;
   --IsDark: 1;
 }
