@@ -20,6 +20,8 @@
   --red: #d81e00;
   --black: #000000;
   --name: 'iTerm2 Tango Dark';
+  --Luma: 0;
+  --Contrast: 1;
   --IsBright: 0;
   --IsDark: 1;
 }
