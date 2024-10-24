@@ -20,6 +20,8 @@
   --red: #ff3f00;
   --black: #000000;
   --name: 'Red Sands';
+  --Luma: 0.213982745098039;
+  --Contrast: 0.576298039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
