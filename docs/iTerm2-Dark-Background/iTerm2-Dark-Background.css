@@ -20,6 +20,8 @@
   --red: #c91b00;
   --black: #000000;
   --name: 'iTerm2 Dark Background';
+  --Luma: 0;
+  --Contrast: 0.780392156862745;
   --IsBright: 0;
   --IsDark: 1;
 }
