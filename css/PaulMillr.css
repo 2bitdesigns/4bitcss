@@ -20,6 +20,8 @@
   --red: #ff0000;
   --black: #2a2a2a;
   --name: 'PaulMillr';
+  --Luma: 0;
+  --Contrast: 0.949019607843137;
   --IsBright: 0;
   --IsDark: 1;
 }
