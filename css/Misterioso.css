@@ -20,6 +20,8 @@
   --red: #ff4242;
   --black: #000000;
   --name: 'Misterioso';
+  --Luma: 0.210746666666667;
+  --Contrast: 0.671323137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
