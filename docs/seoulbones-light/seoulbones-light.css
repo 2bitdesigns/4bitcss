@@ -20,8 +20,10 @@
   --red: #dc5284;
   --black: #e2e2e2;
   --name: 'seoulbones_light';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.886274509803921;
+  --Contrast: 0.552941176470588;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'seoulbones_light'; }
