@@ -20,8 +20,10 @@
   --red: #ad1805;
   --black: #b4d8fd;
   --name: 'xcodelighthc';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 1;
+  --Contrast: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'xcodelighthc'; }
