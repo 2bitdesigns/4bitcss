@@ -20,6 +20,8 @@
   --red: #91002b;
   --black: #2b1b1d;
   --name: 'CrayonPonyFish';
+  --Luma: 0.039123137254902;
+  --Contrast: 0.303052549019608;
   --IsBright: 0;
   --IsDark: 1;
 }
