@@ -20,6 +20,8 @@
   --red: #fa2934;
   --black: #121212;
   --name: 'Monokai Vivid';
+  --Luma: 0.0705882352941176;
+  --Contrast: 0.905882352941176;
   --IsBright: 0;
   --IsDark: 1;
 }
