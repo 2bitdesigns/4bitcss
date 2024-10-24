@@ -20,6 +20,8 @@
   --red: #ee2b2a;
   --black: #000000;
   --name: 'OceanicMaterial';
+  --Luma: 0.142098039215686;
+  --Contrast: 0.641460392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
