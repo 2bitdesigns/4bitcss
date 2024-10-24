@@ -20,6 +20,8 @@
   --red: #d71c15;
   --black: #242424;
   --name: 'Elementary';
+  --Luma: 0.0941176470588235;
+  --Contrast: 0.843137254901961;
   --IsBright: 0;
   --IsDark: 1;
 }
