@@ -20,8 +20,10 @@
   --red: #ff0000;
   --black: #000000;
   --name: 'Tango Half Adapted';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 1;
+  --Contrast: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Tango Half Adapted'; }
