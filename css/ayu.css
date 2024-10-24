@@ -20,6 +20,8 @@
   --red: #ff3333;
   --black: #000000;
   --name: 'ayu';
+  --Luma: 0.075678431372549;
+  --Contrast: 0.805746666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
