@@ -20,6 +20,8 @@
   --red: #bc5653;
   --black: #151515;
   --name: 'Relaxed';
+  --Luma: 0.226113725490196;
+  --Contrast: 0.624866666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
