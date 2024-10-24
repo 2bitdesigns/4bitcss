@@ -20,6 +20,8 @@
   --red: #ffc0b9;
   --black: #07080d;
   --name: 'NvimDark';
+  --Luma: 0.0860227450980392;
+  --Contrast: 0.800849411764706;
   --IsBright: 0;
   --IsDark: 1;
 }
