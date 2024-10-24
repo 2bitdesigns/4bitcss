@@ -20,6 +20,8 @@
   --red: #f07178;
   --black: #000000;
   --name: 'PaleNightHC';
+  --Luma: 0.25973568627451;
+  --Contrast: 0.54026431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
