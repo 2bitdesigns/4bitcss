@@ -20,6 +20,8 @@
   --red: #e03600;
   --black: #0e101a;
   --name: 'duckbones';
+  --Luma: 0.0639090196078431;
+  --Contrast: 0.856703529411765;
   --IsBright: 0;
   --IsDark: 1;
 }
