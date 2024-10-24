@@ -20,6 +20,8 @@
   --red: #dd464c;
   --black: #322931;
   --name: 'Hopscotch';
+  --Luma: 0.170552941176471;
+  --Contrast: 0.543435294117647;
   --IsBright: 0;
   --IsDark: 1;
 }
