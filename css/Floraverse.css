@@ -20,6 +20,8 @@
   --red: #64002c;
   --black: #08002e;
   --name: 'Floraverse';
+  --Luma: 0.0540792156862745;
+  --Contrast: 0.767070588235294;
   --IsBright: 0;
   --IsDark: 1;
 }
