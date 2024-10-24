@@ -20,8 +20,10 @@
   --red: #8d0003;
   --black: #1d2027;
   --name: 'farmhouse-light';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.896603137254902;
+  --Contrast: 0.771632156862745;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'farmhouse-light'; }
