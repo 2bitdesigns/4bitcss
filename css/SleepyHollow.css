@@ -20,6 +20,8 @@
   --red: #ba3934;
   --black: #572100;
   --name: 'SleepyHollow';
+  --Luma: 0.0711545098039216;
+  --Contrast: 0.547727058823529;
   --IsBright: 0;
   --IsDark: 1;
 }
