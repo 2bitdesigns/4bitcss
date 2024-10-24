@@ -20,6 +20,8 @@
   --red: #b87a7a;
   --black: #000000;
   --name: 'Blazer';
+  --Luma: 0.091715294117647;
+  --Contrast: 0.802804705882353;
   --IsBright: 0;
   --IsDark: 1;
 }
