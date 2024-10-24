@@ -20,6 +20,8 @@
   --red: #269d1b;
   --black: #1b1d1e;
   --name: 'The Hulk';
+  --Luma: 0.112341176470588;
+  --Contrast: 0.597462745098039;
   --IsBright: 0;
   --IsDark: 1;
 }
