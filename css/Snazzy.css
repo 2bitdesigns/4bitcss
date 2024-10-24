@@ -20,6 +20,8 @@
   --red: #fc4346;
   --black: #000000;
   --name: 'Snazzy';
+  --Luma: 0.123566274509804;
+  --Contrast: 0.79939137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
