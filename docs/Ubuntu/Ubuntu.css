@@ -20,6 +20,8 @@
   --red: #cc0000;
   --black: #2e3436;
   --name: 'Ubuntu';
+  --Luma: 0.0782588235294118;
+  --Contrast: 0.854508235294118;
   --IsBright: 0;
   --IsDark: 1;
 }
