@@ -20,6 +20,8 @@
   --red: #ff2320;
   --black: #142631;
   --name: 'Cobalt Neon';
+  --Luma: 0.144718431372549;
+  --Contrast: 0.699597647058823;
   --IsBright: 0;
   --IsDark: 1;
 }
