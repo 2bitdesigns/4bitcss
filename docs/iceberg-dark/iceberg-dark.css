@@ -20,6 +20,8 @@
   --red: #e27878;
   --black: #1e2132;
   --name: 'iceberg-dark';
+  --Luma: 0.094998431372549;
+  --Contrast: 0.690196078431372;
   --IsBright: 0;
   --IsDark: 1;
 }
