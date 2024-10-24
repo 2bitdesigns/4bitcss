@@ -20,6 +20,8 @@
   --red: #d11c24;
   --black: #002831;
   --name: 'Solarized Dark Higher Contrast';
+  --Luma: 0.0951835294117647;
+  --Contrast: 0.634202352941176;
   --IsBright: 0;
   --IsDark: 1;
 }
