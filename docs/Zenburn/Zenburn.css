@@ -20,6 +20,8 @@
   --red: #705050;
   --black: #4d4d4d;
   --name: 'Zenburn';
+  --Luma: 0.247058823529412;
+  --Contrast: 0.611156078431373;
   --IsBright: 0;
   --IsDark: 1;
 }
