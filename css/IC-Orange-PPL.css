@@ -20,6 +20,8 @@
   --red: #c13900;
   --black: #000000;
   --name: 'IC_Orange_PPL';
+  --Luma: 0.149019607843137;
+  --Contrast: 0.670026666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
