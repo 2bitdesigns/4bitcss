@@ -20,6 +20,8 @@
   --red: #b34538;
   --black: #191918;
   --name: 'Hacktober';
+  --Luma: 0.0784313725490196;
+  --Contrast: 0.709803921568627;
   --IsBright: 0;
   --IsDark: 1;
 }
