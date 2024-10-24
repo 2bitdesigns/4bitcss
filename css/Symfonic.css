@@ -20,6 +20,8 @@
   --red: #dc322f;
   --black: #000000;
   --name: 'Symfonic';
+  --Luma: 0;
+  --Contrast: 1;
   --IsBright: 0;
   --IsDark: 1;
 }
