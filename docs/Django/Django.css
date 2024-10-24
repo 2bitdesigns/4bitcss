@@ -20,6 +20,8 @@
   --red: #fd6209;
   --black: #000000;
   --name: 'Django';
+  --Luma: 0.150052549019608;
+  --Contrast: 0.822496470588235;
   --IsBright: 0;
   --IsDark: 1;
 }
