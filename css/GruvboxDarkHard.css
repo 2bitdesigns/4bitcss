@@ -20,6 +20,8 @@
   --red: #cc241d;
   --black: #1b1b1b;
   --name: 'GruvboxDarkHard';
+  --Luma: 0.105882352941176;
+  --Contrast: 0.754672156862745;
   --IsBright: 0;
   --IsDark: 1;
 }
