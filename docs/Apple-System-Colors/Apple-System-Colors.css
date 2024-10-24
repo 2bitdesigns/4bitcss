@@ -20,6 +20,8 @@
   --red: #cc372e;
   --black: #1a1a1a;
   --name: 'Apple System Colors';
+  --Luma: 0.117647058823529;
+  --Contrast: 0.882352941176471;
   --IsBright: 0;
   --IsDark: 1;
 }
