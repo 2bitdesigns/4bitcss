@@ -20,6 +20,8 @@
   --red: #aa1717;
   --black: #000000;
   --name: 'Konsolas';
+  --Luma: 0.0235294117647059;
+  --Contrast: 0.739169411764706;
   --IsBright: 0;
   --IsDark: 1;
 }
