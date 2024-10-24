@@ -20,6 +20,8 @@
   --red: #cc6666;
   --black: #000000;
   --name: 'Tomorrow Night';
+  --Luma: 0.120467450980392;
+  --Contrast: 0.660778823529412;
   --IsBright: 0;
   --IsDark: 1;
 }
