@@ -20,6 +20,8 @@
   --red: #7d1625;
   --black: #230046;
   --name: 'Lavandula';
+  --Luma: 0.00983137254901961;
+  --Contrast: 0.429956862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
