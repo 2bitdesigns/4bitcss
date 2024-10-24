@@ -20,8 +20,10 @@
   --red: #f52a65;
   --black: #e9e9ed;
   --name: 'tokyonight-day';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.886856470588235;
+  --Contrast: 0.517670588235294;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'tokyonight-day'; }
