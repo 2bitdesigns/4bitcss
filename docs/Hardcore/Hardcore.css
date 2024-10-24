@@ -20,6 +20,8 @@
   --red: #f92672;
   --black: #1b1d1e;
   --name: 'Hardcore';
+  --Luma: 0.0705882352941176;
+  --Contrast: 0.556862745098039;
   --IsBright: 0;
   --IsDark: 1;
 }
