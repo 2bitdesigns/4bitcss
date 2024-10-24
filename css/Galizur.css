@@ -20,6 +20,8 @@
   --red: #aa1122;
   --black: #223344;
   --name: 'Galizur';
+  --Luma: 0.0656376470588235;
+  --Contrast: 0.85833568627451;
   --IsBright: 0;
   --IsDark: 1;
 }
