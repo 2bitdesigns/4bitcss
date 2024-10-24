@@ -20,6 +20,8 @@
   --red: #de6e7c;
   --black: #1c1917;
   --name: 'zenbones_dark';
+  --Luma: 0.0999741176470588;
+  --Contrast: 0.635397647058824;
   --IsBright: 0;
   --IsDark: 1;
 }
