@@ -20,8 +20,10 @@
   --red: #dc322f;
   --black: #073642;
   --name: 'Builtin Solarized Light';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.965162352941176;
+  --Contrast: 0.498886274509804;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Builtin Solarized Light'; }
