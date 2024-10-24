@@ -20,6 +20,8 @@
   --red: #fc644d;
   --black: #000000;
   --name: 'Rapture';
+  --Luma: 0.110206274509804;
+  --Contrast: 0.678453333333333;
   --IsBright: 0;
   --IsDark: 1;
 }
