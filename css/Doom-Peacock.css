@@ -20,6 +20,8 @@
   --red: #cb4b16;
   --black: #1c1f24;
   --name: 'Doom Peacock';
+  --Luma: 0.164690196078431;
+  --Contrast: 0.719483137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
