@@ -20,6 +20,8 @@
   --red: #c6004a;
   --black: #03073c;
   --name: 'FishTank';
+  --Luma: 0.148527058823529;
+  --Contrast: 0.793278431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
