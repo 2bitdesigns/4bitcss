@@ -20,6 +20,8 @@
   --red: #800000;
   --black: #000000;
   --name: 'Neopolitan';
+  --Luma: 0.126539607843137;
+  --Contrast: 0.873460392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
