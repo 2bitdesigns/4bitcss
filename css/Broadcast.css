@@ -20,6 +20,8 @@
   --red: #da4939;
   --black: #000000;
   --name: 'Broadcast';
+  --Luma: 0.168627450980392;
+  --Contrast: 0.716478431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
