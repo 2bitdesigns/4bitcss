@@ -20,6 +20,8 @@
   --red: #ff3030;
   --black: #000000;
   --name: 'LiquidCarbon';
+  --Luma: 0.188235294117647;
+  --Contrast: 0.556708235294118;
   --IsBright: 0;
   --IsDark: 1;
 }
