@@ -20,6 +20,8 @@
   --red: #ef6155;
   --black: #2f1e2e;
   --name: 'Paraiso Dark';
+  --Luma: 0.136350588235294;
+  --Contrast: 0.486576470588235;
   --IsBright: 0;
   --IsDark: 1;
 }
