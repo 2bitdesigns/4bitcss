@@ -20,6 +20,8 @@
   --red: #ff7092;
   --black: #000000;
   --name: 'cyberpunk';
+  --Luma: 0.184950588235294;
+  --Contrast: 0.71308862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
