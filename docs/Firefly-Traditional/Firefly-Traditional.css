@@ -20,6 +20,8 @@
   --red: #c23720;
   --black: #000000;
   --name: 'Firefly Traditional';
+  --Luma: 0;
+  --Contrast: 0.96078431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
