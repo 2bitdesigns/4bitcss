@@ -20,6 +20,8 @@
   --red: #fa5355;
   --black: #000000;
   --name: 'JetBrains Darcula';
+  --Luma: 0.125490196078431;
+  --Contrast: 0.552941176470588;
   --IsBright: 0;
   --IsDark: 1;
 }
