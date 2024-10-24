@@ -20,6 +20,8 @@
   --red: #cd0000;
   --black: #000000;
   --name: 'Abernathy';
+  --Luma: 0.0764964705882353;
+  --Contrast: 0.856270588235294;
   --IsBright: 0;
   --IsDark: 1;
 }
