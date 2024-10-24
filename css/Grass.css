@@ -20,6 +20,8 @@
   --red: #bb0000;
   --black: #000000;
   --name: 'Grass';
+  --Luma: 0.366872156862745;
+  --Contrast: 0.565574901960784;
   --IsBright: 0;
   --IsDark: 1;
 }
