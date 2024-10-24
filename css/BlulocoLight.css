@@ -20,8 +20,10 @@
   --red: #d52753;
   --black: #373a41;
   --name: 'BlulocoLight';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.976470588235294;
+  --Contrast: 0.749538823529412;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'BlulocoLight'; }
