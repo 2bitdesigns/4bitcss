@@ -20,6 +20,8 @@
   --red: #f43841;
   --black: #181818;
   --name: 'gruber-darker';
+  --Luma: 0.0941176470588235;
+  --Contrast: 0.8;
   --IsBright: 0;
   --IsDark: 1;
 }
