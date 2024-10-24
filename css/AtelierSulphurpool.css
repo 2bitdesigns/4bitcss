@@ -20,6 +20,8 @@
   --red: #c94922;
   --black: #202746;
   --name: 'AtelierSulphurpool';
+  --Luma: 0.155882352941176;
+  --Contrast: 0.461313725490196;
   --IsBright: 0;
   --IsDark: 1;
 }
