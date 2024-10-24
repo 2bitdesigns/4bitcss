@@ -20,6 +20,8 @@
   --red: #fd5ff1;
   --black: #000000;
   --name: 'Atom';
+  --Luma: 0.0899286274509804;
+  --Contrast: 0.691317647058823;
   --IsBright: 0;
   --IsDark: 1;
 }
