@@ -20,6 +20,8 @@
   --red: #cf3f61;
   --black: #343935;
   --name: 'Japanesque';
+  --Luma: 0.117647058823529;
+  --Contrast: 0.845061176470588;
   --IsBright: 0;
   --IsDark: 1;
 }
