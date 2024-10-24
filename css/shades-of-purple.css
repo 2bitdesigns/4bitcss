@@ -20,6 +20,8 @@
   --red: #d90429;
   --black: #000000;
   --name: 'shades-of-purple';
+  --Luma: 0.124469019607843;
+  --Contrast: 0.875530980392157;
   --IsBright: 0;
   --IsDark: 1;
 }
