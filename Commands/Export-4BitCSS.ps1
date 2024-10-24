@@ -233,6 +233,7 @@ function Export-4BitCSS
             # Calculate the luma of the background color
             0.2126 * $R + 0.7152 * $G + 0.0722 * $B    
         }
+        $myCmd = $MyInvocation.MyCommand
     }
 
     process {        
