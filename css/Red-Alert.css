@@ -20,6 +20,8 @@
   --red: #d62e4e;
   --black: #000000;
   --name: 'Red Alert';
+  --Luma: 0.209258823529412;
+  --Contrast: 0.790741176470588;
   --IsBright: 0;
   --IsDark: 1;
 }
