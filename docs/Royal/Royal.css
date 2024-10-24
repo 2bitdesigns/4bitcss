@@ -20,6 +20,8 @@
   --red: #91284c;
   --black: #241f2b;
   --name: 'Royal';
+  --Luma: 0.041723137254902;
+  --Contrast: 0.259998431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
