@@ -20,6 +20,8 @@
   --red: #ed1515;
   --black: #31363b;
   --name: 'Breeze';
+  --Luma: 0.209011764705882;
+  --Contrast: 0.731614117647059;
   --IsBright: 0;
   --IsDark: 1;
 }
