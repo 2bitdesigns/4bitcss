@@ -20,6 +20,8 @@
   --red: #b2302d;
   --black: #012026;
   --name: 'Shaman';
+  --Luma: 0.0508211764705882;
+  --Contrast: 0.265003921568627;
   --IsBright: 0;
   --IsDark: 1;
 }
