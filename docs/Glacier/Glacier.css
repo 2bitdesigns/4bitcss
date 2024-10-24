@@ -20,6 +20,8 @@
   --red: #bd0f2f;
   --black: #2e343c;
   --name: 'Glacier';
+  --Luma: 0.0636305882352941;
+  --Contrast: 0.936369411764706;
   --IsBright: 0;
   --IsDark: 1;
 }
