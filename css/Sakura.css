@@ -20,6 +20,8 @@
   --red: #d52370;
   --black: #000000;
   --name: 'Sakura';
+  --Luma: 0.0817929411764706;
+  --Contrast: 0.509729411764706;
   --IsBright: 0;
   --IsDark: 1;
 }
