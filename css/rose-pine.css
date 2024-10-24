@@ -20,6 +20,8 @@
   --red: #eb6f92;
   --black: #26233a;
   --name: 'rose-pine';
+  --Luma: 0.0955443137254902;
+  --Contrast: 0.782940392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
