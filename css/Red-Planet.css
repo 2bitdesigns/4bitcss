@@ -20,6 +20,8 @@
   --red: #8c3432;
   --black: #202020;
   --name: 'Red Planet';
+  --Luma: 0.133333333333333;
+  --Contrast: 0.582442352941177;
   --IsBright: 0;
   --IsDark: 1;
 }
