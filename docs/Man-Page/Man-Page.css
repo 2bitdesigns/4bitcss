@@ -20,8 +20,10 @@
   --red: #cc0000;
   --black: #000000;
   --name: 'Man Page';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.940283921568627;
+  --Contrast: 0.940283921568627;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Man Page'; }
