@@ -20,6 +20,8 @@
   --red: #ed8274;
   --black: #191e2a;
   --name: 'Ayu Mirage';
+  --Luma: 0.140405490196078;
+  --Contrast: 0.657061960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
