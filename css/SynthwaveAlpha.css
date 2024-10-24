@@ -20,6 +20,8 @@
   --red: #e60a70;
   --black: #241b30;
   --name: 'SynthwaveAlpha';
+  --Luma: 0.119331764705882;
+  --Contrast: 0.825440784313725;
   --IsBright: 0;
   --IsDark: 1;
 }
