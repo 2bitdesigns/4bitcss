@@ -20,6 +20,8 @@
   --red: #b84d51;
   --black: #2a2e33;
   --name: 'Hybrid';
+  --Luma: 0.0899286274509804;
+  --Contrast: 0.64259137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
