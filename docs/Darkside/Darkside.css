@@ -20,6 +20,8 @@
   --red: #e8341c;
   --black: #000000;
   --name: 'Darkside';
+  --Luma: 0.13670431372549;
+  --Contrast: 0.592707450980392;
   --IsBright: 0;
   --IsDark: 1;
 }
