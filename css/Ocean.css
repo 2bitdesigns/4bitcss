@@ -20,6 +20,8 @@
   --red: #990000;
   --black: #000000;
   --name: 'Ocean';
+  --Luma: 0.303148235294118;
+  --Contrast: 0.696851764705882;
   --IsBright: 0;
   --IsDark: 1;
 }
