@@ -20,6 +20,8 @@
   --red: #be3f48;
   --black: #3a3d43;
   --name: 'DimmedMonokai';
+  --Luma: 0.12156862745098;
+  --Contrast: 0.612618823529412;
   --IsBright: 0;
   --IsDark: 1;
 }
