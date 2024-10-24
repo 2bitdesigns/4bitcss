@@ -20,6 +20,8 @@
   --red: #f5a191;
   --black: #101010;
   --name: 'Vesper';
+  --Luma: 0.0627450980392157;
+  --Contrast: 0.937254901960784;
   --IsBright: 0;
   --IsDark: 1;
 }
