@@ -20,6 +20,8 @@
   --red: #f7768e;
   --black: #1d202f;
   --name: 'tokyonight-storm';
+  --Luma: 0.158907450980392;
+  --Contrast: 0.637087058823529;
   --IsBright: 0;
   --IsDark: 1;
 }
