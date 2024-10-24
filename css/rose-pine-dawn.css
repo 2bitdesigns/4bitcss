@@ -20,8 +20,10 @@
   --red: #b4637a;
   --black: #f2e9e1;
   --name: 'rose-pine-dawn';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.959883137254902;
+  --Contrast: 0.623103529411765;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine-dawn'; }
