@@ -20,6 +20,8 @@
   --red: #f37f97;
   --black: #282a36;
   --name: 'lovelace';
+  --Luma: 0.122449411764706;
+  --Contrast: 0.869707450980392;
   --IsBright: 0;
   --IsDark: 1;
 }
