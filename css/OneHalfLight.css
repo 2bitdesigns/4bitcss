@@ -20,8 +20,10 @@
   --red: #e45649;
   --black: #383a42;
   --name: 'OneHalfLight';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.980392156862745;
+  --Contrast: 0.752343529411765;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'OneHalfLight'; }
