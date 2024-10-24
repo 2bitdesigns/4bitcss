@@ -20,6 +20,8 @@
   --red: #d14d41;
   --black: #1c1b1a;
   --name: 'flexoki-dark';
+  --Luma: 0.106432941176471;
+  --Contrast: 0.695490980392157;
   --IsBright: 0;
   --IsDark: 1;
 }
