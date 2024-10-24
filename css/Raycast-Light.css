@@ -20,8 +20,10 @@
   --red: #b12424;
   --black: #000000;
   --name: 'Raycast_Light';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 1;
+  --Contrast: 1;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'Raycast_Light'; }
