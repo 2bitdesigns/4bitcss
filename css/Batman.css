@@ -20,6 +20,8 @@
   --red: #e6dc44;
   --black: #1b1d1e;
   --name: 'Batman';
+  --Luma: 0.112341176470588;
+  --Contrast: 0.322952941176471;
   --IsBright: 0;
   --IsDark: 1;
 }
