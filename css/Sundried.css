@@ -20,6 +20,8 @@
   --red: #a7463d;
   --black: #302b2a;
   --name: 'Sundried';
+  --Luma: 0.0957850980392157;
+  --Contrast: 0.692450196078431;
   --IsBright: 0;
   --IsDark: 1;
 }
