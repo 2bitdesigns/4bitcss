@@ -20,6 +20,8 @@
   --red: #d6262b;
   --black: #000000;
   --name: 'FunForrest';
+  --Luma: 0.0813325490196078;
+  --Contrast: 0.673659607843137;
   --IsBright: 0;
   --IsDark: 1;
 }
