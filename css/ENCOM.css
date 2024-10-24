@@ -20,6 +20,8 @@
   --red: #9f0000;
   --black: #000000;
   --name: 'ENCOM';
+  --Luma: 0;
+  --Contrast: 0.504963921568627;
   --IsBright: 0;
   --IsDark: 1;
 }
