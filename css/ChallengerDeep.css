@@ -20,6 +20,8 @@
   --red: #ff5458;
   --black: #141228;
   --name: 'ChallengerDeep';
+  --Luma: 0.117417254901961;
+  --Contrast: 0.748292549019608;
   --IsBright: 0;
   --IsDark: 1;
 }
