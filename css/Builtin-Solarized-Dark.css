@@ -20,6 +20,8 @@
   --red: #dc322f;
   --black: #073642;
   --name: 'Builtin Solarized Dark';
+  --Luma: 0.135891764705882;
+  --Contrast: 0.430893333333333;
   --IsBright: 0;
   --IsDark: 1;
 }
