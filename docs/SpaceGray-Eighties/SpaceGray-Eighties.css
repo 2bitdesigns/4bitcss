@@ -20,6 +20,8 @@
   --red: #ec5f67;
   --black: #15171c;
   --name: 'SpaceGray Eighties';
+  --Luma: 0.133333333333333;
+  --Contrast: 0.595181960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
