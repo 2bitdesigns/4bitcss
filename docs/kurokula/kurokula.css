@@ -20,6 +20,8 @@
   --red: #b66056;
   --black: #333333;
   --name: 'kurokula';
+  --Luma: 0.0815192156862745;
+  --Contrast: 0.741607843137255;
   --IsBright: 0;
   --IsDark: 1;
 }
