@@ -20,6 +20,8 @@
   --red: #e74669;
   --black: #353535;
   --name: 'Peppermint';
+  --Luma: 0;
+  --Contrast: 0.784313725490196;
   --IsBright: 0;
   --IsDark: 1;
 }
