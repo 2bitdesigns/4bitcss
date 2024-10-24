@@ -20,8 +20,10 @@
   --red: #a8334c;
   --black: #f0edec;
   --name: 'zenbones_light';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.931629803921569;
+  --Contrast: 0.726503529411765;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'zenbones_light'; }
