@@ -20,6 +20,8 @@
   --red: #fa6c60;
   --black: #4f4f4f;
   --name: 'IR_Black';
+  --Luma: 0;
+  --Contrast: 0.945098039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
