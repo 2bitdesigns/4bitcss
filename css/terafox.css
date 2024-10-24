@@ -20,6 +20,8 @@
   --red: #e85c51;
   --black: #2f3239;
   --name: 'terafox';
+  --Luma: 0.132607843137255;
+  --Contrast: 0.78170431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
