@@ -20,6 +20,8 @@
   --red: #f0266f;
   --black: #23262e;
   --name: 'Aurora';
+  --Luma: 0.148783529411765;
+  --Contrast: 0.641692549019608;
   --IsBright: 0;
   --IsDark: 1;
 }
