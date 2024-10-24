@@ -20,6 +20,8 @@
   --red: #cf494c;
   --black: #000000;
   --name: 'Dimidium';
+  --Luma: 0.0784313725490196;
+  --Contrast: 0.641433725490196;
   --IsBright: 0;
   --IsDark: 1;
 }
