@@ -20,6 +20,8 @@
   --red: #ffa7c4;
   --black: #0a1222;
   --name: 'Overnight Slumber';
+  --Luma: 0.0877890196078431;
+  --Contrast: 0.733538039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
