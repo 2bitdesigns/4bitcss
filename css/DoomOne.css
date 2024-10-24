@@ -20,6 +20,8 @@
   --red: #ff6c6b;
   --black: #000000;
   --name: 'DoomOne';
+  --Luma: 0.171479215686274;
+  --Contrast: 0.587149803921569;
   --IsBright: 0;
   --IsDark: 1;
 }
