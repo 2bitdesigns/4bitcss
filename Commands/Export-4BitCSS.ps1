@@ -5,6 +5,28 @@ function Export-4BitCSS
         Exports 4bitCSS
     .DESCRIPTION        
         Converts a color scheme into 4bitCSS and outputs a .CSS file.
+    .EXAMPLE
+        $palette = @{            
+            Foreground = '#FFFFFF'
+            Background = '#010101'
+            Black = '#000420'
+            Red = '#ff4422'
+            Green = '#008100'
+            Yellow = '#e68d00'
+            Blue = '#4488ff'
+            Purple = '#844284'
+            Cyan = '#008080'
+            White = '#efefef'
+            BrightBlack = '#808080'
+            BrightRed = '#e50000'
+            BrightGreen = '#44ff22'
+            BrightYellow = '#e6d600'
+            BrightBlue = '#004cff'
+            BrightPurple = '#760188'
+            BrightCyan = '#42F4F4'
+            BrightWhite = '#FFFFFF'
+        }
+        Export-4bitcss -Name 4bit @palette -OutputPath .\4bit
     #>
     [Alias('Template.CSS.4Bit','Template.4bit.css')]
     param(
@@ -150,7 +172,7 @@ function Export-4BitCSS
     [Parameter(ValueFromPipelineByPropertyName)]
     [ComponentModel.DefaultBindingProperty("selectionBackground")]
     [string]
-    $SelectionBackground,
+    $SelectionBackground,    
 
     # The output path.  If not specified, will output to the current directory.
     [string]
@@ -198,7 +220,22 @@ function Export-4BitCSS
     $Minimal    
     )
 
-    process {
+    begin {
+        filter GetLuma {
+            $colorString = $_
+            # Convert the background color to a uint32
+            $rgb = ($colorString -replace "#", "0x" -replace ';') -as [UInt32]
+            # then make it into a percentage red, green, and blue.
+            $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
+                ([float][byte](($rgb -band 0x00ff00) -shr 8)/255),
+                ([float][byte]($rgb -band 0x0000ff)/255)
+        
+            # Calculate the luma of the background color
+            0.2126 * $R + 0.7152 * $G + 0.0722 * $B    
+        }
+    }
+
+    process {        
         if (-not $OutputPath) {
             $OutputPath = 
                 if ($MyInvocation.MyCommand.ScriptBlock.Module) {
@@ -211,10 +248,7 @@ function Export-4BitCSS
         if (-not (Test-Path $OutputPath)) {
             $null = New-Item -ItemType Directory -Force -Path $OutputPath
         }
-
-        # get a reference to this command
-        $myCmd = $MyInvocation.MyCommand
-
+        
         $jsonObject = [Ordered]@{}
         
         $ColorOrder = @(
@@ -238,7 +272,12 @@ function Export-4BitCSS
             }
         }
 
+        $jsonObject['Luma'] = $Background | Get-Luma
+        $jsonObject['Contrast'] = [Math]::Abs(($foreground | GetLuma) - $jsonObject['Luma'])
         $jsonObject = [PSCustomObject]$jsonObject
+        
+        # and determine if it is bright or dark.
+        $IsBright = $luma -ge .4
 
         if ($Minimal) {
             $NoStream = $true
@@ -248,26 +287,22 @@ function Export-4BitCSS
             $NoStroke = $true
             $NoBackgroundColor = $true
             $NoStyle = $true            
-        }
-    
-        $rgb = ($Background -replace "#", "0x" -replace ';') -as [UInt32]
-        $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
-            ([float][byte](($rgb -band 0x00ff00) -shr 8)/255),
-            ([float][byte]($rgb -band 0x0000ff)/255)
-
-        $Luma = 0.2126 * $R + 0.7152 * $G + 0.0722 * $B
-        $IsBright = $luma -gt .5
+        }            
         
+        # Generate a CSS file name for the color scheme
         $cssFile    = (Join-Path $OutputPath "$($name | Convert-4BitName).css")
+        # Generate a CSS class name for the color palette
+        # replacing space and leading digits with an underscore.
         $className  = $Name -replace '\s' -replace '^\d', '_$0'
 
+        # Generate the CSS content
         $cssContent = @(
-            @"
+@"
 :root {
   $(@(
     foreach ($prop in $jsonObject.psobject.properties) {
         if ($prop.Name -eq 'Name') {
-            "--$($prop.Name): '$($prop.Value)'"            
+            "--$($prop.Name): '$($prop.Value)'"
         } else {
             "--$($prop.Name): $($prop.Value)"
         }    
