@@ -20,6 +20,8 @@
   --red: #c22832;
   --black: #323232;
   --name: 'Seti';
+  --Luma: 0.0700376470588235;
+  --Contrast: 0.734187450980392;
   --IsBright: 0;
   --IsDark: 1;
 }
