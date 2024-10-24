@@ -20,6 +20,8 @@
   --red: #ff8288;
   --black: #292d3e;
   --name: 'BlueDolphin';
+  --Luma: 0.331868235294118;
+  --Contrast: 0.583314509803922;
   --IsBright: 0;
   --IsDark: 1;
 }
