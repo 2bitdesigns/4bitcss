@@ -20,6 +20,8 @@
   --red: #e63853;
   --black: #002831;
   --name: 'FirefoxDev';
+  --Luma: 0.0613607843137255;
+  --Contrast: 0.48952862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
