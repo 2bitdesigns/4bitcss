@@ -273,7 +273,7 @@ function Export-4BitCSS
             }
         }
 
-        $jsonObject['Luma'] = $Background | Get-Luma
+        $jsonObject['Luma'] = $Background | GetLuma
         $jsonObject['Contrast'] = [Math]::Abs(($foreground | GetLuma) - $jsonObject['Luma'])
         $jsonObject = [PSCustomObject]$jsonObject
         
