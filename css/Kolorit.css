@@ -20,6 +20,8 @@
   --red: #ff5b82;
   --black: #1d1a1e;
   --name: 'Kolorit';
+  --Luma: 0.105594509803922;
+  --Contrast: 0.822396862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
