@@ -20,6 +20,8 @@
   --red: #fd6209;
   --black: #000000;
   --name: 'DjangoRebornAgain';
+  --Luma: 0.0967772549019608;
+  --Contrast: 0.769909803921568;
   --IsBright: 0;
   --IsDark: 1;
 }
