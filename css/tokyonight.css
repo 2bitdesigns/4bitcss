@@ -20,6 +20,8 @@
   --red: #f7768e;
   --black: #15161e;
   --name: 'tokyonight';
+  --Luma: 0.108163137254902;
+  --Contrast: 0.687831372549019;
   --IsBright: 0;
   --IsDark: 1;
 }
