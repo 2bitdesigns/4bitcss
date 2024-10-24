@@ -20,6 +20,8 @@
   --red: #ea3356;
   --black: #101116;
   --name: 'CyberpunkScarletProtocol';
+  --Luma: 0.0672486274509804;
+  --Contrast: 0.279432941176471;
   --IsBright: 0;
   --IsDark: 1;
 }
