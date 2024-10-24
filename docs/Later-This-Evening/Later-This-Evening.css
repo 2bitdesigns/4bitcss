@@ -20,6 +20,8 @@
   --red: #d45a60;
   --black: #2b2b2b;
   --name: 'Later This Evening';
+  --Luma: 0.133333333333333;
+  --Contrast: 0.450980392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
