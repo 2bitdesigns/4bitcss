@@ -20,6 +20,8 @@
   --red: #c91b00;
   --black: #000000;
   --name: 'Apple Classic';
+  --Luma: 0.169461176470588;
+  --Contrast: 0.462484705882353;
   --IsBright: 0;
   --IsDark: 1;
 }
