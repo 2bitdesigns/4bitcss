@@ -20,6 +20,8 @@
   --red: #c30771;
   --black: #212121;
   --name: 'PencilDark';
+  --Luma: 0.129411764705882;
+  --Contrast: 0.815686274509804;
   --IsBright: 0;
   --IsDark: 1;
 }
