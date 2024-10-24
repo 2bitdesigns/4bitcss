@@ -20,6 +20,8 @@
   --red: #b64c00;
   --black: #000000;
   --name: 'Medallion';
+  --Luma: 0.0965607843137255;
+  --Contrast: 0.658435294117647;
   --IsBright: 0;
   --IsDark: 1;
 }
