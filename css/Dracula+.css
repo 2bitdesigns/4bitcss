@@ -20,6 +20,8 @@
   --red: #ff5555;
   --black: #21222c;
   --name: 'Dracula+';
+  --Luma: 0.129411764705882;
+  --Contrast: 0.841438431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
