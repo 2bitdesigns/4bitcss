@@ -20,6 +20,8 @@
   --red: #a36666;
   --black: #2f2e2d;
   --name: 'Pnevma';
+  --Luma: 0.109803921568627;
+  --Contrast: 0.705882352941176;
   --IsBright: 0;
   --IsDark: 1;
 }
