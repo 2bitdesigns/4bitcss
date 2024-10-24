@@ -20,6 +20,8 @@
   --red: #d95360;
   --black: #585f6d;
   --name: 'Firewatch';
+  --Luma: 0.125804705882353;
+  --Contrast: 0.508183529411765;
   --IsBright: 0;
   --IsDark: 1;
 }
