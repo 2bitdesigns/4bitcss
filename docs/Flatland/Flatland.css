@@ -20,6 +20,8 @@
   --red: #f18339;
   --black: #1d1d19;
   --name: 'Flatland';
+  --Luma: 0.120467450980392;
+  --Contrast: 0.714838431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
