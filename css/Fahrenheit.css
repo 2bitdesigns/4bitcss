@@ -20,6 +20,8 @@
   --red: #cda074;
   --black: #1d1d1d;
   --name: 'Fahrenheit';
+  --Luma: 0;
+  --Contrast: 0.986126274509804;
   --IsBright: 0;
   --IsDark: 1;
 }
