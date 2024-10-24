@@ -20,6 +20,8 @@
   --red: #cd3131;
   --black: #000000;
   --name: 'Andromeda';
+  --Luma: 0.163919215686275;
+  --Contrast: 0.73412;
   --IsBright: 0;
   --IsDark: 1;
 }
