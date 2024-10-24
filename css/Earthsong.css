@@ -20,6 +20,8 @@
   --red: #c94234;
   --black: #121418;
   --name: 'Earthsong';
+  --Luma: 0.147017254901961;
+  --Contrast: 0.649892549019608;
   --IsBright: 0;
   --IsDark: 1;
 }
