@@ -20,6 +20,8 @@
   --red: #ff9999;
   --black: #011627;
   --name: 'Mirage';
+  --Luma: 0.147749803921569;
+  --Contrast: 0.54424862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
