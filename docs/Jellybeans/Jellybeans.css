@@ -20,6 +20,8 @@
   --red: #e27373;
   --black: #929292;
   --name: 'Jellybeans';
+  --Luma: 0.0705882352941176;
+  --Contrast: 0.8;
   --IsBright: 0;
   --IsDark: 1;
 }
