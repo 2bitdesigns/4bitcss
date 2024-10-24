@@ -20,6 +20,8 @@
   --red: #f8511b;
   --black: #242526;
   --name: 'FrontEndDelight';
+  --Luma: 0.109253333333333;
+  --Contrast: 0.569178039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
