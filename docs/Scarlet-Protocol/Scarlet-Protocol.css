@@ -20,6 +20,8 @@
   --red: #ff0051;
   --black: #101116;
   --name: 'Scarlet Protocol';
+  --Luma: 0.0995145098039216;
+  --Contrast: 0.183626666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
