@@ -20,6 +20,8 @@
   --red: #98290f;
   --black: #3c3c30;
   --name: 'Elemental';
+  --Luma: 0.129112941176471;
+  --Contrast: 0.352621960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
