@@ -20,6 +20,8 @@
   --red: #f56e7f;
   --black: #000000;
   --name: 'CutiePro';
+  --Luma: 0.0941176470588235;
+  --Contrast: 0.723755294117647;
   --IsBright: 0;
   --IsDark: 1;
 }
