@@ -20,8 +20,10 @@
   --red: #db2d20;
   --black: #090300;
   --name: '3024 Day';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.968627450980392;
+  --Contrast: 0.694436862745098;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: '3024 Day'; }
