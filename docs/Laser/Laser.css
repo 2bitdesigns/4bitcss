@@ -20,6 +20,8 @@
   --red: #ff8373;
   --black: #626262;
   --name: 'Laser';
+  --Luma: 0.0457576470588235;
+  --Contrast: 0.236270588235294;
   --IsBright: 0;
   --IsDark: 1;
 }
