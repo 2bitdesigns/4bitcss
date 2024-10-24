@@ -20,6 +20,8 @@
   --red: #a82320;
   --black: #222d3f;
   --name: 'Flat';
+  --Luma: 0.113480784313725;
+  --Contrast: 0.502061960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
