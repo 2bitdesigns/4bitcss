@@ -20,6 +20,8 @@
   --red: #ff2b2b;
   --black: #4d4d4d;
   --name: 'Desert';
+  --Luma: 0.2;
+  --Contrast: 0.8;
   --IsBright: 0;
   --IsDark: 1;
 }
