@@ -20,6 +20,8 @@
   --red: #705050;
   --black: #25234f;
   --name: 'Vaughn';
+  --Luma: 0.151380392156863;
+  --Contrast: 0.706834509803922;
   --IsBright: 0;
   --IsDark: 1;
 }
