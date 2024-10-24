@@ -20,6 +20,8 @@
   --red: #fa2573;
   --black: #121212;
   --name: 'Molokai';
+  --Luma: 0.0705882352941176;
+  --Contrast: 0.662745098039216;
   --IsBright: 0;
   --IsDark: 1;
 }
