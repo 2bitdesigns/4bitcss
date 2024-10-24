@@ -20,6 +20,8 @@
   --red: #fd6209;
   --black: #000000;
   --name: 'DjangoSmooth';
+  --Luma: 0.268547450980392;
+  --Contrast: 0.704001568627451;
   --IsBright: 0;
   --IsDark: 1;
 }
