@@ -20,6 +20,8 @@
   --red: #e24346;
   --black: #000000;
   --name: 'WarmNeon';
+  --Luma: 0.250980392156863;
+  --Contrast: 0.557878431372549;
   --IsBright: 0;
   --IsDark: 1;
 }
