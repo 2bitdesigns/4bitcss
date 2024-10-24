@@ -20,8 +20,10 @@
   --red: #af3029;
   --black: #100f0f;
   --name: 'flexoki-light';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.987338823529412;
+  --Contrast: 0.927681568627451;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'flexoki-light'; }
