@@ -20,6 +20,8 @@
   --red: #e9897c;
   --black: #050505;
   --name: 'Square';
+  --Luma: 0.101960784313725;
+  --Contrast: 0.572265882352941;
   --IsBright: 0;
   --IsDark: 1;
 }
