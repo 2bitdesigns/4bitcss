@@ -20,6 +20,8 @@
   --red: #cd3131;
   --black: #000000;
   --name: 'Dark+';
+  --Luma: 0.117647058823529;
+  --Contrast: 0.682352941176471;
   --IsBright: 0;
   --IsDark: 1;
 }
