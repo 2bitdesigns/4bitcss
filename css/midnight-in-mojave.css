@@ -20,6 +20,8 @@
   --red: #ff453a;
   --black: #1e1e1e;
   --name: 'midnight-in-mojave';
+  --Luma: 0.117647058823529;
+  --Contrast: 0.882352941176471;
   --IsBright: 0;
   --IsDark: 1;
 }
