@@ -20,8 +20,10 @@
   --red: #590008;
   --black: #07080d;
   --name: 'NvimLight';
-  --IsBright: 1;
-  --IsDark: 0;
+  --Luma: 0.886872156862745;
+  --Contrast: 0.800849411764706;
+  --IsBright: 0;
+  --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'NvimLight'; }
