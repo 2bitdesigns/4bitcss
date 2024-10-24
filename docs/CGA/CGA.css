@@ -20,6 +20,8 @@
   --red: #aa0000;
   --black: #000000;
   --name: 'CGA';
+  --Luma: 0;
+  --Contrast: 0.666666666666667;
   --IsBright: 0;
   --IsDark: 1;
 }
