@@ -20,6 +20,8 @@
   --red: #ff355b;
   --black: #191919;
   --name: 'Bright Lights';
+  --Luma: 0.0980392156862745;
+  --Contrast: 0.675818039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
