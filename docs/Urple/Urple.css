@@ -20,6 +20,8 @@
   --red: #b0425b;
   --black: #000000;
   --name: 'Urple';
+  --Luma: 0.108147450980392;
+  --Contrast: 0.390465882352941;
   --IsBright: 0;
   --IsDark: 1;
 }
