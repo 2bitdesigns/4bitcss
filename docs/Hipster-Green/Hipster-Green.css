@@ -20,6 +20,8 @@
   --red: #b6214a;
   --black: #000000;
   --name: 'Hipster Green';
+  --Luma: 0.0456070588235294;
+  --Contrast: 0.62160862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
