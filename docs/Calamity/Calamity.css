@@ -20,6 +20,8 @@
   --red: #fc644d;
   --black: #2f2833;
   --name: 'Calamity';
+  --Luma: 0.165813333333333;
+  --Contrast: 0.650980392156863;
   --IsBright: 0;
   --IsDark: 1;
 }
