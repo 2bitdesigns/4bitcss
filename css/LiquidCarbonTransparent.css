@@ -20,6 +20,8 @@
   --red: #ff3030;
   --black: #000000;
   --name: 'LiquidCarbonTransparent';
+  --Luma: 0;
+  --Contrast: 0.744943529411765;
   --IsBright: 0;
   --IsDark: 1;
 }
