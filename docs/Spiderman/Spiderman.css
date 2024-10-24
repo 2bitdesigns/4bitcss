@@ -20,6 +20,8 @@
   --red: #e60813;
   --black: #1b1d1e;
   --name: 'Spiderman';
+  --Luma: 0.112341176470588;
+  --Contrast: 0.777854901960784;
   --IsBright: 0;
   --IsDark: 1;
 }
