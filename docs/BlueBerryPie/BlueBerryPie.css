@@ -20,6 +20,8 @@
   --red: #99246e;
   --black: #0a4c62;
   --name: 'BlueBerryPie';
+  --Luma: 0.0683262745098039;
+  --Contrast: 0.660802352941177;
   --IsBright: 0;
   --IsDark: 1;
 }
