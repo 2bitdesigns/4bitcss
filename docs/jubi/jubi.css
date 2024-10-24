@@ -20,6 +20,8 @@
   --red: #cf7b98;
   --black: #3b3750;
   --name: 'jubi';
+  --Luma: 0.166723921568627;
+  --Contrast: 0.650501960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
