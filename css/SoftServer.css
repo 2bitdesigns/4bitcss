@@ -20,6 +20,8 @@
   --red: #a2686a;
   --black: #000000;
   --name: 'SoftServer';
+  --Luma: 0.147352156862745;
+  --Contrast: 0.483243137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
