@@ -20,6 +20,8 @@
   --red: #e78284;
   --black: #51576d;
   --name: 'catppuccin-frappe';
+  --Luma: 0.205683137254902;
+  --Contrast: 0.612141960784314;
   --IsBright: 0;
   --IsDark: 1;
 }
