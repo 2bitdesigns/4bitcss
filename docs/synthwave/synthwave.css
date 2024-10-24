@@ -20,6 +20,8 @@
   --red: #f6188f;
   --black: #000000;
   --name: 'synthwave';
+  --Luma: 0;
+  --Contrast: 0.846717647058824;
   --IsBright: 0;
   --IsDark: 1;
 }
