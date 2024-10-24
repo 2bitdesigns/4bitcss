@@ -20,6 +20,8 @@
   --red: #bf616a;
   --black: #3b4252;
   --name: 'nord';
+  --Luma: 0.202316862745098;
+  --Contrast: 0.666383529411765;
   --IsBright: 0;
   --IsDark: 1;
 }
