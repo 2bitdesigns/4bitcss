@@ -20,6 +20,8 @@
   --red: #ff6c60;
   --black: #4f4f4f;
   --name: 'Builtin Pastel Dark';
+  --Luma: 0;
+  --Contrast: 0.733333333333333;
   --IsBright: 0;
   --IsDark: 1;
 }
