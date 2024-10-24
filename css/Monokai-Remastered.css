@@ -20,6 +20,8 @@
   --red: #f4005f;
   --black: #1a1a1a;
   --name: 'Monokai Remastered';
+  --Luma: 0.0470588235294118;
+  --Contrast: 0.803921568627451;
   --IsBright: 0;
   --IsDark: 1;
 }
