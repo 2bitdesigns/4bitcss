@@ -20,6 +20,8 @@
   --red: #002e18;
   --black: #091013;
   --name: 'darkermatrix';
+  --Luma: 0.0434564705882353;
+  --Contrast: 0.150636862745098;
   --IsBright: 0;
   --IsDark: 1;
 }
