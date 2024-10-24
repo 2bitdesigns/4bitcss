@@ -20,6 +20,8 @@
   --red: #5ca8dc;
   --black: #111147;
   --name: 'Sugarplum';
+  --Luma: 0.0819560784313726;
+  --Contrast: 0.51379137254902;
   --IsBright: 0;
   --IsDark: 1;
 }
