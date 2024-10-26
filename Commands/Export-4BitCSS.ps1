@@ -552,7 +552,7 @@ foreach ($subproperty in 'Formatting', 'Progress') {
 }
 }
 
-if (-not $NoHighlight -and $HighlightStyle.Count) {
+if ((-not $NoHighlight) -and $HighlightStyle.Count) {
     
 foreach ($keyValuePair in $HighlightStyle) {
     foreach ($key in $HighlightStyle.Key) {
