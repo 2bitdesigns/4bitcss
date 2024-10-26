@@ -553,9 +553,9 @@ foreach ($subproperty in 'Formatting', 'Progress') {
 }
 
 if ((-not $NoHighlight) -and $HighlightStyle.Count) {
-    
+"/* highlight.js styles */"
 foreach ($keyValuePair in $HighlightStyle) {
-    foreach ($key in $HighlightStyle.Key) {
+    foreach ($key in $HighlightStyle.Keys) {
         $cssProperties = $HighlightStyle[$key]
         $cssProperties = if ($cssProperties -is [Collections.IDictionary]) {
             foreach ($cssKeyValue in $cssProperties.GetEnumerator()) {
