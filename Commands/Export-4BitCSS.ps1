@@ -534,10 +534,10 @@ foreach ($subproperty in 'Formatting', 'Progress') {
 
 if (-not $NoElement) {
 @"
-
 body {
     color: var(--foreground);
     background-color: var(--background);
+    caret-color: var(--cursorColor);
 }
 
 a, a:visited, a:hover  { color: var(--cyan); }
