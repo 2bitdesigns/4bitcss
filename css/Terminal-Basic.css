@@ -171,7 +171,7 @@ a, a:visited, a:hover  { color: var(--cyan); }
     background-color: var(--selectionBackground);
 }
     
-form input[type="text"], form input[type="checkbox"], input[type="button"], textarea, select, option {
+form input[type="text"], form input[type="checkbox"], input[type="button"], button, textarea, select, option {
     color: var(--foreground);
     background-color: var(--background);
 }
@@ -181,7 +181,7 @@ option {
     background: var(--background);
 }
 
-form input[type="text"], textarea, select {
+form input[type="text"], textarea, select, button {
     border : 1px solid var(--foreground);
     outline: 1px solid var(--foreground);
 }
