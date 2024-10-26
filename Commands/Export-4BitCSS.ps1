@@ -211,13 +211,32 @@ function Export-4BitCSS
     # If set, will not include CSS for common page elements
     [Alias('NoElements')]
     [switch]
-    $NoElement,    
+    $NoElement,
+
+    # If set, will not generate CSS for highlight.js
+    [Alias('NoHighlights','NoHighlightJS')]
+    [switch]
+    $NoHighlight,
+
+    # A collection of highlight styles.
+    # The key should be the selector for one or more highlight js classes, and the value should be a series of CSS rules.
+    [Collections.IDictionary]
+    $HighlightStyle = $([Ordered]@{
+        ".hljs" = 'display: block','overflow-x: auto','padding: 0.5em','background: var(--background)','color: var(--foreground)'
+        ".hljs-comment, .hljs-quote, .hljs-variable, .hljs-string, .hljs-doctag" = 'color: var(--green);'
+        ".hljs-keyword, .hljs-selector-tag, .hljs-built_in, .hljs-name, .hljs-tag" = 'color: var(--cyan);'
+        ".hljs-title, .hljs-section, .hljs-attribute, .hljs-literal, .hljs-template-tag, .hljs-template-variable, .hljs-type, .hljs-addition" = 'color: var(--blue);'
+        ".hljs-deletion, .hljs-selector-attr, .hljs-selector-pseudo, .hljs-meta" = 'color: var(--red);'
+        ".hljs-attr,.hljs-symbol,.hljs-bullet,.hljs-link" = 'color: var(--purple);'        
+        ".hljs-emphasis" = 'font-style: italic;'
+        ".hljs-strong" = 'font-weight: bold;'
+    }),
 
     # If set, will generate minimal css (not minimized) 
     # Implies all other -No* switches
     [Alias('VariablesOnly')]
     [switch]
-    $Minimal    
+    $Minimal
     )
 
     begin {
@@ -287,7 +306,8 @@ function Export-4BitCSS
             $NoElement = $true
             $NoStroke = $true
             $NoBackgroundColor = $true
-            $NoStyle = $true            
+            $NoStyle = $true
+            $NoHighlight = $true
         }            
         
         # Generate a CSS file name for the color scheme
@@ -528,6 +548,25 @@ foreach ($subproperty in 'Formatting', 'Progress') {
 
         $className = ".$subproperty-$($styleProperty.Name)"
         "$className { $($cssProperties -ne '' -join ';') }"
+    }
+}
+}
+
+if (-not $NoHighlight -and $HighlightStyle.Count) {
+    
+foreach ($keyValuePair in $HighlightStyle) {
+    foreach ($key in $HighlightStyle.Key) {
+        $cssProperties = $HighlightStyle[$key]
+        $cssProperties = if ($cssProperties -is [Collections.IDictionary]) {
+            foreach ($cssKeyValue in $cssProperties.GetEnumerator()) {
+                "$($cssKeyValue.Key): $($cssKeyValue.Value)"
+            }
+        } else {
+            $cssProperties
+        }
+        @("$key {"
+        "  $($cssProperties -join (';' + [Environment]::NewLine + ' '))"
+        "}") -join [Environment]::NewLine
     }
 }
 }
