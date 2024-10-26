@@ -160,10 +160,10 @@ s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: l
 .Formatting-FeedbackText { color: var(--brightCyan) }
 .Formatting-FeedbackAction { color: var(--brightWhite) }
 .Progress-Style { color: var(--yellow);font-weight: bold }
-
 body {
     color: var(--foreground);
     background-color: var(--background);
+    caret-color: var(--cursorColor);
 }
 
 a, a:visited, a:hover  { color: var(--cyan); }
