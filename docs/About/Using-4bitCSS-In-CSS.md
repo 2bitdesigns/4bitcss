@@ -20,3 +20,4 @@ layout: none
 </style>
 <div class='MyCustomClass'>cyan with blue border</div>
 </div>
+<script>hljs.highlightAll();</script>
