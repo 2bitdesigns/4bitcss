@@ -33,7 +33,5 @@ permalink: /Ayu-Mirage/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
