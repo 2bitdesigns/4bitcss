@@ -33,7 +33,5 @@ permalink: /synthwave-everything/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
