@@ -222,6 +222,7 @@ if (-not (Test-Path $IncludesPath)) {
 }
 
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-icon.svg")
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "github-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-cloud-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "shuffle-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "help-circle-icon.svg")
@@ -231,8 +232,10 @@ Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/maste
 Get-Module 4bitcss | 
     Split-Path | 
     Join-Path -ChildPath Assets | 
-    Get-ChildItem -Filter 4bitpreview.svg |
-    Copy-Item -Destination (Join-Path $IncludesPath "4bitpreview.svg") -Force -PassThru
+    Get-ChildItem -Filter 4bit*.svg |
+    Copy-Item -Destination {
+        (Join-Path $IncludesPath "$($_.Name).svg")
+    } -Force -PassThru
 
 $defaultColorScheme = 'Konsolas'
 @"
