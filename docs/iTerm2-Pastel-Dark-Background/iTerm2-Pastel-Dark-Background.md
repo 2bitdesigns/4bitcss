@@ -33,7 +33,5 @@ permalink: /iTerm2-Pastel-Dark-Background/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
