@@ -33,7 +33,5 @@ permalink: /Tango-Half-Adapted/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
