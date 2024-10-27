@@ -33,7 +33,5 @@ permalink: /Tomorrow-Night-Burns/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
