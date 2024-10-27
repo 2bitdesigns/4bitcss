@@ -33,7 +33,5 @@ permalink: /xcodelight/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
