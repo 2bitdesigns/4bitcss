@@ -28,7 +28,7 @@ layout: none
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 100 100"
-    height="20%" width="20%">
+    height="20%" width="20%">    
     <rect
         width="50%" height="50%"
         x="25%" y="25%"
@@ -41,3 +41,4 @@ layout: none
         class="purple-stroke" />
 </svg>
 </div>
+<script>hljs.highlightAll();</script>
