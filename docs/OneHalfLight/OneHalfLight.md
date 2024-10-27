@@ -33,7 +33,5 @@ permalink: /OneHalfLight/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
