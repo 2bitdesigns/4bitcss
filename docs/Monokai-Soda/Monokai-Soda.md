@@ -33,7 +33,5 @@ permalink: /Monokai-Soda/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
