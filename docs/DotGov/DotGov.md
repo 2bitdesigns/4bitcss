@@ -33,7 +33,5 @@ permalink: /DotGov/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
