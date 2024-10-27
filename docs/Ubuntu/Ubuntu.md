@@ -33,7 +33,5 @@ permalink: /Ubuntu/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
