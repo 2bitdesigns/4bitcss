@@ -33,7 +33,5 @@ permalink: /catppuccin-frappe/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
