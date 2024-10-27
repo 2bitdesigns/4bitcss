@@ -33,7 +33,5 @@ permalink: /Spring/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
