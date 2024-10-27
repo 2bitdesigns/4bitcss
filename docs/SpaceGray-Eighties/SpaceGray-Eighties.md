@@ -33,7 +33,5 @@ permalink: /SpaceGray-Eighties/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
