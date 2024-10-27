@@ -33,7 +33,5 @@ permalink: /Nocturnal-Winter/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
