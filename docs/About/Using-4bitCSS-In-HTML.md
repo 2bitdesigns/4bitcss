@@ -16,6 +16,7 @@ layout: none
     </div>
 ~~~
 
+
 <div style='text-align:center'>
     <span class='ANSI9 ANSI0-background'>
         BrightRed on Black
@@ -25,3 +26,4 @@ layout: none
         Black on White
     </span>
 </div>
+<script>hljs.highlightAll();</script>
