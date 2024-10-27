@@ -33,7 +33,5 @@ permalink: /SpaceGray/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
