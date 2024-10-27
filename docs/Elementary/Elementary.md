@@ -33,7 +33,5 @@ permalink: /Elementary/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
