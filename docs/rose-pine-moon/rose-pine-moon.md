@@ -33,7 +33,5 @@ permalink: /rose-pine-moon/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
