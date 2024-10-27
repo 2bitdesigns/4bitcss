@@ -33,7 +33,5 @@ permalink: /Sugarplum/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
