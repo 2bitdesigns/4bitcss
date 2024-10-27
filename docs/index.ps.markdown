@@ -31,6 +31,4 @@ description: 4bit css
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
