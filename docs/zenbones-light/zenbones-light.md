@@ -33,7 +33,5 @@ permalink: /zenbones-light/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
