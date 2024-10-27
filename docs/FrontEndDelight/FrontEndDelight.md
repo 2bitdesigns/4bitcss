@@ -33,7 +33,5 @@ permalink: /FrontEndDelight/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
