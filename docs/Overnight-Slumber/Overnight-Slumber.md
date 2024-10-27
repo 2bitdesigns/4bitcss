@@ -33,7 +33,5 @@ permalink: /Overnight-Slumber/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
