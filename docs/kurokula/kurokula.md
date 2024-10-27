@@ -33,7 +33,5 @@ permalink: /kurokula/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
