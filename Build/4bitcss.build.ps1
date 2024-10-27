@@ -234,7 +234,7 @@ Get-Module 4bitcss |
     Join-Path -ChildPath Assets | 
     Get-ChildItem -Filter 4bit*.svg |
     Copy-Item -Destination {
-        (Join-Path $IncludesPath "$($_.Name).svg")
+        Join-Path $IncludesPath "$($_.Name)"
     } -Force -PassThru
 
 $defaultColorScheme = 'Konsolas'
