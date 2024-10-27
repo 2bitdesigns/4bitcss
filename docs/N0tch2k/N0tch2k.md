@@ -33,7 +33,5 @@ permalink: /N0tch2k/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 
