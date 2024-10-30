@@ -93,6 +93,45 @@ svg -ViewBox 640, 240 @(
     }
 ) -OutputPath (Join-Path $docsRoot .\4bitpreviewtemplate.svg) -Class background-fill
 
+svg -ViewBox 1920, 1080 @(
+    svg.rect -Width 300% -Height 300% -X -100% -Y -100% -Class 'background-fill'
+
+    $initialRadius = (1080/2) - 42
+    $wobble = .23
+    $flipFlop = 1
+    $duration = "04.2s"
+    filter wobbler {
+        $initialRadius * (($wobble * $flipFlop) + 1)
+    }
+    SVG.ellipse -Id 'foregroundCircle' -Cx 50% -Cy 50% -RX $initialRadius -Ry $initialRadius -Class 'foreground-fill' -Children @(        
+        SVG.animate -Values "$initialRadius;$(wobbler);$initialRadius" -AttributeName 'rx' -Dur $duration -RepeatCount indefinite
+        $flipFlop *= -1
+        SVG.animate -Values "$initialRadius;$(wobbler);$initialRadius" -AttributeName 'ry' -Dur $duration -RepeatCount indefinite        
+
+        SVG.animate -Values "1;.42;1" -AttributeName 'opacity' -Dur $duration -RepeatCount indefinite
+    )
+    
+    foreach ($n in 0..7) {
+        $initialRadius -= 23
+        SVG.ellipse -Id "ANSI${N}-Ellipse" -cx 50% -cy 50% -rx $initialRadius -ry $initialRadius -Class "ansi$n-fill" -Fill $($colors[$n]) -Children @(
+            SVG.animate -Values "$initialRadius;$(wobbler);$initialRadius" -AttributeName 'rx' -Dur $duration -RepeatCount indefinite
+            $flipFlop *= -1
+            SVG.animate -Values "$initialRadius;$(wobbler);$initialRadius" -AttributeName 'ry' -Dur $duration -RepeatCount indefinite
+
+            SVG.animate -Values "1;.42;1" -AttributeName 'opacity' -Dur $duration -RepeatCount indefinite
+        )
+        $initialRadius -= 16
+        SVG.ellipse -Id "ANSI$($N + 8)-Ellipse" -Cx 50% -Cy 50% -RX $initialRadius -Ry $initialRadius -Class "ansi$($n + 8)-fill" -Fill $($colors[$n]) -Children @(
+            SVG.animate -Values "$initialRadius;$(wobbler);$initialRadius" -AttributeName 'rx' -Dur $duration -RepeatCount indefinite
+            
+            $flipFlop *= -1
+            SVG.animate -Values "$initialRadius;$(wobbler);$initialRadius" -AttributeName 'ry' -Dur $duration -RepeatCount indefinite
+
+            SVG.animate -Values "1;.42;1" -AttributeName 'opacity' -Dur $duration -RepeatCount indefinite
+        )        
+    }    
+) -OutputPath (Join-Path $includesRoot .\Animated-Palette.svg) -Class background-fill
+
 Copy-Item -Path (Join-Path $docsRoot .\4bitpreviewtemplate.svg) -Destination (Join-Path $assetsRoot ..\4bitpreviewtemplate.svg) -Force -PassThru
 Copy-Item -Path (Join-Path $docsRoot .\4bitpreviewtemplate.svg) -Destination (Join-Path $includesRoot .\4bitpreviewtemplate.svg) -Force -PassThru
 
