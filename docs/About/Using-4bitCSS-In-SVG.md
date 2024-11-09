@@ -4,6 +4,12 @@ layout: none
 
 <h3 style='text-align:center'>SVG</h3>
 
+4bitcss classes can also be used within SVG.
+
+Use `-stroke` classes to control the color for lines, and `-fill` classes to define the color used to fill in shapes.
+
+You can refer to colors by name or ANSI number (0-15).
+
 ~~~svg
     <svg
         xmlns:xlink="http://www.w3.org/1999/xlink"
