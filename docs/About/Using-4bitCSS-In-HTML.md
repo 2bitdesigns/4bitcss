@@ -4,6 +4,10 @@ layout: none
 
 <h3 style='text-align:center'>HTML</h3>
 
+4bitcss contains CSS classes you can apply to any element.
+
+You can refer to colors by name, or by ANSI number (0-15).
+
 ~~~html
     <div style='text-align:center'>
         <span class='ANSI9 ANSI0-background'>
@@ -26,4 +30,5 @@ layout: none
         Black on White
     </span>
 </div>
+
 <script>hljs.highlightAll();</script>
