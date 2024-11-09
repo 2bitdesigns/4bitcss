@@ -16,17 +16,18 @@
     <!-- htmx is nice -->
     <script src='https://unpkg.com/htmx.org@latest'></script>
     <!-- so is syntax highlighting, thanks to highlight js -->
+    {% include HighlightJS.html %}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
     <!-- This site shows source code in a few different languages:  -->
-
+    
     <!-- html -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/html.min.js"></script>
+    {% include HighlightJS.html language="html" %}
     <!-- svg -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/svg.min.js"></script>
+    {% include HighlightJS.html language="svg" %}
     <!-- css -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/css.min.js"></script>
+    {% include HighlightJS.html language="css" %}
     <!-- powershell -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/powershell.min.js"></script>
+    {% include HighlightJS.html language="powershell" %}
     {% endif %}
     <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
     <meta name="viewport" content="width=device-width" />
@@ -163,16 +164,16 @@
     <a href='https://github.com/2bitdesigns/4bitcss'>
         {% include github-icon.svg %}
     </a></div>
-    <div class="centered halfOrWholeWidth flexible centeredFlex" style="margin-top: -5%;">
-      <svg viewbox='0 0 200 200' width='33%' height='33%' class='centered'>
+    <div class="centered halfOrWholeWidth flexible centeredFlex" style="margin-top: -7%;">
+      <svg viewbox='0 0 100 100' width='50%' height='16%' class='centered'>
         <a href='/'>{% include 4bitcss.svg %}</a>
       </svg>
     </div>
     {% if page.title %}
     <h1 class="centered halfOrWholeWidth flexible centered centeredFlex">{{ page.title }}</h1>
     {% endif %}
-    <div class="centered centeredFlex" style="margin-top:-5%">
-      {{ content }}
+    <div class="centered" style="margin-top:-7%" id="PageContent">
+        {{ content }}
     </div>
 </body>
 </html>
