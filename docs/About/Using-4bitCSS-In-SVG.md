@@ -16,17 +16,31 @@ You can refer to colors by name or ANSI number (0-15).
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 100 100"
         height="20%" width="20%">
-        <rect
-            width="50%" height="50%"
-            x="25%" y="25%"
-            class="purple-stroke blue-fill" />
         <circle 
-            r="25%" cx="50%" cy="50%" 
-            class="red-stroke green-fill" />
-        <line 
-            x1="0%" x2="100%" y1="50%" y2="50%"
-            class="purple-stroke" />
-    </svg>
+            r="48%" cx="50%" cy="50%"
+            class="brightRed-stroke red-fill" />
+        <circle 
+            r="42%" cx="50%" cy="50%"
+            class="brightYellow-stroke yellow-fill" />
+        <circle 
+            r="36%" cx="50%" cy="50%"
+            class="brightGreen-stroke green-fill" />
+        <circle 
+            r="30%" cx="50%" cy="50%"
+            class="brightBlue-stroke blue-fill" />
+        <circle 
+            r="24%" cx="50%" cy="50%"
+            class="brightCyan-stroke cyan-fill" />
+        <circle 
+            r="18%" cx="50%" cy="50%"
+            class="brightPurple-stroke purple-fill" />
+        <circle 
+            r="12%" cx="50%" cy="50%"
+            class="brightBlack-stroke black-fill" />
+        <circle 
+            r="6%" cx="50%" cy="50%"
+            class="brightWhite-stroke white-fill" />
+    </svg>    
 ~~~
 
 <div style='text-align:center'>
@@ -34,17 +48,32 @@ You can refer to colors by name or ANSI number (0-15).
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 100 100"
-    height="20%" width="20%">    
-    <rect
-        width="50%" height="50%"
-        x="25%" y="25%"
-        class="purple-stroke blue-fill" />
+    height="20%" width="20%">
     <circle 
-        r="25%" cx="50%" cy="50%" 
-        class="red-stroke green-fill" />
-    <line 
-        x1="0%" x2="100%" y1="50%" y2="50%"
-        class="purple-stroke" />
+        r="48%" cx="50%" cy="50%"
+        class="brightRed-stroke red-fill" />
+    <circle 
+        r="42%" cx="50%" cy="50%"
+        class="brightYellow-stroke yellow-fill" />
+    <circle 
+        r="36%" cx="50%" cy="50%"
+        class="brightGreen-stroke green-fill" />
+    <circle 
+        r="30%" cx="50%" cy="50%"
+        class="brightBlue-stroke blue-fill" />
+    <circle 
+        r="24%" cx="50%" cy="50%"
+        class="brightCyan-stroke cyan-fill" />
+    <circle 
+        r="18%" cx="50%" cy="50%"
+        class="brightPurple-stroke purple-fill" />
+    <circle 
+        r="12%" cx="50%" cy="50%"
+        class="brightBlack-stroke black-fill" />
+    <circle 
+        r="6%" cx="50%" cy="50%"
+        class="brightWhite-stroke white-fill" />
 </svg>
+
 </div>
 <script>hljs.highlightAll();</script>
