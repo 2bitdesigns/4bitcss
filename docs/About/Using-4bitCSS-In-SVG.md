@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 ---
 
 <h3 style='text-align:center'>SVG</h3>

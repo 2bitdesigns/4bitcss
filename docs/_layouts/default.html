@@ -34,7 +34,7 @@
     {% if page.stylesheet %}
     <link rel="stylesheet" type="text/css" href="{{page.stylesheet}}" id="4bitcss" />
     {% else %}
-    <link rel="stylesheet" type="text/css" href="/Konsolas.css" id="4bitcss" />
+    <link rel="stylesheet" type="text/css" href="/Konsolas/Konsolas.css" id="4bitcss" />
     {% endif %}
     <script type="text/javascript" src="/js/4bit.js"></script>
     <title>{{site.title}}{% if page.title %} - {{page.title}}  {% elsif page.stylesheet %} - {{page.stylesheet}}{% endif %}</title>
@@ -164,16 +164,23 @@
     <a href='https://github.com/2bitdesigns/4bitcss'>
         {% include github-icon.svg %}
     </a></div>
-    <div class="centered halfOrWholeWidth flexible centeredFlex" style="margin-top: -7%;">
-      <svg viewbox='0 0 100 100' width='50%' height='16%' class='centered'>
+    <div class="centered halfOrWholeWidth flexible centeredFlex" style="margin-top:-5%">
+      <svg viewbox='0 0 100 100' width='33%' class='centered'>
         <a href='/'>{% include 4bitcss.svg %}</a>
       </svg>
     </div>
     {% if page.title %}
     <h1 class="centered halfOrWholeWidth flexible centered centeredFlex">{{ page.title }}</h1>
     {% endif %}
-    <div class="centered" style="margin-top:-7%" id="PageContent">
+    <div class="centered" style="margin-top:-5%">
+      <div id="PaletteCount" class="centeredText">
+          {{site.data.Palettes | size}} cool color palettes
+          <a href='/'>for web</a>
+          <a href='https://github.com/mbadolato/iTerm2-Color-Schemes'>or terminal</a>
+      </div>      
+      <div id="PageContent">
         {{ content }}
+      </div>
     </div>
 </body>
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 ---
 
 <h3 style='text-align:center'>CSS</h3>
