@@ -33,7 +33,5 @@ permalink: /Doom-Peacock/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

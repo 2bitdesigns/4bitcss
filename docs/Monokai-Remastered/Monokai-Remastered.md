@@ -33,7 +33,5 @@ permalink: /Monokai-Remastered/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

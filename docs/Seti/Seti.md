@@ -33,7 +33,5 @@ permalink: /Seti/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

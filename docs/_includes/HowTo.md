@@ -1,57 +1,30 @@
-<h3 style='text-align:center'>HTML</h3>
+<style>
+    menu {
+      display: flex;
+      flex: 1 1 0;
+      justify-content: center;
+    }
+    menu button {
+        font-size: 1.1em;
+    }
+</style>
 
-~~~html
-    <div style='text-align:center'>
-        <span class='ANSI9 ANSI0-background'>
-            BrightRed on Black
-        </span>
-        <br/>
-        <span class='black white-background'>
-            Black on White
-        </span>
-    </div>
-~~~
+<menu class='centeredText' hx-target='#HowToContent' hx-select='#PageContent'>
+    <button hx-get='/About/4bitCSS'>About</button>
+    <button hx-get='/About/4bitCSS-Animated-Palette' hx-trigger="load,click">Animation</button>
+    <button hx-get='/About/Using-4bitCSS-In-CSS'>CSS</button>
+    <button hx-get='/About/Using-4bitCSS-In-HTML'>HTML</button>
+    <button hx-get='/About/Using-4bitCSS-In-JavaScript'>JavaScript</button>
+    <button hx-get='/About/Using-4bitCSS-In-SVG'>SVG</button>
+    <button hx-get='/About/4bitCSS-Color-Table'>Table</button>
+</menu>
 
-<h3 style='text-align:center'>SVG</h3>
+<br/>
+<style>
+.smooth {
+  transition: all 1s ease-in;
+}
+</style>
+<div id='HowToContent' class='smooth'>
 
-~~~svg
-    <svg
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 100 100"
-        height="20%" width="20%">
-        <rect
-            width="50%" height="50%"
-            x="25%" y="25%"
-            class="purple-stroke blue-fill" />
-        <circle 
-            r="25%" cx="50%" cy="50%" 
-            class="red-stroke green-fill" />
-        <line 
-            x1="0%" x2="100%" y1="50%" y2="50%"
-            class="purple-stroke" />
-    </svg>
-~~~
-
-<div style='text-align:center'>
-    <span class='ANSI9 ANSI0-background'>BrightRed on Black</span>
-    <br/>
-    <span class='black white-background'>Black on White</span>
-    <br/>
-    <svg
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 100 100"
-        height="20%" width="20%">
-        <rect
-            width="50%" height="50%"
-            x="25%" y="25%"
-            class="purple-stroke blue-fill" />
-        <circle 
-            r="25%" cx="50%" cy="50%" 
-            class="red-stroke green-fill" />
-        <line 
-            x1="0%" x2="100%" y1="50%" y2="50%"
-            class="purple-stroke" />
-    </svg>
 </div>

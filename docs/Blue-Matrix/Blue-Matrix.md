@@ -33,7 +33,5 @@ permalink: /Blue-Matrix/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

@@ -33,7 +33,5 @@ permalink: /Banana-Blueberry/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

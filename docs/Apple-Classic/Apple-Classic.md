@@ -33,7 +33,5 @@ permalink: /Apple-Classic/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

@@ -33,7 +33,5 @@ permalink: /catppuccin-macchiato/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with PSSVG 0.2.10 <https://github.com/StartAutomating/PSSVG> -->
+<svg viewBox="0 0 1920 1080" class="background-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300%" height="300%" x="-100%" y="-100%" class="background-fill" />
+  <ellipse id="foregroundCircle" cx="50%" cy="50%" rx="498" ry="498" class="foreground-fill">
+    <animate values="498;612.54;498" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="498;383.46;498" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI0-Ellipse" cx="50%" cy="50%" rx="475" ry="475" class="ansi0-fill" fill="Black">
+    <animate values="475;365.75;475" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="475;584.25;475" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI8-Ellipse" cx="50%" cy="50%" rx="459" ry="459" class="ansi8-fill" fill="Black">
+    <animate values="459;564.57;459" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="459;353.43;459" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI1-Ellipse" cx="50%" cy="50%" rx="436" ry="436" class="ansi1-fill" fill="Red">
+    <animate values="436;335.72;436" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="436;536.28;436" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI9-Ellipse" cx="50%" cy="50%" rx="420" ry="420" class="ansi9-fill" fill="Red">
+    <animate values="420;516.6;420" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="420;323.4;420" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI2-Ellipse" cx="50%" cy="50%" rx="397" ry="397" class="ansi2-fill" fill="Green">
+    <animate values="397;305.69;397" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="397;488.31;397" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI10-Ellipse" cx="50%" cy="50%" rx="381" ry="381" class="ansi10-fill" fill="Green">
+    <animate values="381;468.63;381" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="381;293.37;381" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI3-Ellipse" cx="50%" cy="50%" rx="358" ry="358" class="ansi3-fill" fill="Yellow">
+    <animate values="358;275.66;358" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="358;440.34;358" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI11-Ellipse" cx="50%" cy="50%" rx="342" ry="342" class="ansi11-fill" fill="Yellow">
+    <animate values="342;420.66;342" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="342;263.34;342" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI4-Ellipse" cx="50%" cy="50%" rx="319" ry="319" class="ansi4-fill" fill="Blue">
+    <animate values="319;245.63;319" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="319;392.37;319" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI12-Ellipse" cx="50%" cy="50%" rx="303" ry="303" class="ansi12-fill" fill="Blue">
+    <animate values="303;372.69;303" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="303;233.31;303" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI5-Ellipse" cx="50%" cy="50%" rx="280" ry="280" class="ansi5-fill" fill="Purple">
+    <animate values="280;215.6;280" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="280;344.4;280" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI13-Ellipse" cx="50%" cy="50%" rx="264" ry="264" class="ansi13-fill" fill="Purple">
+    <animate values="264;324.72;264" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="264;203.28;264" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI6-Ellipse" cx="50%" cy="50%" rx="241" ry="241" class="ansi6-fill" fill="Cyan">
+    <animate values="241;185.57;241" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="241;296.43;241" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI14-Ellipse" cx="50%" cy="50%" rx="225" ry="225" class="ansi14-fill" fill="Cyan">
+    <animate values="225;276.75;225" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="225;173.25;225" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI7-Ellipse" cx="50%" cy="50%" rx="202" ry="202" class="ansi7-fill" fill="White">
+    <animate values="202;155.54;202" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="202;248.46;202" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse id="ANSI15-Ellipse" cx="50%" cy="50%" rx="186" ry="186" class="ansi15-fill" fill="White">
+    <animate values="186;228.78;186" attributeName="rx" dur="04.2s" repeatCount="indefinite" />
+    <animate values="186;143.22;186" attributeName="ry" dur="04.2s" repeatCount="indefinite" />
+    <animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" />
+  </ellipse>
+</svg>

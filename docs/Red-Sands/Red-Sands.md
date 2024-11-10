@@ -33,7 +33,5 @@ permalink: /Red-Sands/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

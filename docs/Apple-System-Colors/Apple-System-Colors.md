@@ -33,7 +33,5 @@ permalink: /Apple-System-Colors/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

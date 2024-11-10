@@ -33,7 +33,5 @@ permalink: /Hopscotch-256/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

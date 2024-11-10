@@ -33,7 +33,5 @@ permalink: /Cobalt2/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

@@ -33,7 +33,5 @@ permalink: /HaX0R-R3D/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

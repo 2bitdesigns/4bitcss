@@ -33,7 +33,5 @@ permalink: /Gruvbox-Light/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

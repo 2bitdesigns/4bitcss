@@ -33,7 +33,5 @@ permalink: /Solarized-Dark-Higher-Contrast/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

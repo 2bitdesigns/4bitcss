@@ -33,7 +33,5 @@ permalink: /Adventure/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

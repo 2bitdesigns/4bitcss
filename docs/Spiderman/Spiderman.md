@@ -33,7 +33,5 @@ permalink: /Spiderman/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

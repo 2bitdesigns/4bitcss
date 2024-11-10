@@ -33,7 +33,5 @@ permalink: /3024-Night/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

@@ -33,7 +33,5 @@ permalink: /Builtin-Tango-Light/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

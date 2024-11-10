@@ -33,7 +33,5 @@ permalink: /iTerm2-Tango-Light/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

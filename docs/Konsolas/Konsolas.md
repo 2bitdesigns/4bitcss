@@ -33,7 +33,5 @@ permalink: /Konsolas/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

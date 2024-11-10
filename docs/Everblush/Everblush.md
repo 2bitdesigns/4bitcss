@@ -33,7 +33,5 @@ permalink: /Everblush/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

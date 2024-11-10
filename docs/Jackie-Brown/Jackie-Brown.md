@@ -33,7 +33,5 @@ permalink: /Jackie-Brown/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

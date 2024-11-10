@@ -33,7 +33,5 @@ permalink: /Espresso/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

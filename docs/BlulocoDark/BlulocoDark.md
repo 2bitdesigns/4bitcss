@@ -33,7 +33,5 @@ permalink: /BlulocoDark/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

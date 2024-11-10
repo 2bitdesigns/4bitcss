@@ -33,7 +33,5 @@ permalink: /Firefly-Traditional/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

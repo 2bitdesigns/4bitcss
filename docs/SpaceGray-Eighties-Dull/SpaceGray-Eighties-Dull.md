@@ -33,7 +33,5 @@ permalink: /SpaceGray-Eighties-Dull/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

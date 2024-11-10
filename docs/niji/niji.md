@@ -33,7 +33,5 @@ permalink: /niji/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

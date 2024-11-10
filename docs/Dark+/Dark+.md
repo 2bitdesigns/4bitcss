@@ -33,7 +33,5 @@ permalink: /Dark+/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

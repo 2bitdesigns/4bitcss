@@ -33,7 +33,5 @@ permalink: /iTerm2-Smoooooth/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

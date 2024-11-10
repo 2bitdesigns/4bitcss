@@ -1,20 +1,44 @@
 Push-Location ($PSScriptRoot | Split-Path)
-# If running in a github workflow or not on C: drive, clone the repo.
-if ($env:GITHUB_WORKSPACE -or ($home -notmatch '^C:')) {
-    # clone the iTermColorSchemes repo
-    git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git | Out-Host
+# clone the iTermColorSchemes repo
+git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git | Out-Host
 
-    # and get all of the JSON files from it
-    $jsonFiles = Get-ChildItem -Path iTerm2-Color-Schemes -Recurse -Filter *.json  |
-        Where-Object Fullname -like '*terminal*' |
-        Where-Object FullName -notlike '*templates*'
-} else {
-    # Otherwise get them locally
-    $jsonFiles = Get-ChildItem $home\documents\git\iTerm2-Color-Schemes -Recurse -Filter *.json  |
-        Where-Object Fullname -like '*terminal*' |
-        Where-Object FullName -notlike '*templates*'         
+# and get all of the JSON files from it
+$jsonFiles = Get-ChildItem -Path iTerm2-Color-Schemes -Recurse -Filter *.json  |
+    Where-Object Fullname -like '*terminal*' |
+    Where-Object FullName -notlike '*templates*'
+
+# Get the credits from the CREDITS.md file in the iTerm2-Color-Schemes repo
+$creditLines = Get-Content -Path (Join-Path iTerm2-Color-Schemes CREDITS.md)
+# and declare a small pattern to match markdown links
+$markdownLinkPattern = '\[(?<text>.+?)\]\((?<link>.+?)\)'
+# and a filter to get the credits from the CREDITS.md file
+filter GetCredits {
+    $colorSchemeName = $_
+    $colorSchemePattern = [Regex]::Escape($colorSchemeName) -replace '\\ ', '\s'    
+    foreach ($line in $creditLines) {
+        if (-not $line ) { continue }
+        if ($line -notmatch $colorSchemePattern) {
+            continue            
+        }
+        if ($line -notmatch $markdownLinkPattern) {
+            continue
+        }        
+        [Ordered]@{credit=$Matches.text; link=$Matches.link}
+    }
 }
 
+filter GetLuma {
+    $colorString = $_
+    # Convert the background color to a uint32
+    $rgb = ($colorString -replace "#", "0x" -replace ';') -as [UInt32]
+    # then make it into a percentage red, green, and blue.
+    $r, $g, $b = ([float][byte](($rgb -band 0xff0000) -shr 16)/255),
+        ([float][byte](($rgb -band 0x00ff00) -shr 8)/255),
+        ([float][byte]($rgb -band 0x0000ff)/255)
+
+    # Calculate the luma of the background color
+    0.2126 * $R + 0.7152 * $G + 0.0722 * $B    
+}
 
 # Import the module
 Import-Module .\4bitcss.psd1 -Global
@@ -39,35 +63,64 @@ $allColorSchemes    = @()
 $brightColorSchemes = @()
 $darkColorSchemes   = @()
 
-$allPalletes = [Ordered]@{}
+$allPalettes = [Ordered]@{}
 
 # Walk thru each json file of a color scheme
 foreach ($jsonFile in $jsonFiles) {
-    # convert the contents from JSON    
-    $jsonObject = [IO.File]::ReadAllText($jsonFile.FullName) | ConvertFrom-Json
+    # convert the contents from JSON
+    $jsonContent = [IO.File]::ReadAllText($jsonFile.FullName)
+    $jsonObject = $jsonContent | ConvertFrom-Json
     # and determine the name of the scheme and it's files.
     $colorSchemeName = $jsonObject.Name
     $colorSchemeFileName =
         $jsonObject.Name | Convert-4BitName
+        
+    $creditInfo = @($colorSchemeName | GetCredits)[0]
+    $jsonObject | 
+        Add-Member NoteProperty creditTo -Force -PassThru -Value $creditInfo.credit |
+        Add-Member NoteProperty creditToLink -Force -Value $creditInfo.link
+    
+    if ($jsonObject.background) {
+        $jsonObject | 
+            Add-Member NoteProperty luma -Force -Value $($jsonObject.Background | GetLuma)
+    }
+
+    if ($jsonObject.foreground -and $jsonObject.background) {
+        $jsonObject | 
+            Add-Member NoteProperty contrast -Force -Value $(
+                [Math]::Abs(
+                    ($jsonObject.background | GetLuma) - ($jsonObject.foreground | GetLuma)
+                )                
+            )
+    }
+    
+    $jsonObject | 
+        Add-Member NoteProperty contrast -Force -PassThru -Value @($jsonObject.Background | GetLuma)
 
     if (-not $colorSchemeFileName) { continue }
     $distinctColors = @($jsonObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique
 
-    $allPalletes[$colorSchemeFileName] = $jsonObject
+    $allPalettes[$colorSchemeFileName] = $jsonObject
     # If the name wasn't there, continue.
     if (-not $jsonObject.Name) { continue }
     # If it wasn't legal, continue.
     if ($jsonObject.Name -match '^\{') { continue }
     $cssPath = (Join-Path $pwd css)
+    $jsonPath = (Join-Path $pwd json)
     # Export the theme to /css (so that repo-based CDNs have a logical link)
     $jsonObject | Export-4BitCSS -OutputPath $cssPath -OutVariable colorSchemeCssFile
-    
+    $jsonObject | Export-4BitJSON -OutputPath (
+        Join-Path $jsonPath "$colorSchemeFileName.json"
+    ) -OutVariable colorSchemeJsonFile
     $ColorSchemePath = Join-Path $docsPath $colorSchemeFileName
     if (-not (Test-Path $ColorSchemePath)) {
         $null = New-Item -ItemType Directory -Path $ColorSchemePath
     }
     # Then export it again to /docs (so the GitHub page works)
     $jsonObject | Export-4BitCSS -OutputPath $ColorSchemePath
+    $jsonObject | Export-4BitJSON -OutputPath (
+        Join-Path $ColorSchemePath "$colorSchemeFileName.json"
+    ) -OutVariable colorSchemeJsonFile
     $dotTextPath = Join-Path $ColorSchemePath "$colorSchemeFileName.txt"
     $distinctColors -join ';' | Set-Content -Path $dotTextPath -Encoding utf8
     Get-Item -Path $dotTextPath
@@ -84,6 +137,7 @@ foreach ($jsonFile in $jsonFiles) {
 
     # Create a preview file.  All we need to change is the stylesheet.
     $previewFilePath = Join-Path $ColorSchemePath "$colorSchemeFileName.md"
+        
 @"
 ---
 stylesheet: /$colorSchemeFileName/$colorSchemeFileName.css
@@ -144,13 +198,13 @@ Get-Item -Path $allDarkSchemesPath
 Get-Item -Path $allDarkSchemesPath |
     Copy-Item -Destination $DataPath -Force -PassThru
 
-$allPalletesPath = Join-Path $docsPath "Palletes.json"
-$allPalletes |
+$allPalettesPath = Join-Path $docsPath "Palettes.json"
+$allPalettes |
     ConvertTo-Json -Depth 4 -Compress |
-    Set-Content -Path $allPalletesPath
+    Set-Content -Path $allPalettesPath
 
-Get-Item -Path $allPalletesPath
-Get-Item -Path $allPalletesPath  |
+Get-Item -Path $allPalettesPath
+Get-Item -Path $allPalettesPath  |
     Copy-Item -Destination $DataPath -Force -PassThru
 
 $4bitJS = Export-4BitJS -ColorSchemeName $allColorSchemes -DarkColorSchemeName $darkColorSchemes -LightColorSchemeName $LightColorSchemeName
@@ -168,6 +222,7 @@ if (-not (Test-Path $IncludesPath)) {
 }
 
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-icon.svg")
+Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "github-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/download-cloud.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "download-cloud-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/shuffle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "shuffle-icon.svg")
 Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg -Stroke "ansi6" -OutputPath (Join-Path $IncludesPath "help-circle-icon.svg")
@@ -177,8 +232,10 @@ Export-4BitSVG -SVG https://raw.githubusercontent.com/feathericons/feather/maste
 Get-Module 4bitcss | 
     Split-Path | 
     Join-Path -ChildPath Assets | 
-    Get-ChildItem -Filter 4bitpreview.svg |
-    Copy-Item -Destination (Join-Path $IncludesPath "4bitpreview.svg") -Force -PassThru
+    Get-ChildItem -Filter 4bit*.svg |
+    Copy-Item -Destination {
+        Join-Path $IncludesPath "$($_.Name)"
+    } -Force -PassThru
 
 $defaultColorScheme = 'Konsolas'
 @"
@@ -195,3 +252,7 @@ $transpiledText
     Set-Content (Join-Path $docsPath "index.md") -Encoding utf8
 Get-item -Path (Join-Path $docsPath "index.md")
 #endregion Icons 
+
+if  ($env:GITHUB_WORKSPACE) {
+    Remove-Item -Path iTerm2-Color-Schemes -Recurse -Force
+}

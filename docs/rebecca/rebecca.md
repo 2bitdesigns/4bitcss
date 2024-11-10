@@ -33,7 +33,5 @@ permalink: /rebecca/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

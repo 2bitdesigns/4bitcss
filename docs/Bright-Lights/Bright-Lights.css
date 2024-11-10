@@ -20,6 +20,8 @@
   --red: #ff355b;
   --black: #191919;
   --name: 'Bright Lights';
+  --Luma: 0.0980392156862745;
+  --Contrast: 0.675818039215686;
   --IsBright: 0;
   --IsDark: 1;
 }
@@ -158,10 +160,39 @@ s, strike, .strike, .Strike, .strikethrough, .Strikethrough { text-decoration: l
 .Formatting-FeedbackText { color: var(--brightCyan) }
 .Formatting-FeedbackAction { color: var(--brightWhite) }
 .Progress-Style { color: var(--yellow);font-weight: bold }
-
+/* highlight.js styles */
+.hljs {
+  display: block;
+ overflow-x: auto;
+ padding: 0.5em;
+ background: var(--background);
+ color: var(--foreground)
+}
+.hljs-comment, .hljs-quote, .hljs-variable, .hljs-string, .hljs-doctag {
+  color: var(--green);
+}
+.hljs-keyword, .hljs-selector-tag, .hljs-built_in, .hljs-name, .hljs-tag {
+  color: var(--cyan);
+}
+.hljs-title, .hljs-section, .hljs-attribute, .hljs-literal, .hljs-template-tag, .hljs-template-variable, .hljs-type, .hljs-addition {
+  color: var(--blue);
+}
+.hljs-deletion, .hljs-selector-attr, .hljs-selector-pseudo, .hljs-meta {
+  color: var(--red);
+}
+.hljs-attr,.hljs-symbol,.hljs-bullet,.hljs-link {
+  color: var(--purple);
+}
+.hljs-emphasis {
+  font-style: italic;
+}
+.hljs-strong {
+  font-weight: bold;
+}
 body {
     color: var(--foreground);
     background-color: var(--background);
+    caret-color: var(--cursorColor);
 }
 
 a, a:visited, a:hover  { color: var(--cyan); }
@@ -171,7 +202,7 @@ a, a:visited, a:hover  { color: var(--cyan); }
     background-color: var(--selectionBackground);
 }
     
-form input[type="text"], form input[type="checkbox"], input[type="button"], textarea, select, option {
+form input[type="text"], form input[type="checkbox"], input[type="button"], button, textarea, select, option {
     color: var(--foreground);
     background-color: var(--background);
 }
@@ -181,7 +212,7 @@ option {
     background: var(--background);
 }
 
-form input[type="text"], textarea, select {
+form input[type="text"], textarea, select, button {
     border : 1px solid var(--foreground);
     outline: 1px solid var(--foreground);
 }

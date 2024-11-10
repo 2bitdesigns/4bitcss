@@ -33,7 +33,5 @@ permalink: /Neutron/
     </a>    
 </div>
 
-{% include ColorTable.md %}
-
 {% include HowTo.md %}
 

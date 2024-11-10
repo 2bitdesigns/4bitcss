@@ -1,3 +1,18 @@
+## 0.1.5:
+
+* 336 color palettes (and counting)!
+* Improved functionality
+  * Support for `<button>` (#96)
+  * `carat-color` support (#97) 
+  * HighlightJS support (#104, #105, #107) 
+* Added json data files and credits (#79, #80) 
+* Adding `--Luma` and `--Contrast` to CSS (#94, #95)
+* 4bitcss Docker Container (#74, #75, #76, #77)
+* Animated Palette Example (#109, #111)
+* Improved documentation and examples
+
+---
+
 ## 0.1.4:
 
 * So many more new palettes!
@@ -14,7 +29,7 @@
   * Mounting 4bitcss (#48)
   * Exporting `$4bitcss` (#47)
   * Repository Cleanup (#44, #45, #46)
-* New Commands   
+* New Commands
   * Convert-4bitName (#33)
   * Export-4bitJS (#32)
   * Export-4bitSVG (#34)
