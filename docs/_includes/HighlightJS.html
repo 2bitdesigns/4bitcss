@@ -1,0 +1,10 @@
+
+{% if include.language %}
+    {% if include.language != 'javascript' %}
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/languages/{{include.language}}.min.js"></script>
+    {% else %}
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/highlight.min.js"></script>
+    {% endif %}
+{% else %}
+    <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/highlight.min.js"></script>
+{% endif %}
