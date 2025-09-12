@@ -1,7 +1,6 @@
 
 <#
 #>
-#requires -Module Turtle
 param(
 [PSObject]
 $Palette
