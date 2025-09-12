@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#292520" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#e5c7a9" text-anchor="middle" alignment-baseline="middle">Earthsong</text>
+  <rect x="0" y="0" width="80" height="80" fill="#121418" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#c94234" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#85c54c" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#f5ae2e" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#1398b9" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#d0633d" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#509552" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#e5c6aa" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#675f54" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ff645a" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#98e036" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#e0d561" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#5fdaff" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#ff9269" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#84f088" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f6f7ec" class="BrightWhite-fill" />
+</svg>
