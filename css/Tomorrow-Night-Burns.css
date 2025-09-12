@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/ashwinv11/;
-  --creditTo: ashwinv11;
+  --creditToLink: 'https://github.com/ashwinv11/';
+  --creditTo: 'ashwinv11';
   --selectionBackground: #b0bec5;
   --cursorColor: #ff443e;
   --foreground: #a1b0b8;
@@ -21,7 +21,7 @@
   --green: #a63c40;
   --red: #832e31;
   --black: #252525;
-  --name: Tomorrow Night Burns;
+  --name: 'Tomorrow Night Burns';
   --Luma: 0.0823529411764706;
   --Contrast: 0.597602352941176;
   --PaletteName: Tomorrow Night Burns;
