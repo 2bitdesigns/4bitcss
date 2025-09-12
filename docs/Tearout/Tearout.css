@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/leobeosab;
-  --creditTo: leobeosab;
+  --creditToLink: 'https://github.com/leobeosab';
+  --creditTo: 'leobeosab';
   --selectionBackground: #e4c47a;
   --cursorColor: #d7c483;
   --foreground: #f4d2ae;
@@ -21,7 +21,7 @@
   --green: #97976d;
   --red: #cc967b;
   --black: #685742;
-  --name: Tearout;
+  --name: 'Tearout';
   --Luma: 0.215963137254902;
   --Contrast: 0.62572;
   --PaletteName: Tearout;
