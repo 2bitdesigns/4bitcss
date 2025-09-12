@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/kvrohit;
+  --creditTo: kvrohit;
   --selectionBackground: #2a2a2d;
   --cursorColor: #cac9dd;
   --foreground: #c9c7cd;
@@ -19,7 +21,7 @@
   --green: #90b99f;
   --red: #f5a191;
   --black: #27272a;
-  --name: 'mellow';
+  --name: mellow;
   --Luma: 0.0865576470588235;
   --Contrast: 0.697200784313725;
   --PaletteName: mellow;
