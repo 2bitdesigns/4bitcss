@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.122177254901961;
   --Contrast: 0.718029019607843;
-  --PaletteName: catppuccin-mocha;
-  --PaletteFileName: catppuccin-mocha;
+  --PaletteName: 'catppuccin-mocha';
+  --PaletteFileName: 'catppuccin-mocha';
   --IsBright: 0;
   --IsDark: 1;
 }

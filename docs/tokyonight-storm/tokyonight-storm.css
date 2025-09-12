@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.158907450980392;
   --Contrast: 0.637087058823529;
-  --PaletteName: tokyonight-storm;
-  --PaletteFileName: tokyonight-storm;
+  --PaletteName: 'tokyonight-storm';
+  --PaletteFileName: 'tokyonight-storm';
   --IsBright: 0;
   --IsDark: 1;
 }

@@ -24,8 +24,8 @@
   --name: 'Galaxy';
   --Luma: 0.151938823529412;
   --Contrast: 0.848061176470588;
-  --PaletteName: Galaxy;
-  --PaletteFileName: Galaxy;
+  --PaletteName: 'Galaxy';
+  --PaletteFileName: 'Galaxy';
   --IsBright: 0;
   --IsDark: 1;
 }

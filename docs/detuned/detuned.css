@@ -24,8 +24,8 @@
   --name: 'detuned';
   --Luma: 0;
   --Contrast: 0.780392156862745;
-  --PaletteName: detuned;
-  --PaletteFileName: detuned;
+  --PaletteName: 'detuned';
+  --PaletteFileName: 'detuned';
   --IsBright: 0;
   --IsDark: 1;
 }

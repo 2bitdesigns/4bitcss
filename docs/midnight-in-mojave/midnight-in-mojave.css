@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.117647058823529;
   --Contrast: 0.882352941176471;
-  --PaletteName: midnight-in-mojave;
-  --PaletteFileName: midnight-in-mojave;
+  --PaletteName: 'midnight-in-mojave';
+  --PaletteFileName: 'midnight-in-mojave';
   --IsBright: 0;
   --IsDark: 1;
 }

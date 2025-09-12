@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0951835294117647;
   --Contrast: 0.634202352941176;
-  --PaletteName: Solarized Dark Higher Contrast;
-  --PaletteFileName: Solarized-Dark-Higher-Contrast;
+  --PaletteName: 'Solarized Dark Higher Contrast';
+  --PaletteFileName: 'Solarized-Dark-Higher-Contrast';
   --IsBright: 0;
   --IsDark: 1;
 }

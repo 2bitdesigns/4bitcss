@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: xcodelighthc;
-  --PaletteFileName: xcodelighthc;
+  --PaletteName: 'xcodelighthc';
+  --PaletteFileName: 'xcodelighthc';
   --IsBright: 0;
   --IsDark: 1;
 }

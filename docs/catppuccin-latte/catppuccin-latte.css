@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.944563137254902;
   --Contrast: 0.629898823529412;
-  --PaletteName: catppuccin-latte;
-  --PaletteFileName: catppuccin-latte;
+  --PaletteName: 'catppuccin-latte';
+  --PaletteFileName: 'catppuccin-latte';
   --IsBright: 0;
   --IsDark: 1;
 }

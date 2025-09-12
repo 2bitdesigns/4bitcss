@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: iTerm2 Light Background;
-  --PaletteFileName: iTerm2-Light-Background;
+  --PaletteName: 'iTerm2 Light Background';
+  --PaletteFileName: 'iTerm2-Light-Background';
   --IsBright: 0;
   --IsDark: 1;
 }

@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: Terminal Basic;
-  --PaletteFileName: Terminal-Basic;
+  --PaletteName: 'Terminal Basic';
+  --PaletteFileName: 'Terminal-Basic';
   --IsBright: 0;
   --IsDark: 1;
 }

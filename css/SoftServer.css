@@ -24,8 +24,8 @@
   --name: 'SoftServer';
   --Luma: 0.147352156862745;
   --Contrast: 0.483243137254902;
-  --PaletteName: SoftServer;
-  --PaletteFileName: SoftServer;
+  --PaletteName: 'SoftServer';
+  --PaletteFileName: 'SoftServer';
   --IsBright: 0;
   --IsDark: 1;
 }

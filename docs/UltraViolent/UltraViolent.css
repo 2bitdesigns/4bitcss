@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.150723137254902;
   --Contrast: 0.606139607843137;
-  --PaletteName: UltraViolent;
-  --PaletteFileName: UltraViolent;
+  --PaletteName: 'UltraViolent';
+  --PaletteFileName: 'UltraViolent';
   --IsBright: 0;
   --IsDark: 1;
 }

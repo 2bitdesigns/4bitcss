@@ -24,8 +24,8 @@
   --name: 'Elementary';
   --Luma: 0.0941176470588235;
   --Contrast: 0.843137254901961;
-  --PaletteName: Elementary;
-  --PaletteFileName: Elementary;
+  --PaletteName: 'Elementary';
+  --PaletteFileName: 'Elementary';
   --IsBright: 0;
   --IsDark: 1;
 }

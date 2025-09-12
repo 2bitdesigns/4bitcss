@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0547427450980392;
   --Contrast: 0.945257254901961;
-  --PaletteName: UnderTheSea;
-  --PaletteFileName: UnderTheSea;
+  --PaletteName: 'UnderTheSea';
+  --PaletteFileName: 'UnderTheSea';
   --IsBright: 0;
   --IsDark: 1;
 }

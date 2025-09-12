@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.205683137254902;
   --Contrast: 0.612141960784314;
-  --PaletteName: catppuccin-frappe;
-  --PaletteFileName: catppuccin-frappe;
+  --PaletteName: 'catppuccin-frappe';
+  --PaletteFileName: 'catppuccin-frappe';
   --IsBright: 0;
   --IsDark: 1;
 }

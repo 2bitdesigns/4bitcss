@@ -24,8 +24,8 @@
   --name: 'Box';
   --Luma: 0.110185882352941;
   --Contrast: 0.692701176470588;
-  --PaletteName: Box;
-  --PaletteFileName: Box;
+  --PaletteName: 'Box';
+  --PaletteFileName: 'Box';
   --IsBright: 0;
   --IsDark: 1;
 }

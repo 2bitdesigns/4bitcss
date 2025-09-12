@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.075878431372549;
   --Contrast: 0.532715294117647;
-  --PaletteName: embers-dark;
-  --PaletteFileName: embers-dark;
+  --PaletteName: 'embers-dark';
+  --PaletteFileName: 'embers-dark';
   --IsBright: 0;
   --IsDark: 1;
 }

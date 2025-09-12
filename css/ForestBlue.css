@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0701458823529412;
   --Contrast: 0.78213568627451;
-  --PaletteName: ForestBlue;
-  --PaletteFileName: ForestBlue;
+  --PaletteName: 'ForestBlue';
+  --PaletteFileName: 'ForestBlue';
   --IsBright: 0;
   --IsDark: 1;
 }

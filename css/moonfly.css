@@ -24,8 +24,8 @@
   --name: 'moonfly';
   --Luma: 0.0313725490196078;
   --Contrast: 0.709803921568627;
-  --PaletteName: moonfly;
-  --PaletteFileName: moonfly;
+  --PaletteName: 'moonfly';
+  --PaletteFileName: 'moonfly';
   --IsBright: 0;
   --IsDark: 1;
 }

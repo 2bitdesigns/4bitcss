@@ -24,8 +24,8 @@
   --name: 'ToyChest';
   --Luma: 0.202703529411765;
   --Contrast: 0.456353725490196;
-  --PaletteName: ToyChest;
-  --PaletteFileName: ToyChest;
+  --PaletteName: 'ToyChest';
+  --PaletteFileName: 'ToyChest';
   --IsBright: 0;
   --IsDark: 1;
 }

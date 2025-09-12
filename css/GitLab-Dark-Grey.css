@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.133333333333333;
   --Contrast: 0.866666666666667;
-  --PaletteName: GitLab-Dark-Grey;
-  --PaletteFileName: GitLab-Dark-Grey;
+  --PaletteName: 'GitLab-Dark-Grey';
+  --PaletteFileName: 'GitLab-Dark-Grey';
   --IsBright: 0;
   --IsDark: 1;
 }

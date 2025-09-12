@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0672486274509804;
   --Contrast: 0.215892549019608;
-  --PaletteName: CyberpunkScarletProtocol;
-  --PaletteFileName: CyberpunkScarletProtocol;
+  --PaletteName: 'CyberpunkScarletProtocol';
+  --PaletteFileName: 'CyberpunkScarletProtocol';
   --IsBright: 0;
   --IsDark: 1;
 }

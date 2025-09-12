@@ -24,8 +24,8 @@
   --name: 'Symfonic';
   --Luma: 0;
   --Contrast: 1;
-  --PaletteName: Symfonic;
-  --PaletteFileName: Symfonic;
+  --PaletteName: 'Symfonic';
+  --PaletteFileName: 'Symfonic';
   --IsBright: 0;
   --IsDark: 1;
 }

@@ -24,8 +24,8 @@
   --name: 'UltraDark';
   --Luma: 0;
   --Contrast: 1;
-  --PaletteName: UltraDark;
-  --PaletteFileName: UltraDark;
+  --PaletteName: 'UltraDark';
+  --PaletteFileName: 'UltraDark';
   --IsBright: 0;
   --IsDark: 1;
 }

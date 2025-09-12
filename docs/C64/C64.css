@@ -24,8 +24,8 @@
   --name: 'C64';
   --Luma: 0.23071137254902;
   --Contrast: 0.219324705882353;
-  --PaletteName: C64;
-  --PaletteFileName: C64;
+  --PaletteName: 'C64';
+  --PaletteFileName: 'C64';
   --IsBright: 0;
   --IsDark: 1;
 }

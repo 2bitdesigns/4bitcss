@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.116530196078431;
   --Contrast: 0.883469803921569;
-  --PaletteName: Terminal Basic Dark;
-  --PaletteFileName: Terminal-Basic-Dark;
+  --PaletteName: 'Terminal Basic Dark';
+  --PaletteFileName: 'Terminal-Basic-Dark';
   --IsBright: 0;
   --IsDark: 1;
 }

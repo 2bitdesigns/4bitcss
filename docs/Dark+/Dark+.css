@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.117647058823529;
   --Contrast: 0.682352941176471;
-  --PaletteName: Dark+;
-  --PaletteFileName: Dark+;
+  --PaletteName: 'Dark+';
+  --PaletteFileName: 'Dark+';
   --IsBright: 0;
   --IsDark: 1;
 }

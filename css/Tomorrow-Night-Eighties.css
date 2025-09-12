@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.176470588235294;
   --Contrast: 0.623529411764706;
-  --PaletteName: Tomorrow Night Eighties;
-  --PaletteFileName: Tomorrow-Night-Eighties;
+  --PaletteName: 'Tomorrow Night Eighties';
+  --PaletteFileName: 'Tomorrow-Night-Eighties';
   --IsBright: 0;
   --IsDark: 1;
 }

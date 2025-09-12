@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0;
   --Contrast: 0.768627450980392;
-  --PaletteName: IBM 5153 CGA (Black);
-  --PaletteFileName: IBM-5153-CGA-Black;
+  --PaletteName: 'IBM 5153 CGA (Black)';
+  --PaletteFileName: 'IBM-5153-CGA-Black';
   --IsBright: 0;
   --IsDark: 1;
 }

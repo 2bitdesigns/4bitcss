@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.128890980392157;
   --Contrast: 0.786539607843137;
-  --PaletteName: purplepeter;
-  --PaletteFileName: purplepeter;
+  --PaletteName: 'purplepeter';
+  --PaletteFileName: 'purplepeter';
   --IsBright: 0;
   --IsDark: 1;
 }

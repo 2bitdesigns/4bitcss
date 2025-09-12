@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.976470588235294;
   --Contrast: 0.749538823529412;
-  --PaletteName: BlulocoLight;
-  --PaletteFileName: BlulocoLight;
+  --PaletteName: 'BlulocoLight';
+  --PaletteFileName: 'BlulocoLight';
   --IsBright: 0;
   --IsDark: 1;
 }

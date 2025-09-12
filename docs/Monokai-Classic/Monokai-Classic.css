@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.154330196078431;
   --Contrast: 0.840038431372549;
-  --PaletteName: Monokai Classic;
-  --PaletteFileName: Monokai-Classic;
+  --PaletteName: 'Monokai Classic';
+  --PaletteFileName: 'Monokai-Classic';
   --IsBright: 0;
   --IsDark: 1;
 }

@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.209258823529412;
   --Contrast: 0.790741176470588;
-  --PaletteName: Red Alert;
-  --PaletteFileName: Red-Alert;
+  --PaletteName: 'Red Alert';
+  --PaletteFileName: 'Red-Alert';
   --IsBright: 0;
   --IsDark: 1;
 }

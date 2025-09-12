@@ -24,8 +24,8 @@
   --name: 'IR_Black';
   --Luma: 0;
   --Contrast: 0.945098039215686;
-  --PaletteName: IR_Black;
-  --PaletteFileName: IR-Black;
+  --PaletteName: 'IR_Black';
+  --PaletteFileName: 'IR-Black';
   --IsBright: 0;
   --IsDark: 1;
 }

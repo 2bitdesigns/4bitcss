@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0627450980392157;
   --Contrast: 0.917647058823529;
-  --PaletteName: Vercel;
-  --PaletteFileName: Vercel;
+  --PaletteName: 'Vercel';
+  --PaletteFileName: 'Vercel';
   --IsBright: 0;
   --IsDark: 1;
 }

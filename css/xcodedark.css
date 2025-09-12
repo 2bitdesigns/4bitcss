@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.165570980392157;
   --Contrast: 0.709221960784314;
-  --PaletteName: xcodedark;
-  --PaletteFileName: xcodedark;
+  --PaletteName: 'xcodedark';
+  --PaletteFileName: 'xcodedark';
   --IsBright: 0;
   --IsDark: 1;
 }

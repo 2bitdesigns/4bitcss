@@ -24,8 +24,8 @@
   --name: 'CLRS';
   --Luma: 1;
   --Contrast: 0.850980392156863;
-  --PaletteName: CLRS;
-  --PaletteFileName: CLRS;
+  --PaletteName: 'CLRS';
+  --PaletteFileName: 'CLRS';
   --IsBright: 0;
   --IsDark: 1;
 }

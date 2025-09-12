@@ -24,8 +24,8 @@
   --name: 'starlight';
   --Luma: 0.141176470588235;
   --Contrast: 0.858823529411765;
-  --PaletteName: starlight;
-  --PaletteFileName: starlight;
+  --PaletteName: 'starlight';
+  --PaletteFileName: 'starlight';
   --IsBright: 0;
   --IsDark: 1;
 }

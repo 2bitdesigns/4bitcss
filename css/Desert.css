@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.2;
   --Contrast: 0.8;
-  --PaletteName: Desert;
-  --PaletteFileName: Desert;
+  --PaletteName: 'Desert';
+  --PaletteFileName: 'Desert';
   --IsBright: 0;
   --IsDark: 1;
 }

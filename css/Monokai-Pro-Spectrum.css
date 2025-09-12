@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.133333333333333;
   --Contrast: 0.820730980392157;
-  --PaletteName: Monokai Pro Spectrum;
-  --PaletteFileName: Monokai-Pro-Spectrum;
+  --PaletteName: 'Monokai Pro Spectrum';
+  --PaletteFileName: 'Monokai-Pro-Spectrum';
   --IsBright: 0;
   --IsDark: 1;
 }

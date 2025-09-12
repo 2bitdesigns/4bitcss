@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.137025098039216;
   --Contrast: 0.741459607843137;
-  --PaletteName: rose-pine-moon;
-  --PaletteFileName: rose-pine-moon;
+  --PaletteName: 'rose-pine-moon';
+  --PaletteFileName: 'rose-pine-moon';
   --IsBright: 0;
   --IsDark: 1;
 }

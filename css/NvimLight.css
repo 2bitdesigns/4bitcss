@@ -24,8 +24,8 @@
   --name: 'NvimLight';
   --Luma: 0.886872156862745;
   --Contrast: 0.800849411764706;
-  --PaletteName: NvimLight;
-  --PaletteFileName: NvimLight;
+  --PaletteName: 'NvimLight';
+  --PaletteFileName: 'NvimLight';
   --IsBright: 0;
   --IsDark: 1;
 }
