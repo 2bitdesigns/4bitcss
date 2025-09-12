@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/thomaspaulmann;
-  --creditTo: thomaspaulmann;
+  --creditToLink: 'https://github.com/thomaspaulmann';
+  --creditTo: 'thomaspaulmann';
   --selectionBackground: #e1925c;
   --cursorColor: #c7c7c7;
   --foreground: #efecec;
@@ -21,7 +21,7 @@
   --green: #47d7a1;
   --red: #ff5b82;
   --black: #1d1a1e;
-  --name: Kolorit;
+  --name: 'Kolorit';
   --Luma: 0.105594509803922;
   --Contrast: 0.822396862745098;
   --PaletteName: Kolorit;
