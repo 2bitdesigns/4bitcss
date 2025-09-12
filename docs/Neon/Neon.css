@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/vazquez/cobalt-neon-iterm;
+  --creditTo: vazquez;
   --selectionBackground: #0013ff;
   --cursorColor: #c7c7c7;
   --foreground: #00fffc;
@@ -19,7 +21,7 @@
   --green: #5ffa74;
   --red: #ff3045;
   --black: #000000;
-  --name: 'Neon';
+  --name: Neon;
   --Luma: 0.0857396078431372;
   --Contrast: 0.700810980392157;
   --PaletteName: Neon;
