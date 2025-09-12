@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://gist.github.com/stefri/1183140;
-  --creditTo: stefri;
+  --creditToLink: 'https://gist.github.com/stefri/1183140';
+  --creditTo: 'stefri';
   --selectionBackground: #313131;
   --cursorColor: #ffffff;
   --foreground: #ffffd4;
@@ -21,7 +21,7 @@
   --green: #afb97a;
   --red: #c06d44;
   --black: #141414;
-  --name: Twilight;
+  --name: 'Twilight';
   --Luma: 0.0784313725490196;
   --Contrast: 0.909393725490196;
   --PaletteName: Twilight;
