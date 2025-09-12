@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/folke/tokyonight.nvim;
+  --creditTo: folke;
   --selectionBackground: #33467c;
   --cursorColor: #c0caf5;
   --foreground: #c0caf5;
@@ -19,7 +21,7 @@
   --green: #9ece6a;
   --red: #f7768e;
   --black: #15161e;
-  --name: 'tokyonight';
+  --name: tokyonight;
   --Luma: 0.108163137254902;
   --Contrast: 0.687831372549019;
   --PaletteName: tokyonight;
