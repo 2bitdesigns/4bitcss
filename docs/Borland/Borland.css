@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://gist.github.com/delip/9e16c606d9331d69d681;
-  --creditTo: delip;
+  --creditToLink: 'https://gist.github.com/delip/9e16c606d9331d69d681';
+  --creditTo: 'delip';
   --selectionBackground: #a4a4a4;
   --cursorColor: #ffa560;
   --foreground: #ffff4e;
@@ -21,7 +21,7 @@
   --green: #a8ff60;
   --red: #ff6c60;
   --black: #4f4f4f;
-  --name: Borland;
+  --name: 'Borland';
   --Luma: 0.0464345098039216;
   --Contrast: 0.903450196078431;
   --PaletteName: Borland;
