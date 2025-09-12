@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #f7d66a;
   --cursorColor: #c46c32;
   --foreground: #f7d66a;
@@ -21,7 +21,7 @@
   --green: #636232;
   --red: #9b291c;
   --black: #351b0e;
-  --name: MonaLisa;
+  --name: 'MonaLisa';
   --Luma: 0.0495396078431372;
   --Contrast: 0.786610196078431;
   --PaletteName: MonaLisa;
