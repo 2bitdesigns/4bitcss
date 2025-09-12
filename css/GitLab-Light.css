@@ -19,7 +19,9 @@
   --green: #0a7f3d;
   --red: #a31700;
   --black: #303030;
-  --name: 'GitLab-Light';
+  --name: GitLab-Light;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.981807843137255;
   --Contrast: 0.793572549019608;
   --PaletteName: GitLab-Light;
