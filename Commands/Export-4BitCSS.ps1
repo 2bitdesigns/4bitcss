@@ -294,6 +294,8 @@ function Export-4BitCSS
 
         $jsonObject['Luma'] = $Background | GetLuma
         $jsonObject['Contrast'] = [Math]::Abs(($foreground | GetLuma) - $jsonObject['Luma'])
+        $jsonObject['PaletteName'] = $Name
+        $jsonObject['PaletteFileName'] = "$($name | Convert-4BitName)"        
         $jsonObject = [PSCustomObject]$jsonObject
         
         # and determine if it is bright or dark.
@@ -332,8 +334,10 @@ function Export-4BitCSS
   --IsDark: $((-not $IsBright) -as [int]);
 }
 
-.colorSchemeName::before, .ColorSchemeName::before { content: '$($name)'; }
+.colorSchemeName::before, .ColorSchemeName::before { content: '$($name )'; }
+.paletteName::before, .paletteName::before { content: '$($name)'; }
 .colorSchemeFileName::before, .ColorSchemeFileName::before { content: '$($name | Convert-4BitName).css'; }
+.paletteFileName::before, .paletteFileName::before { content: '$($name | Convert-4BitName).css'; }
 
 "@
 
@@ -414,7 +418,7 @@ if (-not $NoBackgroundColor) {
 .green-background, .GreenBackground, .ANSI2-Background, .ansi2-background { background-color: var(--green)  }
 .yellow-background, .YellowBackground, .ANSI3-Background, .ansi3-background { background-color: var(--yellow)  }
 .blue-background, .BlueBackground, .ANSI4-Background, .ansi4-background { background-color: var(--blue)  }
-.magenta-background, .MagentaBackground, .ANSI5-Background, .ansi5-background { background-color: var(--purple)  }
+.magenta-background, .MagentaBackground, .purple-background, .PurpleBackground, .ANSI5-Background, .ansi5-background { background-color: var(--purple)  }
 .cyan-background, .CyanBackground, .ANSI6-Background, .ansi6-background { background-color: var(--cyan)  }
 .white-background, .WhiteBackground, .ANSI7-Background, .ansi7-background { background-color: var(--white)  }
 .brightblack-background, .bright-black-background, .BrightBlackBackground, .ANSI8-Background, .ansi8-background { background-color: var(--brightBlack)  }
@@ -446,7 +450,7 @@ if (-not $NoFill) {
 .brightyellow-fill   ,  .bright-yellow-fill   , .BrightYellowFill   , .ANSI11-Fill, .ansi11-fill   { fill: var(--brightYellow)   }
 .brightblue-fill   ,  .bright-blue-fill   , .BrightBlueFill   , .ANSI12-Fill, .ansi12-fill   { fill: var(--brightBlue)           }
 .brightmagneta-fill   ,  .bright-magneta-fill   , .BrightMagnetaFill   , .ANSI13-Fill, .ansi13-fill   { fill: var(--brightPurple) }
-.brightpurple-fill      , .bright-purple-fill, .BrightPurpleFill { fill: var(--brightPuple)                                      }
+.brightpurple-fill      , .bright-purple-fill, .BrightPurpleFill { fill: var(--brightPurple)                                      }
 .brightcyan-fill   ,  .bright-cyan-fill   , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { fill: var(--brightCyan)           }
 .brightwhite-fill   ,  .bright-white-fill   , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { fill: var(--brightWhite)       }
 "@
