@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/deneshshan;
-  --creditTo: deneshshan;
+  --creditToLink: 'https://github.com/deneshshan';
+  --creditTo: 'deneshshan';
   --selectionBackground: #0f3754;
   --cursorColor: #87d3c4;
   --foreground: #35b1d2;
@@ -21,7 +21,7 @@
   --green: #81d778;
   --red: #e2a8bf;
   --black: #222222;
-  --name: Slate;
+  --name: 'Slate';
   --Luma: 0.133333333333333;
   --Contrast: 0.466745882352941;
   --PaletteName: Slate;
