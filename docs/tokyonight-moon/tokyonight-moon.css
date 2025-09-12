@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.144605490196078;
   --Contrast: 0.683301176470588;
-  --PaletteName: tokyonight_moon;
-  --PaletteFileName: tokyonight-moon;
+  --PaletteName: 'tokyonight_moon';
+  --PaletteFileName: 'tokyonight-moon';
   --IsBright: 0;
   --IsDark: 1;
 }
