@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jutretel;
+  --creditTo: Julia Tretel;
   --selectionBackground: #5b5184;
   --cursorColor: #c3d3de;
   --foreground: #c3d3de;
@@ -19,7 +21,7 @@
   --green: #90a94b;
   --red: #cf7b98;
   --black: #3b3750;
-  --name: 'jubi';
+  --name: jubi;
   --Luma: 0.166723921568627;
   --Contrast: 0.650501960784314;
   --PaletteName: jubi;
