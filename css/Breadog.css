@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://gitlab.com/warningnonpotablewater/breadog;
-  --creditTo: Ruby Klover;
+  --creditToLink: 'https://gitlab.com/warningnonpotablewater/breadog';
+  --creditTo: 'Ruby Klover';
   --selectionBackground: #362c24;
   --cursorColor: #362c24;
   --foreground: #362c24;
@@ -21,7 +21,7 @@
   --green: #007232;
   --red: #b10b00;
   --black: #362c24;
-  --name: Breadog;
+  --name: 'Breadog';
   --Luma: 0.925155294117647;
   --Contrast: 0.746534117647059;
   --PaletteName: Breadog;
