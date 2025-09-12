@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/lemonlime0x3C33/iTerm2-Color-Schemes-Sugarplum;
+  --creditTo: lemonlime0x3C33;
   --selectionBackground: #5ca8dc;
   --cursorColor: #53b397;
   --foreground: #db7ddd;
@@ -19,7 +21,7 @@
   --green: #53b397;
   --red: #5ca8dc;
   --black: #111147;
-  --name: 'Sugarplum';
+  --name: Sugarplum;
   --Luma: 0.0819560784313726;
   --Contrast: 0.51379137254902;
   --PaletteName: Sugarplum;
