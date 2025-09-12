@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/ReagentX;
-  --creditTo: ReagentX;
+  --creditToLink: 'https://github.com/ReagentX';
+  --creditTo: 'ReagentX';
   --selectionBackground: #c1deff;
   --cursorColor: #76ff9f;
   --foreground: #e41951;
@@ -21,7 +21,7 @@
   --green: #00dc84;
   --red: #ff0051;
   --black: #101116;
-  --name: Scarlet Protocol;
+  --name: 'Scarlet Protocol';
   --Luma: 0.0995145098039216;
   --Contrast: 0.183626666666667;
   --PaletteName: Scarlet Protocol;
