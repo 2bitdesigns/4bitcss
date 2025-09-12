@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#191919" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#786b53" text-anchor="middle" alignment-baseline="middle">Treehouse</text>
+  <rect x="0" y="0" width="80" height="80" fill="#321300" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#b2270e" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#44a900" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#aa820c" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#58859a" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#97363d" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#b25a1e" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#786b53" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#433626" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ed5d20" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#55f238" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#f2b732" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#85cfed" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#e14c5a" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#f07d14" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#ffc800" class="BrightWhite-fill" />
+</svg>
