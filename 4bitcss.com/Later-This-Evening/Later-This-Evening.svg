@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#222222" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#959595" text-anchor="middle" alignment-baseline="middle">Later This Evening</text>
+  <rect x="0" y="0" width="80" height="80" fill="#2b2b2b" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#d45a60" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#afba67" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#e5d289" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#a0bad6" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#c092d6" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#91bfb7" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#3c3d3d" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#454747" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#d3232f" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#aabb39" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#e5be39" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#6699d6" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#ab53d6" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#5fc0ae" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#c1c2c2" class="BrightWhite-fill" />
+</svg>
