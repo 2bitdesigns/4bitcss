@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/ayu-theme/vscode-ayu;
+  --creditTo: VS Code theme;
   --selectionBackground: #33415e;
   --cursorColor: #ffcc66;
   --foreground: #cbccc6;
@@ -19,7 +21,7 @@
   --green: #a6cc70;
   --red: #ed8274;
   --black: #191e2a;
-  --name: 'Ayu Mirage';
+  --name: Ayu Mirage;
   --Luma: 0.140405490196078;
   --Contrast: 0.657061960784314;
   --PaletteName: Ayu Mirage;
