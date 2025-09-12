@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/kinoute/hivacruz-itermcolors;
-  --creditTo: Yann Defretin;
+  --creditToLink: 'https://github.com/kinoute/hivacruz-itermcolors';
+  --creditTo: 'Yann Defretin';
   --selectionBackground: #5e6687;
   --cursorColor: #979db4;
   --foreground: #ede4e4;
@@ -21,7 +21,7 @@
   --green: #ac9739;
   --red: #c94922;
   --black: #202746;
-  --name: Hivacruz;
+  --name: 'Hivacruz';
   --Luma: 0.138275294117647;
   --Contrast: 0.763345882352941;
   --PaletteName: Hivacruz;
