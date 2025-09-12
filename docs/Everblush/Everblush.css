@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/Mangeshrex;
-  --creditTo: Mangeshrex;
+  --creditToLink: 'https://github.com/Mangeshrex';
+  --creditTo: 'Mangeshrex';
   --selectionBackground: #141b1e;
   --cursorColor: #dadada;
   --foreground: #dadada;
@@ -21,7 +21,7 @@
   --green: #8ccf7e;
   --red: #e57474;
   --black: #232a2d;
-  --name: Everblush;
+  --name: 'Everblush';
   --Luma: 0.10089568627451;
   --Contrast: 0.754006274509804;
   --PaletteName: Everblush;
