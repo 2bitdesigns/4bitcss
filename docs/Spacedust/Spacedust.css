@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/mhallendal/spacedust-theme;
-  --creditTo: mhallendal;
+  --creditToLink: 'https://github.com/mhallendal/spacedust-theme';
+  --creditTo: 'mhallendal';
   --selectionBackground: #0a385c;
   --cursorColor: #708284;
   --foreground: #ecf0c1;
@@ -21,7 +21,7 @@
   --green: #5cab96;
   --red: #e35b00;
   --black: #6e5346;
-  --name: Spacedust;
+  --name: 'Spacedust';
   --Luma: 0.10267137254902;
   --Contrast: 0.821862745098039;
   --PaletteName: Spacedust;
