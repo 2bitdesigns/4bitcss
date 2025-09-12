@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/sainnhe/sonokai;
+  --creditTo: sainnhe;
   --selectionBackground: #414550;
   --cursorColor: #e2e2e3;
   --foreground: #e2e2e3;
@@ -19,7 +21,7 @@
   --green: #9ed072;
   --red: #fc5d7c;
   --black: #181819;
-  --name: 'sonokai';
+  --name: sonokai;
   --Luma: 0.180423529411765;
   --Contrast: 0.706134117647059;
   --PaletteName: sonokai;
