@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/jayanthkoushik;
-  --creditTo: jayanthkoushik;
+  --creditToLink: 'https://github.com/jayanthkoushik';
+  --creditTo: 'jayanthkoushik';
   --selectionBackground: #656565;
   --cursorColor: #000000;
   --foreground: #000000;
@@ -21,7 +21,7 @@
   --green: #0f9d58;
   --red: #db4437;
   --black: #000000;
-  --name: primary;
+  --name: 'primary';
   --Luma: 1;
   --Contrast: 1;
   --PaletteName: primary;
