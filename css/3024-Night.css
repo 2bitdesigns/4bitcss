@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/0x3024;
+  --creditTo: 0x3024;
   --selectionBackground: #4a4543;
   --cursorColor: #a5a2a2;
   --foreground: #a5a2a2;
@@ -19,7 +21,7 @@
   --green: #01a252;
   --red: #db2d20;
   --black: #090300;
-  --name: '3024 Night';
+  --name: 3024 Night;
   --Luma: 0.0159176470588235;
   --Contrast: 0.621877647058824;
   --PaletteName: 3024 Night;
