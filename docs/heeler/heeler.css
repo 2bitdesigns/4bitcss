@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/tacolegs2004;
+  --creditTo: tacolegs2004;
   --selectionBackground: #2b2c41;
   --cursorColor: #ffffff;
   --foreground: #fdfdfd;
@@ -19,7 +21,7 @@
   --green: #bdd100;
   --red: #e44c2e;
   --black: #000000;
-  --name: 'heeler';
+  --name: heeler;
   --Luma: 0.134278431372549;
   --Contrast: 0.857878431372549;
   --PaletteName: heeler;
