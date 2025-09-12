@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://gist.github.com/meqif/1238378;
-  --creditTo: here;
+  --creditToLink: 'https://gist.github.com/meqif/1238378';
+  --creditTo: 'here';
   --selectionBackground: #b5d5ff;
   --cursorColor: #808080;
   --foreground: #f1f1f1;
@@ -21,7 +21,7 @@
   --green: #a8ff60;
   --red: #fa6c60;
   --black: #4f4f4f;
-  --name: IR_Black;
+  --name: 'IR_Black';
   --Luma: 0;
   --Contrast: 0.945098039215686;
   --PaletteName: IR_Black;
