@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/lukgri;
-  --creditTo: lukgri;
+  --creditToLink: 'https://github.com/lukgri';
+  --creditTo: 'lukgri';
   --selectionBackground: #d5d5d5;
   --cursorColor: #00beff;
   --foreground: #ced2d6;
@@ -21,7 +21,7 @@
   --green: #85cc95;
   --red: #ff0257;
   --black: #0a1222;
-  --name: Elegant;
+  --name: 'Elegant';
   --Luma: 0.168658823529412;
   --Contrast: 0.652668235294118;
   --PaletteName: Elegant;
