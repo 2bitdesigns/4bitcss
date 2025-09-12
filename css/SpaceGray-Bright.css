@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/nicksay;
+  --creditTo: nicksay;
   --selectionBackground: #cacaca;
   --cursorColor: #c6c6c6;
   --foreground: #f3f3f3;
@@ -19,7 +21,7 @@
   --green: #a0b56c;
   --red: #bc5553;
   --black: #080808;
-  --name: 'SpaceGray Bright';
+  --name: SpaceGray Bright;
   --Luma: 0.180454901960784;
   --Contrast: 0.772486274509804;
   --PaletteName: SpaceGray Bright;
