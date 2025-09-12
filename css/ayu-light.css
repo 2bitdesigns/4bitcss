@@ -19,7 +19,9 @@
   --green: #86b300;
   --red: #ff3333;
   --black: #000000;
-  --name: 'ayu_light';
+  --name: ayu_light;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.980392156862745;
   --Contrast: 0.582243921568627;
   --PaletteName: ayu_light;
