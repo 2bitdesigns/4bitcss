@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/Takk8IS;
-  --creditTo: Takk8IS;
+  --creditToLink: 'https://github.com/Takk8IS';
+  --creditTo: 'Takk8IS';
   --selectionBackground: #303030;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #a3be8c;
   --red: #bf616a;
   --black: #2a2a2a;
-  --name: Cursor Dark;
+  --name: 'Cursor Dark';
   --Luma: 0.0784313725490196;
   --Contrast: 0.92156862745098;
   --PaletteName: Cursor Dark;
