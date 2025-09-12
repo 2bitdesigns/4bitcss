@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/sapegin/squirrelsong;
-  --creditTo: Squirrelsong Dark;
+  --creditToLink: 'https://github.com/sapegin/squirrelsong';
+  --creditTo: 'Squirrelsong Dark';
   --selectionBackground: #5b402e;
   --cursorColor: #b19b89;
   --foreground: #b19b89;
@@ -21,7 +21,7 @@
   --green: #468336;
   --red: #ba4138;
   --black: #372920;
-  --name: Squirrelsong Dark;
+  --name: 'Squirrelsong Dark';
   --Luma: 0.169908235294118;
   --Contrast: 0.451180392156863;
   --PaletteName: Squirrelsong Dark;
