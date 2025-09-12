@@ -24,8 +24,8 @@
   --name: 'primary';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: primary;
-  --PaletteFileName: primary;
+  --PaletteName: 'primary';
+  --PaletteFileName: 'primary';
   --IsBright: 0;
   --IsDark: 1;
 }
