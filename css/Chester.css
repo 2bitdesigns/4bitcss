@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/spectralkh;
+  --creditTo: KH;
   --selectionBackground: #67747c;
   --cursorColor: #b4b1b1;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #16c98d;
   --red: #fa5e5b;
   --black: #080200;
-  --name: 'Chester';
+  --name: Chester;
   --Luma: 0.207108235294118;
   --Contrast: 0.792891764705882;
   --PaletteName: Chester;
