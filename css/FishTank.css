@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #fcf7e9;
   --cursorColor: #fecd5e;
   --foreground: #ecf0fe;
@@ -19,7 +21,7 @@
   --green: #acf157;
   --red: #c6004a;
   --black: #03073c;
-  --name: 'FishTank';
+  --name: FishTank;
   --Luma: 0.148527058823529;
   --Contrast: 0.793278431372549;
   --PaletteName: FishTank;
