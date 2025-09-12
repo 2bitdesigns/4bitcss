@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: http://wideaperture.net;
+  --creditTo: Josh Braun;
   --selectionBackground: #44475a;
   --cursorColor: #bbbbbb;
   --foreground: #adadad;
@@ -19,7 +21,7 @@
   --green: #98b61c;
   --red: #fc5256;
   --black: #adadad;
-  --name: 'idea';
+  --name: idea;
   --Luma: 0.125490196078431;
   --Contrast: 0.552941176470588;
   --PaletteName: idea;
