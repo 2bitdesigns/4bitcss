@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/pyrophos;
-  --creditTo: pyrophos;
+  --creditToLink: 'https://github.com/pyrophos';
+  --creditTo: 'pyrophos';
   --selectionBackground: #4d504c;
   --cursorColor: #fcef0c;
   --foreground: #6f6f6f;
@@ -21,7 +21,7 @@
   --green: #c8be46;
   --red: #e6dc44;
   --black: #1b1d1e;
-  --name: Batman;
+  --name: 'Batman';
   --Luma: 0.112341176470588;
   --Contrast: 0.322952941176471;
   --PaletteName: Batman;
