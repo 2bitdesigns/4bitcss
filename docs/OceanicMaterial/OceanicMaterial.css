@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/rahulpatel;
-  --creditTo: rahulpatel;
+  --creditToLink: 'https://github.com/rahulpatel';
+  --creditTo: 'rahulpatel';
   --selectionBackground: #6dc2b8;
   --cursorColor: #b3b8c3;
   --foreground: #c2c8d7;
@@ -21,7 +21,7 @@
   --green: #40a33f;
   --red: #ee2b2a;
   --black: #000000;
-  --name: OceanicMaterial;
+  --name: 'OceanicMaterial';
   --Luma: 0.142098039215686;
   --Contrast: 0.641460392156863;
   --PaletteName: OceanicMaterial;
