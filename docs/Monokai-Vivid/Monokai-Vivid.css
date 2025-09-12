@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/vitalymak/iTerm2-Color-Schemes;
+  --creditTo: vitalymak;
   --selectionBackground: #ffffff;
   --cursorColor: #fb0007;
   --foreground: #f9f9f9;
@@ -19,7 +21,7 @@
   --green: #98e123;
   --red: #fa2934;
   --black: #121212;
-  --name: 'Monokai Vivid';
+  --name: Monokai Vivid;
   --Luma: 0.0705882352941176;
   --Contrast: 0.905882352941176;
   --PaletteName: Monokai Vivid;
