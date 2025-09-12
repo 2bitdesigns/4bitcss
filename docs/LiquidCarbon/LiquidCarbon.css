@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/markcho/iTerm2_LiquidCarbon;
+  --creditTo: markcho;
   --selectionBackground: #7dbeff;
   --cursorColor: #ffffff;
   --foreground: #afc2c2;
@@ -19,7 +21,7 @@
   --green: #559a70;
   --red: #ff3030;
   --black: #000000;
-  --name: 'LiquidCarbon';
+  --name: LiquidCarbon;
   --Luma: 0.188235294117647;
   --Contrast: 0.556708235294118;
   --PaletteName: LiquidCarbon;
