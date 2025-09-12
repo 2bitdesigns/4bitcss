@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.940283921568627;
   --Contrast: 0.940283921568627;
-  --PaletteName: Man Page;
-  --PaletteFileName: Man-Page;
+  --PaletteName: 'Man Page';
+  --PaletteFileName: 'Man-Page';
   --IsBright: 0;
   --IsDark: 1;
 }
