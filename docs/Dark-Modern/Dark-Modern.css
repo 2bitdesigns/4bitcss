@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zasdaym;
+  --creditTo: zasdaym;
   --selectionBackground: #3a3d41;
   --cursorColor: #ffffff;
   --foreground: #cccccc;
@@ -19,7 +21,7 @@
   --green: #2ea043;
   --red: #f74949;
   --black: #272727;
-  --name: 'Dark Modern';
+  --name: Dark Modern;
   --Luma: 0.12156862745098;
   --Contrast: 0.67843137254902;
   --PaletteName: Dark Modern;
