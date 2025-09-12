@@ -19,7 +19,9 @@
   --green: #559a70;
   --red: #ff3030;
   --black: #000000;
-  --name: 'LiquidCarbonTransparent';
+  --name: LiquidCarbonTransparent;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0;
   --Contrast: 0.744943529411765;
   --PaletteName: LiquidCarbonTransparent;
