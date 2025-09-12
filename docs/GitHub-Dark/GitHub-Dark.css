@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/apcamargo;
-  --creditTo: Antonio Camargo;
+  --creditToLink: 'https://github.com/apcamargo';
+  --creditTo: 'Antonio Camargo';
   --selectionBackground: #3b5070;
   --cursorColor: #c9d1d9;
   --foreground: #8b949e;
@@ -21,7 +21,7 @@
   --green: #56d364;
   --red: #f78166;
   --black: #000000;
-  --name: GitHub Dark;
+  --name: 'GitHub Dark';
   --Luma: 0.0700533333333333;
   --Contrast: 0.505666666666667;
   --PaletteName: GitHub Dark;
