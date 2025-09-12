@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: http://wideaperture.net;
-  --creditTo: Josh Braun;
+  --creditToLink: 'http://wideaperture.net';
+  --creditTo: 'Josh Braun';
   --selectionBackground: #00a48c;
   --cursorColor: #bbbbbb;
   --foreground: #00a595;
@@ -21,7 +21,7 @@
   --green: #008b00;
   --red: #9f0000;
   --black: #000000;
-  --name: ENCOM;
+  --name: 'ENCOM';
   --Luma: 0;
   --Contrast: 0.504963921568627;
   --PaletteName: ENCOM;
