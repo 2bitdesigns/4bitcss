@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/ReagentX;
-  --creditTo: ReagentX;
+  --creditToLink: 'https://github.com/ReagentX';
+  --creditTo: 'ReagentX';
   --selectionBackground: #c1deff;
   --cursorColor: #76ff9f;
   --foreground: #00a2ff;
@@ -21,7 +21,7 @@
   --green: #00ff9c;
   --red: #ff5680;
   --black: #101116;
-  --name: Blue Matrix;
+  --name: 'Blue Matrix';
   --Luma: 0.0672486274509804;
   --Contrast: 0.459313725490196;
   --PaletteName: Blue Matrix;
