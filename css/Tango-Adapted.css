@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/crowsonkb;
-  --creditTo: crowsonkb;
+  --creditToLink: 'https://github.com/crowsonkb';
+  --creditTo: 'crowsonkb';
   --selectionBackground: #c1deff;
   --cursorColor: #000000;
   --foreground: #000000;
@@ -21,7 +21,7 @@
   --green: #59d600;
   --red: #ff0000;
   --black: #000000;
-  --name: Tango Adapted;
+  --name: 'Tango Adapted';
   --Luma: 1;
   --Contrast: 1;
   --PaletteName: Tango Adapted;
