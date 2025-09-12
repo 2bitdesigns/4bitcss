@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme;
-  --creditTo: the Breeze color scheme;
+  --creditToLink: 'https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme';
+  --creditTo: 'the Breeze color scheme';
   --selectionBackground: #eff0f1;
   --cursorColor: #eff0f1;
   --foreground: #eff0f1;
@@ -21,7 +21,7 @@
   --green: #11d116;
   --red: #ed1515;
   --black: #31363b;
-  --name: Breeze;
+  --name: 'Breeze';
   --Luma: 0.209011764705882;
   --Contrast: 0.731614117647059;
   --PaletteName: Breeze;
