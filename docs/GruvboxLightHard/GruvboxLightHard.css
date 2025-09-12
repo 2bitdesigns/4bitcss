@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.955625098039216;
   --Contrast: 0.73324862745098;
-  --PaletteName: GruvboxLightHard;
-  --PaletteFileName: GruvboxLightHard;
+  --PaletteName: 'GruvboxLightHard';
+  --PaletteFileName: 'GruvboxLightHard';
   --IsBright: 0;
   --IsDark: 1;
 }
