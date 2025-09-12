@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0596572549019608;
   --Contrast: 0.742266666666667;
-  --PaletteName: flexoki-dark;
-  --PaletteFileName: flexoki-dark;
+  --PaletteName: 'flexoki-dark';
+  --PaletteFileName: 'flexoki-dark';
   --IsBright: 0;
   --IsDark: 1;
 }
