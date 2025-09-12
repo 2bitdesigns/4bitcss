@@ -195,3 +195,5 @@ if ($site.Archive) {
 }
 #endregion archive.zip
 if ($PSScriptRoot) { Pop-Location }
+
+$site.PSScriptRoot | Get-ChildItem -Recurse -File
