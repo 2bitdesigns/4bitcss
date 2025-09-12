@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/baskerville/iTerm-2-Color-Themes;
-  --creditTo: baskerville;
+  --creditToLink: 'https://github.com/baskerville/iTerm-2-Color-Themes';
+  --creditTo: 'baskerville';
   --selectionBackground: #4d4d4d;
   --cursorColor: #e2bbef;
   --foreground: #ddeedd;
@@ -21,7 +21,7 @@
   --green: #86af80;
   --red: #cd5c5c;
   --black: #3d352a;
-  --name: Arthur;
+  --name: 'Arthur';
   --Luma: 0.109803921568627;
   --Contrast: 0.804542745098039;
   --PaletteName: Arthur;
