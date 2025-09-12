@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://www.nordtheme.com/;
-  --creditTo: Arctic Ice Studio;
+  --creditToLink: 'https://www.nordtheme.com/';
+  --creditTo: 'Arctic Ice Studio';
   --selectionBackground: #eceff4;
   --cursorColor: #eceff4;
   --foreground: #d8dee9;
@@ -21,7 +21,7 @@
   --green: #a3be8c;
   --red: #bf616a;
   --black: #3b4252;
-  --name: nord;
+  --name: 'nord';
   --Luma: 0.202316862745098;
   --Contrast: 0.666383529411765;
   --PaletteName: nord;
