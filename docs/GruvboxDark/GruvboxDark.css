@@ -19,9 +19,9 @@
   --green: #98971a;
   --red: #cc241d;
   --black: #282828;
-  --name: GruvboxDark;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'GruvboxDark';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0.156862745098039;
   --Contrast: 0.703691764705882;
   --PaletteName: GruvboxDark;
