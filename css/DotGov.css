@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://standards.usa.gov/visual-style/;
+  --creditTo: U.S. Web Design Standards;
   --selectionBackground: #1a4080;
   --cursorColor: #d9002f;
   --foreground: #ebebeb;
@@ -19,7 +21,7 @@
   --green: #3d9751;
   --red: #bf091d;
   --black: #191919;
-  --name: 'DotGov';
+  --name: DotGov;
   --Luma: 0.170094901960784;
   --Contrast: 0.751473725490196;
   --PaletteName: DotGov;
