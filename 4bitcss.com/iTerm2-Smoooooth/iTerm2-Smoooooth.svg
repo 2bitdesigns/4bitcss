@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#15191f" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#dcdcdc" text-anchor="middle" alignment-baseline="middle">iTerm2 Smoooooth</text>
+  <rect x="0" y="0" width="80" height="80" fill="#14191e" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#b43c2a" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#00c200" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#c7c400" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#2744c7" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#c040be" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#00c5c7" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#c7c7c7" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#686868" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#dd7975" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#58e790" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#ece100" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#a7abf2" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#e17ee1" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#60fdff" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#ffffff" class="BrightWhite-fill" />
+</svg>
