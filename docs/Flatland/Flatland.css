@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: http://www.snip2code.com/Snippet/148193/Flatland-color-scheme-for-iTerm2;
+  --creditTo: realchaseadams;
   --selectionBackground: #2b2a24;
   --cursorColor: #708284;
   --foreground: #b8dbef;
@@ -19,7 +21,7 @@
   --green: #9fd364;
   --red: #f18339;
   --black: #1d1d19;
-  --name: 'Flatland';
+  --name: Flatland;
   --Luma: 0.120467450980392;
   --Contrast: 0.714838431372549;
   --PaletteName: Flatland;
