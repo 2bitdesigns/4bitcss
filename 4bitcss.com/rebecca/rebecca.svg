@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#292a44" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#e8e6ed" text-anchor="middle" alignment-baseline="middle">rebecca</text>
+  <rect x="0" y="0" width="80" height="80" fill="#12131e" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#dd7755" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#04dbb5" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#f2e7b7" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#7aa5ff" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#bf9cf9" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#56d3c2" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#e4e3e9" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#666699" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ff92cd" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#01eac0" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#fffca8" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#69c0fa" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#c17ff8" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#8bfde1" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f4f2f9" class="BrightWhite-fill" />
+</svg>
