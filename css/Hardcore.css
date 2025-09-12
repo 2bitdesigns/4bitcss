@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/hardcore/iTerm-colors;
-  --creditTo: hardcore;
+  --creditToLink: 'https://github.com/hardcore/iTerm-colors';
+  --creditTo: 'hardcore';
   --selectionBackground: #453b39;
   --cursorColor: #bbbbbb;
   --foreground: #a0a0a0;
@@ -21,7 +21,7 @@
   --green: #a6e22e;
   --red: #f92672;
   --black: #1b1d1e;
-  --name: Hardcore;
+  --name: 'Hardcore';
   --Luma: 0.0705882352941176;
   --Contrast: 0.556862745098039;
   --PaletteName: Hardcore;
