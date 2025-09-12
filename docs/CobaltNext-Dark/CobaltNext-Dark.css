@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0978956862745098;
   --Contrast: 0.770254117647059;
-  --PaletteName: CobaltNext-Dark;
-  --PaletteFileName: CobaltNext-Dark;
+  --PaletteName: 'CobaltNext-Dark';
+  --PaletteFileName: 'CobaltNext-Dark';
   --IsBright: 0;
   --IsDark: 1;
 }
