@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/pratikmullick;
-  --creditTo: Pratik;
+  --creditToLink: 'https://github.com/pratikmullick';
+  --creditTo: 'Pratik';
   --selectionBackground: #c1e4ff;
   --cursorColor: #10b6ff;
   --foreground: #11b7ff;
@@ -21,7 +21,7 @@
   --green: #10b6ff;
   --red: #10b6ff;
   --black: #010921;
-  --name: HaX0R_BLUE;
+  --name: 'HaX0R_BLUE';
   --Luma: 0.020803137254902;
   --Contrast: 0.57883137254902;
   --PaletteName: HaX0R_BLUE;
