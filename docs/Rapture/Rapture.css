@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/Pustur;
-  --creditTo: Pustur;
+  --creditToLink: 'https://github.com/Pustur';
+  --creditTo: 'Pustur';
   --selectionBackground: #304b66;
   --cursorColor: #ffffff;
   --foreground: #c0c9e5;
@@ -21,7 +21,7 @@
   --green: #7afde1;
   --red: #fc644d;
   --black: #000000;
-  --name: Rapture;
+  --name: 'Rapture';
   --Luma: 0.110206274509804;
   --Contrast: 0.678453333333333;
   --PaletteName: Rapture;
