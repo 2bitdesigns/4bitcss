@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/hukl/Smyck-Color-Scheme;
-  --creditTo: here;
+  --creditToLink: 'https://github.com/hukl/Smyck-Color-Scheme';
+  --creditTo: 'here';
   --selectionBackground: #207483;
   --cursorColor: #bbbbbb;
   --foreground: #f7f7f7;
@@ -21,7 +21,7 @@
   --green: #7da900;
   --red: #b84131;
   --black: #000000;
-  --name: Smyck;
+  --name: 'Smyck';
   --Luma: 0.105882352941176;
   --Contrast: 0.862745098039216;
   --PaletteName: Smyck;
