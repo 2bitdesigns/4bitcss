@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/tomasr/molokai;
+  --creditTo: vim colorscheme;
   --selectionBackground: #b5d5ff;
   --cursorColor: #bbbbbb;
   --foreground: #bbbbbb;
@@ -19,7 +21,7 @@
   --green: #98e123;
   --red: #fa2573;
   --black: #121212;
-  --name: 'Molokai';
+  --name: Molokai;
   --Luma: 0.0705882352941176;
   --Contrast: 0.662745098039216;
   --PaletteName: Molokai;
