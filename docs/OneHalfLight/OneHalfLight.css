@@ -19,7 +19,9 @@
   --green: #50a14f;
   --red: #e45649;
   --black: #383a42;
-  --name: 'OneHalfLight';
+  --name: OneHalfLight;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.980392156862745;
   --Contrast: 0.752343529411765;
   --PaletteName: OneHalfLight;
