@@ -24,8 +24,8 @@
   --name: 'srcery';
   --Luma: 0.106149803921569;
   --Contrast: 0.809852549019608;
-  --PaletteName: srcery;
-  --PaletteFileName: srcery;
+  --PaletteName: 'srcery';
+  --PaletteFileName: 'srcery';
   --IsBright: 0;
   --IsDark: 1;
 }
