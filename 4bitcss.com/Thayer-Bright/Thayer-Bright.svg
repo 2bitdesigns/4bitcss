@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1b1d1e" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#f8f8f8" text-anchor="middle" alignment-baseline="middle">Thayer Bright</text>
+  <rect x="0" y="0" width="80" height="80" fill="#1b1d1e" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#f92672" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#4df840" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#f4fd22" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#2757d6" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#8c54fe" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#38c8b5" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#ccccc6" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#505354" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ff5995" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#b6e354" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#feed6c" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#3f78ff" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#9e6ffe" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#23cfd5" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f8f8f2" class="BrightWhite-fill" />
+</svg>
