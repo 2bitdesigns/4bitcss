@@ -24,8 +24,8 @@
   --name: '0x96f';
   --Luma: 0.143693333333333;
   --Contrast: 0.84397568627451;
-  --PaletteName: 0x96f;
-  --PaletteFileName: 0x96f;
+  --PaletteName: '0x96f';
+  --PaletteFileName: '0x96f';
   --IsBright: 0;
   --IsDark: 1;
 }
