@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/mcchrish/zenbones.nvim;
-  --creditTo: mcchrish/zenbones.nvim;
+  --creditToLink: 'https://github.com/mcchrish/zenbones.nvim';
+  --creditTo: 'mcchrish/zenbones.nvim';
   --selectionBackground: #37382d;
   --cursorColor: #edf2c2;
   --foreground: #ebefc0;
@@ -21,7 +21,7 @@
   --green: #5dcd97;
   --red: #e03600;
   --black: #0e101a;
-  --name: duckbones;
+  --name: 'duckbones';
   --Luma: 0.0639090196078431;
   --Contrast: 0.856703529411765;
   --PaletteName: duckbones;
