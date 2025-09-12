@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.094998431372549;
   --Contrast: 0.690196078431372;
-  --PaletteName: iceberg-dark;
-  --PaletteFileName: iceberg-dark;
+  --PaletteName: 'iceberg-dark';
+  --PaletteFileName: 'iceberg-dark';
   --IsBright: 0;
   --IsDark: 1;
 }
