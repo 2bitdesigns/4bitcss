@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jezzy-ultra;
+  --creditTo: jezzy;
   --selectionBackground: #363636;
   --cursorColor: #efc4cd;
   --foreground: #d5d0c9;
@@ -19,7 +21,7 @@
   --green: #bec975;
   --red: #f56e7f;
   --black: #000000;
-  --name: 'CutiePro';
+  --name: CutiePro;
   --Luma: 0.0941176470588235;
   --Contrast: 0.723755294117647;
   --PaletteName: CutiePro;
