@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/liby;
+  --creditTo: liby;
   --selectionBackground: #92bcd0;
   --cursorColor: #eaeaea;
   --foreground: #eff0eb;
@@ -19,7 +21,7 @@
   --green: #5af78e;
   --red: #ff5c57;
   --black: #000000;
-  --name: 'Snazzy Soft';
+  --name: Snazzy Soft;
   --Luma: 0.166436078431373;
   --Contrast: 0.772490980392157;
   --PaletteName: Snazzy Soft;
