@@ -1,0 +1,362 @@
+<html>
+    <head>
+        <title></title>
+        <!-- Google tag (gtag.js) -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=G-27ME7M0HYR'></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-27ME7M0HYR');
+        </script>
+<meta name='viewport' content='width=device-width, initial-scale=1, minimum-scale=1.0' />
+<meta name='og:title' content='4bitcss' />
+<meta name='og:description' content='Terminal Color Palettes' />
+<meta name='og:image' content='' />
+<link rel='alternate' type='application/rss+xml' title='4bitcss' href='/RSS/index.rss' />
+<link rel='stylesheet' href='/css/Konsolas.css' id='palette' />
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto' id='font' />
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Inconsolata' id='codeFont' />
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/styles/default.min.css' id='highlight' />
+<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/highlight.min.js"></script>
+<script src='https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/languages/powershell.min.js'></script>
+<script src='https://unpkg.com/htmx.org@latest'></script>
+
+<style>body {
+    max-width: 100vw;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    margin: 1em;
+}
+
+header, footer {
+    text-align: center;
+}
+
+header > svg {
+    display: block;
+    text-align: center;
+}
+
+@media (orientation: landscape) { .header-menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5em } .header-menu-item { text-align: center; padding: 0.5em; } } @media (orientation: portrait) { .header-menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(66px, 1fr)); gap: 0.25em } .header-menu-item { text-align: center; padding: 0.25em; } }
+
+@media (orientation: landscape) { .footer-menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5em } .footer-menu-item { text-align: center; padding: 0.5em; } } @media (orientation: portrait) { .footer-menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.25em } .footer-menu-item { text-align: center; padding: 0.25em; } }
+
+.logo { 
+    display: inline;
+    height: 4.2rem;
+}
+
+.expandInline { display: flex; flex-direction: row; }
+
+@media (orientation: landscape) {
+    .logo { height: 4.2rem; }
+    .site-title, .page-title {
+        font-size: 1.23rem;
+        line-height: .75rem
+    }
+}
+
+@media (orientation: portrait) {
+    .logo { height: 2.3rem; }
+    .site-title, .page-title {
+        font-size: 0.84em;
+        line-height: .66rem
+    }
+    .expandInline { display: flex; flex-direction: column; }
+}
+
+pre, code { font-family: 'Inconsolata', monospace; }
+
+a, a:visited {
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    text-decoration: underline;    
+}
+
+.main {
+    font-size: 1.23em;
+}
+
+.taskbar {
+    float: right;
+    position: absolute;
+    top: 0; right: 0; z-index: 10;    
+    display: flex; flex-direction: row-reverse;
+    align-content: right; align-items: flex-start;
+    margin: 1em; gap: 0.5em;
+}
+
+.taskbar summary { 
+    color: var(--cyan);
+    list-style-type: none;
+}
+
+.background {
+    position: fixed;    
+    top: 0; left: 0;
+    margin-bottom: 0;
+    min-width: 100%; height:100%;
+}
+
+.backdrop-svg {
+    z-index: -100;
+}
+
+.backdrop-canvas {
+    z-index: -99;
+}</style>
+    </head>
+    <body><svg class='background backdrop-svg' id='background-svg' width='100%' height='100%'>
+</svg>
+<canvas id='background backdrop-canvas' width='0' height='0'></canvas>
+<div class='taskbar'>
+<a href='https://github.com/2bitdesigns/4bitcss' class='icon-link' target='_blank'>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" /></svg>
+</a>
+<a href='https://psturtle.com/RSS/index.rss' class='icon-link' target='_blank'>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9" /><path d="M4 4a16 16 0 0 1 16 16" /><circle cx="5" cy="19" r="1" /></svg>
+</a>
+<details>
+<summary>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3" /><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z" /></svg>
+</summary>
+<script>
+function SetPalette() {
+    var palette = document.getElementById('palette')
+    if (! palette) {
+        palette = document.createElement('link')
+        palette.rel = 'stylesheet'
+        palette.id = 'palette'
+        document.head.appendChild(palette)
+    }
+    var selectedPalette = document.getElementById('SelectPalette').value
+    palette.href = '/css/' + selectedPalette + '.css'        
+}
+</script>
+<select id='SelectPalette' onchange='SetPalette()'>
+<option value='3024-Day'>3024-Day</option> <option value='3024-Night'>3024-Night</option> <option value='Aardvark-Blue'>Aardvark-Blue</option> <option value='Abernathy'>Abernathy</option> <option value='Adventure'>Adventure</option> <option value='AdventureTime'>AdventureTime</option> <option value='Afterglow'>Afterglow</option> <option value='Alabaster'>Alabaster</option> <option value='AlienBlood'>AlienBlood</option> <option value='Andromeda'>Andromeda</option> <option value='Apple-Classic'>Apple-Classic</option> <option value='Apple-System-Colors'>Apple-System-Colors</option> <option value='arcoiris'>arcoiris</option> <option value='Argonaut'>Argonaut</option> <option value='Arthur'>Arthur</option> <option value='AtelierSulphurpool'>AtelierSulphurpool</option> <option value='Atom'>Atom</option> <option value='AtomOneLight'>AtomOneLight</option> <option value='Aurora'>Aurora</option> <option value='Ayu-Mirage'>Ayu-Mirage</option> <option value='ayu-light'>ayu-light</option> <option value='ayu'>ayu</option> <option value='Banana-Blueberry'>Banana-Blueberry</option> <option value='Batman'>Batman</option> <option value='Belafonte-Day'>Belafonte-Day</option> <option value='Belafonte-Night'>Belafonte-Night</option> <option value='BirdsOfParadise'>BirdsOfParadise</option> <option value='Blazer'>Blazer</option> <option value='Blue-Matrix'>Blue-Matrix</option> <option value='BlueBerryPie'>BlueBerryPie</option> <option value='BlueDolphin'>BlueDolphin</option> <option value='BlulocoDark'>BlulocoDark</option> <option value='BlulocoLight'>BlulocoLight</option> <option value='Borland'>Borland</option> <option value='Breeze'>Breeze</option> <option value='Bright-Lights'>Bright-Lights</option> <option value='Broadcast'>Broadcast</option> <option value='Brogrammer'>Brogrammer</option> <option value='Builtin-Dark'>Builtin-Dark</option> <option value='Builtin-Light'>Builtin-Light</option> <option value='Builtin-Pastel-Dark'>Builtin-Pastel-Dark</option> <option value='Builtin-Solarized-Dark'>Builtin-Solarized-Dark</option> <option value='Builtin-Solarized-Light'>Builtin-Solarized-Light</option> <option value='Builtin-Tango-Dark'>Builtin-Tango-Dark</option> <option value='Builtin-Tango-Light'>Builtin-Tango-Light</option> <option value='C64'>C64</option> <option value='Calamity'>Calamity</option> <option value='catppuccin-frappe'>catppuccin-frappe</option> <option value='catppuccin-latte'>catppuccin-latte</option> <option value='catppuccin-macchiato'>catppuccin-macchiato</option> <option value='catppuccin-mocha'>catppuccin-mocha</option> <option value='CGA'>CGA</option> <option value='Chalk'>Chalk</option> <option value='Chalkboard'>Chalkboard</option> <option value='ChallengerDeep'>ChallengerDeep</option> <option value='Chester'>Chester</option> <option value='Ciapre'>Ciapre</option> <option value='CLRS'>CLRS</option> <option value='Cobalt-Neon'>Cobalt-Neon</option> <option value='Cobalt2'>Cobalt2</option> <option value='coffee-theme'>coffee-theme</option> <option value='CrayonPonyFish'>CrayonPonyFish</option> <option value='CutiePro'>CutiePro</option> <option value='Cyberdyne'>Cyberdyne</option> <option value='cyberpunk'>cyberpunk</option> <option value='CyberpunkScarletProtocol'>CyberpunkScarletProtocol</option> <option value='Dark-Pastel'>Dark-Pastel</option> <option value='Dark+'>Dark+</option> <option value='darkermatrix'>darkermatrix</option> <option value='darkmatrix'>darkmatrix</option> <option value='Darkside'>Darkside</option> <option value='dayfox'>dayfox</option> <option value='deep'>deep</option> <option value='Desert'>Desert</option> <option value='Dimidium'>Dimidium</option> <option value='DimmedMonokai'>DimmedMonokai</option> <option value='Django'>Django</option> <option value='DjangoRebornAgain'>DjangoRebornAgain</option> <option value='DjangoSmooth'>DjangoSmooth</option> <option value='Doom-Peacock'>Doom-Peacock</option> <option value='DoomOne'>DoomOne</option> <option value='DotGov'>DotGov</option> <option value='Dracula'>Dracula</option> <option value='Dracula+'>Dracula+</option> <option value='duckbones'>duckbones</option> <option value='Duotone-Dark'>Duotone-Dark</option> <option value='Earthsong'>Earthsong</option> <option value='Elemental'>Elemental</option> <option value='Elementary'>Elementary</option> <option value='ENCOM'>ENCOM</option> <option value='Espresso-Libre'>Espresso-Libre</option> <option value='Espresso'>Espresso</option> <option value='Everblush'>Everblush</option> <option value='Fahrenheit'>Fahrenheit</option> <option value='Fairyfloss'>Fairyfloss</option> <option value='farmhouse-dark'>farmhouse-dark</option> <option value='farmhouse-light'>farmhouse-light</option> <option value='Fideloper'>Fideloper</option> <option value='Firefly-Traditional'>Firefly-Traditional</option> <option value='FirefoxDev'>FirefoxDev</option> <option value='Firewatch'>Firewatch</option> <option value='FishTank'>FishTank</option> <option value='Flat'>Flat</option> <option value='Flatland'>Flatland</option> <option value='flexoki-dark'>flexoki-dark</option> <option value='flexoki-light'>flexoki-light</option> <option value='Floraverse'>Floraverse</option> <option value='ForestBlue'>ForestBlue</option> <option value='Framer'>Framer</option> <option value='FrontEndDelight'>FrontEndDelight</option> <option value='FunForrest'>FunForrest</option> <option value='Galaxy'>Galaxy</option> <option value='Galizur'>Galizur</option> <option value='GitHub-Dark'>GitHub-Dark</option> <option value='Github'>Github</option> <option value='Glacier'>Glacier</option> <option value='Grape'>Grape</option> <option value='Grass'>Grass</option> <option value='Grey-green'>Grey-green</option> <option value='gruber-darker'>gruber-darker</option> <option value='Gruvbox-Light'>Gruvbox-Light</option> <option value='GruvboxDark'>GruvboxDark</option> <option value='GruvboxDarkHard'>GruvboxDarkHard</option> <option value='GruvboxLight'>GruvboxLight</option> <option value='Guezwhoz'>Guezwhoz</option> <option value='Hacktober'>Hacktober</option> <option value='Hardcore'>Hardcore</option> <option value='Harper'>Harper</option> <option value='HaX0R-BLUE'>HaX0R-BLUE</option> <option value='HaX0R-GR33N'>HaX0R-GR33N</option> <option value='HaX0R-R3D'>HaX0R-R3D</option> <option value='Highway'>Highway</option> <option value='Hipster-Green'>Hipster-Green</option> <option value='Hivacruz'>Hivacruz</option> <option value='Homebrew'>Homebrew</option> <option value='Hopscotch-256'>Hopscotch-256</option> <option value='Hopscotch'>Hopscotch</option> <option value='Hurtado'>Hurtado</option> <option value='Hybrid'>Hybrid</option> <option value='IC-Green-PPL'>IC-Green-PPL</option> <option value='IC-Orange-PPL'>IC-Orange-PPL</option> <option value='iceberg-dark'>iceberg-dark</option> <option value='iceberg-light'>iceberg-light</option> <option value='idea'>idea</option> <option value='idleToes'>idleToes</option> <option value='IR-Black'>IR-Black</option> <option value='iTerm2-Dark-Background'>iTerm2-Dark-Background</option> <option value='iTerm2-Default'>iTerm2-Default</option> <option value='iTerm2-Light-Background'>iTerm2-Light-Background</option> <option value='iTerm2-Pastel-Dark-Background'>iTerm2-Pastel-Dark-Background</option> <option value='iTerm2-Smoooooth'>iTerm2-Smoooooth</option> <option value='iTerm2-Solarized-Dark'>iTerm2-Solarized-Dark</option> <option value='iTerm2-Solarized-Light'>iTerm2-Solarized-Light</option> <option value='iTerm2-Tango-Dark'>iTerm2-Tango-Dark</option> <option value='iTerm2-Tango-Light'>iTerm2-Tango-Light</option> <option value='Jackie-Brown'>Jackie-Brown</option> <option value='Japanesque'>Japanesque</option> <option value='Jellybeans'>Jellybeans</option> <option value='JetBrains-Darcula'>JetBrains-Darcula</option> <option value='jubi'>jubi</option> <option value='kanagawabones'>kanagawabones</option> <option value='Kibble'>Kibble</option> <option value='Kolorit'>Kolorit</option> <option value='Konsolas'>Konsolas</option> <option value='kurokula'>kurokula</option> <option value='Lab-Fox'>Lab-Fox</option> <option value='Laser'>Laser</option> <option value='Later-This-Evening'>Later-This-Evening</option> <option value='Lavandula'>Lavandula</option> <option value='LiquidCarbon'>LiquidCarbon</option> <option value='LiquidCarbonTransparent'>LiquidCarbonTransparent</option> <option value='LiquidCarbonTransparentInverse'>LiquidCarbonTransparentInverse</option> <option value='lovelace'>lovelace</option> <option value='Man-Page'>Man-Page</option> <option value='Mariana'>Mariana</option> <option value='Material'>Material</option> <option value='MaterialDark'>MaterialDark</option> <option value='MaterialDarker'>MaterialDarker</option> <option value='MaterialDesignColors'>MaterialDesignColors</option> <option value='MaterialOcean'>MaterialOcean</option> <option value='Mathias'>Mathias</option> <option value='matrix'>matrix</option> <option value='Medallion'>Medallion</option> <option value='Mellifluous'>Mellifluous</option> <option value='mellow'>mellow</option> <option value='midnight-in-mojave'>midnight-in-mojave</option> <option value='Mirage'>Mirage</option> <option value='Misterioso'>Misterioso</option> <option value='Molokai'>Molokai</option> <option value='MonaLisa'>MonaLisa</option> <option value='Monokai-Remastered'>Monokai-Remastered</option> <option value='Monokai-Soda'>Monokai-Soda</option> <option value='Monokai-Vivid'>Monokai-Vivid</option> <option value='N0tch2k'>N0tch2k</option> <option value='neobones-dark'>neobones-dark</option> <option value='neobones-light'>neobones-light</option> <option value='Neon'>Neon</option> <option value='Neopolitan'>Neopolitan</option> <option value='Neutron'>Neutron</option> <option value='Night-Owlish-Light'>Night-Owlish-Light</option> <option value='nightfox'>nightfox</option> <option value='NightLion-v1'>NightLion-v1</option> <option value='NightLion-v2'>NightLion-v2</option> <option value='niji'>niji</option> <option value='Nocturnal-Winter'>Nocturnal-Winter</option> <option value='nord-light'>nord-light</option> <option value='nord'>nord</option> <option value='Novel'>Novel</option> <option value='NvimDark'>NvimDark</option> <option value='NvimLight'>NvimLight</option> <option value='Obsidian'>Obsidian</option> <option value='Ocean'>Ocean</option> <option value='Oceanic-Next'>Oceanic-Next</option> <option value='OceanicMaterial'>OceanicMaterial</option> <option value='Ollie'>Ollie</option> <option value='OneHalfDark'>OneHalfDark</option> <option value='OneHalfLight'>OneHalfLight</option> <option value='Operator-Mono-Dark'>Operator-Mono-Dark</option> <option value='Overnight-Slumber'>Overnight-Slumber</option> <option value='Oxocarbon'>Oxocarbon</option> <option value='PaleNightHC'>PaleNightHC</option> <option value='Pandora'>Pandora</option> <option value='Paraiso-Dark'>Paraiso-Dark</option> <option value='PaulMillr'>PaulMillr</option> <option value='PencilDark'>PencilDark</option> <option value='PencilLight'>PencilLight</option> <option value='Peppermint'>Peppermint</option> <option value='Piatto-Light'>Piatto-Light</option> <option value='Pnevma'>Pnevma</option> <option value='Popping-and-Locking'>Popping-and-Locking</option> <option value='primary'>primary</option> <option value='Pro-Light'>Pro-Light</option> <option value='Pro'>Pro</option> <option value='Purple-Rain'>Purple-Rain</option> <option value='purplepeter'>purplepeter</option> <option value='Rapture'>Rapture</option> <option value='Raycast-Dark'>Raycast-Dark</option> <option value='Raycast-Light'>Raycast-Light</option> <option value='rebecca'>rebecca</option> <option value='Red-Alert'>Red-Alert</option> <option value='Red-Planet'>Red-Planet</option> <option value='Red-Sands'>Red-Sands</option> <option value='Relaxed'>Relaxed</option> <option value='Retro'>Retro</option> <option value='Rippedcasts'>Rippedcasts</option> <option value='rose-pine-dawn'>rose-pine-dawn</option> <option value='rose-pine-moon'>rose-pine-moon</option> <option value='rose-pine'>rose-pine</option> <option value='Rouge-2'>Rouge-2</option> <option value='Royal'>Royal</option> <option value='Ryuuko'>Ryuuko</option> <option value='Sakura'>Sakura</option> <option value='Scarlet-Protocol'>Scarlet-Protocol</option> <option value='Seafoam-Pastel'>Seafoam-Pastel</option> <option value='SeaShells'>SeaShells</option> <option value='seoulbones-dark'>seoulbones-dark</option> <option value='seoulbones-light'>seoulbones-light</option> <option value='Seti'>Seti</option> <option value='shades-of-purple'>shades-of-purple</option> <option value='Shaman'>Shaman</option> <option value='Slate'>Slate</option> <option value='SleepyHollow'>SleepyHollow</option> <option value='Smyck'>Smyck</option> <option value='Snazzy'>Snazzy</option> <option value='SoftServer'>SoftServer</option> <option value='Solarized-Darcula'>Solarized-Darcula</option> <option value='Solarized-Dark-Patched'>Solarized-Dark-Patched</option> <option value='Solarized-Dark-Higher-Contrast'>Solarized-Dark-Higher-Contrast</option> <option value='Spacedust'>Spacedust</option> <option value='SpaceGray-Bright'>SpaceGray-Bright</option> <option value='SpaceGray-Eighties-Dull'>SpaceGray-Eighties-Dull</option> <option value='SpaceGray-Eighties'>SpaceGray-Eighties</option> <option value='SpaceGray'>SpaceGray</option> <option value='Spiderman'>Spiderman</option> <option value='Spring'>Spring</option> <option value='Square'>Square</option> <option value='Sublette'>Sublette</option> <option value='Subliminal'>Subliminal</option> <option value='Sugarplum'>Sugarplum</option> <option value='Sundried'>Sundried</option> <option value='Symfonic'>Symfonic</option> <option value='synthwave-everything'>synthwave-everything</option> <option value='synthwave'>synthwave</option> <option value='SynthwaveAlpha'>SynthwaveAlpha</option> <option value='Tango-Adapted'>Tango-Adapted</option> <option value='Tango-Half-Adapted'>Tango-Half-Adapted</option> <option value='Teerb'>Teerb</option> <option value='terafox'>terafox</option> <option value='Terminal-Basic'>Terminal-Basic</option> <option value='Thayer-Bright'>Thayer-Bright</option> <option value='The-Hulk'>The-Hulk</option> <option value='Tinacious-Design-Dark'>Tinacious-Design-Dark</option> <option value='Tinacious-Design-Light'>Tinacious-Design-Light</option> <option value='tokyonight-day'>tokyonight-day</option> <option value='tokyonight-storm'>tokyonight-storm</option> <option value='tokyonight'>tokyonight</option> <option value='Tomorrow-Night-Blue'>Tomorrow-Night-Blue</option> <option value='Tomorrow-Night-Bright'>Tomorrow-Night-Bright</option> <option value='Tomorrow-Night-Burns'>Tomorrow-Night-Burns</option> <option value='Tomorrow-Night-Eighties'>Tomorrow-Night-Eighties</option> <option value='Tomorrow-Night'>Tomorrow-Night</option> <option value='Tomorrow'>Tomorrow</option> <option value='ToyChest'>ToyChest</option> <option value='Treehouse'>Treehouse</option> <option value='Twilight'>Twilight</option> <option value='Ubuntu'>Ubuntu</option> <option value='UltraDark'>UltraDark</option> <option value='UltraViolent'>UltraViolent</option> <option value='UnderTheSea'>UnderTheSea</option> <option value='Unikitty'>Unikitty</option> <option value='Urple'>Urple</option> <option value='Vaughn'>Vaughn</option> <option value='Vesper'>Vesper</option> <option value='VibrantInk'>VibrantInk</option> <option value='vimbones'>vimbones</option> <option value='Violet-Dark'>Violet-Dark</option> <option value='Violet-Light'>Violet-Light</option> <option value='WarmNeon'>WarmNeon</option> <option value='Wez'>Wez</option> <option value='Whimsy'>Whimsy</option> <option value='WildCherry'>WildCherry</option> <option value='wilmersdorf'>wilmersdorf</option> <option value='Wombat'>Wombat</option> <option value='Wryan'>Wryan</option> <option value='xcodedark'>xcodedark</option> <option value='xcodedarkhc'>xcodedarkhc</option> <option value='xcodelight'>xcodelight</option> <option value='xcodelighthc'>xcodelighthc</option> <option value='xcodewwdc'>xcodewwdc</option> <option value='zenbones-dark'>zenbones-dark</option> <option value='zenbones-light'>zenbones-light</option> <option value='zenbones'>zenbones</option> <option value='Zenburn'>Zenburn</option> <option value='zenburned'>zenburned</option> <option value='zenwritten-dark'>zenwritten-dark</option> <option value='zenwritten-light'>zenwritten-light</option> <option value='Terminal-Basic'>Terminal-Basic</option>
+</select>
+<script>
+var currentPaletteName = getComputedStyle(document.querySelector("body")).getPropertyValue('--PaletteName');
+var paletteSelector = document.getElementById('SelectPalette')
+if (paletteSelector && currentPaletteName) {
+    for (var paletteIndex = 0; paletteIndex < paletteSelector.options.length; paletteIndex++) {
+        if (paletteSelector.options[paletteIndex].value == currentPaletteName) {
+            paletteSelector.selectedIndex = paletteIndex
+            break    
+        }
+    }    
+}
+</script>
+<script>
+function GetRandomPalette() {
+    var SelectPalette = document.getElementById('SelectPalette')
+    if (SelectPalette) {
+        var randomNumber = Math.floor(Math.random() * SelectPalette.length);
+        SelectPalette.selectedIndex = randomNumber
+        SetPalette()
+    }    
+}
+</script>
+<button onclick='GetRandomPalette()'>Random Palette</button>
+</details>
+</div>
+<header>
+<a href='/'>
+<svg xmlns='http://www.w3.org/2000/svg' class='logo'> <!-- Generated with PSSVG 0.2.10 <https://github.com/StartAutomating/PSSVG> --> <svg viewBox="0 0 400 400" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">   <defs>     <style type="text/css">@import url('https://fonts.googleapis.com/css?family=Abel')</style>   </defs>   <ellipse stroke-width="1.25" fill="transparent" cx="50%" cy="50%" stroke="#4488ff" ry="75" rx="50" class="foreground-stroke" />   <text font-size="28" x="50%" y="45%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">4bit</text>   <circle class="ansi1-fill" fill="#4488ff" cx="47.5%" cy="50%" r="0.5%" />   <circle class="ansi2-fill" fill="#4488ff" cx="48.75%" cy="50%" r="0.5%" />   <circle class="ansi3-fill" fill="#4488ff" cx="51.25%" cy="50%" r="0.5%" />   <circle class="ansi4-fill" fill="#4488ff" cx="52.55%" cy="50%" r="0.5%" />   <text font-size="28" x="50%" y="55%" class="foreground-fill" fill="#4488ff" text-anchor="middle" alignment-baseline="middle" style="font-family: 'Abel';">css</text> </svg></svg>
+<br/>
+<h1 class='site-title'>4bitcss</h1>
+</a>
+<nav class='header-menu'>
+</nav>
+</header>
+<div class='main'><style>
+h1, h2, h3 { text-align: center }
+.paletteName { text-align: center }
+.paletteFileName { text-align: center }
+.palettePreview  { text-align: center }
+.imageContainer { max-height: 33.3%; }
+.example-output { 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66vw;
+}
+.colorGrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2.5em; margin: 2.5em}
+.colorLabel  {text-align:center; }
+</style>
+<h1>
+    <a class='paletteLink' href='#'>    
+        <span class='paletteName'></span>
+    </a>
+</h1>
+<h2>
+    <a class='paletteFileLink' href='#'>    
+        <span class='paletteFileName'></span>
+    </a>
+</h2>
+<h3>
+428 CSS color palettes for web or terminal 
+</h3>
+<script>
+    function UpdatePaletteLinks() {
+        document.
+            querySelectorAll('.paletteLink').
+            forEach(
+                (link) => {
+                    var paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName');
+                    link.href = '/' + paletteName
+                }
+            )
+                
+        document.
+            querySelectorAll('.paletteFileLink').
+            forEach(
+                (link) => {
+                    var paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName');
+                    link.href = '/css/' + paletteName + '.css'
+                }
+            )        
+    }
+
+    UpdatePaletteLinks()    
+</script>
+<div class='example-output'>
+
+</div>
+<div class='example-output'>
+<?xml version="1.0" encoding="utf-8"?><!-- Generated with PSSVG 0.2.10 <https://github.com/StartAutomating/PSSVG> --><svg viewBox="0 0 1920 1080" class="background-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><rect width="300%" height="300%" x="-100%" y="-100%" class="background-fill" /><ellipse id="foregroundCircle" cx="50%" cy="50%" rx="498" ry="498" class="foreground-fill"><animate values="498;612.54;498" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="498;383.46;498" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI0-Ellipse" cx="50%" cy="50%" rx="475" ry="475" class="ansi0-fill" fill="Black"><animate values="475;365.75;475" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="475;584.25;475" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI8-Ellipse" cx="50%" cy="50%" rx="459" ry="459" class="ansi8-fill" fill="Black"><animate values="459;564.57;459" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="459;353.43;459" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI1-Ellipse" cx="50%" cy="50%" rx="436" ry="436" class="ansi1-fill" fill="Red"><animate values="436;335.72;436" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="436;536.28;436" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI9-Ellipse" cx="50%" cy="50%" rx="420" ry="420" class="ansi9-fill" fill="Red"><animate values="420;516.6;420" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="420;323.4;420" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI2-Ellipse" cx="50%" cy="50%" rx="397" ry="397" class="ansi2-fill" fill="Green"><animate values="397;305.69;397" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="397;488.31;397" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI10-Ellipse" cx="50%" cy="50%" rx="381" ry="381" class="ansi10-fill" fill="Green"><animate values="381;468.63;381" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="381;293.37;381" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI3-Ellipse" cx="50%" cy="50%" rx="358" ry="358" class="ansi3-fill" fill="Yellow"><animate values="358;275.66;358" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="358;440.34;358" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI11-Ellipse" cx="50%" cy="50%" rx="342" ry="342" class="ansi11-fill" fill="Yellow"><animate values="342;420.66;342" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="342;263.34;342" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI4-Ellipse" cx="50%" cy="50%" rx="319" ry="319" class="ansi4-fill" fill="Blue"><animate values="319;245.63;319" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="319;392.37;319" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI12-Ellipse" cx="50%" cy="50%" rx="303" ry="303" class="ansi12-fill" fill="Blue"><animate values="303;372.69;303" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="303;233.31;303" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI5-Ellipse" cx="50%" cy="50%" rx="280" ry="280" class="ansi5-fill" fill="Purple"><animate values="280;215.6;280" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="280;344.4;280" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI13-Ellipse" cx="50%" cy="50%" rx="264" ry="264" class="ansi13-fill" fill="Purple"><animate values="264;324.72;264" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="264;203.28;264" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI6-Ellipse" cx="50%" cy="50%" rx="241" ry="241" class="ansi6-fill" fill="Cyan"><animate values="241;185.57;241" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="241;296.43;241" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI14-Ellipse" cx="50%" cy="50%" rx="225" ry="225" class="ansi14-fill" fill="Cyan"><animate values="225;276.75;225" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="225;173.25;225" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI7-Ellipse" cx="50%" cy="50%" rx="202" ry="202" class="ansi7-fill" fill="White"><animate values="202;155.54;202" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="202;248.46;202" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse><ellipse id="ANSI15-Ellipse" cx="50%" cy="50%" rx="186" ry="186" class="ansi15-fill" fill="White"><animate values="186;228.78;186" attributeName="rx" dur="04.2s" repeatCount="indefinite" /><animate values="186;143.22;186" attributeName="ry" dur="04.2s" repeatCount="indefinite" /><animate values="1;.42;1" attributeName="opacity" dur="04.2s" repeatCount="indefinite" /></ellipse></svg>
+</div>
+<div class='colorGrid'>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BlackFill' />
+</svg>
+<div class='colorLabel'>Black</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='RedFill' />
+</svg>
+<div class='colorLabel'>Red</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='GreenFill' />
+</svg>
+<div class='colorLabel'>Green</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='YellowFill' />
+</svg>
+<div class='colorLabel'>Yellow</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BlueFill' />
+</svg>
+<div class='colorLabel'>Blue</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='PurpleFill' />
+</svg>
+<div class='colorLabel'>Purple</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='CyanFill' />
+</svg>
+<div class='colorLabel'>Cyan</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='WhiteFill' />
+</svg>
+<div class='colorLabel'>White</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightBlackFill' />
+</svg>
+<div class='colorLabel'>BrightBlack</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightRedFill' />
+</svg>
+<div class='colorLabel'>BrightRed</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightGreenFill' />
+</svg>
+<div class='colorLabel'>BrightGreen</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightYellowFill' />
+</svg>
+<div class='colorLabel'>BrightYellow</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightBlueFill' />
+</svg>
+<div class='colorLabel'>BrightBlue</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightPurpleFill' />
+</svg>
+<div class='colorLabel'>BrightPurple</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightCyanFill' />
+</svg>
+<div class='colorLabel'>BrightCyan</div>
+<div class='colorHex'></div>
+</div>
+<div>
+<svg>
+<rect width='100%' height='100%' class='BrightWhiteFill' />
+</svg>
+<div class='colorLabel'>BrightWhite</div>
+<div class='colorHex'></div>
+</div>
+</div></div>
+<footer>
+<style>
+@media (orientation: landscape) {
+.footer-menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 1em }
+.footer-menu-item { text-align: center; padding: 1em; }
+}
+@media (orientation: portrait) {
+.footer-menu { display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5em }
+.footer-menu-item { text-align: center; padding: 0.5em; }
+}
+</style>
+<nav class='footer-menu'>
+</nav>
+</footer>
+<script>hljs.highlightAll();</script></body>
+</html>
