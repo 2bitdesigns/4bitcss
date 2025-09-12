@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/Indyandie/kurokula-obsidian-theme;
+  --creditTo: Kurokula;
   --selectionBackground: #515151;
   --cursorColor: #7a1c1c;
   --foreground: #e0cfc2;
@@ -19,7 +21,7 @@
   --green: #78b3a9;
   --red: #c35a52;
   --black: #333333;
-  --name: 'kurokula';
+  --name: kurokula;
   --Luma: 0.0815192156862745;
   --Contrast: 0.740738039215686;
   --PaletteName: kurokula;
