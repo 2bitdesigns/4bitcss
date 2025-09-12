@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/bahlo/iterm-colors;
+  --creditTo: bahlo;
   --selectionBackground: #303333;
   --cursorColor: #bbbbbb;
   --foreground: #bababa;
@@ -19,7 +21,7 @@
   --green: #68c256;
   --red: #e8341c;
   --black: #000000;
-  --name: 'Darkside';
+  --name: Darkside;
   --Luma: 0.13670431372549;
   --Contrast: 0.592707450980392;
   --PaletteName: Darkside;
