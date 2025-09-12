@@ -24,8 +24,8 @@
   --name: 'Broadcast';
   --Luma: 0.168627450980392;
   --Contrast: 0.716478431372549;
-  --PaletteName: Broadcast;
-  --PaletteFileName: Broadcast;
+  --PaletteName: 'Broadcast';
+  --PaletteFileName: 'Broadcast';
   --IsBright: 0;
   --IsDark: 1;
 }
