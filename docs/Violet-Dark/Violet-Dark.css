@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.113458039215686;
   --Contrast: 0.381905098039216;
-  --PaletteName: Violet Dark;
-  --PaletteFileName: Violet-Dark;
+  --PaletteName: 'Violet Dark';
+  --PaletteFileName: 'Violet-Dark';
   --IsBright: 0;
   --IsDark: 1;
 }
