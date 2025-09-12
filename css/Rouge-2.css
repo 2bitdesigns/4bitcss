@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/josefaidt/rouge-theme;
-  --creditTo: Josef Aidt;
+  --creditToLink: 'https://github.com/josefaidt/rouge-theme';
+  --creditTo: 'Josef Aidt';
   --selectionBackground: #5d5d6b;
   --cursorColor: #969e92;
   --foreground: #a2a3aa;
@@ -21,7 +21,7 @@
   --green: #969e92;
   --red: #c6797e;
   --black: #5d5d6b;
-  --name: Rouge 2;
+  --name: 'Rouge 2';
   --Luma: 0.0986635294117647;
   --Contrast: 0.541700392156863;
   --PaletteName: Rouge 2;
