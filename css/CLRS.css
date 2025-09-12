@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/jasonlong/iterm-clrs;
-  --creditTo: jasonlong;
+  --creditToLink: 'https://github.com/jasonlong/iterm-clrs';
+  --creditTo: 'jasonlong';
   --selectionBackground: #6fd3fc;
   --cursorColor: #6fd3fc;
   --foreground: #262626;
@@ -21,7 +21,7 @@
   --green: #328a5d;
   --red: #f8282a;
   --black: #000000;
-  --name: CLRS;
+  --name: 'CLRS';
   --Luma: 1;
   --Contrast: 0.850980392156863;
   --PaletteName: CLRS;
