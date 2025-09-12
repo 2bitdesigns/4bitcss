@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1f1f28" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#dcd7ba" text-anchor="middle" alignment-baseline="middle">Kanagawa Wave</text>
+  <rect x="0" y="0" width="80" height="80" fill="#090618" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#c34043" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#76946a" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#c0a36e" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#7e9cd8" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#957fb8" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#6a9589" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#c8c093" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#727169" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#e82424" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#98bb6c" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#e6c384" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#7fb4ca" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#938aa9" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#7aa89f" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#dcd7ba" class="BrightWhite-fill" />
+</svg>
