@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1d1d20" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Adwaita Dark</text>
+  <rect x="0" y="0" width="80" height="80" fill="#241f31" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#c01c28" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#2ec27e" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#f5c211" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#1e78e4" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#9841bb" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#0ab9dc" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#c0bfbc" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#5e5c64" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ed333b" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#57e389" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#f8e45c" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#51a1ff" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#c061cb" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#4fd2fd" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f6f5f4" class="BrightWhite-fill" />
+</svg>
