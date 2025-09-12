@@ -24,8 +24,8 @@
   --name: 'VibrantInk';
   --Luma: 0;
   --Contrast: 1;
-  --PaletteName: VibrantInk;
-  --PaletteFileName: VibrantInk;
+  --PaletteName: 'VibrantInk';
+  --PaletteFileName: 'VibrantInk';
   --IsBright: 0;
   --IsDark: 1;
 }
