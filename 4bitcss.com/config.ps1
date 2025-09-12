@@ -148,4 +148,174 @@ $site.HighlightJS = [Ordered]@{Languages=@('powershell')}
 $site.AnalyticsID = 'G-27ME7M0HYR' # replace with your Google Analytics ID
 #endregion Google Analytics
 
+
+
+#region Custom
+$site.FilesProcessed = $filesProcessed = [Ordered]@{}
+$cssOutputRoot  = Join-Path $PSScriptRoot css
+if (-not (Test-Path $cssOutputRoot)) {
+    $null = New-Item -ItemType Directory -Path $cssOutputRoot
+}
+
+$allPalettes = ./Palettes.json.ps1
+if (-not $site) {
+    $site = [Ordered]@{}
+}
+$site.Palettes = $allPalettes
+
+
+Import-Module ../4bitcss.psd1 -Global
+
+$allFiles = @()
+
+$allFiles += foreach ($paletteKeyValue in $allPalettes.GetEnumerator()) {
+    $paletteName = $paletteKeyValue.Key
+    $paletteObject = $paletteKeyValue.Value
+    $paletteObject | Export-4BitCSS -OutputPath $cssOutputRoot    
+}
+
+$colorOrder = 
+    'Black','Red','Green','Yellow','Blue','Purple','Cyan','White',
+    'BrightBlack','BrightRed','BrightGreen','BrightYellow','BrightBlue','BrightPurple','BrightCyan','BrightWhite'
+
+
+$previewRectangleWidth = 640
+$previewRectangleHeight = 240
+
+filter PalettePreviewRectangle {
+    $palette = $_
+    $columnWidth = $previewRectangleWidth / ($colorOrder.Count / 2)
+    $rowHeight = $previewRectangleHeight / 3
+    $paletteRects = @(for ($index = 0; $index -lt $colorOrder.Count; $index++) {
+        $row = [Math]::Floor($index / ($colorOrder.Count / 2))
+        $column = $index % ($colorOrder.Count / 2)
+        $colorValue = $palette.($colorOrder[$index])
+        "<rect x='$($column * $columnWidth)' y='$($row * $rowHeight)' width='$($columnWidth)' height='$($rowHeight)' fill='$($colorValue)' class='$($colorOrder[$index])-fill' />"
+    }) -join [Environment]::NewLine
+    @("<svg viewBox='0 0 $previewRectangleWidth $previewRectangleHeight' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>"
+        "<defs>"        
+        "</defs>"
+        "<rect width='$previewRectangleWidth' height='$previewRectangleHeight' x='0' y='0' fill='$($palette.background)' />"
+        "<text height='33%' x='50%' y='$(5 * 100/6)%' fill='$($palette.foreground)' text-anchor='middle' alignment-baseline='middle'>$([Security.Securityelement]::Escape($palette.Name))</text>"
+        $paletteRects
+    "</svg>") -join '' -as [xml] 
+}
+
+
+filter paletteToAnsi {
+    $palette = $_    
+    $colorList = @(foreach ($color in $colorOrder) {
+        $hexColor = $palette.$color
+        $hexString = $hexColor -replace '[#;]' 
+        @(for ($hexIndex = 0; $hexIndex -lt 6; $hexIndex+=2) {
+            $hexString[$hexIndex..($hexIndex + 1)] -join ''
+        }) -join '/'
+    })
+
+    $e = [char]27
+    $i = 0
+    @(
+        foreach ($color in $colorList) {
+            "$e]4;$i;rgb:$color$e\"
+            $i++
+        }
+        $hexColor = $palette.foreground -replace ';'
+        $rgb   = ($hexColor -replace '#', '0x') -as [int]
+
+        $r = [byte](($rgb -band 0xff0000) -shr 16)
+        $g = [byte](($rgb -band 0x00ff00) -shr 8)
+        $b = [byte]($rgb -band 0x0000ff)
+        "$e[38;2;$r;$g;${b}m"
+        $hexColor = $palette.background -replace ';'
+        $rgb   = ($hexColor -replace '#', '0x') -as [int]
+
+        $r = [byte](($rgb -band 0xff0000) -shr 16)
+        $g = [byte](($rgb -band 0x00ff00) -shr 8)
+        $b = [byte]($rgb -band 0x0000ff)
+        "$e[48;2;$r;$g;${b}m"
+    ) -join ''
+}
+
+$allFiles += foreach ($paletteKeyValue in $allPalettes.GetEnumerator()) {
+    $paletteName = $paletteKeyValue.Key
+    $paletteObject = $paletteKeyValue.Value
+    $paletteRoot = Join-Path $PSScriptRoot $paletteName
+    if (-not (Test-Path $paletteRoot)) {
+        $null = New-Item -ItemType Directory -Path $paletteRoot
+    }
+    $paletteObject | Export-4BitCSS -OutputPath $paletteRoot
+    $paletteJsonPath = Join-Path $paletteRoot "$paletteName.json"
+    $paletteObject | 
+        ConvertTo-Json -Depth 4 | 
+        Set-Content -LiteralPath $paletteJsonPath
+    Get-Item -LiteralPath $paletteJsonPath
+    
+    $paletteTextPath = Join-Path $paletteRoot "$paletteName.txt"
+
+    $distinctColors = @($paletteObject.psobject.Properties.value) -match '^#[0-9a-fA-F]{6}' | Select-Object -Unique    
+    $distinctColors -join ';' | Set-Content -Path $paletteTextPath -Encoding utf8
+
+    Get-Item -LiteralPath $paletteTextPath
+
+    $ansiTextPath = Join-Path $paletteRoot "$paletteName.ansi.txt"
+    $paletteObject | paletteToAnsi | Set-Content $ansiTextPath
+    Get-Item -LiteralPath $ansiTextPath
+    
+
+    $palettePreviewSVG = $paletteObject | PalettePreviewRectangle
+    $palettePreviewPath = Join-Path $paletteRoot "$paletteName.svg"
+    $palettePreviewSVG.Save("$palettePreviewPath")
+    Get-Item -LiteralPath $palettePreviewPath
+
+    $indexHtmlPs1 = ". `$site.views.palette '$($paletteName -replace "'","''")'"
+    
+    $paletteIndexHtmlPs1 = Join-Path $paletteRoot "$paletteName.html.ps1"
+    $indexHtmlPs1 > $paletteIndexHtmlPs1
+    Get-Item -LiteralPath $paletteIndexHtmlPs1
+}
+
+$site.Palettes = $allPalettes
+if ($page -isnot [Collections.IDictionary]) {
+    $page = [Ordered]@{}
+}
+
+if ($site.FilesProcessed) { 
+    foreach ($file in $allFiles) {
+        $site.FilesProcessed[$file.FullName] = $true
+    }
+}
+
+$htmlPs1Files = $allFiles -match '\.html\.ps1$'
+
+$layout = Get-Command ./layout.ps1
+
+$htmlFiles = foreach ($htmlPs1 in $htmlPs1Files) {
+    $paletteName = $htmlPs1.Directory.Name
+    $layoutSplat = [Ordered]@{}
+    if ($layout.Parameters['Title']) {
+        $layoutSplat['Title'] = $paletteName
+    }
+    if ($layout.Parameters['Description']) {
+        $layoutSplat['Description'] = 
+            "$($htmlPs1.Directory.Name) color palette.  $(
+                if ($allPalettes[$paletteName].credits) {
+                    $allPalettes[$paletteName].credits
+                }
+            )"
+    }    
+    $outputFile = $htmlPs1.FullName -replace "$(
+        [Regex]::Escape($paletteName)
+    )\.html\.ps1$",'index.html'
+    $output = . $htmlPs1.FullName | . $layout @layoutSplat
+    $output > $outputFile
+    Get-Item -LiteralPath $outputFile    
+}
+
+if ($site.FilesProcessed) {
+    foreach ($htmlFile in $htmlFiles) {
+        $site.FilesProcessed[$htmlFile.FullName] = $true
+    }
+}
+#endregion Custom
+
 if ($PSScriptRoot) { Pop-Location }

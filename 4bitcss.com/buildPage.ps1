@@ -28,7 +28,12 @@ if (-not $site.PagesByUrl) {
 }
 $pagesByUrl = $site.PagesByUrl
 
-$site.FilesProcessed = $filesProcessed = [Ordered]@{}
+if ($site.FilesProcessed -isnot [Collections.IDictionary]) {
+    $site.FilesProcessed = $filesProcessed = [Ordered]@{}
+} else {
+    $filesProcessed = $site.FilesProcessed
+}
+
 $site.FileQueue = $fileQueue = [Collections.Queue]::new()
 foreach ($file in $allFiles) { $fileQueue.Enqueue($file) }
 
