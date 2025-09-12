@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/fcsmJS/iTerm2-Color-Schemes;
-  --creditTo: fcsmJS;
+  --creditToLink: 'https://github.com/fcsmJS/iTerm2-Color-Schemes';
+  --creditTo: 'fcsmJS';
   --selectionBackground: #292e38;
   --cursorColor: #ee5d43;
   --foreground: #ffca28;
@@ -21,7 +21,7 @@
   --green: #8fd46d;
   --red: #f0266f;
   --black: #23262e;
-  --name: Aurora;
+  --name: 'Aurora';
   --Luma: 0.148783529411765;
   --Contrast: 0.641692549019608;
   --PaletteName: Aurora;
