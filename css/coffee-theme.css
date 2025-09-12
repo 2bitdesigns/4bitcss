@@ -19,9 +19,9 @@
   --green: #00c200;
   --red: #c91b00;
   --black: #000000;
-  --name: coffee_theme;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'coffee_theme';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0.877589019607843;
   --Contrast: 0.877589019607843;
   --PaletteName: coffee_theme;
