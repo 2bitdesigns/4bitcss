@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.980392156862745;
   --Contrast: 0.752343529411765;
-  --PaletteName: OneHalfLight;
-  --PaletteFileName: OneHalfLight;
+  --PaletteName: 'OneHalfLight';
+  --PaletteFileName: 'OneHalfLight';
   --IsBright: 0;
   --IsDark: 1;
 }
