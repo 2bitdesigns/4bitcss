@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors;
-  --creditTo: aereal;
+  --creditToLink: 'https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors';
+  --creditTo: 'aereal';
   --selectionBackground: #175877;
   --cursorColor: #edcf4f;
   --foreground: #f7f6ec;
@@ -21,7 +21,7 @@
   --green: #7bb75b;
   --red: #cf3f61;
   --black: #343935;
-  --name: Japanesque;
+  --name: 'Japanesque';
   --Luma: 0.117647058823529;
   --Contrast: 0.845061176470588;
   --PaletteName: Japanesque;
