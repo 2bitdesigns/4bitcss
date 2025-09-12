@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/D3vil0p3r;
+  --creditTo: D3vil0p3r;
   --selectionBackground: #a4b1cd;
   --cursorColor: #9fef00;
   --foreground: #9fef00;
@@ -19,7 +21,7 @@
   --green: #19cb00;
   --red: #cc0403;
   --black: #000000;
-  --name: 'Box';
+  --name: Box;
   --Luma: 0.110185882352941;
   --Contrast: 0.692701176470588;
   --PaletteName: Box;
