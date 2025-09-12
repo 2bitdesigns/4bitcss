@@ -1,0 +1,1 @@
+. $site.views.palette 'SeaShells'
