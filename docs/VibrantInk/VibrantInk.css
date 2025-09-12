@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/asanghi/vibrantinklion;
-  --creditTo: asanghi;
+  --creditToLink: 'https://github.com/asanghi/vibrantinklion';
+  --creditTo: 'asanghi';
   --selectionBackground: #b5d5ff;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #ccff04;
   --red: #ff6600;
   --black: #878787;
-  --name: VibrantInk;
+  --name: 'VibrantInk';
   --Luma: 0;
   --Contrast: 1;
   --PaletteName: VibrantInk;
