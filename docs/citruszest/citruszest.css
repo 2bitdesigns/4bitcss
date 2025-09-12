@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zootedb0t;
-  --creditTo: zootedb0t;
+  --creditToLink: 'https://github.com/zootedb0t';
+  --creditTo: 'zootedb0t';
   --selectionBackground: #ff8c00;
   --cursorColor: #666666;
   --foreground: #bfbfbf;
@@ -21,7 +21,7 @@
   --green: #00cc7a;
   --red: #ff5454;
   --black: #404040;
-  --name: citruszest;
+  --name: 'citruszest';
   --Luma: 0.0705882352941176;
   --Contrast: 0.67843137254902;
   --PaletteName: citruszest;
