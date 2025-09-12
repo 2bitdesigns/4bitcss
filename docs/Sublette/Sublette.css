@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/sublee;
-  --creditTo: sublee;
+  --creditToLink: 'https://github.com/sublee';
+  --creditTo: 'sublee';
   --selectionBackground: #ccced0;
   --cursorColor: #ccced0;
   --foreground: #ccced0;
@@ -21,7 +21,7 @@
   --green: #55ee77;
   --red: #ee5577;
   --black: #253045;
-  --name: Sublette;
+  --name: 'Sublette';
   --Luma: 0.145459607843137;
   --Contrast: 0.661282352941176;
   --PaletteName: Sublette;
