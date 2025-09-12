@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/djoyner/iTerm2-wombat;
+  --creditTo: djoyner;
   --selectionBackground: #453b39;
   --cursorColor: #bbbbbb;
   --foreground: #dedacf;
@@ -19,7 +21,7 @@
   --green: #b1e969;
   --red: #ff615a;
   --black: #000000;
-  --name: 'Wombat';
+  --name: Wombat;
   --Luma: 0.0901960784313725;
   --Contrast: 0.764926274509804;
   --PaletteName: Wombat;
