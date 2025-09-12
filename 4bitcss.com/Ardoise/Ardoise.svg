@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1e1e1e" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#eaeaea" text-anchor="middle" alignment-baseline="middle">Ardoise</text>
+  <rect x="0" y="0" width="80" height="80" fill="#2c2c2c" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#d3322d" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#588b35" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#fca93a" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#2465c2" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#7332b4" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#64e1b8" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#f7f7f7" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#535353" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#fa5852" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#8dc252" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#ffea51" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#6ab5f8" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#be68ca" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#89ffdb" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#fefefe" class="BrightWhite-fill" />
+</svg>
