@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: http://floraverse.com/;
-  --creditTo: papayakitty;
+  --creditToLink: 'http://floraverse.com/';
+  --creditTo: 'papayakitty';
   --selectionBackground: #f3e0b8;
   --cursorColor: #bbbbbb;
   --foreground: #dbd1b9;
@@ -21,7 +21,7 @@
   --green: #5d731a;
   --red: #64002c;
   --black: #08002e;
-  --name: Floraverse;
+  --name: 'Floraverse';
   --Luma: 0.0540792156862745;
   --Contrast: 0.767070588235294;
   --PaletteName: Floraverse;
