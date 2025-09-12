@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/Ch4s3/iTerm2-Neutron;
+  --creditTo: Ch4s3;
   --selectionBackground: #2f363e;
   --cursorColor: #f6f7ec;
   --foreground: #e6e8ef;
@@ -19,7 +21,7 @@
   --green: #5ab977;
   --red: #b54036;
   --black: #23252b;
-  --name: 'Neutron';
+  --name: Neutron;
   --Luma: 0.117112156862745;
   --Contrast: 0.793006274509804;
   --PaletteName: Neutron;
