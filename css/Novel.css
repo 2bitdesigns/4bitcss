@@ -19,9 +19,9 @@
   --green: #009600;
   --red: #cc0000;
   --black: #000000;
-  --name: Novel;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'Novel';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0.855363137254902;
   --Contrast: 0.698381960784314;
   --PaletteName: Novel;
