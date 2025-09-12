@@ -19,9 +19,9 @@
   --green: #c1d041;
   --red: #ea6926;
   --black: #141617;
-  --name: gruvbox-material;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'gruvbox-material';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0.123272156862745;
   --Contrast: 0.62940862745098;
   --PaletteName: gruvbox-material;
