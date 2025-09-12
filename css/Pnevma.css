@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/baskerville/iTerm-2-Color-Themes;
+  --creditTo: baskerville;
   --selectionBackground: #4d4d4d;
   --cursorColor: #e4c9af;
   --foreground: #d0d0d0;
@@ -19,7 +21,7 @@
   --green: #90a57d;
   --red: #a36666;
   --black: #2f2e2d;
-  --name: 'Pnevma';
+  --name: Pnevma;
   --Luma: 0.109803921568627;
   --Contrast: 0.705882352941176;
   --PaletteName: Pnevma;
