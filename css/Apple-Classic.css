@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/CodeMonkeyBrian;
+  --creditTo: Brian Meyer;
   --selectionBackground: #6b5b02;
   --cursorColor: #c7c7c7;
   --foreground: #d5a200;
@@ -19,7 +21,7 @@
   --green: #00c200;
   --red: #c91b00;
   --black: #000000;
-  --name: 'Apple Classic';
+  --name: Apple Classic;
   --Luma: 0.169461176470588;
   --Contrast: 0.462484705882353;
   --PaletteName: Apple Classic;
