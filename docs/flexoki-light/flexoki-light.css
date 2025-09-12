@@ -1,17 +1,17 @@
 :root {
-  --selectionBackground: #cecdc3;
+  --selectionBackground: #6f6e69;
   --cursorColor: #100f0f;
   --foreground: #100f0f;
   --background: #fffcf0;
-  --brightWhite: #fffcf0;
+  --brightWhite: #cecdc3;
   --brightCyan: #3aa99f;
   --brightPurple: #ce5d97;
   --brightBlue: #4385be;
   --brightYellow: #d0a215;
   --brightGreen: #879a39;
   --brightRed: #d14d41;
-  --brightBlack: #575653;
-  --white: #f2f0e5;
+  --brightBlack: #b7b5ac;
+  --white: #6f6e69;
   --cyan: #24837b;
   --purple: #a02f6f;
   --blue: #205ea6;
