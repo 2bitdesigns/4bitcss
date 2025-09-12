@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#f1ebe6" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#362c24" text-anchor="middle" alignment-baseline="middle">Breadog</text>
+  <rect x="0" y="0" width="80" height="80" fill="#362c24" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#b10b00" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#007232" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#8b4c00" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#005cb4" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#9b0097" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#006a78" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#d4c3b7" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#514337" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#de1100" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#008f40" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#ae6000" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#0074e1" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#c300bd" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#008697" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#eae1da" class="BrightWhite-fill" />
+</svg>
