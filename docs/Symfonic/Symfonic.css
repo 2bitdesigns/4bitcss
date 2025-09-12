@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: http://symfony.com/doc/current/book/index.html;
+  --creditTo: documentation;
   --selectionBackground: #073642;
   --cursorColor: #dc322f;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #56db3a;
   --red: #dc322f;
   --black: #000000;
-  --name: 'Symfonic';
+  --name: Symfonic;
   --Luma: 0;
   --Contrast: 1;
   --PaletteName: Symfonic;
