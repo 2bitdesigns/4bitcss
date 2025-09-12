@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: http://www.jetbrains.com/pycharm/;
-  --creditTo: PyCharm;
+  --creditToLink: 'http://www.jetbrains.com/pycharm/';
+  --creditTo: 'PyCharm';
   --selectionBackground: #b0ad21;
   --cursorColor: #30ff24;
   --foreground: #afdab6;
@@ -21,7 +21,7 @@
   --green: #39b13a;
   --red: #e24346;
   --black: #000000;
-  --name: WarmNeon;
+  --name: 'WarmNeon';
   --Luma: 0.250980392156863;
   --Contrast: 0.557878431372549;
   --PaletteName: WarmNeon;
