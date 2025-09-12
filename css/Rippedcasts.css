@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/mdw123/rippedcasts;
-  --creditTo: mdw123;
+  --creditToLink: 'https://github.com/mdw123/rippedcasts';
+  --creditTo: 'mdw123';
   --selectionBackground: #5a647e;
   --cursorColor: #7f7f7f;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #a8ff60;
   --red: #cdaf95;
   --black: #000000;
-  --name: Rippedcasts;
+  --name: 'Rippedcasts';
   --Luma: 0.168627450980392;
   --Contrast: 0.831372549019608;
   --PaletteName: Rippedcasts;
