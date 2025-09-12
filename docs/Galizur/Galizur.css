@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/razielanarki;
-  --creditTo: Raziel Anarki;
+  --creditToLink: 'https://github.com/razielanarki';
+  --creditTo: 'Raziel Anarki';
   --selectionBackground: #071317;
   --cursorColor: #ddeeff;
   --foreground: #ddeeff;
@@ -21,7 +21,7 @@
   --green: #33aa11;
   --red: #aa1122;
   --black: #223344;
-  --name: Galizur;
+  --name: 'Galizur';
   --Luma: 0.0656376470588235;
   --Contrast: 0.85833568627451;
   --PaletteName: Galizur;
