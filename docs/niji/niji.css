@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/indyandie;
-  --creditTo: some dude;
+  --creditToLink: 'https://github.com/indyandie';
+  --creditTo: 'some dude';
   --selectionBackground: #515151;
   --cursorColor: #ffc663;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #54ca74;
   --red: #d23e08;
   --black: #333333;
-  --name: niji;
+  --name: 'niji';
   --Luma: 0.0815192156862745;
   --Contrast: 0.918480784313725;
   --PaletteName: niji;
