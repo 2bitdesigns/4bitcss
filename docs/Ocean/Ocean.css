@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/kaicataldo/material.vim/blob/master/terminal-colors/iterm2/material-ocean.itermcolors;
-  --creditTo: here;
+  --creditToLink: 'https://github.com/kaicataldo/material.vim/blob/master/terminal-colors/iterm2/material-ocean.itermcolors';
+  --creditTo: 'here';
   --selectionBackground: #216dff;
   --cursorColor: #7f7f7f;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #00a600;
   --red: #990000;
   --black: #000000;
-  --name: Ocean;
+  --name: 'Ocean';
   --Luma: 0.303148235294118;
   --Contrast: 0.696851764705882;
   --PaletteName: Ocean;
