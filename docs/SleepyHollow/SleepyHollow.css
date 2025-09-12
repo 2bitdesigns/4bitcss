@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #575256;
   --cursorColor: #af9a91;
   --foreground: #af9a91;
@@ -19,7 +21,7 @@
   --green: #91773f;
   --red: #ba3934;
   --black: #572100;
-  --name: 'SleepyHollow';
+  --name: SleepyHollow;
   --Luma: 0.0711545098039216;
   --Contrast: 0.547727058823529;
   --PaletteName: SleepyHollow;
