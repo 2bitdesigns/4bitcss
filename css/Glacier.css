@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/bahlo/iterm-colors;
+  --creditTo: bahlo;
   --selectionBackground: #bd2523;
   --cursorColor: #6c6c6c;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #35a770;
   --red: #bd0f2f;
   --black: #2e343c;
-  --name: 'Glacier';
+  --name: Glacier;
   --Luma: 0.0636305882352941;
   --Contrast: 0.936369411764706;
   --PaletteName: Glacier;
