@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/stoeffel/material-iterm;
-  --creditTo: stoeffel;
+  --creditToLink: 'https://github.com/stoeffel/material-iterm';
+  --creditTo: 'stoeffel';
   --selectionBackground: #dfdfdf;
   --cursorColor: #16afca;
   --foreground: #e5e5e5;
@@ -21,7 +21,7 @@
   --green: #457b24;
   --red: #b7141f;
   --black: #212121;
-  --name: MaterialDark;
+  --name: 'MaterialDark';
   --Luma: 0.136971764705882;
   --Contrast: 0.761067450980392;
   --PaletteName: MaterialDark;
