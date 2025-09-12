@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0;
   --Contrast: 1;
-  --PaletteName: Builtin Tango Dark;
-  --PaletteFileName: Builtin-Tango-Dark;
+  --PaletteName: 'Builtin Tango Dark';
+  --PaletteFileName: 'Builtin-Tango-Dark';
   --IsBright: 0;
   --IsDark: 1;
 }
