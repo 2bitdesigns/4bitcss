@@ -22,12 +22,16 @@
   --name: 'rose-pine';
   --Luma: 0.0955443137254902;
   --Contrast: 0.782940392156863;
+  --PaletteName: rose-pine;
+  --PaletteFileName: rose-pine;
   --IsBright: 0;
   --IsDark: 1;
 }
 
 .colorSchemeName::before, .ColorSchemeName::before { content: 'rose-pine'; }
+.paletteName::before, .paletteName::before { content: 'rose-pine'; }
 .colorSchemeFileName::before, .ColorSchemeFileName::before { content: 'rose-pine.css'; }
+.paletteFileName::before, .paletteFileName::before { content: 'rose-pine.css'; }
 
 .foreground, .Foreground { color: var(--foreground); }
 .background, .Background { background-color: var(--background); }
@@ -88,7 +92,7 @@
 .green-background, .GreenBackground, .ANSI2-Background, .ansi2-background { background-color: var(--green)  }
 .yellow-background, .YellowBackground, .ANSI3-Background, .ansi3-background { background-color: var(--yellow)  }
 .blue-background, .BlueBackground, .ANSI4-Background, .ansi4-background { background-color: var(--blue)  }
-.magenta-background, .MagentaBackground, .ANSI5-Background, .ansi5-background { background-color: var(--purple)  }
+.magenta-background, .MagentaBackground, .purple-background, .PurpleBackground, .ANSI5-Background, .ansi5-background { background-color: var(--purple)  }
 .cyan-background, .CyanBackground, .ANSI6-Background, .ansi6-background { background-color: var(--cyan)  }
 .white-background, .WhiteBackground, .ANSI7-Background, .ansi7-background { background-color: var(--white)  }
 .brightblack-background, .bright-black-background, .BrightBlackBackground, .ANSI8-Background, .ansi8-background { background-color: var(--brightBlack)  }
@@ -115,7 +119,7 @@
 .brightyellow-fill   ,  .bright-yellow-fill   , .BrightYellowFill   , .ANSI11-Fill, .ansi11-fill   { fill: var(--brightYellow)   }
 .brightblue-fill   ,  .bright-blue-fill   , .BrightBlueFill   , .ANSI12-Fill, .ansi12-fill   { fill: var(--brightBlue)           }
 .brightmagneta-fill   ,  .bright-magneta-fill   , .BrightMagnetaFill   , .ANSI13-Fill, .ansi13-fill   { fill: var(--brightPurple) }
-.brightpurple-fill      , .bright-purple-fill, .BrightPurpleFill { fill: var(--brightPuple)                                      }
+.brightpurple-fill      , .bright-purple-fill, .BrightPurpleFill { fill: var(--brightPurple)                                      }
 .brightcyan-fill   ,  .bright-cyan-fill   , .BrightCyanFill   , .ANSI14-Fill, .ansi14-fill   { fill: var(--brightCyan)           }
 .brightwhite-fill   ,  .bright-white-fill   , .BrightWhiteFill   , .ANSI15-Fill, .ansi15-fill   { fill: var(--brightWhite)       }
 /* strokes */
