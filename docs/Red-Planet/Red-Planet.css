@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/ibrokemypie;
-  --creditTo: ibrokemypie;
+  --creditToLink: 'https://github.com/ibrokemypie';
+  --creditTo: 'ibrokemypie';
   --selectionBackground: #1b324a;
   --cursorColor: #c2b790;
   --foreground: #c2b790;
@@ -21,7 +21,7 @@
   --green: #728271;
   --red: #8c3432;
   --black: #202020;
-  --name: Red Planet;
+  --name: 'Red Planet';
   --Luma: 0.133333333333333;
   --Contrast: 0.582442352941177;
   --PaletteName: Red Planet;
