@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://code.djangoproject.com/wiki/TextMate;
+  --creditTo: Jannis Leidel;
   --selectionBackground: #336442;
   --cursorColor: #336442;
   --foreground: #f8f8f8;
@@ -19,7 +21,7 @@
   --green: #41a83e;
   --red: #fd6209;
   --black: #000000;
-  --name: 'DjangoSmooth';
+  --name: DjangoSmooth;
   --Luma: 0.268547450980392;
   --Contrast: 0.704001568627451;
   --PaletteName: DjangoSmooth;
