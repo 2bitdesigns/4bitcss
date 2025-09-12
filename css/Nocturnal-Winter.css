@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/Shriram-Balaji;
+  --creditTo: Shriram Balaji;
   --selectionBackground: #adbdd0;
   --cursorColor: #e6e5e5;
   --foreground: #e6e5e5;
@@ -19,7 +21,7 @@
   --green: #09cd7e;
   --red: #f12d52;
   --black: #4d4d4d;
-  --name: 'Nocturnal Winter';
+  --name: Nocturnal Winter;
   --Luma: 0.0538117647058824;
   --Contrast: 0.845061176470588;
   --PaletteName: Nocturnal Winter;
