@@ -24,8 +24,8 @@
   --name: 'MaterialDesignColors';
   --Luma: 0.14264862745098;
   --Contrast: 0.77615137254902;
-  --PaletteName: MaterialDesignColors;
-  --PaletteFileName: MaterialDesignColors;
+  --PaletteName: 'MaterialDesignColors';
+  --PaletteFileName: 'MaterialDesignColors';
   --IsBright: 0;
   --IsDark: 1;
 }
