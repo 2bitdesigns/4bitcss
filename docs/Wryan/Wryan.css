@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/baskerville/iTerm-2-Color-Themes;
-  --creditTo: baskerville;
+  --creditToLink: 'https://github.com/baskerville/iTerm-2-Color-Themes';
+  --creditTo: 'baskerville';
   --selectionBackground: #4d4d4d;
   --cursorColor: #9e9ecb;
   --foreground: #999993;
@@ -21,7 +21,7 @@
   --green: #287373;
   --red: #8c4665;
   --black: #333333;
-  --name: Wryan;
+  --name: 'Wryan';
   --Luma: 0.0627450980392157;
   --Contrast: 0.535556078431373;
   --PaletteName: Wryan;
