@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.945098039215686;
   --Contrast: 0.670727843137255;
-  --PaletteName: Melange_light;
-  --PaletteFileName: Melange-light;
+  --PaletteName: 'Melange_light';
+  --PaletteFileName: 'Melange-light';
   --IsBright: 0;
   --IsDark: 1;
 }
