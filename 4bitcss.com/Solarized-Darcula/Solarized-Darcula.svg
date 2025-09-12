@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#3d3f41" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#d2d8d9" text-anchor="middle" alignment-baseline="middle">Solarized Darcula</text>
+  <rect x="0" y="0" width="80" height="80" fill="#25292a" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#f24840" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#629655" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#b68800" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#2075c7" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#797fd4" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#15968d" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#d2d8d9" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#25292a" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#f24840" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#629655" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#b68800" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#2075c7" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#797fd4" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#15968d" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#d2d8d9" class="BrightWhite-fill" />
+</svg>
