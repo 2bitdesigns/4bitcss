@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/akx;
-  --creditTo: akx;
+  --creditToLink: 'https://github.com/akx';
+  --creditTo: 'akx';
   --selectionBackground: #c1deff;
   --cursorColor: #c7c7c7;
   --foreground: #c7c7c7;
@@ -21,7 +21,7 @@
   --green: #a6e32d;
   --red: #fe4386;
   --black: #171717;
-  --name: detuned;
+  --name: 'detuned';
   --Luma: 0;
   --Contrast: 0.780392156862745;
   --PaletteName: detuned;
