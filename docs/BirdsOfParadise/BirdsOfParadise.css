@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #563c27;
   --cursorColor: #573d26;
   --foreground: #e0dbb7;
@@ -19,7 +21,7 @@
   --green: #6ba18a;
   --red: #be2d26;
   --black: #573d26;
-  --name: 'BirdsOfParadise';
+  --name: BirdsOfParadise;
   --Luma: 0.130173333333333;
   --Contrast: 0.722625882352941;
   --PaletteName: BirdsOfParadise;
