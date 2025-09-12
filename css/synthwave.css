@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/brettstil/;
+  --creditTo: brettstil;
   --selectionBackground: #19cde6;
   --cursorColor: #19cde6;
   --foreground: #dad9c7;
@@ -19,7 +21,7 @@
   --green: #1ebb2b;
   --red: #f6188f;
   --black: #000000;
-  --name: 'synthwave';
+  --name: synthwave;
   --Luma: 0;
   --Contrast: 0.846717647058824;
   --PaletteName: synthwave;
