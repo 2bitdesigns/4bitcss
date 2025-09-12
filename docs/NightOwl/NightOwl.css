@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zasdaym;
-  --creditTo: zasdaym;
+  --creditToLink: 'https://github.com/zasdaym';
+  --creditTo: 'zasdaym';
   --selectionBackground: #5f7e97;
   --cursorColor: #7e57c2;
   --foreground: #d6deeb;
@@ -21,7 +21,7 @@
   --green: #22da6e;
   --red: #ef5350;
   --black: #011627;
-  --name: NightOwl;
+  --name: 'NightOwl';
   --Luma: 0.0735796078431372;
   --Contrast: 0.794019607843137;
   --PaletteName: NightOwl;
