@@ -1,22 +1,22 @@
 :root {
-  --selectionBackground: #faf4ed;
+  --selectionBackground: #dfdad9;
   --cursorColor: #575279;
   --foreground: #575279;
   --background: #faf4ed;
   --brightWhite: #575279;
   --brightCyan: #d7827e;
   --brightPurple: #907aa9;
-  --brightBlue: #286983;
+  --brightBlue: #56949f;
   --brightYellow: #ea9d34;
-  --brightGreen: #56949f;
+  --brightGreen: #286983;
   --brightRed: #b4637a;
   --brightBlack: #9893a5;
   --white: #575279;
   --cyan: #d7827e;
   --purple: #907aa9;
-  --blue: #286983;
+  --blue: #56949f;
   --yellow: #ea9d34;
-  --green: #56949f;
+  --green: #286983;
   --red: #b4637a;
   --black: #f2e9e1;
   --name: 'rose-pine-dawn';
