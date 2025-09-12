@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/0x3024;
-  --creditTo: 0x3024;
+  --creditToLink: 'https://github.com/0x3024';
+  --creditTo: '0x3024';
   --selectionBackground: #a5a2a2;
   --cursorColor: #4a4543;
   --foreground: #4a4543;
@@ -21,7 +21,7 @@
   --green: #01a252;
   --red: #db2d20;
   --black: #090300;
-  --name: 3024 Day;
+  --name: '3024 Day';
   --Luma: 0.968627450980392;
   --Contrast: 0.694436862745098;
   --PaletteName: 3024 Day;
