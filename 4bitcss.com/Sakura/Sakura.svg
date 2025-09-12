@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#18131e" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#dd7bdc" text-anchor="middle" alignment-baseline="middle">Sakura</text>
+  <rect x="0" y="0" width="80" height="80" fill="#000000" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#d52370" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#41af1a" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#bc7053" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#6964ab" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#c71fbf" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#939393" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#998eac" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#786d69" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#f41d99" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#22e529" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#f59574" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#9892f1" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#e90cdd" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#eeeeee" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#cbb6ff" class="BrightWhite-fill" />
+</svg>
