@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#e2e2e2" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#555555" text-anchor="middle" alignment-baseline="middle">seoulbones_light</text>
+  <rect x="0" y="0" width="80" height="80" fill="#e2e2e2" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#dc5284" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#628562" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#c48562" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#0084a3" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#896788" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#008586" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#555555" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#bfbabb" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#be3c6d" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#487249" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#a76b48" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#006f89" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#7f4c7e" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#006f70" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#777777" class="BrightWhite-fill" />
+</svg>
