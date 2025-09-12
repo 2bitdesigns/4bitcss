@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.155819607843137;
   --Contrast: 0.673754509803921;
-  --PaletteName: catppuccin-macchiato;
-  --PaletteFileName: catppuccin-macchiato;
+  --PaletteName: 'catppuccin-macchiato';
+  --PaletteFileName: 'catppuccin-macchiato';
   --IsBright: 0;
   --IsDark: 1;
 }
