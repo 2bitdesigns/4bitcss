@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/raunofreiberg;
+  --creditTo: raunofreiberg;
   --selectionBackground: #988049;
   --cursorColor: #acb1ab;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #90b99f;
   --red: #f5a191;
   --black: #101010;
-  --name: 'Vesper';
+  --name: Vesper;
   --Luma: 0.0627450980392157;
   --Contrast: 0.937254901960784;
   --PaletteName: Vesper;
