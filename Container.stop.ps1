@@ -7,3 +7,4 @@
     It can be used to perform any necessary cleanup before the container is stopped.
 #>
 "Container now exiting, thank you for using $env:ModuleName!" | Out-Host
+Get-Job | ? HttpListener | %{ $_.HttpListener.Stop() }

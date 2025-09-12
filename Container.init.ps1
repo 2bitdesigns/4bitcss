@@ -22,7 +22,7 @@
     That is why this file is using the namespace 'mcr.microsoft.com/powershell'.
     (this does nothing, but most likely will be used in the future)
 #>
-using namespace 'mcr.microsoft.com/powershell AS powerShell'
+# using namespace 'mcr.microsoft.com/powershell AS powerShell'
 
 param(
 # The name of the module to be installed.
@@ -107,5 +107,5 @@ if (-not $KeepGit) {
 # If you have any adjustments, please put them below here, in the `#region Custom`
 
 #region Custom
-bundle config --global silence_root_warning true
+# bundle config --global silence_root_warning true
 #endregion Custom

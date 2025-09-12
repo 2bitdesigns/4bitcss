@@ -24,12 +24,14 @@
     That is why this file is using the namespace 'mcr.microsoft.com/powershell'.
     (this does nothing, but most likely will be used in the future)
 #>
-using namespace 'ghcr.io/2bitdesigns/4bitcss'
+# using namespace 'ghcr.io/2bitdesigns/4bitcss'
 
 param()
 
 $env:IN_CONTAINER = $true
 $PSStyle.OutputRendering = 'Ansi'
+
+$containerModule = Get-Module $env:ModuleName
 
 $mountedDrives = @(if (Test-Path '/proc/mounts') {
     (Select-String "\S+\s(?<p>\S+).+rw?,.+symlinkroot=/mnt/host" "/proc/mounts").Matches.Groups |
@@ -47,6 +49,7 @@ if ($args) {
     # If there are arguments, output them (you could handle them in a more complex way).
     "$args" | Out-Host    
 } else {
+    
     # If there are no arguments, see if there is a Microservice.ps1
     if (Test-Path './Microservice.ps1') {
         # If there is a Microservice.ps1, run it.
@@ -55,16 +58,13 @@ if ($args) {
     #region Custom
     else 
     {
-        Start-ThreadJob -Name "${env:ModuleName}.Jekyll" -ScriptBlock {
-            Push-Location ./docs
-            jekyll serve --host "$(
-                if ($env:JEKYLL_HOST) { $env:JEKYLL_HOST }
-                else { '*' }
-            )" '--port' $(
-                if ($env:JEKYLL_PORT) { $env:JEKYLL_PORT }
-                else { 4000 }
-            )
+        $containerModule | Split-Path | Push-Location
+        Push-Location $env:ModuleDomain
+        if (Test-Path ./serve.ps1) {
+            . ./serve.ps1
         }
+        Pop-Location
+        Pop-Location
     }
     #endregion Custom
 }
