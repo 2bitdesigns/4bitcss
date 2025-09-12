@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/xero;
-  --creditTo: xero;
+  --creditToLink: 'https://github.com/xero';
+  --creditTo: 'xero';
   --selectionBackground: #e5c47b;
   --cursorColor: #c7c7c7;
   --foreground: #c2c2b0;
@@ -21,7 +21,7 @@
   --green: #5f875f;
   --red: #685742;
   --black: #000000;
-  --name: miasma;
+  --name: 'miasma';
   --Luma: 0.133333333333333;
   --Contrast: 0.622354509803921;
   --PaletteName: miasma;
