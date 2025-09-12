@@ -336,7 +336,7 @@ function Export-4BitCSS
 :root {
   $(@(
     foreach ($prop in $jsonObject.psobject.properties) {
-        if ($prop.Name -eq 'Name', 'CreditTo','CreditToLink','FileName') {
+        if ($prop.Name -in 'Name', 'CreditTo','CreditToLink','FileName') {
             "--$($prop.Name): '$($prop.Value)'"
         } else {
             "--$($prop.Name): $($prop.Value)"
