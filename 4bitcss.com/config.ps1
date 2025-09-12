@@ -120,9 +120,11 @@ $Site.Logo = Get-Content -Path ../Assets/4bitcss.svg
     type = 'rotate'   ; values = 0, 360 ;repeatCount = 'indefinite'; dur = "31s"; additive = 'sum'; id ='rotate-logo'
 } #>
 
+$Site.NoIndex = $true
+
 $site.Taskbar = [Ordered]@{
-    'BlueSky' = 'https://bsky.app/profile/psturtle.com'
-    'GitHub' = 'https://github.com/PowerShellWeb/Turtle'
+    # 'BlueSky' = 'https://bsky.app/profile/psturtle.com'
+    'GitHub' = 'https://github.com/2bitdesigns/4bitcss'
     'RSS' = 'https://psturtle.com/RSS/index.rss'
     <#'Help' = @(
 

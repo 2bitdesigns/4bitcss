@@ -43,7 +43,7 @@ foreach ($underbarDirectory in Get-ChildItem -Path $site.PSScriptRoot -Filter _*
         }
 
         $propertyName = $hierarchy[-1] -replace '_' 
-        $getFile = @{LiteralPath=$siteFile.FullName}
+        $getFile = @{LiteralPath=$underbarFile.FullName}
         $fileData  =
             switch -regex ($underbarFile.Extension) {
                 '\.ps1$' { $ExecutionContext.SessionState.InvokeCommand.GetCommand($underbarFile.FullName, 'ExternalScript') }
@@ -74,6 +74,14 @@ foreach ($file in $functionFiles) {
     . $file.FullName
 }
 #endregion Common Functions and Filters
+
+if (-not $site.Exclude) {
+    $site.Exclude = [Ordered]@{
+        Pattern = @($functionPattern)
+        Wildcard  = @("*.turtle.ps1")
+    }
+
+}
 
 # Set an alias to buildPage.ps1
 Set-Alias BuildPage ./buildPage.ps1

@@ -28,11 +28,14 @@ if (-not $site.PagesByUrl) {
 }
 $pagesByUrl = $site.PagesByUrl
 
+$site.FilesProcessed = $filesProcessed = [Ordered]@{}
 $site.FileQueue = $fileQueue = [Collections.Queue]::new()
 foreach ($file in $allFiles) { $fileQueue.Enqueue($file) }
 
 :nextFile while ($fileQueue.Count) {
     $file = $fileQueue.Dequeue()
+    if ($filesProcessed[$file.FullName]) { continue }
+    if ($file.FullName -match '[\//]_') { continue }
     if ($Site -and $Site.Exclude) {
         $included = $false
         :exclude do {
@@ -54,7 +57,11 @@ foreach ($file in $allFiles) { $fileQueue.Enqueue($file) }
             }
             $included = $true
         } until ($included)
+        if (-not $included) {
+            continue nextFile
+        }
     }
+    $filesProcessed[$file.FullName] = $true
     $fileRoot = $file.Directory.FullName
     Push-Location $fileRoot
     # Get the file name by removing the extension.
@@ -404,20 +411,23 @@ foreach ($file in $allFiles) { $fileQueue.Enqueue($file) }
         $outputFiles
     } else {
         # otherwise, we'll save output to a file.
+        if (-not $output) {
+            $null = $null
+        } else {
+            # If the file does not exists
+            if (-not (Test-Path -Path $outFile)) {
+                # create an empty file.
+                $null = New-Item -Path $outFile -ItemType File -Force
+            }
 
-        # If the file does not exists
-        if (-not (Test-Path -Path $outFile)) {
-            # create an empty file.
-            $null = New-Item -Path $outFile -ItemType File -Force
-        }
-
-        $output > $outFile
-        # and if that worked,
-        if ($?) {
-            # output the file.
-            $page.OutputFile = Get-Item -Path $outFile
-            $page.OutputFile
-        }
+            $output > $outFile
+            # and if that worked,
+            if ($?) {
+                # output the file.
+                $page.OutputFile = Get-Item -Path $outFile
+                $page.OutputFile
+            }
+        }                
     }
     #endregion Output
 
