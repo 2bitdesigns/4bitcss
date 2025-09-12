@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/vimiomori;
-  --creditTo: vimiomori;
+  --creditToLink: 'https://github.com/vimiomori';
+  --creditTo: 'vimiomori';
   --selectionBackground: #2baeca;
   --cursorColor: #ffcc00;
   --foreground: #c5f2ff;
@@ -21,7 +21,7 @@
   --green: #b4e88d;
   --red: #ff8288;
   --black: #292d3e;
-  --name: BlueDolphin;
+  --name: 'BlueDolphin';
   --Luma: 0.331868235294118;
   --Contrast: 0.583314509803922;
   --PaletteName: BlueDolphin;
