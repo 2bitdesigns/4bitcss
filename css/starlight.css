@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/CosmicToast/starlight;
-  --creditTo: starlight;
+  --creditToLink: 'https://github.com/CosmicToast/starlight';
+  --creditTo: 'starlight';
   --selectionBackground: #ffffff;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #47b413;
   --red: #f62b5a;
   --black: #242424;
-  --name: starlight;
+  --name: 'starlight';
   --Luma: 0.141176470588235;
   --Contrast: 0.858823529411765;
   --PaletteName: starlight;
