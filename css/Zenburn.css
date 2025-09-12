@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: http://sunaku.github.io/zenburn-terminal-color-scheme.html;
+  --creditTo: Zenburn;
   --selectionBackground: #21322f;
   --cursorColor: #73635a;
   --foreground: #dcdccc;
@@ -19,7 +21,7 @@
   --green: #60b48a;
   --red: #705050;
   --black: #4d4d4d;
-  --name: 'Zenburn';
+  --name: Zenburn;
   --Luma: 0.247058823529412;
   --Contrast: 0.611156078431373;
   --PaletteName: Zenburn;
