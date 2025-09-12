@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/slavamak;
-  --creditTo: slavamak;
+  --creditToLink: 'https://github.com/slavamak';
+  --creditTo: 'slavamak';
   --selectionBackground: #4f5258;
   --cursorColor: #9b9ea4;
   --foreground: #e0e2ea;
@@ -21,7 +21,7 @@
   --green: #b3f6c0;
   --red: #ffc0b9;
   --black: #07080d;
-  --name: NvimDark;
+  --name: 'NvimDark';
   --Luma: 0.0860227450980392;
   --Contrast: 0.800849411764706;
   --PaletteName: NvimDark;
