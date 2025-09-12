@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/pamburus/one-double;
-  --creditTo: pamburus;
+  --creditToLink: 'https://github.com/pamburus/one-double';
+  --creditTo: 'pamburus';
   --selectionBackground: #454e5e;
   --cursorColor: #1a1919;
   --foreground: #383a43;
@@ -21,7 +21,7 @@
   --green: #25a343;
   --red: #f74840;
   --black: #454b58;
-  --name: One Double Light;
+  --name: 'One Double Light';
   --Luma: 0.980392156862745;
   --Contrast: 0.752060392156863;
   --PaletteName: One Double Light;
