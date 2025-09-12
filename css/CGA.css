@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jdhmtl;
+  --creditTo: jdhmtl;
   --selectionBackground: #c1deff;
   --cursorColor: #b8b8b8;
   --foreground: #aaaaaa;
@@ -19,7 +21,7 @@
   --green: #00aa00;
   --red: #aa0000;
   --black: #000000;
-  --name: 'CGA';
+  --name: CGA;
   --Luma: 0;
   --Contrast: 0.666666666666667;
   --PaletteName: CGA;
