@@ -172,7 +172,19 @@ function Export-4BitCSS
     [Parameter(ValueFromPipelineByPropertyName)]
     [ComponentModel.DefaultBindingProperty("selectionBackground")]
     [string]
-    $SelectionBackground,    
+    $SelectionBackground,
+    
+    # If provided, will add a --creditTo variable containing the name of the author
+    [Parameter(ValueFromPipelineByPropertyName)]
+    [ComponentModel.DefaultBindingProperty("creditTo")]
+    [string]
+    $CreditTo,
+
+    # If provided, will add a --creditToLink containing a link to the author's page or repo.
+    [Parameter(ValueFromPipelineByPropertyName)]
+    [ComponentModel.DefaultBindingProperty("creditToLink")]
+    [string]
+    $CreditToLink,
 
     # The output path.  If not specified, will output to the current directory.
     [string]
