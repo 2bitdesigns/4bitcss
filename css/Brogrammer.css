@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/bahlo/iterm-colors;
-  --creditTo: bahlo;
+  --creditToLink: 'https://github.com/bahlo/iterm-colors';
+  --creditTo: 'bahlo';
   --selectionBackground: #1f1f1f;
   --cursorColor: #b9b9b9;
   --foreground: #d6dbe5;
@@ -21,7 +21,7 @@
   --green: #2dc55e;
   --red: #f81118;
   --black: #1f1f1f;
-  --name: Brogrammer;
+  --name: 'Brogrammer';
   --Luma: 0.0745098039215686;
   --Contrast: 0.782976470588235;
   --PaletteName: Brogrammer;
