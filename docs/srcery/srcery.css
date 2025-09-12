@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/srcery-colors;
+  --creditTo: Srcery;
   --selectionBackground: #fce8c3;
   --cursorColor: #fbb829;
   --foreground: #fce8c3;
@@ -19,7 +21,7 @@
   --green: #519f50;
   --red: #ef2f27;
   --black: #1c1b19;
-  --name: 'srcery';
+  --name: srcery;
   --Luma: 0.106149803921569;
   --Contrast: 0.809852549019608;
   --PaletteName: srcery;
