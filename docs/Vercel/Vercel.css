@@ -19,7 +19,9 @@
   --green: #29a948;
   --red: #fc0036;
   --black: #000000;
-  --name: 'Vercel';
+  --name: Vercel;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.0627450980392157;
   --Contrast: 0.917647058823529;
   --PaletteName: Vercel;
