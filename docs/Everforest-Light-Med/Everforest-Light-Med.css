@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/icewind/everforest.iterm2;
+  --creditTo: here;
   --selectionBackground: #eaedc8;
   --cursorColor: #f57d26;
   --foreground: #5c6a72;
@@ -19,7 +21,7 @@
   --green: #a7c080;
   --red: #e67e80;
   --black: #7a8478;
-  --name: 'Everforest Light - Med';
+  --name: Everforest Light - Med;
   --Luma: 0.91839137254902;
   --Contrast: 0.512112156862745;
   --PaletteName: Everforest Light - Med;
