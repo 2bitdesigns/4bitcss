@@ -24,8 +24,8 @@
   --name: '12-bit Rainbow';
   --Luma: 0.0156862745098039;
   --Contrast: 0.98348;
-  --PaletteName: 12-bit Rainbow;
-  --PaletteFileName: 12-bit-Rainbow;
+  --PaletteName: '12-bit Rainbow';
+  --PaletteFileName: '12-bit-Rainbow';
   --IsBright: 0;
   --IsDark: 1;
 }
