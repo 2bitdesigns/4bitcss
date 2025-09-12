@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/dofuuz/dimidium;
+  --creditTo: dofuuz;
   --selectionBackground: #8db8e5;
   --cursorColor: #37e57b;
   --foreground: #bab7b6;
@@ -19,7 +21,7 @@
   --green: #60b442;
   --red: #cf494c;
   --black: #000000;
-  --name: 'Dimidium';
+  --name: Dimidium;
   --Luma: 0.0784313725490196;
   --Contrast: 0.641433725490196;
   --PaletteName: Dimidium;
