@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#372920" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#b19b89" text-anchor="middle" alignment-baseline="middle">Squirrelsong Dark</text>
+  <rect x="0" y="0" width="80" height="80" fill="#372920" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#ba4138" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#468336" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#d4b139" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#4395c6" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#855fb8" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#2f9794" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#d3b9a2" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#704f39" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#df4d43" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#659a4c" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#e8c23f" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#4ca4db" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#9d70da" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#60aca9" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f2d4bb" class="BrightWhite-fill" />
+</svg>
