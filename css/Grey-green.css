@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/yg66;
+  --creditTo: lee;
   --selectionBackground: #517e50;
   --cursorColor: #fff400;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #74ff00;
   --red: #fe1414;
   --black: #000000;
-  --name: 'Grey-green';
+  --name: Grey-green;
   --Luma: 0.125159215686274;
   --Contrast: 0.874840784313725;
   --PaletteName: Grey-green;
