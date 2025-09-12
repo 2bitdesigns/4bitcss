@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/joshka;
-  --creditTo: joshka;
+  --creditToLink: 'https://github.com/joshka';
+  --creditTo: 'joshka';
   --selectionBackground: #bfdbfe;
   --cursorColor: #007acc;
   --foreground: #dddddd;
@@ -21,7 +21,7 @@
   --green: #4b8c0f;
   --red: #aa342e;
   --black: #191919;
-  --name: Aardvark Blue;
+  --name: 'Aardvark Blue';
   --Luma: 0.121210980392157;
   --Contrast: 0.74545568627451;
   --PaletteName: Aardvark Blue;
