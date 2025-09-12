@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://noahfrederick.com/log/lion-terminal-theme-peppermint;
+  --creditTo: Noah Frederick;
   --selectionBackground: #e6e6e6;
   --cursorColor: #bbbbbb;
   --foreground: #c8c8c8;
@@ -19,7 +21,7 @@
   --green: #89d287;
   --red: #e74669;
   --black: #353535;
-  --name: 'Peppermint';
+  --name: Peppermint;
   --Luma: 0;
   --Contrast: 0.784313725490196;
   --PaletteName: Peppermint;
