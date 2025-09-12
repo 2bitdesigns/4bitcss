@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.95281568627451;
   --Contrast: 0.563869803921569;
-  --PaletteName: selenized-light;
-  --PaletteFileName: selenized-light;
+  --PaletteName: 'selenized-light';
+  --PaletteFileName: 'selenized-light';
   --IsBright: 0;
   --IsDark: 1;
 }
