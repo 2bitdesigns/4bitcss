@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.135891764705882;
   --Contrast: 0.430893333333333;
-  --PaletteName: iTerm2 Solarized Dark;
-  --PaletteFileName: iTerm2-Solarized-Dark;
+  --PaletteName: 'iTerm2 Solarized Dark';
+  --PaletteFileName: 'iTerm2-Solarized-Dark';
   --IsBright: 0;
   --IsDark: 1;
 }
