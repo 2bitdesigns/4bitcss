@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#2c2e34" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#e2e2e3" text-anchor="middle" alignment-baseline="middle">sonokai</text>
+  <rect x="0" y="0" width="80" height="80" fill="#181819" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#fc5d7c" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#9ed072" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#e7c664" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#76cce0" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#b39df3" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#f39660" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#e2e2e3" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#7f8490" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#fc5d7c" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#9ed072" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#e7c664" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#76cce0" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#b39df3" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#f39660" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#e2e2e3" class="BrightWhite-fill" />
+</svg>
