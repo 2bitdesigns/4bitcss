@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/effkay/iTerm-argonaut;
+  --creditTo: effkay;
   --selectionBackground: #002a3b;
   --cursorColor: #ff0018;
   --foreground: #fffaf4;
@@ -19,7 +21,7 @@
   --green: #8ce10b;
   --red: #ff000f;
   --black: #232323;
-  --name: 'Argonaut';
+  --name: Argonaut;
   --Luma: 0.0636258823529412;
   --Contrast: 0.919236078431372;
   --PaletteName: Argonaut;
