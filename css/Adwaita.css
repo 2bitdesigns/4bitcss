@@ -24,8 +24,8 @@
   --name: 'Adwaita';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: Adwaita;
-  --PaletteFileName: Adwaita;
+  --PaletteName: 'Adwaita';
+  --PaletteFileName: 'Adwaita';
   --IsBright: 0;
   --IsDark: 1;
 }
