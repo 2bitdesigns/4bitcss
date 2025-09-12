@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jglovier/galaxy-theme-iterm;
+  --creditTo: jglovier;
   --selectionBackground: #b5d5ff;
   --cursorColor: #bbbbbb;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #21b089;
   --red: #f9555f;
   --black: #000000;
-  --name: 'Galaxy';
+  --name: Galaxy;
   --Luma: 0.151938823529412;
   --Contrast: 0.848061176470588;
   --PaletteName: Galaxy;
