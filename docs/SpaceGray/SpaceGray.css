@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/ryentzer/SpaceGray-iTerm;
+  --creditTo: ryentzer;
   --selectionBackground: #16181e;
   --cursorColor: #b3b8c3;
   --foreground: #b3b8c3;
@@ -19,7 +21,7 @@
   --green: #87b379;
   --red: #b04b57;
   --black: #000000;
-  --name: 'SpaceGray';
+  --name: SpaceGray;
   --Luma: 0.140389803921569;
   --Contrast: 0.580124705882353;
   --PaletteName: SpaceGray;
