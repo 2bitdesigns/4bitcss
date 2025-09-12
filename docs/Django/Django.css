@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://code.djangoproject.com/wiki/TextMate;
-  --creditTo: Jannis Leidel;
+  --creditToLink: 'https://code.djangoproject.com/wiki/TextMate';
+  --creditTo: 'Jannis Leidel';
   --selectionBackground: #245032;
   --cursorColor: #336442;
   --foreground: #f8f8f8;
@@ -21,7 +21,7 @@
   --green: #41a83e;
   --red: #fd6209;
   --black: #000000;
-  --name: Django;
+  --name: 'Django';
   --Luma: 0.150052549019608;
   --Contrast: 0.822496470588235;
   --PaletteName: Django;
