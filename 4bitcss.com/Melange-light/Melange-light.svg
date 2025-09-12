@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#f1f1f1" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#54433a" text-anchor="middle" alignment-baseline="middle">Melange_light</text>
+  <rect x="0" y="0" width="80" height="80" fill="#e9e1db" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#c77b8b" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#6e9b72" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#bc5c00" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#7892bd" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#be79bb" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#739797" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#7d6658" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#a98a78" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#bf0021" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#3a684a" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#a06d00" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#465aa4" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#904180" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#3d6568" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#54433a" class="BrightWhite-fill" />
+</svg>
