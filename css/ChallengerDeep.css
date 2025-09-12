@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/challenger-deep-theme/vim;
+  --creditTo: here;
   --selectionBackground: #cbe1e7;
   --cursorColor: #fbfcfc;
   --foreground: #cbe1e7;
@@ -19,7 +21,7 @@
   --green: #62d196;
   --red: #ff5458;
   --black: #141228;
-  --name: 'ChallengerDeep';
+  --name: ChallengerDeep;
   --Luma: 0.117417254901961;
   --Contrast: 0.748292549019608;
   --PaletteName: ChallengerDeep;
