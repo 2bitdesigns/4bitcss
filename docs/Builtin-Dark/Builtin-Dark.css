@@ -19,7 +19,9 @@
   --green: #00bb00;
   --red: #bb0000;
   --black: #000000;
-  --name: 'Builtin Dark';
+  --name: Builtin Dark;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0;
   --Contrast: 0.733333333333333;
   --PaletteName: Builtin Dark;
