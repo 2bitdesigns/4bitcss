@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#2a211c" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#b8a898" text-anchor="middle" alignment-baseline="middle">Espresso Libre</text>
+  <rect x="0" y="0" width="80" height="80" fill="#000000" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#cc0000" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#1a921c" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#f0e53a" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#0066ff" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#c5656b" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#06989a" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#d3d7cf" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#555753" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ef2929" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#9aff87" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#fffb5c" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#43a8ed" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#ff818a" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#34e2e2" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#eeeeec" class="BrightWhite-fill" />
+</svg>
