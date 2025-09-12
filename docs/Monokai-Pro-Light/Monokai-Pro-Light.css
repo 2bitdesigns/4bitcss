@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.961298823529412;
   --Contrast: 0.814254901960784;
-  --PaletteName: Monokai Pro Light;
-  --PaletteFileName: Monokai-Pro-Light;
+  --PaletteName: 'Monokai Pro Light';
+  --PaletteFileName: 'Monokai-Pro-Light';
   --IsBright: 0;
   --IsDark: 1;
 }
