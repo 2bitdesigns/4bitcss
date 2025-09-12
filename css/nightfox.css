@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/edeneast/nightfox.nvim;
-  --creditTo: EdenEast;
+  --creditToLink: 'https://github.com/edeneast/nightfox.nvim';
+  --creditTo: 'EdenEast';
   --selectionBackground: #2b3b51;
   --cursorColor: #cdcecf;
   --foreground: #cdcecf;
@@ -21,7 +21,7 @@
   --green: #81b29a;
   --red: #c94f6d;
   --black: #393b44;
-  --name: nightfox;
+  --name: 'nightfox';
   --Luma: 0.132598431372549;
   --Contrast: 0.674694117647059;
   --PaletteName: nightfox;
