@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.896603137254902;
   --Contrast: 0.771632156862745;
-  --PaletteName: farmhouse-light;
-  --PaletteFileName: farmhouse-light;
+  --PaletteName: 'farmhouse-light';
+  --PaletteFileName: 'farmhouse-light';
   --IsBright: 0;
   --IsDark: 1;
 }
