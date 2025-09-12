@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/morhetz;
-  --creditTo: morhetz;
+  --creditToLink: 'https://github.com/morhetz';
+  --creditTo: 'morhetz';
   --selectionBackground: #d5c4a1;
   --cursorColor: #282828;
   --foreground: #282828;
@@ -21,7 +21,7 @@
   --green: #79740e;
   --red: #9d0006;
   --black: #fbf1c7;
-  --name: Gruvbox Light;
+  --name: 'Gruvbox Light';
   --Luma: 0.941543529411765;
   --Contrast: 0.784680784313725;
   --PaletteName: Gruvbox Light;
