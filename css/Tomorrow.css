@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2;
-  --creditTo: chriskempson;
+  --creditToLink: 'https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2';
+  --creditTo: 'chriskempson';
   --selectionBackground: #d6d6d6;
   --cursorColor: #4d4d4c;
   --foreground: #4d4d4c;
@@ -21,7 +21,7 @@
   --green: #718c00;
   --red: #c82829;
   --black: #000000;
-  --name: Tomorrow;
+  --name: 'Tomorrow';
   --Luma: 1;
   --Contrast: 0.698322352941177;
   --PaletteName: Tomorrow;
