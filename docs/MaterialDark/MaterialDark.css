@@ -24,8 +24,8 @@
   --name: 'MaterialDark';
   --Luma: 0.136971764705882;
   --Contrast: 0.761067450980392;
-  --PaletteName: MaterialDark;
-  --PaletteFileName: MaterialDark;
+  --PaletteName: 'MaterialDark';
+  --PaletteFileName: 'MaterialDark';
   --IsBright: 0;
   --IsDark: 1;
 }
