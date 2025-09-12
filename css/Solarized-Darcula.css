@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/rickhanlonii;
+  --creditTo: @rickhanlonii;
   --selectionBackground: #214283;
   --cursorColor: #708284;
   --foreground: #d2d8d9;
@@ -19,7 +21,7 @@
   --green: #629655;
   --red: #f24840;
   --black: #25292a;
-  --name: 'Solarized Darcula';
+  --name: Solarized Darcula;
   --Luma: 0.245957647058824;
   --Contrast: 0.596381960784314;
   --PaletteName: Solarized Darcula;
