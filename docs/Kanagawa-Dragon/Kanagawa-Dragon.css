@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/rebelot;
+  --creditTo: rebelot;
   --selectionBackground: #223249;
   --cursorColor: #c5c9c5;
   --foreground: #c8c093;
@@ -19,7 +21,7 @@
   --green: #8a9a7b;
   --red: #c4746e;
   --black: #0d0c0c;
-  --name: 'Kanagawa Dragon';
+  --name: Kanagawa Dragon;
   --Luma: 0.0879419607843137;
   --Contrast: 0.658927843137255;
   --PaletteName: Kanagawa Dragon;
