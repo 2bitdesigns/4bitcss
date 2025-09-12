@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.980392156862745;
   --Contrast: 0.582243921568627;
-  --PaletteName: ayu_light;
-  --PaletteFileName: ayu-light;
+  --PaletteName: 'ayu_light';
+  --PaletteFileName: 'ayu-light';
   --IsBright: 0;
   --IsDark: 1;
 }
