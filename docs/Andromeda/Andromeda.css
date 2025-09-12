@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/memije;
-  --creditTo: memije;
+  --creditToLink: 'https://github.com/memije';
+  --creditTo: 'memije';
   --selectionBackground: #5a5c62;
   --cursorColor: #f8f8f0;
   --foreground: #e5e5e5;
@@ -21,7 +21,7 @@
   --green: #05bc79;
   --red: #cd3131;
   --black: #000000;
-  --name: Andromeda;
+  --name: 'Andromeda';
   --Luma: 0.163919215686275;
   --Contrast: 0.73412;
   --PaletteName: Andromeda;
