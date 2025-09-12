@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/vinkla/broadcast-theme;
+  --creditTo: vinkla;
   --selectionBackground: #5a647e;
   --cursorColor: #ffffff;
   --foreground: #e6e1dc;
@@ -19,7 +21,7 @@
   --green: #519f50;
   --red: #da4939;
   --black: #000000;
-  --name: 'Broadcast';
+  --name: Broadcast;
   --Luma: 0.168627450980392;
   --Contrast: 0.716478431372549;
   --PaletteName: Broadcast;
