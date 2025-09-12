@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/filipjanevski;
-  --creditTo: Filip;
+  --creditToLink: 'https://github.com/filipjanevski';
+  --creditTo: 'Filip';
   --selectionBackground: #a9c1e2;
   --cursorColor: #3f3f3f;
   --foreground: #3e3e3e;
@@ -21,7 +21,7 @@
   --green: #07962a;
   --red: #970b16;
   --black: #3e3e3e;
-  --name: Github;
+  --name: 'Github';
   --Luma: 0.956862745098039;
   --Contrast: 0.713725490196078;
   --PaletteName: Github;
