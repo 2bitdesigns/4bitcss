@@ -24,8 +24,8 @@
   --name: 'deep';
   --Luma: 0.0352941176470588;
   --Contrast: 0.768627450980392;
-  --PaletteName: deep;
-  --PaletteFileName: deep;
+  --PaletteName: 'deep';
+  --PaletteFileName: 'deep';
   --IsBright: 0;
   --IsDark: 1;
 }
