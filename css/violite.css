@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/4c696e6b;
-  --creditTo: Link;
+  --creditToLink: 'https://github.com/4c696e6b';
+  --creditTo: 'Link';
   --selectionBackground: #49376d;
   --cursorColor: #eef4f6;
   --foreground: #eef4f6;
@@ -21,7 +21,7 @@
   --green: #79ecb3;
   --red: #ec7979;
   --black: #241c36;
-  --name: violite;
+  --name: 'violite';
   --Luma: 0.123835294117647;
   --Contrast: 0.828591372549019;
   --PaletteName: violite;
