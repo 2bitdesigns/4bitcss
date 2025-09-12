@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1a1a1a" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#c4c5b5" text-anchor="middle" alignment-baseline="middle">Monokai Soda</text>
+  <rect x="0" y="0" width="80" height="80" fill="#1a1a1a" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#f4005f" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#98e024" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#fa8419" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#9d65ff" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#f4005f" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#58d1eb" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#c4c5b5" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#625e4c" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#f4005f" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#98e024" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#e0d561" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#9d65ff" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#f4005f" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#58d1eb" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f6f6ef" class="BrightWhite-fill" />
+</svg>
