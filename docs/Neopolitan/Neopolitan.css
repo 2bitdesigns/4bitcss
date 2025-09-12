@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/daytonn/iTerm2-Color-Schemes;
-  --creditTo: daytonn;
+  --creditToLink: 'https://github.com/daytonn/iTerm2-Color-Schemes';
+  --creditTo: 'daytonn';
   --selectionBackground: #253b76;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #61ce3c;
   --red: #800000;
   --black: #000000;
-  --name: Neopolitan;
+  --name: 'Neopolitan';
   --Luma: 0.126539607843137;
   --Contrast: 0.873460392156863;
   --PaletteName: Neopolitan;
