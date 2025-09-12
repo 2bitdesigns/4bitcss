@@ -24,8 +24,8 @@
   --name: 'lovelace';
   --Luma: 0.122449411764706;
   --Contrast: 0.869707450980392;
-  --PaletteName: lovelace;
-  --PaletteFileName: lovelace;
+  --PaletteName: 'lovelace';
+  --PaletteFileName: 'lovelace';
   --IsBright: 0;
   --IsDark: 1;
 }
