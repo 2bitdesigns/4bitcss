@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/mcchrish/zenbones.nvim;
+  --creditTo: mcchrish/zenbones.nvim;
   --selectionBackground: #ade48c;
   --cursorColor: #202e18;
   --foreground: #202e18;
@@ -19,7 +21,7 @@
   --green: #567a30;
   --red: #a8334c;
   --black: #e5ede6;
-  --name: 'neobones_light';
+  --name: neobones_light;
   --Luma: 0.92076;
   --Contrast: 0.758269019607843;
   --PaletteName: neobones_light;
