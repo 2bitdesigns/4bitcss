@@ -19,7 +19,9 @@
   --green: #72c373;
   --red: #c37372;
   --black: #000000;
-  --name: 'Chalkboard';
+  --name: Chalkboard;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.154069019607843;
   --Contrast: 0.740450980392157;
   --PaletteName: Chalkboard;
