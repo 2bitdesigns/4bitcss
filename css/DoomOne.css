@@ -19,9 +19,9 @@
   --green: #98be65;
   --red: #ff6c6b;
   --black: #000000;
-  --name: DoomOne;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'DoomOne';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0.171479215686274;
   --Contrast: 0.587149803921569;
   --PaletteName: DoomOne;
