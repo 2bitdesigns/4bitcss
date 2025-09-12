@@ -196,4 +196,8 @@ if ($site.Archive) {
 #endregion archive.zip
 if ($PSScriptRoot) { Pop-Location }
 
-$site.PSScriptRoot | Get-ChildItem -Recurse -File
+$omitFromOutput = @(
+    'gitHubEvent.json'
+)
+
+$site.PSScriptRoot | Get-ChildItem -Recurse -File | ? Name -notin $omitFromOutput
