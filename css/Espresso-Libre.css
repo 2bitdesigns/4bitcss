@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jurgemaister/Espresso-Libre;
+  --creditTo: jurgemaister;
   --selectionBackground: #c3dcff;
   --cursorColor: #ffffff;
   --foreground: #b8a898;
@@ -19,7 +21,7 @@
   --green: #1a921c;
   --red: #cc0000;
   --black: #000000;
-  --name: 'Espresso Libre';
+  --name: Espresso Libre;
   --Luma: 0.135499607843137;
   --Contrast: 0.532133333333333;
   --PaletteName: Espresso Libre;
