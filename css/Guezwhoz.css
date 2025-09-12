@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/guesswhozzz/guezwhoz-iterm2-theme;
+  --creditTo: Egor Lem;
   --selectionBackground: #245354;
   --cursorColor: #99d4b1;
   --foreground: #d9d9d9;
@@ -19,7 +21,7 @@
   --green: #7ad694;
   --red: #e85181;
   --black: #333333;
-  --name: 'Guezwhoz';
+  --name: Guezwhoz;
   --Luma: 0.113725490196078;
   --Contrast: 0.737254901960784;
   --PaletteName: Guezwhoz;
