@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#151515" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#a1b0b8" text-anchor="middle" alignment-baseline="middle">Tomorrow Night Burns</text>
+  <rect x="0" y="0" width="80" height="80" fill="#252525" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#832e31" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#a63c40" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#d3494e" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#fc595f" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#df9395" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#ba8586" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#f5f5f5" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#5d6f71" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#832e31" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#a63c40" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#d2494e" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#fc595f" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#df9395" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#ba8586" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f5f5f5" class="BrightWhite-fill" />
+</svg>
