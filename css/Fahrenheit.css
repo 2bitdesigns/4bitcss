@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jonascarpay;
+  --creditTo: jonascarpay;
   --selectionBackground: #4e739f;
   --cursorColor: #bbbbbb;
   --foreground: #ffffce;
@@ -19,7 +21,7 @@
   --green: #9e744d;
   --red: #cda074;
   --black: #1d1d1d;
-  --name: 'Fahrenheit';
+  --name: Fahrenheit;
   --Luma: 0;
   --Contrast: 0.986126274509804;
   --PaletteName: Fahrenheit;
