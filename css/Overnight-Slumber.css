@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/cevr/overnight;
-  --creditTo: Cristian Velasquez Ramos;
+  --creditToLink: 'https://github.com/cevr/overnight';
+  --creditTo: 'Cristian Velasquez Ramos';
   --selectionBackground: #1f2b41;
   --cursorColor: #ffa7c4;
   --foreground: #ced2d6;
@@ -21,7 +21,7 @@
   --green: #85cc95;
   --red: #ffa7c4;
   --black: #0a1222;
-  --name: Overnight Slumber;
+  --name: 'Overnight Slumber';
   --Luma: 0.0877890196078431;
   --Contrast: 0.733538039215686;
   --PaletteName: Overnight Slumber;
