@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/kovv;
+  --creditTo: kovv;
   --selectionBackground: #706b4e;
   --cursorColor: #5e77c8;
   --foreground: #414141;
@@ -19,7 +21,7 @@
   --green: #66781e;
   --red: #b23771;
   --black: #414141;
-  --name: 'Piatto Light';
+  --name: Piatto Light;
   --Luma: 1;
   --Contrast: 0.745098039215686;
   --PaletteName: Piatto Light;
