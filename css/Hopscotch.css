@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/idleberg/Hopscotch;
+  --creditTo: Jan T. Sott;
   --selectionBackground: #5c545b;
   --cursorColor: #b9b5b8;
   --foreground: #b9b5b8;
@@ -19,7 +21,7 @@
   --green: #8fc13e;
   --red: #dd464c;
   --black: #322931;
-  --name: 'Hopscotch';
+  --name: Hopscotch;
   --Luma: 0.170552941176471;
   --Contrast: 0.543435294117647;
   --PaletteName: Hopscotch;
