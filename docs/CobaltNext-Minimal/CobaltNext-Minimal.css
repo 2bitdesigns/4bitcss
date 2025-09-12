@@ -19,7 +19,9 @@
   --green: #8cc98f;
   --red: #ff657a;
   --black: #323d47;
-  --name: 'CobaltNext-Minimal';
+  --name: CobaltNext-Minimal;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.0978956862745098;
   --Contrast: 0.770254117647059;
   --PaletteName: CobaltNext-Minimal;
