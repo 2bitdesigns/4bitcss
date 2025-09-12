@@ -24,8 +24,8 @@
   --name: 'nord-light';
   --Luma: 0.912372549019608;
   --Contrast: 0.631325490196078;
-  --PaletteName: nord-light;
-  --PaletteFileName: nord-light;
+  --PaletteName: 'nord-light';
+  --PaletteFileName: 'nord-light';
   --IsBright: 0;
   --IsDark: 1;
 }
