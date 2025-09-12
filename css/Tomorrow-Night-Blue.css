@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.123903529411765;
   --Contrast: 0.876096470588235;
-  --PaletteName: Tomorrow Night Blue;
-  --PaletteFileName: Tomorrow-Night-Blue;
+  --PaletteName: 'Tomorrow Night Blue';
+  --PaletteFileName: 'Tomorrow-Night-Blue';
   --IsBright: 0;
   --IsDark: 1;
 }
