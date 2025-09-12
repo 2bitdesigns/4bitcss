@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#030d18" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#f106e3" text-anchor="middle" alignment-baseline="middle">Laser</text>
+  <rect x="0" y="0" width="80" height="80" fill="#626262" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#ff8373" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#b4fb73" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#09b4bd" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#fed300" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#ff90fe" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#d1d1fe" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#f1f1f1" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#8f8f8f" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ffc4be" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#d6fcba" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#fffed5" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#f92883" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#ffb2fe" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#e6e7fe" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#ffffff" class="BrightWhite-fill" />
+</svg>
