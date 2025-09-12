@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/idleberg;
-  --creditTo: idleberg;
+  --creditToLink: 'https://github.com/idleberg';
+  --creditTo: 'idleberg';
   --selectionBackground: #968c83;
   --cursorColor: #45373c;
   --foreground: #45373c;
@@ -21,7 +21,7 @@
   --green: #858162;
   --red: #be100e;
   --black: #20111b;
-  --name: Belafonte Day;
+  --name: 'Belafonte Day';
   --Luma: 0.802407058823529;
   --Contrast: 0.573632941176471;
   --PaletteName: Belafonte Day;
