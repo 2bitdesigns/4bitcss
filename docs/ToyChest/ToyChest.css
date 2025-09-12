@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #5f217a;
   --cursorColor: #d5d5d5;
   --foreground: #31d07b;
@@ -21,7 +21,7 @@
   --green: #1a9172;
   --red: #be2d26;
   --black: #2c3f58;
-  --name: ToyChest;
+  --name: 'ToyChest';
   --Luma: 0.202703529411765;
   --Contrast: 0.456353725490196;
   --PaletteName: ToyChest;
