@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #e5591c;
   --cursorColor: #e5591c;
   --foreground: #dec165;
@@ -21,7 +21,7 @@
   --green: #919c00;
   --red: #d6262b;
   --black: #000000;
-  --name: FunForrest;
+  --name: 'FunForrest';
   --Luma: 0.0813325490196078;
   --Contrast: 0.673659607843137;
   --PaletteName: FunForrest;
