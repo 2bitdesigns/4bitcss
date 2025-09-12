@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #121418;
   --cursorColor: #f6f7ec;
   --foreground: #e5c7a9;
@@ -19,7 +21,7 @@
   --green: #85c54c;
   --red: #c94234;
   --black: #121418;
-  --name: 'Earthsong';
+  --name: Earthsong;
   --Luma: 0.147017254901961;
   --Contrast: 0.649892549019608;
   --PaletteName: Earthsong;
