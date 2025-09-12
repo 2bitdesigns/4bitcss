@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/iamstarkov;
-  --creditTo: iamstarkov;
+  --creditToLink: 'https://github.com/iamstarkov';
+  --creditTo: 'iamstarkov';
   --selectionBackground: #ededed;
   --cursorColor: #bbbbbb;
   --foreground: #2a2c33;
@@ -21,7 +21,7 @@
   --green: #3f953a;
   --red: #de3e35;
   --black: #000000;
-  --name: AtomOneLight;
+  --name: 'AtomOneLight';
   --Luma: 0.976470588235294;
   --Contrast: 0.803607058823529;
   --PaletteName: AtomOneLight;
