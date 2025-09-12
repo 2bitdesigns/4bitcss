@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://www.martinseeler.com/iterm2-material-design;
-  --creditTo: MartinSeeler;
+  --creditToLink: 'https://www.martinseeler.com/iterm2-material-design';
+  --creditTo: 'MartinSeeler';
   --selectionBackground: #4e6a78;
   --cursorColor: #eaeaea;
   --foreground: #e7ebed;
@@ -21,7 +21,7 @@
   --green: #5cf19e;
   --red: #fc3841;
   --black: #435b67;
-  --name: MaterialDesignColors;
+  --name: 'MaterialDesignColors';
   --Luma: 0.14264862745098;
   --Contrast: 0.77615137254902;
   --PaletteName: MaterialDesignColors;
