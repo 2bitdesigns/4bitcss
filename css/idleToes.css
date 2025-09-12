@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: http://www.idlefingers.co.uk/;
+  --creditTo: idleFingers;
   --selectionBackground: #5b5b5b;
   --cursorColor: #d6d6d6;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #7fe173;
   --red: #d25252;
   --black: #323232;
-  --name: 'idleToes';
+  --name: idleToes;
   --Luma: 0.196078431372549;
   --Contrast: 0.803921568627451;
   --PaletteName: idleToes;
