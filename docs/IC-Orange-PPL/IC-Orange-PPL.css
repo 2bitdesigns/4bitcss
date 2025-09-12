@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #c14020;
   --cursorColor: #fc531d;
   --foreground: #ffcb83;
@@ -21,7 +21,7 @@
   --green: #a4a900;
   --red: #c13900;
   --black: #000000;
-  --name: IC_Orange_PPL;
+  --name: 'IC_Orange_PPL';
   --Luma: 0.149019607843137;
   --Contrast: 0.670026666666667;
   --PaletteName: IC_Orange_PPL;
