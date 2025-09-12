@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/davidleininger/cobaltnext-vscode;
-  --creditTo: davidleininger;
+  --creditToLink: 'https://github.com/davidleininger/cobaltnext-vscode';
+  --creditTo: 'davidleininger';
   --selectionBackground: #4c5b67;
   --cursorColor: #ffc64c;
   --foreground: #d7deea;
@@ -21,7 +21,7 @@
   --green: #8cc98f;
   --red: #ff527b;
   --black: #000000;
-  --name: CobaltNext;
+  --name: 'CobaltNext';
   --Luma: 0.156755294117647;
   --Contrast: 0.711394509803921;
   --PaletteName: CobaltNext;
