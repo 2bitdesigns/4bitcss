@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/edeneast/nightfox.nvim;
-  --creditTo: EdenEast;
+  --creditToLink: 'https://github.com/edeneast/nightfox.nvim';
+  --creditTo: 'EdenEast';
   --selectionBackground: #293e40;
   --cursorColor: #e6eaea;
   --foreground: #e6eaea;
@@ -21,7 +21,7 @@
   --green: #7aa4a1;
   --red: #e85c51;
   --black: #2f3239;
-  --name: terafox;
+  --name: 'terafox';
   --Luma: 0.132607843137255;
   --Contrast: 0.78170431372549;
   --PaletteName: terafox;
