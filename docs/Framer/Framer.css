@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/markogresak;
+  --creditTo: markogresak;
   --selectionBackground: #666666;
   --cursorColor: #fcdc08;
   --foreground: #777777;
@@ -19,7 +21,7 @@
   --green: #98ec65;
   --red: #ff5555;
   --black: #141414;
-  --name: 'Framer';
+  --name: Framer;
   --Luma: 0.0666666666666667;
   --Contrast: 0.4;
   --PaletteName: Framer;
