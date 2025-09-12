@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: http://fideloper.com/;
+  --creditTo: Fideloper;
   --selectionBackground: #efb8ac;
   --cursorColor: #d4605a;
   --foreground: #dbdae0;
@@ -19,7 +21,7 @@
   --green: #edb8ac;
   --red: #cb1e2d;
   --black: #292f33;
-  --name: 'Fideloper';
+  --name: Fideloper;
   --Luma: 0.180443921568627;
   --Contrast: 0.676990588235294;
   --PaletteName: Fideloper;
