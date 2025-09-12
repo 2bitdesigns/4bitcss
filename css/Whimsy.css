@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/rod;
+  --creditTo: Rod;
   --selectionBackground: #3d3c58;
   --cursorColor: #b3b0d6;
   --foreground: #b3b0d6;
@@ -19,7 +21,7 @@
   --green: #5eca89;
   --red: #ef6487;
   --black: #535178;
-  --name: 'Whimsy';
+  --name: Whimsy;
   --Luma: 0.163076078431373;
   --Contrast: 0.540380392156863;
   --PaletteName: Whimsy;
