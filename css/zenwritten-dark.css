@@ -24,8 +24,8 @@
   --name: 'zenwritten_dark';
   --Luma: 0.0980392156862745;
   --Contrast: 0.635294117647059;
-  --PaletteName: zenwritten_dark;
-  --PaletteFileName: zenwritten-dark;
+  --PaletteName: 'zenwritten_dark';
+  --PaletteFileName: 'zenwritten-dark';
   --IsBright: 0;
   --IsDark: 1;
 }
