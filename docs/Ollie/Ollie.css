@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #1e3a66;
   --cursorColor: #5b6ea7;
   --foreground: #8a8dae;
@@ -19,7 +21,7 @@
   --green: #31ac61;
   --red: #ac2e31;
   --black: #000000;
-  --name: 'Ollie';
+  --name: Ollie;
   --Luma: 0.131378039215686;
   --Contrast: 0.428405490196078;
   --PaletteName: Ollie;
