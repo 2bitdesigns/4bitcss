@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0683262745098039;
   --Contrast: 0.660802352941177;
-  --PaletteName: BlueBerryPie;
-  --PaletteFileName: BlueBerryPie;
+  --PaletteName: 'BlueBerryPie';
+  --PaletteFileName: 'BlueBerryPie';
   --IsBright: 0;
   --IsDark: 1;
 }
