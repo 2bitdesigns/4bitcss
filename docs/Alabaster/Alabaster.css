@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/mkaschenko;
+  --creditTo: mkaschenko;
   --selectionBackground: #bfdbfe;
   --cursorColor: #007acc;
   --foreground: #000000;
@@ -19,7 +21,7 @@
   --green: #448c27;
   --red: #aa3731;
   --black: #000000;
-  --name: 'Alabaster';
+  --name: Alabaster;
   --Luma: 0.968627450980392;
   --Contrast: 0.968627450980392;
   --PaletteName: Alabaster;
