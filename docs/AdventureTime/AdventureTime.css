@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #706b4e;
   --cursorColor: #efbf38;
   --foreground: #f8dcc0;
@@ -19,7 +21,7 @@
   --green: #4ab118;
   --red: #bd0013;
   --black: #050404;
-  --name: 'AdventureTime';
+  --name: AdventureTime;
   --Luma: 0.126718431372549;
   --Contrast: 0.751443137254902;
   --PaletteName: AdventureTime;
