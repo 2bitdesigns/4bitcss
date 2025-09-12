@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/idleberg;
+  --creditTo: idleberg;
   --selectionBackground: #7869c4;
   --cursorColor: #7869c4;
   --foreground: #7869c4;
@@ -19,7 +21,7 @@
   --green: #55a049;
   --red: #883932;
   --black: #090300;
-  --name: 'C64';
+  --name: C64;
   --Luma: 0.23071137254902;
   --Contrast: 0.219324705882353;
   --PaletteName: C64;
