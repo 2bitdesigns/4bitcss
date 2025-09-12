@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/mhkeller/spacegray-eighties-iterm;
-  --creditTo: mhkeller;
+  --creditToLink: 'https://github.com/mhkeller/spacegray-eighties-iterm';
+  --creditTo: 'mhkeller';
   --selectionBackground: #272e36;
   --cursorColor: #bbbbbb;
   --foreground: #c9c6bc;
@@ -21,7 +21,7 @@
   --green: #92b477;
   --red: #b24a56;
   --black: #15171c;
-  --name: SpaceGray Eighties Dull;
+  --name: 'SpaceGray Eighties Dull';
   --Luma: 0.133333333333333;
   --Contrast: 0.642807058823529;
   --PaletteName: SpaceGray Eighties Dull;
