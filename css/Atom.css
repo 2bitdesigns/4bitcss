@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/bahlo/iterm-colors;
-  --creditTo: bahlo;
+  --creditToLink: 'https://github.com/bahlo/iterm-colors';
+  --creditTo: 'bahlo';
   --selectionBackground: #444444;
   --cursorColor: #d0d0d0;
   --foreground: #c5c8c6;
@@ -21,7 +21,7 @@
   --green: #87c38a;
   --red: #fd5ff1;
   --black: #000000;
-  --name: Atom;
+  --name: 'Atom';
   --Luma: 0.0899286274509804;
   --Contrast: 0.691317647058823;
   --PaletteName: Atom;
