@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/mhartington/oceanic-next-iterm;
-  --creditTo: mhartington;
+  --creditToLink: 'https://github.com/mhartington/oceanic-next-iterm';
+  --creditTo: 'mhartington';
   --selectionBackground: #4f5b66;
   --cursorColor: #c0c5ce;
   --foreground: #c0c5ce;
@@ -21,7 +21,7 @@
   --green: #99c794;
   --red: #ec5f67;
   --black: #162c35;
-  --name: Oceanic-Next;
+  --name: 'Oceanic-Next';
   --Luma: 0.156755294117647;
   --Contrast: 0.614173333333333;
   --PaletteName: Oceanic-Next;
