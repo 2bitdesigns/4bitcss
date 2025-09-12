@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/rebelot;
+  --creditTo: rebelot;
   --selectionBackground: #2d4f67;
   --cursorColor: #c8c093;
   --foreground: #dcd7ba;
@@ -19,7 +21,7 @@
   --green: #76946a;
   --red: #c34043;
   --black: #090618;
-  --name: 'Kanagawa Wave';
+  --name: Kanagawa Wave;
   --Luma: 0.124116862745098;
   --Contrast: 0.714978039215686;
   --PaletteName: Kanagawa Wave;
