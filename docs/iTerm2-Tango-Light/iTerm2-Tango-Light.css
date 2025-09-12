@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: iTerm2 Tango Light;
-  --PaletteFileName: iTerm2-Tango-Light;
+  --PaletteName: 'iTerm2 Tango Light';
+  --PaletteFileName: 'iTerm2-Tango-Light';
   --IsBright: 0;
   --IsDark: 1;
 }
