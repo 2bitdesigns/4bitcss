@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/SebastianSzturo;
-  --creditTo: Sebastian Szturo;
+  --creditToLink: 'https://github.com/SebastianSzturo';
+  --creditTo: 'Sebastian Szturo';
   --selectionBackground: #2f363e;
   --cursorColor: #f6f7ec;
   --foreground: #9ba2b2;
@@ -21,7 +21,7 @@
   --green: #5ab977;
   --red: #d95360;
   --black: #585f6d;
-  --name: Firewatch;
+  --name: 'Firewatch';
   --Luma: 0.125804705882353;
   --Contrast: 0.508183529411765;
   --PaletteName: Firewatch;
