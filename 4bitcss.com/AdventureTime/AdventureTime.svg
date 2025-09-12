@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1f1d45" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#f8dcc0" text-anchor="middle" alignment-baseline="middle">AdventureTime</text>
+  <rect x="0" y="0" width="80" height="80" fill="#050404" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#bd0013" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#4ab118" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#e7741e" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#0f4ac6" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#665993" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#70a598" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#f8dcc0" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#4e7cbf" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#fc5f5a" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#9eff6e" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#efc11a" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#1997c6" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#9b5953" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#c8faf4" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#f6f5fb" class="BrightWhite-fill" />
+</svg>
