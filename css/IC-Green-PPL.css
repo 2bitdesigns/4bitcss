@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #116b41;
   --cursorColor: #47fa6b;
   --foreground: #e0f1dc;
@@ -19,7 +21,7 @@
   --green: #41a638;
   --red: #ff2736;
   --black: #014401;
-  --name: 'IC_Green_PPL';
+  --name: IC_Green_PPL;
   --Luma: 0.172549019607843;
   --Contrast: 0.752429803921569;
   --PaletteName: IC_Green_PPL;
