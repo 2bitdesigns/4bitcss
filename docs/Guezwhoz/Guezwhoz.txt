@@ -1,1 +1,1 @@
-#080808;#ff5f5f;#87d7af;#d7d787;#5fafd7;#afafff;#5fd7d7;#dadada;#8a8a8a;#d75f5f;#afd7af;#d7d7af;#87afd7;#afafd7;#87d7d7;#1c1c1c;#d0d0d0;#eeeeee;#005f5f
+#333333;#e85181;#7ad694;#b7d074;#5aa0d6;#9a90e0;#58d6ce;#d9d9d9;#808080;#afd7af;#d1ed85;#64b2ed;#a398ed;#61ede4;#ededed;#1d1d1d;#99d4b1;#245354
