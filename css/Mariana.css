@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://www.sublimetext.com/;
-  --creditTo: Sublime Text;
+  --creditToLink: 'https://www.sublimetext.com/';
+  --creditTo: 'Sublime Text';
   --selectionBackground: #4e5a65;
   --cursorColor: #fcbb6a;
   --foreground: #d8dee9;
@@ -21,7 +21,7 @@
   --green: #99c794;
   --red: #ec5f66;
   --black: #000000;
-  --name: Mariana;
+  --name: 'Mariana';
   --Luma: 0.234260392156863;
   --Contrast: 0.63444;
   --PaletteName: Mariana;
