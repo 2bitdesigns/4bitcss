@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://monokai.com/;
-  --creditTo: Monokai;
+  --creditToLink: 'https://monokai.com/';
+  --creditTo: 'Monokai';
   --selectionBackground: #5b595c;
   --cursorColor: #c1c0c0;
   --foreground: #fcfcfa;
@@ -21,7 +21,7 @@
   --green: #a9dc76;
   --red: #ff6188;
   --black: #2d2a2e;
-  --name: Monokai Pro;
+  --name: 'Monokai Pro';
   --Luma: 0.168339607843137;
   --Contrast: 0.819329411764706;
   --PaletteName: Monokai Pro;
