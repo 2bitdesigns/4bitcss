@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.959883137254902;
   --Contrast: 0.623103529411765;
-  --PaletteName: rose-pine-dawn;
-  --PaletteFileName: rose-pine-dawn;
+  --PaletteName: 'rose-pine-dawn';
+  --PaletteFileName: 'rose-pine-dawn';
   --IsBright: 0;
   --IsDark: 1;
 }
