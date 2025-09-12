@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/Aaron-212;
-  --creditTo: Aaron-212;
+  --creditToLink: 'https://github.com/Aaron-212';
+  --creditTo: 'Aaron-212';
   --selectionBackground: #abd8ff;
   --cursorColor: #98989d;
   --foreground: #000000;
@@ -21,7 +21,7 @@
   --green: #26a439;
   --red: #cc372e;
   --black: #1a1a1a;
-  --name: Apple System Colors Light;
+  --name: 'Apple System Colors Light';
   --Luma: 0.999166274509804;
   --Contrast: 0.999166274509804;
   --PaletteName: Apple System Colors Light;
