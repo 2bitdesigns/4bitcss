@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/hlissner/emacs-doom-themes;
-  --creditTo: Emacs Doom Peacock theme;
+  --creditToLink: 'https://github.com/hlissner/emacs-doom-themes';
+  --creditTo: 'Emacs Doom Peacock theme';
   --selectionBackground: #a60033;
   --cursorColor: #9c9c9d;
   --foreground: #ede0ce;
@@ -21,7 +21,7 @@
   --green: #26a6a6;
   --red: #cb4b16;
   --black: #1c1f24;
-  --name: Doom Peacock;
+  --name: 'Doom Peacock';
   --Luma: 0.164690196078431;
   --Contrast: 0.719483137254902;
   --PaletteName: Doom Peacock;
