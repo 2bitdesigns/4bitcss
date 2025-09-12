@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/nyoom-engineering;
-  --creditTo: Nyoom Engineering;
+  --creditToLink: 'https://github.com/nyoom-engineering';
+  --creditTo: 'Nyoom Engineering';
   --selectionBackground: #393939;
   --cursorColor: #ffffff;
   --foreground: #f2f4f8;
@@ -21,7 +21,7 @@
   --green: #00b4ff;
   --red: #00dfdb;
   --black: #161616;
-  --name: Oxocarbon;
+  --name: 'Oxocarbon';
   --Luma: 0.0862745098039216;
   --Contrast: 0.870053333333333;
   --PaletteName: Oxocarbon;
