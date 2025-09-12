@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/baskerville/iTerm-2-Color-Themes;
-  --creditTo: baskerville;
+  --creditToLink: 'https://github.com/baskerville/iTerm-2-Color-Themes';
+  --creditTo: 'baskerville';
   --selectionBackground: #4d4d4d;
   --cursorColor: #aa9175;
   --foreground: #a0a0a0;
@@ -21,7 +21,7 @@
   --green: #666666;
   --red: #a95551;
   --black: #383838;
-  --name: N0tch2k;
+  --name: 'N0tch2k';
   --Luma: 0.133333333333333;
   --Contrast: 0.494117647058823;
   --PaletteName: N0tch2k;
