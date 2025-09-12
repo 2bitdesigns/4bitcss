@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/mcchrish/zenbones.nvim;
+  --creditTo: mcchrish/zenbones.nvim;
   --selectionBackground: #404040;
   --cursorColor: #c9c9c9;
   --foreground: #bbbbbb;
@@ -19,7 +21,7 @@
   --green: #819b69;
   --red: #de6e7c;
   --black: #191919;
-  --name: 'zenwritten_dark';
+  --name: zenwritten_dark;
   --Luma: 0.0980392156862745;
   --Contrast: 0.635294117647059;
   --PaletteName: zenwritten_dark;
