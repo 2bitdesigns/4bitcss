@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/bluz71/vim-moonfly-colors;
-  --creditTo: bluz71;
+  --creditToLink: 'https://github.com/bluz71/vim-moonfly-colors';
+  --creditTo: 'bluz71';
   --selectionBackground: #b2ceee;
   --cursorColor: #9e9e9e;
   --foreground: #bdbdbd;
@@ -21,7 +21,7 @@
   --green: #8cc85f;
   --red: #ff5454;
   --black: #323437;
-  --name: moonfly;
+  --name: 'moonfly';
   --Luma: 0.0313725490196078;
   --Contrast: 0.709803921568627;
   --PaletteName: moonfly;
