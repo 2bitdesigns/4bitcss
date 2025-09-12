@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/ReagentX;
+  --creditTo: ReagentX;
   --selectionBackground: #454d96;
   --cursorColor: #00ff9c;
   --foreground: #00ff92;
@@ -19,7 +21,7 @@
   --green: #00c172;
   --red: #ff8373;
   --black: #080808;
-  --name: 'Cyberdyne';
+  --name: Cyberdyne;
   --Luma: 0.084441568627451;
   --Contrast: 0.672096470588235;
   --PaletteName: Cyberdyne;
