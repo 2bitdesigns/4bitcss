@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #384564;
   --cursorColor: #e0d9b9;
   --foreground: #ededed;
@@ -21,7 +21,7 @@
   --green: #138034;
   --red: #d00e18;
   --black: #000000;
-  --name: Highway;
+  --name: 'Highway';
   --Luma: 0.134182745098039;
   --Contrast: 0.795229019607843;
   --PaletteName: Highway;
