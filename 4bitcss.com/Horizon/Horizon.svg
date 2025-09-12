@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1c1e26" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#d5d8da" text-anchor="middle" alignment-baseline="middle">Horizon</text>
+  <rect x="0" y="0" width="80" height="80" fill="#000000" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#e95678" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#29d398" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#fab795" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#26bbd9" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#ee64ac" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#59e1e3" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#e5e5e5" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#666666" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ec6a88" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#3fdaa4" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#fbc3a7" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#3fc4de" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#f075b5" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#6be4e6" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#e5e5e5" class="BrightWhite-fill" />
+</svg>
