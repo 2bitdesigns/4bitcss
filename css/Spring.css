@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/t3chnoboy/spring-iTerm;
-  --creditTo: here;
+  --creditToLink: 'https://github.com/t3chnoboy/spring-iTerm';
+  --creditTo: 'here';
   --selectionBackground: #d6d6d6;
   --cursorColor: #4d4d4c;
   --foreground: #4d4d4c;
@@ -21,7 +21,7 @@
   --green: #1f8c3b;
   --red: #ff4d83;
   --black: #000000;
-  --name: Spring;
+  --name: 'Spring';
   --Luma: 1;
   --Contrast: 0.698322352941177;
   --PaletteName: Spring;
