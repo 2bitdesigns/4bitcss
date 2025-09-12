@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://www.nordtheme.com/;
+  --creditTo: Arctic Ice Studio;
   --selectionBackground: #d8dee9;
   --cursorColor: #88c0d0;
   --foreground: #414858;
@@ -19,7 +21,7 @@
   --green: #a3be8c;
   --red: #bf616a;
   --black: #3b4252;
-  --name: 'nord-light';
+  --name: nord-light;
   --Luma: 0.912372549019608;
   --Contrast: 0.631325490196078;
   --PaletteName: nord-light;
