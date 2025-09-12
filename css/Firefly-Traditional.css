@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/stlee42;
-  --creditTo: Seunghun Thomas Lee;
+  --creditToLink: 'https://github.com/stlee42';
+  --creditTo: 'Seunghun Thomas Lee';
   --selectionBackground: #cfeac6;
   --cursorColor: #00f900;
   --foreground: #f5f5f5;
@@ -21,7 +21,7 @@
   --green: #33bc26;
   --red: #c23720;
   --black: #000000;
-  --name: Firefly Traditional;
+  --name: 'Firefly Traditional';
   --Luma: 0;
   --Contrast: 0.96078431372549;
   --PaletteName: Firefly Traditional;
