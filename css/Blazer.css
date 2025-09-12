@@ -19,7 +19,9 @@
   --green: #7ab87a;
   --red: #b87a7a;
   --black: #000000;
-  --name: 'Blazer';
+  --name: Blazer;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.091715294117647;
   --Contrast: 0.802804705882353;
   --PaletteName: Blazer;
