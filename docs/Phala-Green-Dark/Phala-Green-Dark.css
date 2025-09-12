@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/h4x3rotab;
-  --creditTo: h4x3rotab;
+  --creditToLink: 'https://github.com/h4x3rotab';
+  --creditTo: 'h4x3rotab';
   --selectionBackground: #014804;
   --cursorColor: #c1fc03;
   --foreground: #c1fc03;
@@ -21,7 +21,7 @@
   --green: #00b100;
   --red: #ab1500;
   --black: #000000;
-  --name: Phala Green Dark;
+  --name: 'Phala Green Dark';
   --Luma: 0;
   --Contrast: 0.86854431372549;
   --PaletteName: Phala Green Dark;
