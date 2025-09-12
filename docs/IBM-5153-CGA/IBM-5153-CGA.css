@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://jmiller.com/;
-  --creditTo: Jesse Miller;
+  --creditToLink: 'https://jmiller.com/';
+  --creditTo: 'Jesse Miller';
   --selectionBackground: #d6d6d6;
   --cursorColor: #d6d6d6;
   --foreground: #d6d6d6;
@@ -21,7 +21,7 @@
   --green: #33db33;
   --red: #db3333;
   --black: #262626;
-  --name: IBM 5153 CGA;
+  --name: 'IBM 5153 CGA';
   --Luma: 0.149019607843137;
   --Contrast: 0.690196078431373;
   --PaletteName: IBM 5153 CGA;
