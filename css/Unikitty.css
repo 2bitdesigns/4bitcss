@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/jakebathman;
-  --creditTo: jakebathman;
+  --creditToLink: 'https://github.com/jakebathman';
+  --creditTo: 'jakebathman';
   --selectionBackground: #3ea9fe;
   --cursorColor: #bafc8b;
   --foreground: #0b0b0b;
@@ -21,7 +21,7 @@
   --green: #bafc8b;
   --red: #a80f20;
   --black: #0c0c0c;
-  --name: Unikitty;
+  --name: 'Unikitty';
   --Luma: 0.666699607843137;
   --Contrast: 0.623562352941177;
   --PaletteName: Unikitty;
