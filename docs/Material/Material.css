@@ -24,8 +24,8 @@
   --name: 'Material';
   --Luma: 0.917647058823529;
   --Contrast: 0.780675294117647;
-  --PaletteName: Material;
-  --PaletteFileName: Material;
+  --PaletteName: 'Material';
+  --PaletteFileName: 'Material';
   --IsBright: 0;
   --IsDark: 1;
 }
