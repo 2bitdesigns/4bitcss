@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://www.reddit.com/user/CompuHacker/;
-  --creditTo: CompuHacker/;
+  --creditToLink: 'https://www.reddit.com/user/CompuHacker/';
+  --creditTo: 'CompuHacker/';
   --selectionBackground: #c2deff;
   --cursorColor: #c7c7c7;
   --foreground: #f2f2f2;
@@ -21,7 +21,7 @@
   --green: #37a327;
   --red: #d42426;
   --black: #1a1919;
-  --name: IRIX Console;
+  --name: 'IRIX Console';
   --Luma: 0.0470588235294118;
   --Contrast: 0.901960784313725;
   --PaletteName: IRIX Console;
