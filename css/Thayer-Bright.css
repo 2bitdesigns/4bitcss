@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/t3chnoboy/thayer-bright-iTerm;
+  --creditTo: here;
   --selectionBackground: #4d4d4d;
   --cursorColor: #fc971f;
   --foreground: #f8f8f8;
@@ -19,7 +21,7 @@
   --green: #4df840;
   --red: #f92672;
   --black: #1b1d1e;
-  --name: 'Thayer Bright';
+  --name: Thayer Bright;
   --Luma: 0.112341176470588;
   --Contrast: 0.860207843137255;
   --PaletteName: Thayer Bright;
