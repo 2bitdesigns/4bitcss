@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0593788235294118;
   --Contrast: 0.90924862745098;
-  --PaletteName: Kibble;
-  --PaletteFileName: Kibble;
+  --PaletteName: 'Kibble';
+  --PaletteFileName: 'Kibble';
   --IsBright: 0;
   --IsDark: 1;
 }
