@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #ea6154;
   --cursorColor: #cdcdcd;
   --foreground: #adadad;
@@ -21,7 +21,7 @@
   --green: #565747;
   --red: #f8511b;
   --black: #242526;
-  --name: FrontEndDelight;
+  --name: 'FrontEndDelight';
   --Luma: 0.109253333333333;
   --Contrast: 0.569178039215686;
   --PaletteName: FrontEndDelight;
