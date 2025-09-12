@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #7f8786;
   --cursorColor: #d2e0de;
   --foreground: #99a3a2;
@@ -19,7 +21,7 @@
   --green: #9aa56a;
   --red: #a2686a;
   --black: #000000;
-  --name: 'SoftServer';
+  --name: SoftServer;
   --Luma: 0.147352156862745;
   --Contrast: 0.483243137254902;
   --PaletteName: SoftServer;
