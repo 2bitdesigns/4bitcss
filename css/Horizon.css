@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/apcamargo;
-  --creditTo: Antonio Camargo;
+  --creditToLink: 'https://github.com/apcamargo';
+  --creditTo: 'Antonio Camargo';
   --selectionBackground: #6c6f93;
   --cursorColor: #6c6f93;
   --foreground: #d5d8da;
@@ -21,7 +21,7 @@
   --green: #29d398;
   --red: #e95678;
   --black: #000000;
-  --name: Horizon;
+  --name: 'Horizon';
   --Luma: 0.118244705882353;
   --Contrast: 0.726879215686275;
   --PaletteName: Horizon;
