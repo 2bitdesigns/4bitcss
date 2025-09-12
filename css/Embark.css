@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.117417254901961;
   --Contrast: 0.868409411764706;
-  --PaletteName: Embark;
-  --PaletteFileName: Embark;
+  --PaletteName: 'Embark';
+  --PaletteFileName: 'Embark';
   --IsBright: 0;
   --IsDark: 1;
 }
