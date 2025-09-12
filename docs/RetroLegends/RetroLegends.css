@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/VeteranBV;
-  --creditTo: VeteranBV;
+  --creditToLink: 'https://github.com/VeteranBV';
+  --creditTo: 'VeteranBV';
   --selectionBackground: #336633;
   --cursorColor: #45eb45;
   --foreground: #45eb45;
@@ -21,7 +21,7 @@
   --green: #45eb45;
   --red: #de5454;
   --black: #262626;
-  --name: RetroLegends;
+  --name: 'RetroLegends';
   --Luma: 0.0509803921568627;
   --Contrast: 0.685189019607843;
   --PaletteName: RetroLegends;
