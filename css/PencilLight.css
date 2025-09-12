@@ -19,7 +19,9 @@
   --green: #10a778;
   --red: #c30771;
   --black: #212121;
-  --name: 'PencilLight';
+  --name: PencilLight;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.945098039215686;
   --Contrast: 0.686274509803922;
   --PaletteName: PencilLight;
