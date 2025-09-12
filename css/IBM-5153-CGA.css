@@ -24,8 +24,8 @@
   --name: 'IBM 5153 CGA';
   --Luma: 0.149019607843137;
   --Contrast: 0.690196078431373;
-  --PaletteName: IBM 5153 CGA;
-  --PaletteFileName: IBM-5153-CGA;
+  --PaletteName: 'IBM 5153 CGA';
+  --PaletteFileName: 'IBM-5153-CGA';
   --IsBright: 0;
   --IsDark: 1;
 }
