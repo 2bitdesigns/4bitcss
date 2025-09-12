@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/slavamak;
+  --creditTo: slavamak;
   --selectionBackground: #9b9ea4;
   --cursorColor: #9b9ea4;
   --foreground: #14161b;
@@ -19,7 +21,7 @@
   --green: #005523;
   --red: #590008;
   --black: #07080d;
-  --name: 'NvimLight';
+  --name: NvimLight;
   --Luma: 0.886872156862745;
   --Contrast: 0.800849411764706;
   --PaletteName: NvimLight;
