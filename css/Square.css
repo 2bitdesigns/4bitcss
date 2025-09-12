@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/baskerville/iTerm-2-Color-Themes;
-  --creditTo: baskerville;
+  --creditToLink: 'https://github.com/baskerville/iTerm-2-Color-Themes';
+  --creditTo: 'baskerville';
   --selectionBackground: #4d4d4d;
   --cursorColor: #fcfbcc;
   --foreground: #acacab;
@@ -21,7 +21,7 @@
   --green: #b6377d;
   --red: #e9897c;
   --black: #050505;
-  --name: Square;
+  --name: 'Square';
   --Luma: 0.101960784313725;
   --Contrast: 0.572265882352941;
   --PaletteName: Square;
