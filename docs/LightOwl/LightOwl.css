@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zasdaym;
+  --creditTo: zasdaym;
   --selectionBackground: #e0e0e0;
   --cursorColor: #403f53;
   --foreground: #403f53;
@@ -19,7 +21,7 @@
   --green: #08916a;
   --red: #de3d3b;
   --black: #403f53;
-  --name: 'LightOwl';
+  --name: LightOwl;
   --Luma: 0.984313725490196;
   --Contrast: 0.730758431372549;
   --PaletteName: LightOwl;
