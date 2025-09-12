@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.12298431372549;
   --Contrast: 0.87701568627451;
-  --PaletteName: xcodedarkhc;
-  --PaletteFileName: xcodedarkhc;
+  --PaletteName: 'xcodedarkhc';
+  --PaletteFileName: 'xcodedarkhc';
   --IsBright: 0;
   --IsDark: 1;
 }
