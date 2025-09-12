@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/deepsweet/Monokai-Soda-iTerm;
+  --creditTo: here;
   --selectionBackground: #343434;
   --cursorColor: #f6f7ec;
   --foreground: #c4c5b5;
@@ -19,7 +21,7 @@
   --green: #98e024;
   --red: #f4005f;
   --black: #1a1a1a;
-  --name: 'Monokai Soda';
+  --name: Monokai Soda;
   --Luma: 0.101960784313725;
   --Contrast: 0.66522431372549;
   --PaletteName: Monokai Soda;
