@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/mcchrish/zenbones.nvim;
+  --creditTo: mcchrish/zenbones.nvim;
   --selectionBackground: #49473e;
   --cursorColor: #e6e0c2;
   --foreground: #ddd8bb;
@@ -19,7 +21,7 @@
   --green: #98bc6d;
   --red: #e46a78;
   --black: #1f1f28;
-  --name: 'kanagawabones';
+  --name: kanagawabones;
   --Luma: 0.124116862745098;
   --Contrast: 0.718899607843137;
   --PaletteName: kanagawabones;
