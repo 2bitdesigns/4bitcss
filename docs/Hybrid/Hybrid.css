@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://gist.github.com/luan/6362811;
-  --creditTo: here;
+  --creditToLink: 'https://gist.github.com/luan/6362811';
+  --creditTo: 'here';
   --selectionBackground: #1e1f22;
   --cursorColor: #b7bcba;
   --foreground: #b7bcba;
@@ -21,7 +21,7 @@
   --green: #b3bf5a;
   --red: #b84d51;
   --black: #2a2e33;
-  --name: Hybrid;
+  --name: 'Hybrid';
   --Luma: 0.0899286274509804;
   --Contrast: 0.64259137254902;
   --PaletteName: Hybrid;
