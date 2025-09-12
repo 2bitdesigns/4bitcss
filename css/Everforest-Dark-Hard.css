@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/icewind/everforest.iterm2;
+  --creditTo: here;
   --selectionBackground: #4c3743;
   --cursorColor: #e69875;
   --foreground: #d3c6aa;
@@ -19,7 +21,7 @@
   --green: #a7c080;
   --red: #e67e80;
   --black: #7a8478;
-  --name: 'Everforest Dark - Hard';
+  --name: Everforest Dark - Hard;
   --Luma: 0.13393568627451;
   --Contrast: 0.645445490196078;
   --PaletteName: Everforest Dark - Hard;
