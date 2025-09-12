@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#f8f9fb" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#3b4a7a" text-anchor="middle" alignment-baseline="middle">Havn Daggry</text>
+  <rect x="0" y="0" width="80" height="80" fill="#1f2842" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#985248" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#577159" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#be6b00" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#3a577d" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#7c5c97" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#925780" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#d6dbeb" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#1f2842" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#cc4a35" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#719679" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#feb234" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#6089c0" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#7d7396" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#aa869d" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#d6dbeb" class="BrightWhite-fill" />
+</svg>
