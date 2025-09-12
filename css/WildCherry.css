@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/mashaal/wild-cherry;
-  --creditTo: mashaal;
+  --creditToLink: 'https://github.com/mashaal/wild-cherry';
+  --creditTo: 'mashaal';
   --selectionBackground: #002831;
   --cursorColor: #dd00ff;
   --foreground: #dafaff;
@@ -21,7 +21,7 @@
   --green: #2ab250;
   --red: #d94085;
   --black: #000507;
-  --name: WildCherry;
+  --name: 'WildCherry';
   --Luma: 0.101112941176471;
   --Contrast: 0.85401568627451;
   --PaletteName: WildCherry;
