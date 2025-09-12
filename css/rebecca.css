@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/vic;
-  --creditTo: vic;
+  --creditToLink: 'https://github.com/vic';
+  --creditTo: 'vic';
   --selectionBackground: #663399;
   --cursorColor: #b89bf9;
   --foreground: #e8e6ed;
@@ -21,7 +21,7 @@
   --green: #04dbb5;
   --red: #dd7755;
   --black: #12131e;
-  --name: rebecca;
+  --name: 'rebecca';
   --Luma: 0.171233725490196;
   --Contrast: 0.734376470588235;
   --PaletteName: rebecca;
