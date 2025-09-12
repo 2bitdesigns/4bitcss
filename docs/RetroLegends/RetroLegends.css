@@ -24,8 +24,8 @@
   --name: 'RetroLegends';
   --Luma: 0.0509803921568627;
   --Contrast: 0.685189019607843;
-  --PaletteName: RetroLegends;
-  --PaletteFileName: RetroLegends;
+  --PaletteName: 'RetroLegends';
+  --PaletteFileName: 'RetroLegends';
   --IsBright: 0;
   --IsDark: 1;
 }
