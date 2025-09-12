@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#282b33" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#c6c6c6" text-anchor="middle" alignment-baseline="middle">wilmersdorf</text>
+  <rect x="0" y="0" width="80" height="80" fill="#34373e" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#e06383" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#7ebebd" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#cccccc" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#a6c1e0" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#e1c1ee" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#5b94ab" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#ababab" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#434750" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#fa7193" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#8fd7d6" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#d1dfff" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#b2cff0" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#efccfd" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#69abc5" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#d3d3d3" class="BrightWhite-fill" />
+</svg>
