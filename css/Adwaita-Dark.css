@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/cnavajas;
+  --creditTo: cnavajas;
   --selectionBackground: #ffffff;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #2ec27e;
   --red: #c01c28;
   --black: #241f31;
-  --name: 'Adwaita Dark';
+  --name: Adwaita Dark;
   --Luma: 0.114574901960784;
   --Contrast: 0.885425098039216;
   --PaletteName: Adwaita Dark;
