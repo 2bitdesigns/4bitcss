@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/alebcay;
-  --creditTo: alebcay;
+  --creditToLink: 'https://github.com/alebcay';
+  --creditTo: 'alebcay';
   --selectionBackground: #253340;
   --cursorColor: #f29718;
   --foreground: #e6e1cf;
@@ -21,7 +21,7 @@
   --green: #b8cc52;
   --red: #ff3333;
   --black: #000000;
-  --name: ayu;
+  --name: 'ayu';
   --Luma: 0.075678431372549;
   --Contrast: 0.805746666666667;
   --PaletteName: ayu;
