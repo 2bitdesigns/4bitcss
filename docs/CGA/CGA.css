@@ -24,8 +24,8 @@
   --name: 'CGA';
   --Luma: 0;
   --Contrast: 0.666666666666667;
-  --PaletteName: CGA;
-  --PaletteFileName: CGA;
+  --PaletteName: 'CGA';
+  --PaletteFileName: 'CGA';
   --IsBright: 0;
   --IsDark: 1;
 }
