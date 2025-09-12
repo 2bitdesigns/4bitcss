@@ -24,8 +24,8 @@
   --name: 'matrix';
   --Luma: 0.0905513725490196;
   --Contrast: 0.269807843137255;
-  --PaletteName: matrix;
-  --PaletteFileName: matrix;
+  --PaletteName: 'matrix';
+  --PaletteFileName: 'matrix';
   --IsBright: 0;
   --IsDark: 1;
 }
