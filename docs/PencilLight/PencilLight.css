@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.945098039215686;
   --Contrast: 0.686274509803922;
-  --PaletteName: PencilLight;
-  --PaletteFileName: PencilLight;
+  --PaletteName: 'PencilLight';
+  --PaletteFileName: 'PencilLight';
   --IsBright: 0;
   --IsDark: 1;
 }
