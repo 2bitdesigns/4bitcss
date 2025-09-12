@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.15864;
   --Contrast: 0.549406274509804;
-  --PaletteName: electron-highlighter;
-  --PaletteFileName: electron-highlighter;
+  --PaletteName: 'electron-highlighter';
+  --PaletteFileName: 'electron-highlighter';
   --IsBright: 0;
   --IsDark: 1;
 }
