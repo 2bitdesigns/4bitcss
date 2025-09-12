@@ -19,7 +19,9 @@
   --green: #668e3d;
   --red: #cc517a;
   --black: #dcdfe7;
-  --name: 'iceberg-light';
+  --name: iceberg-light;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.913741176470588;
   --Contrast: 0.695443921568627;
   --PaletteName: iceberg-light;
