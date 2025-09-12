@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/christopherscott/django-reborn;
-  --creditTo: christopherscott;
+  --creditToLink: 'https://github.com/christopherscott/django-reborn';
+  --creditTo: 'christopherscott';
   --selectionBackground: #203727;
   --cursorColor: #ffcc00;
   --foreground: #dadedc;
@@ -21,7 +21,7 @@
   --green: #41a83e;
   --red: #fd6209;
   --black: #000000;
-  --name: DjangoRebornAgain;
+  --name: 'DjangoRebornAgain';
   --Luma: 0.0967772549019608;
   --Contrast: 0.769909803921568;
   --PaletteName: DjangoRebornAgain;
