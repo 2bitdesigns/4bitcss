@@ -19,9 +19,9 @@
   --green: #00ffc3;
   --red: #ff6c8d;
   --black: #15161f;
-  --name: electron-highlighter;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'electron-highlighter';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0.15864;
   --Contrast: 0.549406274509804;
   --PaletteName: electron-highlighter;
