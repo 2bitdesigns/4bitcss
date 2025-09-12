@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/Kasper-Liu;
+  --creditTo: Kasper;
   --selectionBackground: #222222;
   --cursorColor: #fefefe;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #c3e88d;
   --red: #f07178;
   --black: #000000;
-  --name: 'UltraDark';
+  --name: UltraDark;
   --Luma: 0;
   --Contrast: 1;
   --PaletteName: UltraDark;
