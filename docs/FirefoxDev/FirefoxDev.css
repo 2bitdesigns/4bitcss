@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/Or3stis;
+  --creditTo: Or3stis;
   --selectionBackground: #163c61;
   --cursorColor: #708284;
   --foreground: #7c8fa4;
@@ -19,7 +21,7 @@
   --green: #5eb83c;
   --red: #e63853;
   --black: #002831;
-  --name: 'FirefoxDev';
+  --name: FirefoxDev;
   --Luma: 0.0613607843137255;
   --Contrast: 0.48952862745098;
   --PaletteName: FirefoxDev;
