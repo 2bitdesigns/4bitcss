@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/nooneknowspeter;
-  --creditTo: nooneknows;
+  --creditToLink: 'https://github.com/nooneknowspeter';
+  --creditTo: 'nooneknows';
   --selectionBackground: #c1c1c1;
   --cursorColor: #c1c1c1;
   --foreground: #c1c1c1;
@@ -21,7 +21,7 @@
   --green: #dd9999;
   --red: #486e6f;
   --black: #000000;
-  --name: Black Metal;
+  --name: 'Black Metal';
   --Luma: 0;
   --Contrast: 0.756862745098039;
   --PaletteName: Black Metal;
