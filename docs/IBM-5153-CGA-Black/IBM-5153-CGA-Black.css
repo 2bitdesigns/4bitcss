@@ -19,9 +19,9 @@
   --green: #00c400;
   --red: #c40000;
   --black: #000000;
-  --name: IBM 5153 CGA (Black);
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'IBM 5153 CGA (Black)';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 0;
   --Contrast: 0.768627450980392;
   --PaletteName: IBM 5153 CGA (Black);
