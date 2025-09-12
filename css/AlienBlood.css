@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #1d4125;
   --cursorColor: #73fa91;
   --foreground: #637d75;
@@ -21,7 +21,7 @@
   --green: #2f7e25;
   --red: #7f2b27;
   --black: #112616;
-  --name: AlienBlood;
+  --name: 'AlienBlood';
   --Luma: 0.0787396078431372;
   --Contrast: 0.387514509803922;
   --PaletteName: AlienBlood;
