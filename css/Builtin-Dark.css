@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0;
   --Contrast: 0.733333333333333;
-  --PaletteName: Builtin Dark;
-  --PaletteFileName: Builtin-Dark;
+  --PaletteName: 'Builtin Dark';
+  --PaletteFileName: 'Builtin-Dark';
   --IsBright: 0;
   --IsDark: 1;
 }
