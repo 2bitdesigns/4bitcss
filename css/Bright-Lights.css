@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/tw15egan;
+  --creditTo: tw15egan;
   --selectionBackground: #b3c9d7;
   --cursorColor: #f34b00;
   --foreground: #b3c9d7;
@@ -19,7 +21,7 @@
   --green: #b7e876;
   --red: #ff355b;
   --black: #191919;
-  --name: 'Bright Lights';
+  --name: Bright Lights;
   --Luma: 0.0980392156862745;
   --Contrast: 0.675818039215686;
   --PaletteName: Bright Lights;
