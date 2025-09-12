@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #2b1b1d;
   --cursorColor: #68525a;
   --foreground: #68525a;
@@ -21,7 +21,7 @@
   --green: #579524;
   --red: #91002b;
   --black: #2b1b1d;
-  --name: CrayonPonyFish;
+  --name: 'CrayonPonyFish';
   --Luma: 0.039123137254902;
   --Contrast: 0.303052549019608;
   --PaletteName: CrayonPonyFish;
