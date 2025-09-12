@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/jos3s;
-  --creditTo: jos3s;
+  --creditToLink: 'https://github.com/jos3s';
+  --creditTo: 'jos3s';
   --selectionBackground: #eeffff;
   --cursorColor: #ffffff;
   --foreground: #eeffff;
@@ -21,7 +21,7 @@
   --green: #c3e88d;
   --red: #ff5370;
   --black: #000000;
-  --name: MaterialDarker;
+  --name: 'MaterialDarker';
   --Luma: 0.129411764705882;
   --Contrast: 0.856414901960784;
   --PaletteName: MaterialDarker;
