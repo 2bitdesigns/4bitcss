@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/theatlasroom;
+  --creditTo: theatlasroom;
   --selectionBackground: #cb392e;
   --cursorColor: #7f7f7f;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #3eb383;
   --red: #fc6d26;
   --black: #2e2e2e;
-  --name: 'Lab Fox';
+  --name: Lab Fox;
   --Luma: 0.180392156862745;
   --Contrast: 0.819607843137255;
   --PaletteName: Lab Fox;
