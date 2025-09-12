@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 0.0941176470588235;
   --Contrast: 0.8;
-  --PaletteName: gruber-darker;
-  --PaletteFileName: gruber-darker;
+  --PaletteName: 'gruber-darker';
+  --PaletteFileName: 'gruber-darker';
   --IsBright: 0;
   --IsDark: 1;
 }
