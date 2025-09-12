@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/ahmadawais/shades-of-purple-iterm2;
+  --creditTo: here;
   --selectionBackground: #b362ff;
   --cursorColor: #fad000;
   --foreground: #ffffff;
@@ -19,7 +21,7 @@
   --green: #3ad900;
   --red: #d90429;
   --black: #000000;
-  --name: 'shades-of-purple';
+  --name: shades-of-purple;
   --Luma: 0.124469019607843;
   --Contrast: 0.875530980392157;
   --PaletteName: shades-of-purple;
