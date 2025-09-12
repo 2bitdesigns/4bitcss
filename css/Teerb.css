@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://gist.github.com/teerb/1360453;
-  --creditTo: Teerb;
+  --creditToLink: 'https://gist.github.com/teerb/1360453';
+  --creditTo: 'Teerb';
   --selectionBackground: #4d4d4d;
   --cursorColor: #e4c9af;
   --foreground: #d0d0d0;
@@ -21,7 +21,7 @@
   --green: #aed686;
   --red: #d68686;
   --black: #1c1c1c;
-  --name: Teerb;
+  --name: 'Teerb';
   --Luma: 0.149019607843137;
   --Contrast: 0.666666666666667;
   --PaletteName: Teerb;
