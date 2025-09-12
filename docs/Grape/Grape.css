@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
+  --creditTo: zdj;
   --selectionBackground: #493d70;
   --cursorColor: #a288f7;
   --foreground: #9f9fa1;
@@ -19,7 +21,7 @@
   --green: #1fa91b;
   --red: #ed2261;
   --black: #2d283f;
-  --name: 'Grape';
+  --name: Grape;
   --Luma: 0.0851796078431372;
   --Contrast: 0.538916078431373;
   --PaletteName: Grape;
