@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/JeffreyCA;
+  --creditTo: JeffreyCA;
   --selectionBackground: #46515e;
   --cursorColor: #f7f7f7;
   --foreground: #eaeaea;
@@ -19,7 +21,7 @@
   --green: #588b35;
   --red: #d3322d;
   --black: #2c2c2c;
-  --name: 'Ardoise';
+  --name: Ardoise;
   --Luma: 0.117647058823529;
   --Contrast: 0.8;
   --PaletteName: Ardoise;
