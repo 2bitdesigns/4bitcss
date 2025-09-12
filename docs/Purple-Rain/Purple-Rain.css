@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/msorre2;
+  --creditTo: msorre2;
   --selectionBackground: #287691;
   --cursorColor: #ff271d;
   --foreground: #fffbf6;
@@ -19,7 +21,7 @@
   --green: #9be205;
   --red: #ff260e;
   --black: #000000;
-  --name: 'Purple Rain';
+  --name: Purple Rain;
   --Luma: 0.0709027450980392;
   --Contrast: 0.915330196078431;
   --PaletteName: Purple Rain;
