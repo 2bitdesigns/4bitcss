@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://elementary.io/;
+  --creditTo: elementary.io;
   --selectionBackground: #b5d5ff;
   --cursorColor: #bbbbbb;
   --foreground: #efefef;
@@ -19,7 +21,7 @@
   --green: #5aa513;
   --red: #d71c15;
   --black: #242424;
-  --name: 'Elementary';
+  --name: Elementary;
   --Luma: 0.0941176470588235;
   --Contrast: 0.843137254901961;
   --PaletteName: Elementary;
