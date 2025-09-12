@@ -19,7 +19,9 @@
   --green: #52b87a;
   --red: #f57f6c;
   --black: #000000;
-  --name: 'GitLab-Dark';
+  --name: GitLab-Dark;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.152102745098039;
   --Contrast: 0.847897254901961;
   --PaletteName: GitLab-Dark;
