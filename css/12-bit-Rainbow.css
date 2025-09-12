@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/xxxserxxx;
+  --creditTo: xxxserxxx;
   --selectionBackground: #606060;
   --cursorColor: #e0d000;
   --foreground: #feffff;
@@ -19,7 +21,7 @@
   --green: #40d080;
   --red: #a03050;
   --black: #000000;
-  --name: '12-bit Rainbow';
+  --name: 12-bit Rainbow;
   --Luma: 0.0156862745098039;
   --Contrast: 0.98348;
   --PaletteName: 12-bit Rainbow;
