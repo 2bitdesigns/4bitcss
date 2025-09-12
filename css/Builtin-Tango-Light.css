@@ -24,8 +24,8 @@
   --creditTo: '';
   --Luma: 1;
   --Contrast: 1;
-  --PaletteName: Builtin Tango Light;
-  --PaletteFileName: Builtin-Tango-Light;
+  --PaletteName: 'Builtin Tango Light';
+  --PaletteFileName: 'Builtin-Tango-Light';
   --IsBright: 0;
   --IsDark: 1;
 }
