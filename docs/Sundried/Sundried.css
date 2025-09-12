@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/zdj/themes/tree/master/iterm2;
-  --creditTo: zdj;
+  --creditToLink: 'https://github.com/zdj/themes/tree/master/iterm2';
+  --creditTo: 'zdj';
   --selectionBackground: #302b2a;
   --cursorColor: #ffffff;
   --foreground: #c9c9c9;
@@ -21,7 +21,7 @@
   --green: #587744;
   --red: #a7463d;
   --black: #302b2a;
-  --name: Sundried;
+  --name: 'Sundried';
   --Luma: 0.0957850980392157;
   --Contrast: 0.692450196078431;
   --PaletteName: Sundried;
