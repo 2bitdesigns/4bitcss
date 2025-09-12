@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1e1e2e" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#cdd6f4" text-anchor="middle" alignment-baseline="middle">catppuccin-mocha</text>
+  <rect x="0" y="0" width="80" height="80" fill="#45475a" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#f38ba8" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#a6e3a1" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#f9e2af" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#89b4fa" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#f5c2e7" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#94e2d5" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#a6adc8" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#585b70" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#f37799" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#89d88b" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#ebd391" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#74a8fc" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#f2aede" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#6bd7ca" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#bac2de" class="BrightWhite-fill" />
+</svg>
