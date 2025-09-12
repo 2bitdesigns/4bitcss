@@ -19,9 +19,9 @@
   --green: #3e8087;
   --red: #d12f1b;
   --black: #b4d8fd;
-  --name: xcodelight;
-  --creditToLink: ;
-  --creditTo: ;
+  --name: 'xcodelight';
+  --creditToLink: '';
+  --creditTo: '';
   --Luma: 1;
   --Contrast: 0.850980392156863;
   --PaletteName: xcodelight;
