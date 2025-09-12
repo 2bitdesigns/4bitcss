@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/jesseweed/seti-syntax/;
+  --creditTo: jesseweed;
   --selectionBackground: #303233;
   --cursorColor: #e3bf21;
   --foreground: #cacecd;
@@ -19,7 +21,7 @@
   --green: #8ec43d;
   --red: #c22832;
   --black: #323232;
-  --name: 'Seti';
+  --name: Seti;
   --Luma: 0.0700376470588235;
   --Contrast: 0.734187450980392;
   --PaletteName: Seti;
