@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/pyrophos;
+  --creditTo: pyrophos;
   --selectionBackground: #070e50;
   --cursorColor: #2c3fff;
   --foreground: #e3e3e3;
@@ -19,7 +21,7 @@
   --green: #e22928;
   --red: #e60813;
   --black: #1b1d1e;
-  --name: 'Spiderman';
+  --name: Spiderman;
   --Luma: 0.112341176470588;
   --Contrast: 0.777854901960784;
   --PaletteName: Spiderman;
