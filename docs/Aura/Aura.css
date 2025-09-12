@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/daltonmenezes;
-  --creditTo: daltonmenezes;
+  --creditToLink: 'https://github.com/daltonmenezes';
+  --creditTo: 'daltonmenezes';
   --selectionBackground: #a277ff;
   --cursorColor: #a277ff;
   --foreground: #edecee;
@@ -21,7 +21,7 @@
   --green: #61ffca;
   --red: #ff6767;
   --black: #110f18;
-  --name: Aura;
+  --name: 'Aura';
   --Luma: 0.0812470588235294;
   --Contrast: 0.845643137254902;
   --PaletteName: Aura;
