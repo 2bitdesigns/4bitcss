@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/ghostty-org/ghostty;
-  --creditTo: Mitchell Hashimoto;
+  --creditToLink: 'https://github.com/ghostty-org/ghostty';
+  --creditTo: 'Mitchell Hashimoto';
   --selectionBackground: #ffffff;
   --cursorColor: #ffffff;
   --foreground: #ffffff;
@@ -21,7 +21,7 @@
   --green: #b6bd68;
   --red: #cc6566;
   --black: #1d1f21;
-  --name: Ghostty Default StyleDark;
+  --name: 'Ghostty Default StyleDark';
   --Luma: 0.171479215686274;
   --Contrast: 0.828520784313725;
   --PaletteName: Ghostty Default StyleDark;
