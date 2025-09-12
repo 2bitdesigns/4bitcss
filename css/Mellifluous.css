@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/rektdeckard;
-  --creditTo: rektdeckard;
+  --creditToLink: 'https://github.com/rektdeckard';
+  --creditTo: 'rektdeckard';
   --selectionBackground: #2d2d2d;
   --cursorColor: #bfad9e;
   --foreground: #dadada;
@@ -21,7 +21,7 @@
   --green: #b3b393;
   --red: #d29393;
   --black: #1a1a1a;
-  --name: Mellifluous;
+  --name: 'Mellifluous';
   --Luma: 0.101960784313725;
   --Contrast: 0.752941176470588;
   --PaletteName: Mellifluous;
