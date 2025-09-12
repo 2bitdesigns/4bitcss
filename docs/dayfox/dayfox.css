@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/edeneast/nightfox.nvim;
+  --creditTo: EdenEast;
   --selectionBackground: #e7d2be;
   --cursorColor: #3d2b5a;
   --foreground: #3d2b5a;
@@ -19,7 +21,7 @@
   --green: #396847;
   --red: #a5222f;
   --black: #352c24;
-  --name: 'dayfox';
+  --name: dayfox;
   --Luma: 0.951221960784314;
   --Contrast: 0.75428;
   --PaletteName: dayfox;
