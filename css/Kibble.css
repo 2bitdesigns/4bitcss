@@ -19,7 +19,9 @@
   --green: #29cf13;
   --red: #c70031;
   --black: #4d4d4d;
-  --name: 'Kibble';
+  --name: Kibble;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.0593788235294118;
   --Contrast: 0.90924862745098;
   --PaletteName: Kibble;
