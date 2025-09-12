@@ -19,7 +19,9 @@
   --green: #a6e3a1;
   --red: #f38ba8;
   --black: #45475a;
-  --name: 'catppuccin-mocha';
+  --name: catppuccin-mocha;
+  --creditToLink: ;
+  --creditTo: ;
   --Luma: 0.122177254901961;
   --Contrast: 0.718029019607843;
   --PaletteName: catppuccin-mocha;
