@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/ashwinv11/;
+  --creditTo: ashwinv11;
   --selectionBackground: #373b41;
   --cursorColor: #c5c8c6;
   --foreground: #c5c8c6;
@@ -19,7 +21,7 @@
   --green: #b5bd68;
   --red: #cc6666;
   --black: #000000;
-  --name: 'Tomorrow Night';
+  --name: Tomorrow Night;
   --Luma: 0.120467450980392;
   --Contrast: 0.660778823529412;
   --PaletteName: Tomorrow Night;
