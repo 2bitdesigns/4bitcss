@@ -1,4 +1,6 @@
 :root {
+  --creditToLink: https://github.com/vague2k;
+  --creditTo: vague2k;
   --selectionBackground: #878787;
   --cursorColor: #cdcdcd;
   --foreground: #cdcdcd;
@@ -19,7 +21,7 @@
   --green: #8cb66d;
   --red: #df6882;
   --black: #141415;
-  --name: 'Vague';
+  --name: Vague;
   --Luma: 0.0787145098039216;
   --Contrast: 0.725207058823529;
   --PaletteName: Vague;
