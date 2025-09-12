@@ -1,6 +1,6 @@
 :root {
-  --creditToLink: https://github.com/vitstr;
-  --creditTo: vitstr;
+  --creditToLink: 'https://github.com/vitstr';
+  --creditTo: 'vitstr';
   --selectionBackground: #1a3272;
   --cursorColor: #ffffff;
   --foreground: #adadad;
@@ -21,7 +21,7 @@
   --green: #126e00;
   --red: #fa5355;
   --black: #000000;
-  --name: JetBrains Darcula;
+  --name: 'JetBrains Darcula';
   --Luma: 0.125490196078431;
   --Contrast: 0.552941176470588;
   --PaletteName: JetBrains Darcula;
