@@ -1,0 +1,22 @@
+<svg viewBox="0 0 640 240" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <rect width="640" height="240" x="0" y="0" fill="#1d1908" />
+  <text height="33%" x="50%" y="83.3333333333333%" fill="#cac296" text-anchor="middle" alignment-baseline="middle">Medallion</text>
+  <rect x="0" y="0" width="80" height="80" fill="#000000" class="Black-fill" />
+  <rect x="80" y="0" width="80" height="80" fill="#b64c00" class="Red-fill" />
+  <rect x="160" y="0" width="80" height="80" fill="#7c8b16" class="Green-fill" />
+  <rect x="240" y="0" width="80" height="80" fill="#d3bd26" class="Yellow-fill" />
+  <rect x="320" y="0" width="80" height="80" fill="#616bb0" class="Blue-fill" />
+  <rect x="400" y="0" width="80" height="80" fill="#8c5a90" class="Purple-fill" />
+  <rect x="480" y="0" width="80" height="80" fill="#916c25" class="Cyan-fill" />
+  <rect x="560" y="0" width="80" height="80" fill="#cac29a" class="White-fill" />
+  <rect x="0" y="80" width="80" height="80" fill="#5e5219" class="BrightBlack-fill" />
+  <rect x="80" y="80" width="80" height="80" fill="#ff9149" class="BrightRed-fill" />
+  <rect x="160" y="80" width="80" height="80" fill="#b2ca3b" class="BrightGreen-fill" />
+  <rect x="240" y="80" width="80" height="80" fill="#ffe54a" class="BrightYellow-fill" />
+  <rect x="320" y="80" width="80" height="80" fill="#acb8ff" class="BrightBlue-fill" />
+  <rect x="400" y="80" width="80" height="80" fill="#ffa0ff" class="BrightPurple-fill" />
+  <rect x="480" y="80" width="80" height="80" fill="#ffbc51" class="BrightCyan-fill" />
+  <rect x="560" y="80" width="80" height="80" fill="#fed698" class="BrightWhite-fill" />
+</svg>
