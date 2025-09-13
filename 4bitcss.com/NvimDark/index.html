@@ -132,8 +132,21 @@ function SetPalette() {
         palette.id = 'palette'
         document.head.appendChild(palette)
     }
-    var selectedPalette = document.getElementById('SelectPalette').value
-    palette.href = '/css/' + selectedPalette + '.css'        
+    var selectPalette = document.getElementById('SelectPalette')
+    var selectedPalette = selectPalette.value
+    palette.href = '/css/' + selectedPalette + '.css'
+    
+    const paletteChangedEvent = new CustomEvent('paletteChanged', {
+        bubbles: true,
+        detail: {
+            name: selectedPalette,
+            href: palette.href
+        }
+    })
+    palette.dispatchEvent(paletteChangedEvent)
+    palette.addEventListener('paletteChanged', (e)=>{
+        console.log(e.detail)
+    })
 }
 </script>
 <select id='SelectPalette' onchange='SetPalette()'>
@@ -202,12 +215,15 @@ h1, h2, h3 { text-align: center }
 428 CSS color palettes for web or terminal 
 </h3>
 <script>
-    function UpdatePaletteLinks() {
+    function UpdatePaletteLinks(paletteName) {
+        if (! paletteName) {
+            paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName')
+        }
+
         document.
             querySelectorAll('.paletteLink').
             forEach(
-                (link) => {
-                    var paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName');
+                (link) => {                    
                     link.href = '/' + paletteName
                 }
             )
@@ -215,14 +231,21 @@ h1, h2, h3 { text-align: center }
         document.
             querySelectorAll('.paletteFileLink').
             forEach(
-                (link) => {
-                    var paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName');
+                (link) => {                    
                     link.href = '/css/' + paletteName + '.css'
                 }
             )        
     }
 
-    UpdatePaletteLinks()    
+    var paletteStylesheetLink = document.getElementById('palette')
+    
+    if (paletteStylesheetLink) {
+        paletteStylesheetLink.addEventListener('paletteChanged', (event)=>{
+            UpdatePaletteLinks(event.detail.name) 
+        })
+        var paletteName = getComputedStyle(paletteStylesheetLink).getPropertyValue('--PaletteFileName')
+        UpdatePaletteLinks(paletteName)
+    }
 </script>
 <div class='example-output'>
 
