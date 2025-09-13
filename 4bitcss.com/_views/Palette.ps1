@@ -58,12 +58,15 @@ $($site.Palettes.Count) CSS color palettes for web or terminal
 
 @"
 <script>
-    function UpdatePaletteLinks() {
+    function UpdatePaletteLinks(paletteName) {
+        if (! paletteName) {
+            paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName')
+        }
+
         document.
             querySelectorAll('.paletteLink').
             forEach(
-                (link) => {
-                    var paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName');
+                (link) => {                    
                     link.href = '/' + paletteName
                 }
             )
@@ -71,14 +74,21 @@ $($site.Palettes.Count) CSS color palettes for web or terminal
         document.
             querySelectorAll('.paletteFileLink').
             forEach(
-                (link) => {
-                    var paletteName = getComputedStyle(link).getPropertyValue('--PaletteFileName');
+                (link) => {                    
                     link.href = '/css/' + paletteName + '.css'
                 }
             )        
     }
 
-    UpdatePaletteLinks()    
+    var paletteStylesheetLink = document.getElementById('palette')
+    
+    if (paletteStylesheetLink) {
+        paletteStylesheetLink.addEventListener('paletteChanged', (event)=>{
+            UpdatePaletteLinks(event.detail.name) 
+        })
+        var paletteName = getComputedStyle(paletteStylesheetLink).getPropertyValue('--PaletteFileName')
+        UpdatePaletteLinks(paletteName)
+    }
 </script>
 "@
 

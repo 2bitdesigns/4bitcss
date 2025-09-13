@@ -31,14 +31,23 @@ function SetPalette() {
         palette.id = 'palette'
         document.head.appendChild(palette)
     }
-    var selectedPalette = document.getElementById('$SelectPaletteId').value
-    palette.href = '$PaletteCDN' + selectedPalette + '.css'        
+    var selectPalette = document.getElementById('$SelectPaletteId')
+    var selectedPalette = selectPalette.value
+    palette.href = '$PaletteCDN' + selectedPalette + '.css'
+    
+    const paletteChangedEvent = new CustomEvent('paletteChanged', {
+        bubbles: true,
+        detail: {
+            name: selectedPalette,
+            href: palette.href
+        }
+    })
+    palette.dispatchEvent(paletteChangedEvent)
+    palette.addEventListener('paletteChanged', (e)=>{
+        console.log(e.detail)
+    })
 }
 "@
-
-if ($palleteList) {
-
-}
 
 $paletteSelector = @"
 <select id='$SelectPaletteId' onchange='SetPalette()'>
